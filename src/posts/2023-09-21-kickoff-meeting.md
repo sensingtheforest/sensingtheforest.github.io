@@ -18,7 +18,7 @@ tags:
   - meetings
 ---
 
-Photo: From left-right, top-down: Luigi Marino, Anna Xambó, Matt Wilkinson, Peter Batchelor, Danielle Grimsey, Hazel Stone, Nick Wardlaw, Georgios Xenakis, and Max Gravestock.
+Photo: From left-right top-down, Luigi Marino, Anna Xambó, Matt Wilkinson, Peter Batchelor, Danielle Grimsey, Hazel Stone, Nick Wardlaw, Georgios Xenakis, and Max Gravestock.
 
 After quietly working on setting up the project during the summer, today, Thursday 21st of September 2023, we have officially started the project with an online kickoff meeting.
 
