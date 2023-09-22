@@ -45,4 +45,3 @@ The font used is [Junction](https://www.theleagueofmoveabletype.com/junction), a
 
 [\[PNG\]](/assets/images/logo/logo-sensingtheforest-duochrome-blackgreen-horizontal.png) [\[SVG\]](/assets/images/logo/logo-sensingtheforest-duochrome-blackgreen-horizontal.svg)
 
-
