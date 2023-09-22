@@ -1,0 +1,42 @@
+[
+	{
+		"platform": "### Comment: Make sure to add SVG icon in /assets/svg with same name as 'platform' ###",
+		"url": ""
+	},
+	{
+		"platform": "### dribbble",
+		"url": ""
+	},
+	{
+		"platform": "github",
+		"url": "https://github.com/sensingtheforest"
+	},
+	{
+		"platform": "instagram",
+		"url": "https://www.instagram.com/sensingtheforest"
+	},
+	{
+		"platform": "### linkedin",
+		"url": ""
+	},
+	{
+		"platform": "### piedpiper",
+		"url": ""
+	},
+	{
+		"platform": "### pinterest",
+		"url": ""
+	},
+	{
+		"platform": "rss",
+		"url": "/feed.xml"
+	},
+	{
+		"platform": "twitter",
+		"url": "https://www.twitter.com/sensingforest"
+	},
+	{
+		"platform": "### youtube",
+		"url": ""
+	}
+]

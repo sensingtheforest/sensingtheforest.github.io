@@ -1,0 +1,39 @@
+<div id="logos">
+  <div class="{{ colors.footerDefault.barBg or colors.footerCustom.barBg  }}" >
+    <div class="max-w-screen-xl px-4 py-12 mx-auto sm:px-6 md:flex md:items-center md:justify-between md:max-h-screen lg:px-8">
+      {% svg "ahrc", "mt-1 mr-2 h-50 w-150 float-left" %}
+      {% svg "dmu", "mt-1 mr-2 h-50 w-150 float-left" %}
+      {% svg "mti2", "mt-1 mr-2 h-50 w-150 float-left" %}
+      {% svg "forestresearch", "mt-1 mr-2 h-50 w-150 text-blue-500 float-left" %}
+      {% svg "forestryengland", "mt-1 mr-2 h-50 w-150 text-blue-500 float-left" %}      
+    </div>  
+  </div>
+</div>
+<footer>
+  <div class="{{ colors.footerCustom.barBg or colors.footerDefault.barBg }}">
+    <div class="max-w-screen-xl px-4 py-12 mx-auto sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
+      <div class="flex justify-center md:order-2 {{ colors.socialIconsCustom or colors.socialIconsDefault }}">
+        {% if structure.g_showFooterSocialIcons %}
+
+          {# Display Social icons from _data/social.json  #}
+          {% for site in social %}
+            {% if site.url %}
+              <a aria-label="Link to {{ site.platform }}" alt="Link to {{ site.platform }}" class="hover:{{ colors.socialIconsHoverCustom or colors.socialIconsHoverDefault }}" href="{{ site.url | url }}">
+                {% svg site.platform, "mx-2 h-6 w-6 fill-current", site.platform, "footer" %}
+              </a>
+            {% endif %}
+          {% endfor %}
+
+        {% endif %}
+      </div>
+      <div class="mt-8 md:mt-0 md:order-1">
+        <p class="text-left text-base leading-6 {{ colors.footerCustom.text or colors.footerDefault.text }}">
+          &copy; {{ build.timestamp | dateToFormat('yyyy') }}, {{ meta.siteName }}
+          <br />
+          <em>Sensing the Forest</em> is funded by the UKRI Arts and Humanities Research Council (AHRC) (#AH/X011585/1).<br />
+          This website is built on an <a href="https://www.11ty.dev">Eleventy project</a> created from the <a href="https://github.com/11ta/11ta-template/">11ta template</a>.
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>

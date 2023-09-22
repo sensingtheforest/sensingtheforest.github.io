@@ -1,0 +1,76 @@
+---
+layout: page
+pagination: 
+  data: authors
+  size: 1
+  alias: author
+permalink: "/authors/{{ author.slug }}/"
+eleventyComputed:
+  title: "{{ author.name }}"
+---
+
+{% columns %}
+{% cols "flex-none" %}
+<p>
+  <img class="h-64 rounded-lg" src="{{ author.image }}" alt="Photo of {{ title }}">
+</p>
+{% endcols %}
+{% cols "flex-grow px-8" %}
+<div class="mt-4 text-gray-500">
+  <div class="mb-4">
+    {{ author.bio }}
+  </div>
+
+  {# Display array of Author's company websites  #}
+  <div>
+    {% for sites in author.companyWebsites %}
+      {% if sites.url %}
+        <a class="block hover:underline" target="_blank" href="{{ sites.url | url }}" alt="sites.label website">{{ sites.label }} ↗️</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  {# Display array of Author's personal websites  #}
+  <div>
+    {% for sites in author.personalWebsites %}
+      {% if sites.url %}
+        <a class="block hover:underline" target="_blank" href="{{ sites.url | url }}" alt="sites.label website">{{ sites.label }} ↗️</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+
+{# Display Author's social platform links  #}
+<div class="flex items-center mt-4 md:justify-between">
+  <div class="flex justify-center md:order-2 {{ colors.authorCustom.socialIcons or colors.authorDefault.socialIcons }}">
+    {% for sites in author.socialWebsites %}
+      {% if sites.url %}
+        <a class="hover:{{ colors.authorCustom.SocialIconsHover or colors.authorDefault.socialIconsHover }}" alt="{{ author.name }} on {{ sites.label }}" href="{{ sites.url | url }}">
+          {# {% svg sites.label,
+          "mx-2 h-10 w-10",
+          sites.label ~ " logo",
+          "author" %} #}
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+
+{% endcols %}
+{% endcolumns %}
+
+<div class="px-8 pt-4 mt-8 text-gray-500 border-t border-gray-300">
+  <div class="text-lg font-semibold {{ colors.headingsCustom or colors.headingsDefault }}">10 most recent posts by {{ title }}:</div>
+
+  {% set posts = collections.post | getPostsByAuthor(author.slug) %}
+  <ul>
+    {% for post in posts | reverse %}
+      {% if loop.index0 < 10 %}
+        <li>
+          <a href="{{post.url}}">{{post.data.title}}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+</div>
