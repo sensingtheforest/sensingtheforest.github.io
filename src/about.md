@@ -138,7 +138,7 @@ Nick Wardlaw is a Recreation Manager at Forestry England.
 
 [Danielle Grimsey (Forestry England)](#)
 
-Danielle Grimsey is a site manager for Alice Holt.
+Danielle Grimsey is a Site Manager for Alice Holt, Forestry England.
 
 {% endcols %}
 
@@ -152,7 +152,7 @@ Danielle Grimsey is a site manager for Alice Holt.
 
 [Max Gravestock (Forestry England)](#)
 
-Max Gravestock is a Recreation Manager at Forestry England.
+Max Gravestock is a Site Manager at Alice Holt, Forestry England.
 
 {% endcols %}
 
@@ -162,7 +162,7 @@ Max Gravestock is a Recreation Manager at Forestry England.
 
 [Zainab Tarki (De Montfort University)](#)
 
-Zainab Tarki is the finance officer of the project.
+Zainab Tarki is the Finance Officer of the project.
 
 {% endcols %}
 
