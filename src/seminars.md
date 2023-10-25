@@ -21,14 +21,61 @@ Download the [poster of the seminar series](/assets/images/seminars/Sensing-the-
 
 {% endwrap %}
 
+## Wed, 1 Nov 2023 15:00 - 16:30 UK time
+
+<img class="h-1/2 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/seminars/Saloni-Shah-and-Jones-Bulley.jpg" alt="2nd Sensing the Forest Seminar: Saloni Shah and Jones/Bulley">
+
+{% wrap "mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-full text-left" %}
+
+You can find more info and register for the free event on the following Eventbrite link: 
+[https://www.eventbrite.com/e/sensing-the-forest-seminar-saloni-shah-and-jonesbulley-tickets-745112580787](https://www.eventbrite.com/e/sensing-the-forest-seminar-saloni-shah-and-jonesbulley-tickets-745112580787)
+
+{% endwrap %}
+
+<br />
+
+### Saloni Shah
+
+#### How Information Design Can Save Forest Ecosystems
+
+Join me for an insightful talk where we'll delve into the art of crafting meaningful data storytelling projects focusing on forest conservation. In this session, we'll explore the power of asking the right questions, unlocking the key to weaving compelling narratives that resonate with audiences and drive impactful change. As data becomes increasingly central to environmental efforts, particularly in the crucial domain of forest conservation, the ability to pose relevant and incisive questions is paramount. Drawing from my experience in the field, particularly in climate visualization, we'll discuss the unique challenges and opportunities that arise when working with environmental data. Whether you are a data enthusiast, conservationist, or storyteller, this talk offers valuable insights into the nuanced art of questioning, empowering you to create compelling data-driven narratives that contribute meaningfully to the cause of forest conservation. 
+
+With a background encompassing data visualization, product design, and urban design, Saloni Shah excels at crafting innovative solutions that transcend traditional boundaries. Her specialization lies in creating impactful products that unveil intricate patterns within complex data, providing audiences with an immersive and engaging experience. Saloni's academic achievements culminated in her award-winning thesis delving into how carbon markets impact forests, ecosystems, and indigenous communities. Throughout her career journey, Saloni continues to garner recognition through awards, talks, and workshops, solidifying her position as a thought leader in the intersection of design, data, and climate action.
+
+<!-- In the early stages of her career, Saloni focused on designing and normalizing alternative and vernacular building systems. She subsequently expanded her scope to understand these systems within a broader urban context and their impact on the local ecosystem. This research evolved into a collaboration aimed at exploring how urban and rural systems could create circular systems by reusing wastewater in agriculture.
+
+Driven by her passion for designing green cities using vernacular systems, Saloni conducted research in the UNESCO heritage city of Ahmedabad. Here, she sought to understand the interconnection between nature and humans, aiming to create a self-sufficient module. Leveraging her information visualization skills, Saloni bridged the gap between researchers, policymakers, and the general public, influencing major local policy decisions. Her focus then shifted to visualizing information for climate nonprofits and think tanks, eventually dedicating her career to science visualization, particularly focusing on climate change issues.
+
+Venturing into technology and extended reality (XR), she worked with Urban System Lab to design an interactive web application that visualizes social, ecological, and technological systems (SETS) data. This initiative aimed to improve understanding of urban systems and enhance decision-making for more equitable and resilient cities. Saloni's academic achievements culminated in her award-winning thesis delving into how carbon markets impact forests, ecosystems, and indigenous communities. Throughout her career journey, Saloni continues to garner recognition through awards, talks, and workshops, solidifying her position as a thought leader in the intersection of design, data, and climate action.-->
+
+
+[salonishah.co](https://salonishah.co/)
+
+<br />
+
+### Jones/Bulley
+
+#### Living Symphonies
+
+Living Symphonies is a landscape sound installation that portrays the thriving activity of a forest’s ecosystem, using a detailed ecological survey and real-time atmospheric data to create an ever-changing symphony that unfolds across the forest. In this talk, the artists will give an in-depth summary of Living Symphonies and its precursors. We will discuss the role of citizen science and “soft data” in its creation process, how composition can be approached as an ecological practice, considerations of spatiality and timescales in long-durational works, and the benefits and tensions of working with data as a compositional medium.
+
+James Bulley (b. 1984) and Daniel Jones (b. 1983) are an artist duo whose collaborative practice explores the boundaries of sound art, music, and process-based composition. Their work draws on systems and patterns from the world around us as ways of organising sound, creating a reciprocal relationship between the two: using sound as a way to illuminate our understanding of the world, and using natural processes as a way to deepen our approaches to composition. Jones/Bulley's critically acclaimed work has been shown at venues including the Royal Festival Hall, the Barbican, the Museum of Science and Industry, Aldeburgh Music, the Old Royal Naval College, the Queen Elizabeth Hall, and the Design Museum.
+
+[jones-bulley.com](https://jones-bulley.com/)
+
+
 ## Wed, 18 Oct 2023 15:00 - 16:30 UK time
 
-<img class="h-1/2 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/seminars/Semiconductor-and-Peter-Sinclair.jpg" alt="1st Sensing the Forest Seminar: Semiconductor and Peter Sinclair">
+<img class="h-1/2 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/seminars/Semiconductor-and-Peter-Sinclair.jpg" alt="1st Sensing the Forest Seminar: Semiconductor and Peter Sinclair"> 
 
-{% wrap "mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-full text-center" %}
+{% wrap "mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-full text-left" %}
+
+<!-- <img class="object-scale-down max-h-xs h-48 w-96 float-left mt-0 ml-20 mb-14" src="/assets/images/seminars/QR-code-talk-1-eventbrite.png" alt="QR code to 1st Sensing the Forest Seminar: Semiconductor and Peter Sinclair Eventbrite event"> -->
 
 You can find more info and register for the free event on the following Eventbrite link: 
 [https://www.eventbrite.com/e/sensing-the-forest-seminar-semiconductor-and-peter-sinclair-tickets-734997275637](https://www.eventbrite.com/e/sensing-the-forest-seminar-semiconductor-and-peter-sinclair-tickets-734997275637)
+
+
 
 {% endwrap %}
 
