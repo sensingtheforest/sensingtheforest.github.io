@@ -21,6 +21,45 @@ Download the [poster of the seminar series](/assets/images/seminars/Sensing-the-
 
 {% endwrap %}
 
+## Wed, 15 Nov 2023 15:00 - 16:30 UK time
+
+
+<img class="h-1/2 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/seminars/Liz-OBrien-and-Alice-Eldridge.jpg" alt="3rd Sensing the Forest Seminar: Liz O'Brien and Alice Eldridge">
+
+{% wrap "mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-full text-left" %}
+
+You can find more info and register for the free event on the following Eventbrite link: 
+[https://www.eventbrite.com/e/sensing-the-forest-seminar-liz-obrien-and-alice-eldridge-tickets-745155689727](https://www.eventbrite.com/e/sensing-the-forest-seminar-liz-obrien-and-alice-eldridge-tickets-745155689727)
+
+{% endwrap %}
+
+<br />
+
+### Liz O'Brien
+
+#### Sounds in and of the Forest: Can We Connect People to Nature Through Sound?
+
+Liz O'Brien will talk about the ecotones network which was interdisciplinary and brought together musicians, social scientists focused on health and wellbeing, conservation ecologist, and education to share knowledge and ideas. She will also touch on the ACCESS project which is trying to make social science accessible in tackling a range of environmental problems.
+
+Liz O’Brien is a Principal Social Scientist in the Society and Environment Research Group at Forest Research, which is a government research institute. Her research explores human-forest relationships with a particular focus on the cultural ecosystem benefits of trees and woodlands including a strong focus on the health and wellbeing benefits of engagement with trees and woodlands – physical, mental and social. The team includes twenty social scientists undertaking research on land manager decision making and behaviours; the social dimensions of tree health; the health and wellbeing benefits of engaging with forests, and the social dimensions of wildlife engagement and management. Liz leads a five-year programme of research on the societal benefits of trees and forests for Forest Research. She has explored the impact of Covid-19 on engagement with nature. Liz is also involved in interdisciplinary research projects and collaborates with scientists in many parts of the world.
+
+[forestresearch.gov.uk](https://www.forestresearch.gov.uk/)
+
+<br />
+
+### Alice Eldridge
+
+#### Tuning in to Soundscape Dynamical Complexity
+
+Natural soundscapes are dynamic, emergent patterns of acoustic activity which arise from the interactions between physical, biological and anthropogenic processes.  The soundscape both reflects and influences ecological processes, and therefore provides valuable information about ecological status. Two paradigms currently dominate ecoacoustic analysis: automated recognisers, for example using deep learning to identify target species; or soundscape indices, which provide statistical or learned descriptions of the spectral or temporal structure of the global soundscape. Both show promise as cost-effective methods in environmental monitoring and fundamental research. Both also have limitations. One limitation is that they focus on the analysis and description of short, independent samples, obviating analysis of higher level spatio-spectro-temporal soundscape dynamics. In this talk I will share some initial results from our current research exploring a range of approaches to map, model and measure the dynamical complexity of soundscapes across temporal resolutions - from diel patterns, through chorus dynamics to short term temporal complexity. With this approach we integrate ecosemiotic and complex systems perspectives and develop a conception of the soundscape as a dynamic space of information flow.
+
+Alice Eldridge is an interdisciplinarian with an interest in how sound organises systems. Her research integrates ideas and methods from music, cognitive science, computer science and ecology to advance theory and methods in ecoacoustics, as well as to create ecosystemic music. Alice holds a BSc in Psychology, an MSc in Evolutionary and Adaptive Systems, and a PhD in Computer Science and AI and is currently a Professor of Sonic Systems at the University of Sussex where she is joint director of the Sussex Digital Humanities Lab, co-director of the Experimental Music Technology Lab and a fellow of the Sussex Sustainability Research Programme.
+
+
+[ecila.org](https://www.ecila.org/)
+
+
+
 ## Wed, 1 Nov 2023 15:00 - 16:30 UK time
 
 <img class="h-1/2 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/seminars/Saloni-Shah-and-Jones-Bulley.jpg" alt="2nd Sensing the Forest Seminar: Saloni Shah and Jones/Bulley">

@@ -17,6 +17,11 @@ tags:
   - presentations
   - events
 ---
+  
+<br />
+
+{% youtube "kuZRC8DzD6Q", "CHIME Seminar: Anna Xambó" %}
+
 
 The [CHIME network](https://www.chime.ac.uk/) stands for *Computer-Human Interaction and Music nEtwork* and is a UK Engineering & Physical Sciences Research Council-funded research network devoted to topics on Music and Human-Computer Interaction. 
 
