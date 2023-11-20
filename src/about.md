@@ -41,7 +41,7 @@ Anna Xambó is a researcher and musician. Her research and practice focus on bui
 
 [Dr Peter Batchelor (CI, De Montfort University)](https://peterb.dmu.ac.uk/)
 
-Peter Batchelor is a composer and educator in music technology at De Montfort University. His music draws strongly on the aesthetics  and compositional concerns of the acousmatic tradition, which he applies to a variety of other genres and presentation formats for electroacoustic media including radiophonic documentary, live-electronics and improvisation, multimedia and large-scale multi-channel installation work. 
+Peter Batchelor is a Senior Lecturer and Programme Leader in Music Technology, and member of the Music, Technology and Innovation - Institute of Sonic Creativity (MTI2) at De Montfort University, Leicester.  His creative activities encompass a range of electroacoustic composition and sound-making work, including radiophonic documentary, live-electronics and improvisation, multimedia and large-scale multi-channel installation work. Research interests that arise from this practice include: aural landscape construction in sonic arts practice; sound spatialisation/immersion; theories of space; place and listening as they pertain to sound; audience engagement and public art.
 
 {% endcols %}
 
@@ -223,7 +223,7 @@ Prof Leigh Landy's research concerns electroacoustic musical production and musi
 
 ## Acknowledgements
 
-Gerard Roma (University of West London), Bret Battey (MTI2, DMU), Mike Baynham (University of Leeds), the Future Research Leaders 8 Cohort (DMU), Finella Bottomley (Leicester City Council), Tom Moore (DMU), Auwal Muktar Dodo (DMU), Gaia Rossetti (University of Nottingham), Lucy Gregson-Green (DMU), Meera Warrier (University of Leicester), Deborah Cartmell (DMU), Emma Vadher (DMU), Raffaella Villa (CEM, DMU), James Russell (CEM, DMU), Shushma Patel (CEM, DMU), Allan Taylor (LMS/CEM, DMU), James Andean (MTI2, DMU), Simon Atkinson (MTI2, DMU), John Young (MTI2, DMU), Janette Ratcliffe (DMU), Talent Acquisition Team (DMU), Krishna Vandra (TA, DMU), Emma Inch (TA, DMU), Ashiyah Banglawala (TA, DMU), Poonam Patel (HR, DMU), Monika Bednarczyk (HR, DMU), Val Milner (HR, DMU), Brijesh Thanki (CEM, DMU), Afzal Ghumra (DMU), Rachel Beeby (CEM, DMU), Lindsey Trent (CEM, DMU), Zoe Cox (Forestry England), Jonathan McGloin (Forestry England), David Naylor (DMU), Shivalli (Leicester).
+Gerard Roma (University of West London), Bret Battey (MTI2, DMU), Mike Baynham (University of Leeds), the Future Research Leaders 8 Cohort (DMU), Finella Bottomley (Leicester City Council), Tom Moore (DMU), Auwal Muktar Dodo (DMU), Gaia Rossetti (University of Nottingham), Lucy Gregson-Green (DMU), Meera Warrier (University of Leicester), Deborah Cartmell (DMU), Emma Vadher (DMU), Raffaella Villa (CEM, DMU), James Russell (CEM, DMU), Shushma Patel (CEM, DMU), Allan Taylor (LMS/CEM, DMU), James Andean (MTI2, DMU), Simon Atkinson (MTI2, DMU), John Young (MTI2, DMU), Janette Ratcliffe (DMU), Talent Acquisition Team (DMU), Krishna Vandra (TA, DMU), Emma Inch (TA, DMU), Ashiyah Banglawala (TA, DMU), Poonam Patel (HR, DMU), Monika Bednarczyk (HR, DMU), Val Milner (HR, DMU), Brijesh Thanki (CEM, DMU), Afzal Ghumra (DMU), Rachel Beeby (CEM, DMU), Lindsey Trent (CEM, DMU), Anne Galt (CEM, DMU), Zoe Cox (Forestry England), Jonathan McGloin (Forestry England), David Naylor (DMU), Shivalli (Leicester).
 
 
 
