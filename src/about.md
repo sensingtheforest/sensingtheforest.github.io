@@ -148,7 +148,7 @@ Danielle Grimsey is a Site Manager for Alice Holt, Forestry England.
 
 {% cols "bg-gray-100 rounded-lg" %}
 
-<!--img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/nick-wardlaw.jpg" alt="Photo of Nick Wardlaw" -->
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/max-gravestock.jpg" alt="Photo of Max Gravestock"> 
 
 [Max Gravestock (Forestry England)](#)
 
