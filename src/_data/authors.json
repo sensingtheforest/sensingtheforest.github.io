@@ -13,8 +13,8 @@
 		],
 		"personalWebsites": [
 			{
-				"label": "",
-				"url": ""
+				"label": "Personal website",
+				"url": "https://annaxambo.me"
 			},
 			{
 				"label": "",
@@ -60,6 +60,67 @@
 			}
 		]
 	},	
+{
+		"slug": "matt-wilkinson",
+		"name": "Matt Wilkinson",
+		"image": "/assets/images/authors/matthew-wilkinson.jpg",
+		"bio": "I am a Senior Climate Scientist at Forest Research. The focus of my research is to improve our understanding of forest carbon and greenhouse gas (GHG) balances and how they may be impacted by management, environmental and climate change. I am also interested in developing new techniques and sensors for trace gas flux measurements and forest monitoring.",
+		"companyWebsites": [
+			{
+				"label": "",
+				"url": "",
+				"email": ""
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "Forest Research webpage",
+				"url": "https://www.forestresearch.gov.uk/staff/matthew-wilkinson/"
+			},
+			{
+				"label": "",
+				"url": ""
+			},
+			{
+				"label": "",
+				"url": ""
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "dribbble",
+				"url": ""
+			},
+			{
+				"label": "github",
+				"url": ""
+			},
+			{
+				"label": "instagram",
+				"url": ""
+			},
+			{
+				"label": "linkedin",
+				"url": ""
+			},
+			{
+				"label": "piedpiper",
+				"url": ""
+			},
+			{
+				"label": "pinterest",
+				"url": ""
+			},
+			{
+				"label": "twitter",
+				"url": ""
+			},
+			{
+				"label": "youtube",
+				"url": ""
+			}
+		]
+	},		
 	{
 		"slug": "shane-robinson",
 		"name": "Shane Robinson",

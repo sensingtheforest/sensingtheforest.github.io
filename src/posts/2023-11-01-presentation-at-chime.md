@@ -16,6 +16,7 @@ images: # relative to /src/assets/images/
 tags:
   - presentations
   - events
+  - videos
 ---
   
 <br />
