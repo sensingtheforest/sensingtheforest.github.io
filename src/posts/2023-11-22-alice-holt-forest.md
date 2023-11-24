@@ -1,7 +1,7 @@
 ---
 title: An Introduction to Alice Holt Forest
 date: 2023-11-22T10:00:00.000Z
-excerpt: An introduction to the Alice Holt Forest in terms of place and data management.
+excerpt: An introduction to the Alice Holt Forest in terms of place and data.
 author: matt-wilkinson
 draft: 
 seo:
