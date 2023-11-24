@@ -11,5 +11,5 @@ module.exports = {
 	authorEmail: 'anna.xambo@dmu.ac.uk',
 	twitterSite: '@sensingtheforest',
 	twitterCreator: '@sensingtheforest',
-	disqusShortname : "sensingtheforest",
+	disqusShortname : "sensingtheforest"
 }
