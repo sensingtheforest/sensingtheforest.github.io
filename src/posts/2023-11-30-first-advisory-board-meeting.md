@@ -1,5 +1,5 @@
 ---
-title: First Advisory Board Meeting
+title: 1st Advisory Board Meeting
 date: 2023-11-30T10:00:00.000Z
 excerpt: We had our first Advisory Board meeting.
 author: anna-xambo
