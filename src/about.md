@@ -55,7 +55,7 @@ Peter Batchelor is a Senior Lecturer and Programme Leader in Music Technology, a
 
 [Dr Matthew Wilkinson (CI, Forest Research)](https://www.forestresearch.gov.uk/staff/matthew-wilkinson/)
 
-Matt Wilkinson is a Senior Climate Scientist at Forest Research. The focus of his research is to improve our understanding of forest carbon and greenhouse gas (GHG) balances and how they may be impacted by management, environmental and climate change. Matt’s particular work focuses on using a combination of surface flux techniques across a range of scales to understand the processes controlling C and GHG cycling within forest ecosystems. In addition to leading several GHG and forest monitoring related projects, he has managed the Straits Flux Research Site within the Alice Holt Research Forest for > ten years. Matt is also interested in developing new techniques and sensors for trace gas flux measurements and forest monitoring. Matt joined Forest Research in 2001. He graduated from the University of Wales, Aberystwyth in 1995 with a BSc (Hons) in Agriculture and the Environment and then obtained an MSc in Crop Production in the Changing Environment in 1996 from the University of Essex. He completed his PhD by Publication at the University of Portsmouth. 
+Matt Wilkinson is a Senior Climate Scientist at Forest Research. The focus of his research is to improve our understanding of forest carbon and greenhouse gas (GHG) balances and how they may be impacted by management, environmental and climate change. Matt’s particular work focuses on using a combination of surface flux techniques across a range of scales to understand the processes controlling C and GHG cycling within forest ecosystems. In addition to leading several GHG and forest monitoring related projects, he has managed the Straits Flux Research Site within the Alice Holt Research Forest for > ten years. Matt is also interested in developing new techniques and sensors for trace gas flux measurements and forest monitoring. Matt joined Forest Research in 2001. He graduated from the University of Wales, Aberystwyth in 1995 with a BSc (Hons) in Agriculture and the Environment and then obtained an MSc in Crop Production in the Changing Environment in 1996 from the University of Essex. He completed his PhD by Publication at the University of Portsmouth.
 
 {% endcols %}
 
@@ -80,7 +80,7 @@ Georgios Xenakis' work focuses on measuring the carbon, water and energy balance
 
 [Dr Luigi Marino (Research Fellow in Sound and Music Computing, De Montfort University)](http://www.luigimarino.net/)
 
-Luigi Marino's work focuses on networks able to display relationships between human and nonhuman actors, and especially on how intuitive decisions can derail a pre-existing order. He is an active improvisor performing on both electronic media and percussion, in particular zarb and bowed custom cymbals extended with DIY portable circuits. 
+Luigi Marino's work focuses on networks able to display relationships between human and nonhuman actors, and especially on how intuitive decisions can derail a pre-existing order. He is an active improvisor performing on both electronic media and percussion, in particular zarb and bowed custom cymbals extended with DIY portable circuits.
 
 {% endcols %}
 
@@ -124,21 +124,21 @@ Ashok Karavadra is a Senior Technician at De Montfort University.
 
 {% cols "bg-gray-100 rounded-lg" %}
 
-<!--img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/nick-wardlaw.jpg" alt="Photo of Nick Wardlaw" -->
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/danielle-grimsey.jpg" alt="Photo of Danielle Grimsey">
 
-[Nick Wardlaw (Forestry England)](https://uk.linkedin.com/in/nick-wardlaw-960251119)
+[Danielle Grimsey (Forestry England)](https://uk.linkedin.com/in/danielle-grimsey-b68a4827a)
 
-Nick Wardlaw is a Recreation Manager at Forestry England.
+Danielle Grimsey is the Visitor Services Manager at Alice Holt Forest and works alongside Max Gravestock. With her main focus being on visitors, her role combines her love for the outdoors and a commitment to providing visitors with an immersive and unforgettable connection to nature. Beyond the trees and trails, Danielle is passionate about creating opportunities for educational exploration, developing a deeper understanding and appreciation for the diverse ecosystems within our forest which is why she is excited to be a part of this project. Danielle started her role in September 2023 and still has lots to learn about how we can tell the beautiful, historical story of Alice Holt Forest.  
 
 {% endcols %}
 
 {% cols "bg-gray-100 rounded-lg" %}
 
-<!--img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/danielle-grimsey.jpg" alt="Photo of Danielle Grimsey"-->
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/max-gravestock.jpg" alt="Photo of Max Gravestock">
 
-[Danielle Grimsey (Forestry England)](#)
+[Max Gravestock (Forestry England)](#)
 
-Danielle Grimsey is a Site Manager for Alice Holt, Forestry England.
+Max Gravestock is the Site Manager at Alice Holt Forest (Forestry England) managing over 260 hectares of woodland at a busy visitor site that sees over 450,000 visitors a year. While Danielle focuses on the people and visitors, Max focuses on the site and its features including but not limited to: Mixed woodlands, Ponds, Meadows, Streams, Walking and cycling trails, play areas, and much more. Max's passion has always been in countryside management and finds great joy in starting an ambitious project, managing the works (or issues!) throughout and seeing the end product not only for the benefit of the site and its inhabitants but also the visitors who can enjoy and learn from the project and will go on to share what they have seen or learnt to others. Max has worked at Alice Holt for about 2.5 years now and still has much more to learn from this site with a rich history dating back to the Roman era, and is always looking for ways to tell the site's story in new and interesting ways.
 
 {% endcols %}
 
@@ -148,12 +148,11 @@ Danielle Grimsey is a Site Manager for Alice Holt, Forestry England.
 
 {% cols "bg-gray-100 rounded-lg" %}
 
-<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/max-gravestock.jpg" alt="Photo of Max Gravestock"> 
+<!--img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/nick-wardlaw.jpg" alt="Photo of Nick Wardlaw" -->
 
-[Max Gravestock (Forestry England)](#)
+[Nick Wardlaw (Forestry England)](https://uk.linkedin.com/in/nick-wardlaw-960251119)
 
-Max Gravestock is the Site Manager at Alice Holt Forest (Forestry England) managing over 260 hectares of woodland at a busy visitor site that sees over 450,000 visitors a year. While Danielle focuses on the people and visitors, Max focuses on the site and its features including but not limited to: Mixed woodlands, Ponds, Meadows, Streams, Walking and cycling trails, play areas, and much more. Max's passion has always been in countryside management and finds great joy in starting an ambitious project, managing the works (or issues!) throughout and seeing the end product not only for the benefit of the site and its inhabitants but also the visitors who can enjoy and learn from the project and will go on to share what they have seen or learnt to others. Max has worked at Alice Holt for about 2.5 years now and still has much more to learn from this site with a rich history dating back to the Roman era, and is always looking for ways to tell the site's story in new and interesting ways.
-
+Nick Wardlaw is a Recreation Manager at Forestry England.
 
 {% endcols %}
 
@@ -263,4 +262,3 @@ No! I was ashamed to be SEEN with you. I like being with you. Well, what do you 
 
 No! I was ashamed to be SEEN with you. I like being with you. First place chick is hot, but has an attitude, doesn't date magicians. No… but I'd like to be asked! I care deeply for nature.
 --->
-
