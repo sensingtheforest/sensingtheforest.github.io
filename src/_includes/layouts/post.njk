@@ -16,6 +16,10 @@ layout: base
         {% set postAuthor = authors | getAuthor(author) %}
         by <a class="hover:underline" href="/authors/{{ author }}/">{{ postAuthor.name }}</a>
       {% endif %}
+      {% if author2 %}
+        {% set postAuthor2 = authors | getAuthor(author2) %}
+        and <a class="hover:underline" href="/authors/{{ author2 }}/">{{ postAuthor2.name }}</a>
+      {% endif %}
     {% endif %}
 
   </div>
@@ -51,7 +55,7 @@ layout: base
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
 
     var disqus_config = function () {
-    this.page.url = "{{ absoluteUrl }}{{ page.url }}";  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.url = "{{ baseUrl }}{{ post.url }}";  // Replace PAGE_URL with your page's canonical URL variable
     this.page.identifier = "{{ page.fileSlug }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
 
@@ -62,7 +66,7 @@ layout: base
     (d.head || d.body).appendChild(s);
     })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>  
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
   {# ===== Previous and Next =====  #}
   <div class="border-t mt-4 pt-4 {{ colors.borderCustom.color or colors.borderDefault.color }} md:flex-row md:flex md:justify-between">
@@ -84,4 +88,3 @@ layout: base
   </div>
 
 </article>
-
