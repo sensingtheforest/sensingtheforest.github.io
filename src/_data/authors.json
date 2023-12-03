@@ -59,7 +59,7 @@
 				"url": ""
 			}
 		]
-	},	
+	},
 {
 		"slug": "matt-wilkinson",
 		"name": "Matt Wilkinson",
@@ -120,7 +120,69 @@
 				"url": ""
 			}
 		]
-	},		
+	},
+	{
+		"slug": "luigi-marino",
+		"name": "Luigi Marino",
+		"image": "/assets/images/authors/luigi-marino.jpg",
+		"bio": "I am a Research Fellow in Sound and Music Computing at De Montfort University. The focus of my work is on networks able to display relationships between human and nonhuman actors. I am an active improvisor performing on both electronic media and percussion.",
+		"companyWebsites": [
+			{
+				"label": "",
+				"url": "",
+				"email": ""
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "Personal webpage",
+				"url": "http://www.luigimarino.net/"
+			},
+			{
+				"label": "",
+				"url": ""
+			},
+			{
+				"label": "",
+				"url": ""
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "dribbble",
+				"url": ""
+			},
+			{
+				"label": "github",
+				"url": ""
+			},
+			{
+				"label": "instagram",
+				"url": ""
+			},
+			{
+				"label": "linkedin",
+				"url": ""
+			},
+			{
+				"label": "piedpiper",
+				"url": ""
+			},
+			{
+				"label": "pinterest",
+				"url": ""
+			},
+			{
+				"label": "twitter",
+				"url": ""
+			},
+			{
+				"label": "youtube",
+				"url": ""
+			}
+		]
+	},
+
 	{
 		"slug": "shane-robinson",
 		"name": "Shane Robinson",
@@ -244,4 +306,3 @@
 		]
 	}
 ]
-

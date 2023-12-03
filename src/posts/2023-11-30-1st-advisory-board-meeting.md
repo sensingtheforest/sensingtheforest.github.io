@@ -1,7 +1,7 @@
 ---
 title: 1st Advisory Board Meeting
 date: 2023-11-30T10:00:00.000Z
-excerpt: We had our first Advisory Board meeting.
+excerpt: We had our first Advisory Board meeting where we presented the project to the Advisory Board and sought initial feedback.
 author: anna-xambo
 draft:
 seo:
@@ -16,6 +16,7 @@ images: # relative to /src/assets/images/
 tags:
   - announcements
   - meetings
+  - advisory-board
 ---
 
 <br />
