@@ -1,8 +1,7 @@
 module.exports = {
 	siteURL: process.env.URL || 'https://sensingtheforest.github.io',
 	siteName: "Sensing the Forest",
-	siteDescription:
-		'The website and blog of the UKRI AHRC funded project Sensing the Forest.',
+	siteDescription: 'The website and blog of the UKRI AHRC funded project Sensing the Forest.',
 	siteImage: '/assets/images/site/logo.png',
 	lang: 'en',
 	locale: 'en_us',
@@ -11,5 +10,6 @@ module.exports = {
 	authorEmail: 'anna.xambo@dmu.ac.uk',
 	twitterSite: '@sensingtheforest',
 	twitterCreator: '@sensingtheforest',
-	disqusShortname : "sensingtheforest"
+	rootURL: 'https://sensingtheforest.github.io',
+	disqusShortname : 'https-sensingtheforest-github-io'
 }

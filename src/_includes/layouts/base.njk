@@ -16,7 +16,7 @@
     <style>
       {{prismOkaidia | safe}}
     </style>
-  </head>  
+  </head>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZZZW6PH94C"></script>
   <script>
@@ -31,14 +31,14 @@
       {% include "components/nav.njk" %}
 
       {#  Allows a user to easily change the Hero type on the Home page...or any page.
-          See /src/home.md for how to use. 
+          See /src/home.md for how to use.
       #}
       {% if hero %}
         {% set heroComponent = ['components/hero-', hero, '.njk'] %}
         {% include heroComponent | join %}
       {% endif %}
 
-      {# If any frontmatter includes images.feature, insert it at the top of the page, 
+      {# If any frontmatter includes images.feature, insert it at the top of the page,
       below the nav and outside the default wrapper below. #}
       {% if images.feature %}
         <figure class="w-screen {{ images.height or "h-48 md:h-1/3" }}">

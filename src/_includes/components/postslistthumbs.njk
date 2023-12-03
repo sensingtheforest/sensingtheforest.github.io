@@ -27,7 +27,7 @@
                 {% set postAuthor2 = authors | getAuthor(post.data.author2) %}
                 and <a href="/authors/{{ post.data.author2 }}/">{{ postAuthor2.name }}</a>
               {% endif %}
-            {% endif %} - <a href="{{ site.baseUrl }}{{ post.url | url }}#disqus_thread">Comments</a>
+            {% endif %} - <a href="{{ meta.rootURL + post.url | url }}#disqus_thread">Comments</a>
           </small>
 
           {# Display Post Excerpt if set 'true' in /src/_data/structure.js:g_showExcerpt  #}

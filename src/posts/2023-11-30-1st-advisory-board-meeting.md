@@ -18,6 +18,8 @@ tags:
   - meetings
 ---
 
+<br />
+
 *Photo: From left-right top-down, Matt Wilkinson, Anna Xambó, Georgios Xenakis, Peter Batchelor, Luigi Marino, Hazel Stone, Leigh Landy, and Louise Fedotov-Clements.*
 
 On 22nd November 2023, we had our 1st Advisory Board (AB) Meeting. We were very happy to present the project to the AB members Leigh and Louise (with apologies from Mark who could not attend this time) and seek initial feedback from them. We discussed the three work packages (WPs) and where we are at the moment.
