@@ -4,7 +4,7 @@ date: 2023-12-05T10:00:00.000Z
 excerpt: With a background encompassing data visualization, product design, and urban design, Saloni Shah excels at crafting innovative solutions that transcend traditional boundaries.
 author: anna-xambo
 author2: luigi-marino
-draft: true
+draft: 
 seo:
   title:
   description:
