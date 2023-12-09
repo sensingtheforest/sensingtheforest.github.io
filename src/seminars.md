@@ -12,14 +12,21 @@ seo:
   image:
 ---
 
-The AHRC Sensing the Forest project is organising a series of three fortnightly online seminar talks with experts related to artistic, social and scientific interventions in the forest or other natural landscapes with a special focus on acoustic phenomena. The seminar series will include talks by Semiconductor, Peter Sinclair, Saloni Shah, Jones/Bulley, Liz O'Brien and Alice Eldridge. 
+The AHRC Sensing the Forest project is organising a series of three fortnightly online seminar talks with experts related to artistic, social and scientific interventions in the forest or other natural landscapes with a special focus on acoustic phenomena. The seminar series will include talks by Semiconductor, Peter Sinclair, Saloni Shah, Jones/Bulley, Liz O'Brien and Alice Eldridge.
 
 
-{% wrap "mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-full text-center" %}
+<!-- {% wrap "mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-full text-left" %} -->
 
-Download the [poster of the seminar series](/assets/images/seminars/Sensing-the-Forest-Online-Seminar-Talks.jpg).
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
+
+Many thanks for your interest in the seminar series. The first edition of the seminar series concluded with great success. We had a total of 275 registered attendees. You can:
+* Download the [poster of the seminar series](/assets/images/seminars/Sensing-the-Forest-Online-Seminar-Talks.jpg).
+* Watch the [video presentations](/media).
+* Provide us [feedback](https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-seminar-series-feedback).
 
 {% endwrap %}
+
+<!-- {% endwrap %} -->
 
 ## Wed, 15 Nov 2023 15:00 - 16:30 UK time
 
@@ -28,7 +35,7 @@ Download the [poster of the seminar series](/assets/images/seminars/Sensing-the-
 
 {% wrap "mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-full text-left" %}
 
-You can find more info and register for the free event on the following Eventbrite link: 
+You can find more info and register for the free event on the following Eventbrite link:
 [https://www.eventbrite.com/e/sensing-the-forest-seminar-liz-obrien-and-alice-eldridge-tickets-745155689727](https://www.eventbrite.com/e/sensing-the-forest-seminar-liz-obrien-and-alice-eldridge-tickets-745155689727)
 
 {% endwrap %}
@@ -66,7 +73,7 @@ Alice Eldridge is an interdisciplinarian with an interest in how sound organises
 
 {% wrap "mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-full text-left" %}
 
-You can find more info and register for the free event on the following Eventbrite link: 
+You can find more info and register for the free event on the following Eventbrite link:
 [https://www.eventbrite.com/e/sensing-the-forest-seminar-saloni-shah-and-jonesbulley-tickets-745112580787](https://www.eventbrite.com/e/sensing-the-forest-seminar-saloni-shah-and-jonesbulley-tickets-745112580787)
 
 {% endwrap %}
@@ -77,7 +84,7 @@ You can find more info and register for the free event on the following Eventbri
 
 #### How Information Design Can Save Forest Ecosystems
 
-Join me for an insightful talk where we'll delve into the art of crafting meaningful data storytelling projects focusing on forest conservation. In this session, we'll explore the power of asking the right questions, unlocking the key to weaving compelling narratives that resonate with audiences and drive impactful change. As data becomes increasingly central to environmental efforts, particularly in the crucial domain of forest conservation, the ability to pose relevant and incisive questions is paramount. Drawing from my experience in the field, particularly in climate visualization, we'll discuss the unique challenges and opportunities that arise when working with environmental data. Whether you are a data enthusiast, conservationist, or storyteller, this talk offers valuable insights into the nuanced art of questioning, empowering you to create compelling data-driven narratives that contribute meaningfully to the cause of forest conservation. 
+Join me for an insightful talk where we'll delve into the art of crafting meaningful data storytelling projects focusing on forest conservation. In this session, we'll explore the power of asking the right questions, unlocking the key to weaving compelling narratives that resonate with audiences and drive impactful change. As data becomes increasingly central to environmental efforts, particularly in the crucial domain of forest conservation, the ability to pose relevant and incisive questions is paramount. Drawing from my experience in the field, particularly in climate visualization, we'll discuss the unique challenges and opportunities that arise when working with environmental data. Whether you are a data enthusiast, conservationist, or storyteller, this talk offers valuable insights into the nuanced art of questioning, empowering you to create compelling data-driven narratives that contribute meaningfully to the cause of forest conservation.
 
 With a background encompassing data visualization, product design, and urban design, Saloni Shah excels at crafting innovative solutions that transcend traditional boundaries. Her specialization lies in creating impactful products that unveil intricate patterns within complex data, providing audiences with an immersive and engaging experience. Saloni's academic achievements culminated in her award-winning thesis delving into how carbon markets impact forests, ecosystems, and indigenous communities. Throughout her career journey, Saloni continues to garner recognition through awards, talks, and workshops, solidifying her position as a thought leader in the intersection of design, data, and climate action.
 
@@ -105,13 +112,13 @@ James Bulley (b. 1984) and Daniel Jones (b. 1983) are an artist duo whose collab
 
 ## Wed, 18 Oct 2023 15:00 - 16:30 UK time
 
-<img class="h-1/2 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/seminars/Semiconductor-and-Peter-Sinclair.jpg" alt="1st Sensing the Forest Seminar: Semiconductor and Peter Sinclair"> 
+<img class="h-1/2 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/seminars/Semiconductor-and-Peter-Sinclair.jpg" alt="1st Sensing the Forest Seminar: Semiconductor and Peter Sinclair">
 
 {% wrap "mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-full text-left" %}
 
 <!-- <img class="object-scale-down max-h-xs h-48 w-96 float-left mt-0 ml-20 mb-14" src="/assets/images/seminars/QR-code-talk-1-eventbrite.png" alt="QR code to 1st Sensing the Forest Seminar: Semiconductor and Peter Sinclair Eventbrite event"> -->
 
-You can find more info and register for the free event on the following Eventbrite link: 
+You can find more info and register for the free event on the following Eventbrite link:
 [https://www.eventbrite.com/e/sensing-the-forest-seminar-semiconductor-and-peter-sinclair-tickets-734997275637](https://www.eventbrite.com/e/sensing-the-forest-seminar-semiconductor-and-peter-sinclair-tickets-734997275637)
 
 
@@ -193,4 +200,3 @@ No! I was ashamed to be SEEN with you. I like being with you. Well, what do you 
 
 No! I was ashamed to be SEEN with you. I like being with you. First place chick is hot, but has an attitude, doesn't date magicians. No… but I'd like to be asked! I care deeply for nature.
 --->
-

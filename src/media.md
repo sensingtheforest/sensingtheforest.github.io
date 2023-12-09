@@ -12,6 +12,12 @@ seo:
   image:
 ---
 
+{% wrap "mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-full text-left" %}
+
+We are committed to continuously improving the future Sensing the Forest events. To provide feedback about the [online seminar series](/seminars), either experienced 'live' or 'offsite', we would very much appreciate if you could spare five minutes to complete this [anonymous questionnaire](https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-seminar-series-feedback).
+
+{% endwrap %}
+
 {% wrap "px-2 mt-8 rounded-lg pb-2 border border-gray-300 bg-gray-200" %}
 
   {% columns %}
