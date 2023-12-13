@@ -9,7 +9,7 @@ eleventyNavigation:
 seo:
   title: Media # overrides 'title' above on both Page and META
   description: Explore the media outputs of the project (seminar series, presentations...)
-  image:
+  image: seminars/Sensing-the-Forest-Online-Seminar-Talks.jpg 
 ---
 
 {% wrap "mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-full text-left" %}
