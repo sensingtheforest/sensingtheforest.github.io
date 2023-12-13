@@ -9,7 +9,7 @@ eleventyNavigation:
 seo:
   title: Seminars # overrides 'title' above on both Page and META
   description: Discover the 1st AHRC Sensing the Forest seminar series (Oct-Nov 2023)
-  image:
+  image: seminars/Sensing-the-Forest-Online-Seminar-Talks.jpg 
 ---
 
 The AHRC Sensing the Forest project is organising a series of three fortnightly online seminar talks with experts related to artistic, social and scientific interventions in the forest or other natural landscapes with a special focus on acoustic phenomena. The seminar series will include talks by Semiconductor, Peter Sinclair, Saloni Shah, Jones/Bulley, Liz O'Brien and Alice Eldridge.

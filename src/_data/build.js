@@ -8,5 +8,5 @@ module.exports = {
   env: process.env.ELEVENTY_ENV,
   timestamp: new Date(),
   timezone: process.env.TIMEZONE || 'UTC',
-  url: process.env.URL || 'http://localhost:8080',
+  url: process.env.URL || 'https://sensingtheforest.github.io', // if 'http://localhost:8080' does not work with seo images
 }
