@@ -1,6 +1,6 @@
 ---
 title: Summer School Title # will be overwritten by SEO.title below
-date: 2023-12-20
+date: 2023-12-18
 layout: page
 eleventyNavigation:
   key: main
@@ -20,7 +20,7 @@ heroSettings:
   subheadingText: Interested in joining our community of learners and contribute shaping a unique experience?
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
   buttonText: Apply # no button generated if left blank
-  buttonURL: /contact/ # full url required. Example: https://thisdomain.com/somepage/
+  buttonURL: https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-summer-school-application # full url required. Example: https://thisdomain.com/somepage/
   buttonTextColor: # leave blank to inherit from /src/_data/colors.buttonCustom or buttonDefault
   buttonBgColor:  # leave blank to inherit from /src/_data/colors.buttonCustom.bg or buttonDefault.bg
   bg:
@@ -32,13 +32,13 @@ heroSettings:
 
 ---
 
-You are invited to apply for the **1st Sensing the Forest Summer School**, held online on February-May, 2024, and on-site on June [TBD], 2024, in Alice Holt, UK.
+You are invited to apply for the **1st Sensing the Forest Summer School**, held online on February-May, 2024, and on-site on June 19-20, 2024, in Alice Holt, UK.
 
 Applications are being accepted for an online and on-site summer school in Spring 2024.
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg text-center italic rounded-lg" %}
 
-**Apply at**: [TBD]
+**Apply at**: https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-summer-school-application
 
 {% endwrap %}
 
@@ -58,17 +58,17 @@ This should be a unique collaborative experience and immersive learning environm
 
 **Online (6h, 1h-session)**
 
-Day 1 (February 2, 2024): Introductions, and share projects/interests.
-Day 2 (February 29, 2024): Nick Wardlaw (Forestry England) / Matt Wilkinson (Forest Research) presentation: Alice Holt.
-Day 3 (March 21, 2024): Peter Batchelor (DMU) presentation: Installation art.
-Day 4 (April 11, 2024): Hazel Stone (Forestry England): Design recommendations.
-Day 5 (May 2, 2024): Pitch your idea + feedback.
-Day 6 (May 23, 2024): Initial prototypes + feedback.
+**Day 1 (February 2, 2024)**: Introductions, and share projects/interests.
+**Day 2 (February 29, 2024)**: Nick Wardlaw (Forestry England) / Matt Wilkinson (Forest Research) presentation: Alice Holt.
+**Day 3 (March 21, 2024)**: Peter Batchelor (DMU) presentation: Installation art.
+**Day 4 (April 11, 2024)**: Hazel Stone (Forestry England): Design recommendations.
+**Day 5 (May 2, 2024)**: Pitch your idea + feedback.
+**Day 6 (May 23, 2024)**: Initial prototypes + feedback.
 
 **Onsite (2 days, all-day session)**
 
-Day 1: Fieldwork/exhibits location + Hands-on (morning). Setting-up (afternoon).
-Day 2: Setting-up (morning) / Launch of the exhibition (11.00-15.00, open event). Closing (afternoon).
+**Day 1 (June 19, 2024)**: Fieldwork/exhibits location + Hands-on (morning). Setting-up (afternoon).
+**Day 2 (June 20, 2024)**: Setting-up (morning) / Launch of the exhibition (11.00-15.00, open event). Closing (afternoon).
 
 ## What is included
 
@@ -95,8 +95,8 @@ Visit our website for details: https://sensingtheforest.github.io/summer-school
 
 ## Important Dates
 
-**December 10, 2023**: Open call for submission starts.
+**December 18, 2023**: Open call for submission starts.
 **January 15, 2024**: Submissions deadline.
 **January 31, 2024**: Notification of acceptances and rejections.
 **February-May 2024**: Online training/mentoring.
-**June TBC, 2024**: Live exhibition at Alice Holt.
+**June 19-20, 2024**: Live exhibition at Alice Holt.
