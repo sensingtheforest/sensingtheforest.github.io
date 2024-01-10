@@ -29,7 +29,7 @@ seo:
 
 [Dr Anna Xambó (PI, De Montfort University)](https://annaxambo.me/)
 
-Anna Xambó is a researcher and musician. Her research and practice focus on building and evaluating interactive music systems for music creation and performance using human-computer interaction research. She is a Senior Lecturer in Music and Audio Technology and a member of the Music, Technology and Innovation - Institute of Sonic Creativity (MTI2) at De Montfort University.
+Anna Xambó is a researcher and musician. Her research and practice focus on building and evaluating interactive music systems for music creation and performance using human-computer interaction research. She is a Senior Lecturer in Sound and Music Computing and a member of the Centre for Digital Music (C4DM) at Queen Mary University of London.
 
 
 

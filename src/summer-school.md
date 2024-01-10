@@ -87,7 +87,7 @@ We welcome underrepresented populations in the field of SMC and align with DMUâ€
 
 ## Organisers
 
-The Sensing the Forest Summer School is hosted and organised by the Sensing the Forest team with the support of AHRC, MTI2, Forest Research and Forestry England.
+The Sensing the Forest Summer School is hosted and organised by the Sensing the Forest team with the support of AHRC, C4DM, MTI2, Forest Research and Forestry England.
 
 ## Contact
 
