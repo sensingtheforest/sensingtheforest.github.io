@@ -62,27 +62,28 @@ Open Microphone Project, Locus Stream, is entirely founded on the existence of a
 
 All the work I am involved in is sound based, and for us technology and development play a large part in our activity since we provide the technical solutions for would be participants, increasingly extended by the expertise and experience of several of the more permanent members of the community. The evolution of listening practices is the main “result” of our research, this implemented by experimentation conducted by artists and musicians, but we also have close ties with an anthropological research group with whom we are investigating ways of perceiving the terrain through listening methods, see [La recherche par l’écoute](https://www.iremam.cnrs.fr/fr/la-recherche-par-lecoute-2021-2025) (*research through listening*). We are also becoming increasingly involved with bio-acousticians.
 
-**To what extent do you see your work, and more extensively, the use of artistic methods, contributing to raising awareness of global crises such as climate change?**
-
-Generally speaking, and without being evangelical, I think that carefully listening to an environment is a way of increasing awareness (probably more so than looking at it) – whether that is remote listening or some other form such as deep listening. Most contemporary streaming services, on the contrary, have a tendency to immerse you in your own personal world of carefully selected media. Another ecological aspect of Locustream and Acoustic Commons, is that we are increasingly collaborating with nature reserves and other protected areas where our microphones can allow researchers and the public to access otherwise unapproachable sites.
-
-**How is technology impacting your work? Do you see technology shaping your creative process or the other way around?**
-
-I see it as a reiterative process. I also believe that it is important to keep some critical distance and think through what technological evolutions imply. Part of the artist’s role is, in my opinion, to mistreat, test or *detourner* technologies that are developed for purely commercial ends.  
-
 {% bq "p-4 border-blue-500 italic text-blue-500 border-t-4 bg-gray-200 " %}
 <h3>«I think that carefully listening to an environment is a way of increasing awareness (probably more so than looking at it) – whether that is remote listening or some other form such as deep listening.»
 </h3>
 {% endbq %}
 
-**How do you see creative AI impacting your practice/work? Is this a topic that interests you or worries you?**
+**To what extent do you see your work, and more extensively, the use of artistic methods, contributing to raising awareness of global crises such as climate change?**
 
-We, (Dr Hugo Scurto) have recently been experimenting with the using the open microphones to develop deep learning models that can generate a “fictitious” stream. This evokes several aesthetic questions that we feel are worthy of reflection. I don’t think that creative AI represents a threat to art, since artists will always find a way to mess with it. I do however worry about the more general societal changes that AI is bringing with it. 
+Generally speaking, and without being evangelical, I think that carefully listening to an environment is a way of increasing awareness (probably more so than looking at it) – whether that is remote listening or some other form such as deep listening. Most contemporary streaming services, on the contrary, have a tendency to immerse you in your own personal world of carefully selected media. Another ecological aspect of Locustream and Acoustic Commons, is that we are increasingly collaborating with nature reserves and other protected areas where our microphones can allow researchers and the public to access otherwise unapproachable sites.
 
 {% bq "p-4 border-blue-500 italic text-blue-500 border-t-4 bg-gray-200 " %}
 <h3>«Part of the artist’s role is, in my opinion, to mistreat, test or *detourner* technologies that are developed for purely commercial ends.»
 </h3>
 {% endbq %}
+
+**How is technology impacting your work? Do you see technology shaping your creative process or the other way around?**
+
+I see it as a reiterative process. I also believe that it is important to keep some critical distance and think through what technological evolutions imply. Part of the artist’s role is, in my opinion, to mistreat, test or *detourner* technologies that are developed for purely commercial ends.  
+
+
+**How do you see creative AI impacting your practice/work? Is this a topic that interests you or worries you?**
+
+We, (Dr Hugo Scurto) have recently been experimenting with the using the open microphones to develop deep learning models that can generate a “fictitious” stream. This evokes several aesthetic questions that we feel are worthy of reflection. I don’t think that creative AI represents a threat to art, since artists will always find a way to mess with it. I do however worry about the more general societal changes that AI is bringing with it. 
 
 **Any final thoughts or comments?**
 
