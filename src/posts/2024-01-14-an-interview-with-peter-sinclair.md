@@ -1,7 +1,7 @@
 ---
 title: An Interview with Peter Sinclair
 date: 2024-01-14T10:00:00.000Z
-excerpt: Peter Sinclair (PhD, HDR) is a sound artist and professor of sound art practice at Aix-en Provence Art academy (ESA-Aix), who is internationally renowned for his sound installations as well as for his work on collaborative and participative environments. 
+excerpt: Peter Sinclair (PhD, HDR) is a sound artist and professor of sound art practice at Aix-en Provence Art academy (ESAAIX), who is internationally renowned for his sound installations as well as for his work on collaborative and participative environments. 
 author: anna-xambo
 author2: luigi-marino
 draft:
@@ -23,7 +23,7 @@ tags:
   - seminar-series
 ---
 
-***About Peter Sinclair**: [Peter Sinclair](https://locusonus.org/) (PhD, HDR) is a sound artist and professor of sound art practice at Aix-en Provence Art academy (ESA-Aix). He is internationally renowned for his sound installations as well as for his work on collaborative and participative environments. His artistic experimentations use networked games, mobile media, data sonification and live audio streaming. He is codirector of Locus Sonus Vitae a research group supported by the French Ministry for Culture and ESAAIX. On 18th October 2023, Peter Sinclair gave a seminar as part of the Sensing the Forest Seminar Series.*
+***About Peter Sinclair**: [Peter Sinclair](https://locusonus.org/) (PhD, HDR) is a sound artist and professor of sound art practice at Aix-en Provence Art academy (ESAAIX). He is internationally renowned for his sound installations as well as for his work on collaborative and participative environments. His artistic experimentations use networked games, mobile media, data sonification and live audio streaming. He is codirector of Locus Sonus Vitae a research group supported by the French Ministry for Culture and ESAAIX. On 18th October 2023, Peter Sinclair gave a seminar as part of the Sensing the Forest Seminar Series.*
 
 {% bq "p-4 border-blue-500 italic text-blue-500 border-t-4 bg-gray-200 " %}
 <h3>«Art and research remain a tricky subject in the French university system (even more so than in the UK), and it has sometimes been difficult, working with hard science groups, to establish an equal dialogue and attribute value to the artistic research.»</h3>
