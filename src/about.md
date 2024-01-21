@@ -27,7 +27,7 @@ seo:
 
 <img class="h-64 rounded-lg mt-0 mr-2 " src="/assets/images/authors/anna-xambo.jpg" alt="Photo of Anna Xambó">
 
-[Dr Anna Xambó (PI, De Montfort University)](https://annaxambo.me/)
+[Dr Anna Xambó (PI, Queen Mary University of London)](https://annaxambo.me/)
 
 Anna Xambó is a researcher and musician. Her research and practice focus on building and evaluating interactive music systems for music creation and performance using human-computer interaction research. She is a Senior Lecturer in Sound and Music Computing and a member of the Centre for Digital Music (C4DM) at Queen Mary University of London.
 
