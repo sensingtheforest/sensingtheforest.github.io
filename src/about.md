@@ -51,11 +51,12 @@ Peter Batchelor is a Senior Lecturer and Programme Leader in Music Technology, a
 
 {% cols "bg-gray-100 rounded-lg" %}
 
-<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/matthew-wilkinson.jpg" alt="Photo of Matthew Wilkinson">
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/michael-bell.jpg" alt="Photo of Michael Bell"> 
 
-[Dr Matthew Wilkinson (CI, Forest Research)](https://www.forestresearch.gov.uk/staff/matthew-wilkinson/)
+[Dr Michael Bell (CI, Forest Research)](https://www.forestresearch.gov.uk/staff/mike-bell/)
 
-Matt Wilkinson is a Senior Climate Scientist at Forest Research. The focus of his research is to improve our understanding of forest carbon and greenhouse gas (GHG) balances and how they may be impacted by management, environmental and climate change. Matt’s particular work focuses on using a combination of surface flux techniques across a range of scales to understand the processes controlling C and GHG cycling within forest ecosystems. In addition to leading several GHG and forest monitoring related projects, he has managed the Straits Flux Research Site within the Alice Holt Research Forest for > ten years. Matt is also interested in developing new techniques and sensors for trace gas flux measurements and forest monitoring. Matt joined Forest Research in 2001. He graduated from the University of Wales, Aberystwyth in 1995 with a BSc (Hons) in Agriculture and the Environment and then obtained an MSc in Crop Production in the Changing Environment in 1996 from the University of Essex. He completed his PhD by Publication at the University of Portsmouth.
+Mike Bell is Climate Scientist at Forest Research. Mike supports research at the Straits Inclosure long-term carbon dioxide flux monitoring site, helping to maintain sensors and data acquisition systems. As well as this, he is involved with routine data collection for the Environmental Change Network site and the ICP forests “Level II” programme. For both of these programmes, he is responsible for running the associated automated weather stations at Forest Research sites. Mike joined Forest Research as an Environmental Research Assistant in the Climate Change group in 2018 after obtaining a PhD in Environmental Science from the University of Reading. His PhD research focussed on the ecohydrology of blanket peatlands and their sensitivity to climate change.
+
 
 {% endcols %}
 
@@ -148,13 +149,29 @@ Max Gravestock is the Site Manager at Alice Holt Forest (Forestry England) manag
 
 {% cols "bg-gray-100 rounded-lg" %}
 
-<!--img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/nick-wardlaw.jpg" alt="Photo of Nick Wardlaw" -->
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/nick-wardlaw.jpg" alt="Photo of Nick Wardlaw"> 
 
 [Nick Wardlaw (Forestry England)](https://uk.linkedin.com/in/nick-wardlaw-960251119)
 
-Nick Wardlaw is a Recreation Manager at Forestry England.
+Nick Wardlaw is the District Recreation Manager coving Visitor Centres in Forestry England’s South District. Nick works closely with Max Gravestock and Danielle Grimsey on how we can improve our offer for visitors and how they connect with our Forest at Alice Holt. Nick has been with Forestry England for 10 years working in both habitat conservation, and for the last four years his focus has been on connecting visitors with the forests. He takes great joy in knowing that the team’s work helps over a million people a year to learn to love and care for the outdoors environment.
 
 {% endcols %}
+
+{% cols "bg-gray-100 rounded-lg" %}
+
+
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/matthew-wilkinson.jpg" alt="Photo of Matthew Wilkinson">
+
+[Dr Matthew Wilkinson (Advisor, Forest Research)](https://www.forestresearch.gov.uk/staff/matthew-wilkinson/)
+
+Matt Wilkinson is a Senior Climate Scientist at Forest Research. The focus of his research is to improve our understanding of forest carbon and greenhouse gas (GHG) balances and how they may be impacted by management, environmental and climate change. Matt’s particular work focuses on using a combination of surface flux techniques across a range of scales to understand the processes controlling C and GHG cycling within forest ecosystems. In addition to leading several GHG and forest monitoring related projects, he has managed the Straits Flux Research Site within the Alice Holt Research Forest for > ten years. Matt is also interested in developing new techniques and sensors for trace gas flux measurements and forest monitoring. Matt joined Forest Research in 2001. He graduated from the University of Wales, Aberystwyth in 1995 with a BSc (Hons) in Agriculture and the Environment and then obtained an MSc in Crop Production in the Changing Environment in 1996 from the University of Essex. He completed his PhD by Publication at the University of Portsmouth.
+
+
+{% endcols %}
+
+{% endcolumns %}
+
+{% columns %}
 
 {% cols "bg-gray-100 rounded-lg" %}
 
@@ -166,7 +183,18 @@ Zainab Tarki is the Finance Officer of the project.
 
 {% endcols %}
 
+{% cols "bg-gray-100 rounded-lg" %}
+
+<!--img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/zainab-tarki.jpg" alt="Photo of Zainab Tarki" -->
+
+[Johana Knowles (Forestry England)](https://uk.linkedin.com/in/johana-knowles-51602722b)
+
+Jo Knowles is a Visitors Services Officer at the Alice Holt Forest.
+
+{% endcols %}
+
 {% endcolumns %}
+
 
 {% endwrap %}
 

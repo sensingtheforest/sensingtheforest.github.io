@@ -58,10 +58,10 @@ This should be a unique collaborative experience and immersive learning environm
 
 **Online (6h, 1h-session)**
 
-**Day 1 (February 2, 2024)**: Introductions, and share projects/interests.
-**Day 2 (February 29, 2024)**: Nick Wardlaw (Forestry England) / Matt Wilkinson (Forest Research) presentation: Alice Holt.
+**Day 1 (February 15, 2024)**: Introductions, and share projects/interests.
+**Day 2 (February 29, 2024)**: Nick Wardlaw (Forestry England) / Michael Bell (Forest Research) presentation: Alice Holt.
 **Day 3 (March 21, 2024)**: Peter Batchelor (DMU) presentation: Installation art.
-**Day 4 (April 11, 2024)**: Hazel Stone (Forestry England): Design recommendations.
+**Day 4 (April 11, 2024)**: Hazel Stone (Forestry England) / Johana Knowles (Forestry England): Design recommendations.
 **Day 5 (May 2, 2024)**: Pitch your idea + feedback.
 **Day 6 (May 23, 2024)**: Initial prototypes + feedback.
 
