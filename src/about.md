@@ -79,7 +79,7 @@ Georgios Xenakis' work focuses on measuring the carbon, water and energy balance
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/luigi-marino.jpg" alt="Photo of Luigi Marino">
 
-[Dr Luigi Marino (Research Fellow in Sound and Music Computing, De Montfort University)](http://www.luigimarino.net/)
+[Dr Luigi Marino (Research Fellow in Sound and Music Computing, Queen Mary University of London)](http://www.luigimarino.net/)
 
 Luigi Marino's work focuses on networks able to display relationships between human and nonhuman actors, and especially on how intuitive decisions can derail a pre-existing order. He is an active improvisor performing on both electronic media and percussion, in particular zarb and bowed custom cymbals extended with DIY portable circuits.
 
