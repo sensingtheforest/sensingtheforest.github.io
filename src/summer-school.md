@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 3 # order to display in the nav
 seo:
   title: Summer School # overrides 'title' above on both Page and META
-  description: Apply for the 1st AHRC Sensing the Forest Summer School (Feb-Jun 2024)
+  description: The 1st AHRC Sensing the Forest Summer School (Feb-Jun 2024)
   image:  # relative to /assets/images/
 hero: graphic # options: carousel, graphic, video, split (text & image)
 heroSettings:
@@ -19,8 +19,8 @@ heroSettings:
   headingTextColor: text-gray-700 # text-gray-800 # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   subheadingText: Interested in joining our community of learners and contribute shaping a unique experience?
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
-  buttonText: Apply # no button generated if left blank
-  buttonURL: https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-summer-school-application # full url required. Example: https://thisdomain.com/somepage/
+  #buttonText: Apply # no button generated if left blank
+  #buttonURL: https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-summer-school-application # full url required. Example: https://thisdomain.com/somepage/
   buttonTextColor: # leave blank to inherit from /src/_data/colors.buttonCustom or buttonDefault
   buttonBgColor:  # leave blank to inherit from /src/_data/colors.buttonCustom.bg or buttonDefault.bg
   bg:
@@ -32,17 +32,22 @@ heroSettings:
 
 ---
 
-You are invited to apply for the **1st Sensing the Forest Summer School**, held online on February-May, 2024, and on-site on June 19-20, 2024, in Alice Holt, UK.
+<!--You are invited to apply for the **1st Sensing the Forest Summer School**, held online on February-May, 2024, and on-site on June 19-20, 2024, in Alice Holt, UK.
 
-Applications are being accepted for an online and on-site summer school in Spring 2024.
+Applications are being accepted for an online and on-site summer school in Spring 2024.-->
+
+The **1st Sensing the Forest Summer School**, will be held online on February-May, 2024, and on-site on June 19-20, 2024, in Alice Holt, UK.
+
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg text-center italic rounded-lg" %}
 
-**Apply at**: https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-summer-school-application
+<!-- **Apply at**: https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-summer-school-application-->
+
+Thanks for your participation! Applications are now closed.
 
 {% endwrap %}
 
-**Deadline for applications**: January 15, 2024, AoE (Anywhere on Earth).
+<!-- **Deadline for applications**: January 15, 2024, AoE (Anywhere on Earth).-->
 
 ## Description
 
