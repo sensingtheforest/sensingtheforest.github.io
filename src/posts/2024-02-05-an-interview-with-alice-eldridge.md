@@ -141,7 +141,7 @@ In musical contexts there are some really exciting advances in the area of embed
 I'd just like to express appreciation and gratitude for your work and your project. It really is all hands on deck for the coming years, and projects like yours that create new connections between academic disciplines, partners and key environmental actors are valuable and inspiring.
 
 
-## Sensing the Forest: Alice Eldridge
+## Sensing the Forest Seminar: Alice Eldridge
 
 <br />
 

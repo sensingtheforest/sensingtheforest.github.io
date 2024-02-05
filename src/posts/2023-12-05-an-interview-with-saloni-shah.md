@@ -94,7 +94,7 @@ However, I maintain a level of concern regarding the potential for unforeseen im
 
 In conclusion, my journey as a designer deeply immersed in the intersection of data, technology, and environmental advocacy has been both rewarding and enlightening.  As I continue to explore innovative mediums and collaborate with diverse communities, my commitment to leveraging creativity for positive change remains unwavering. I believe that the fusion of design and science will play a pivotal role in addressing global challenges, particularly those related to climate change. My passion for creating impactful visual narratives and fostering interdisciplinary collaborations propels me forward, and I look forward to contributing to a more informed and engaged global community through my work.
 
-## Sensing the Forest: Saloni Shah
+## Sensing the Forest Seminar: Saloni Shah
 
 <br />
 

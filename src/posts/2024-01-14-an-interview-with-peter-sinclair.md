@@ -94,7 +94,7 @@ More information about Acoustic Commons here:
 [https://acousticommons.net](https://acousticommons.net/)
 
 
-## Sensing the Forest: Peter Sinclair
+## Sensing the Forest Seminar: Peter Sinclair
 
 <br />
 
