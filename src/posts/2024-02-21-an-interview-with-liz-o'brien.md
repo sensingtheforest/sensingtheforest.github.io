@@ -43,7 +43,7 @@ I am also working with colleagues and collaborators on a project focused on publ
 
 ## What is your background?
 
-I am an environmental sociologist by background but originally after I left school I attended art college and focused on jewellery making and design. However, when I eventually decided to go to University, I draw on my lifelong interest in being in the natural environment and my passion for hill walking to move to a focus on the environment and combined that with an interest in people and the systems, structures, norms that influence behaviours and decisions. 
+I am an environmental sociologist by background but originally after I left school I attended art college and focused on jewellery making and design. However, when I eventually decided to go to University, I drew on my lifelong interest in being in the natural environment and my passion for hill walking to move to a focus on the environment and combined that with an interest in people and the systems, structures, norms that influence behaviours and decisions. 
 
 I joined [Forest Research](https://www.forestresearch.gov.uk/) in 2000 as its sole social scientist and was originally part of a Silviculture and Seed Research Branch within the organisation. However, after a few short years others joined me and a social science team was born. I was fortunate to develop the opportunity to spend 3 months in Vermont with the US Forest Service in 2002 and work with colleagues there to explore how people in Vermont values their treescape. Later on, in 2012 I spent 14 months in Defra (Department of Environment Food and Rural Affairs) in its behavioural change unit. 
 
