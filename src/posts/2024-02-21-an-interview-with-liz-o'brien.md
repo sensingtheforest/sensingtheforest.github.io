@@ -50,7 +50,7 @@ I joined [Forest Research](https://www.forestresearch.gov.uk/) in 2000 as its so
 It has been great to be part of the development of a dynamic and vibrant Society and Environment Research Group within Forest Research. I was Head of the Group for 8 years and helped it to grow and enhance its reputation, I stepped back from the role in 2023 to move to part time working. 
 
 {% bq "mt-8 p-4 border-blue-500 italic text-blue-500 border-t-4 bg-gray-200 " %}
-<h3>My interest in sound and soundscapes has developed slowly often through my qualitative research in which a range of publics have talked about their experiences in woodlands and the importance of different sounds.»
+<h3>«My interest in sound and soundscapes has developed slowly often through my qualitative research in which a range of publics have talked about their experiences in woodlands and the importance of different sounds.»
 </h3>
 {% endbq %}
 
