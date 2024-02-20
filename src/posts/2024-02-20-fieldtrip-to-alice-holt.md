@@ -43,7 +43,7 @@ After a nice train trip from London and a walk from the Bentley (Hampshire) trai
 Afterwards, we met with Pete and Luigi at the Alice Holt Visitors Centre café. Then, we joined the Forestry England team: Max, Max's dog Goose, Danielle and Jo. We walked around the area by the Visitor Centre, seeing current installations and scoping out suitable sites. It was an enjoyable walk on a busy day surrounded by children and parents (it was a school holiday week). We discovered the concept of play areas, and how itineraries spin around these. Also, we realised about the history of the site, such as the kiln sites dating back from the Roman period. 
 
 <div class="flex justify-center items-center">
-<img class="h-1/3 mt-4 mb-4" src="/assets/images/2024/02/fieldtrip-play-area-woodpecker.jpg" alt="Play zone with a wooden woodpecker.">
+<img class="h-1/2 mt-4 mb-4" src="/assets/images/2024/02/fieldtrip-play-area-woodpecker.jpg" alt="Play zone with a wooden woodpecker.">
 </div>
 
 We also explored a meadow favourite of Max, which likely is one of the areas with the most sunlight, suitable for the solar-powered audio streamer. Luigi explored an early prototype and its potential connectivity to the world. We also went to see the remote classic site where Semiconductor exhibited their Cosmos piece.
@@ -55,7 +55,7 @@ We also explored a meadow favourite of Max, which likely is one of the areas wit
 We were having a good time and the walk took longer than expected! In the afternoon, and after a quick lunch, Luigi, Pete and I made our way to the Straits Inclosure led by Mike. Mike gave us a tour of the Straits Inclosure flux tower and surrounding experiments. We started a discussion on what data might be relevant for the project, looking at different temporal rhythms (hourly, daily, seasonlly) that can tell us variations related to climate change, such as light or wind. We agreed to continue the conversation in the upcoming days. 
 
 <div class="flex justify-center items-center">
-<img class="h-1/3 mt-4 mb-4" src="/assets/images/2024/02/fieldtrip-flux-tower.jpg" alt="Straits Inclosure flux tower.">
+<img class="h-1/2 mt-4 mb-4" src="/assets/images/2024/02/fieldtrip-flux-tower.jpg" alt="Straits Inclosure flux tower.">
 </div>
 
 
