@@ -58,6 +58,5 @@ We were having a good time and the walk took longer than expected! In the aftern
 <img class="mt-4 mb-4" src="/assets/images/2024/02/fieldtrip-flux-tower.jpg" alt="Straits Inclosure flux tower.">
 </div>
 
-
 Time flew. It was a wonderful day, productive and interesting. It was great to meet the team on-site and get to know more about the place. We will continue exploring points of convergence among disciplines and perspectives, which is one of the most rewarding parts of the project. Thank you for a great Friday!
 
