@@ -1,6 +1,6 @@
 ---
 title: An Interview with Liz O'Brien
-date: 2024-02-21T10:00:00.000Z
+date: 2024-02-21T07:00:00.000Z
 excerpt: Liz O’Brien is a Principal Social Scientist in the Society and Environment Research Group at Forest Research. Her research explores human-forest relationships with a particular focus on the cultural ecosystem benefits of trees and woodlands. 
 author: anna-xambo
 author2: luigi-marino
@@ -70,7 +70,6 @@ Forest Research is an applied research institute, one of the great things about 
 During the Covid Pandemic we surveyed and interviewed people to explore their relationship with nature during the lockdowns and the stresses of that time. We published a paper on the [contribution of trees and forest to wellbeing during Covid](https://academic.oup.com/forestry/advance-article/doi/10.1093/forestry/cpad037/7232253) and how people started to adapt to the change. This research gained interest and traction and I worked with other government agencies such as Natural England, the Environment Agency, NatureScot, and Natural Resources Wales to bring together our data and explore [why society needs nature](https://www.forestresearch.gov.uk/research/why-society-needs-nature-lessons-from-research-during-covid-19/) and what lessons could be learnt from the pandemic. 
 
 
-
 ## What is the meaning of community in your work? 
 
 My work involves a lot of collaboration with researchers both nationally and internationally. Our Ecotones project was a collaborative network between the UK and South Korea and included people from many different disciplinary backgrounds which provides so much opportunity for learning and exchange and for thinking about things differently. My research also involves a lot of work with stakeholders in public bodies, non-governmental organisations, and private land managers, and also engaging with a range of publics to explore the meaning of treescapes to them is very important. 
@@ -107,7 +106,6 @@ I recently attended two webinars focused on the use of AI in qualitative analysi
 ## Any final thoughts or comments?
 
 Thanks for giving me the opportunity to present at your seminar and hear from others and to outline a bit about my work and where I am coming from. I look forward to seeing how the Sensing the forest project develops over the next few years.
-
 
 ## Sensing the Forest Seminar: Liz O'Brien
 
