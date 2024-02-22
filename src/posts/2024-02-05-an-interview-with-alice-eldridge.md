@@ -1,7 +1,7 @@
 ---
 title: An Interview with Alice Eldridge
 date: 2024-02-05T10:00:00.000Z
-excerpt: Dr. Alice Eldridge is a musician and researcher with an interest in how sound organises systems. Her research integrates ideas and methods from music, computing, complex systems and ecology to advance theory and methods in ecoacoustics, as well as to create systemic music. 
+excerpt: Prof. Alice Eldridge is a musician and researcher with an interest in how sound organises systems. Her research integrates ideas and methods from music, computing, complex systems and ecology to advance theory and methods in ecoacoustics, as well as to create systemic music. 
 author: anna-xambo
 author2: luigi-marino
 draft:

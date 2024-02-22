@@ -1,7 +1,7 @@
 ---
 title: An Interview with Liz O'Brien
 date: 2024-02-21T07:00:00.000Z
-excerpt: Liz O’Brien is a Principal Social Scientist in the Society and Environment Research Group at Forest Research. Her research explores human-forest relationships with a particular focus on the cultural ecosystem benefits of trees and woodlands. 
+excerpt: Dr Liz O’Brien is a Principal Social Scientist in the Society and Environment Research Group at Forest Research. Her research explores human-forest relationships with a particular focus on the cultural ecosystem benefits of trees and woodlands. 
 author: anna-xambo
 author2: luigi-marino
 draft:
@@ -15,6 +15,7 @@ images: # relative to /src/assets/images/
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: h-auto # optional. Default = h-48 md:h-1/3
 tags:
+  - environmental-justice
   - environmental-sociology
   - forest-research
   - interviews
@@ -23,6 +24,7 @@ tags:
   - soundscapes
   - treescapes 
   - videos
+  - wellbeing
 
 ---
 
