@@ -8,7 +8,7 @@ draft:
 seo:
   title:
   description:
-  image: 2024/02/liz-o_brien.jpg
+  image: 2024/02/liz-o_brien_panoramic.jpg
 images: # relative to /src/assets/images/
   feature: 2024/02/liz-o_brien_panoramic.jpg
   thumb: 2024/02/liz-o_brien.jpg
