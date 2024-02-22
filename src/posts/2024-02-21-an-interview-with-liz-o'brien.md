@@ -11,7 +11,7 @@ seo:
   image: 2024/02/liz-o_brien_panoramic.jpg
 images: # relative to /src/assets/images/
   feature: 2024/02/liz-o_brien_panoramic.jpg
-  thumb: 2024/02/liz-o_brien.jpg
+  thumb: 2024/02/liz-o_brien_panoramic.jpg
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: h-auto # optional. Default = h-48 md:h-1/3
 tags:
