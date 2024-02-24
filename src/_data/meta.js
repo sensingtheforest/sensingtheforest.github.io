@@ -7,7 +7,7 @@ module.exports = {
 	locale: 'en_us',
 	authorName: 'Sensing the Forest',
 	authorURL: 'sensing-the-forest',
-	authorEmail: 'anna.xambo@dmu.ac.uk',
+	authorEmail: 'a.xambosedo@qmul.ac.uk',
 	twitterSite: '@sensingtheforest',
 	twitterCreator: '@sensingtheforest',
 	rootURL: 'https://sensingtheforest.github.io',

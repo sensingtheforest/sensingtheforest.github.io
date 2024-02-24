@@ -59,6 +59,13 @@ module.exports = {
 	},
 
 	/**
+	 * Addition: Get Posts by Author2 for the Author detail page
+	 */
+	getPostsByAuthor2: (posts, key) => {
+		return posts.filter((a) => a.data.author2 === key)
+	},
+
+	/**
 	 * Minify and inline CSS per a tip on 11ty: https://www.11ty.dev/docs/quicktips/inline-css/
    cssmin: (code) => {
      return new cleanCSS({}).minify(code).styles

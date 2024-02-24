@@ -14,11 +14,11 @@ images: # relative to /src/assets/images/
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: h-auto # optional. Default = h-48 md:h-1/3
 tags:
+  - alice-holt-forest
+  - climate-change
+  - forest-research
   - presentations
   - videos
-  - alice-holt-forest
-  - forest-research
-  - climate-change
 ---
 
 <br />

@@ -15,12 +15,12 @@ images: # relative to /src/assets/images/
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: h-auto # optional. Default = h-48 md:h-1/3
 tags:
+  - climate-change  
+  - data-visualisation  
   - interviews
-  - climate-change
   - presentations
-  - videos
-  - data-visualisation
   - seminar-series
+  - videos
 ---
 
 ***About Saloni Shah**: With a background encompassing data visualization, product design, and urban design, [Saloni Shah](https://salonishah.co/) excels at crafting innovative solutions that transcend traditional boundaries. Her specialization lies in creating impactful products that unveil intricate patterns within complex data, providing audiences with an immersive and engaging experience. Saloni’s academic achievements culminated in her award-winning thesis delving into how carbon markets impact forests, ecosystems, and indigenous communities. Throughout her career journey, Saloni continues to garner recognition through awards, talks, and workshops, solidifying her position as a thought leader in the intersection of design, data, and climate action. On 1st November 2023, Saloni Shah gave a seminar as part of the Sensing the Forest Seminar Series.*

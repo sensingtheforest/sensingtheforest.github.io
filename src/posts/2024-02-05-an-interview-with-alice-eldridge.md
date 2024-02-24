@@ -20,6 +20,7 @@ tags:
   - ecolistening
   - ecology
   - interviews
+  - living-symphonies
   - presentations
   - seminar-series
   - soundscapes
