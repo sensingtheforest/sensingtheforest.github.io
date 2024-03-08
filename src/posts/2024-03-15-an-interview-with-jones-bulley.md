@@ -1,6 +1,6 @@
 ---
 title: An Interview with Jones Bulley
-date: 2024-02-28T10:00:00.000Z
+date: 2024-03-15T10:00:00.000Z
 excerpt: James Bulley and Daniel Jones are an artist duo whose collaborative practice explores the boundaries of sound art, music, and process-based composition. Their work draws on systems and patterns from the world around us as ways of organising sound, creating a reciprocal relationship between the two. 
 author: anna-xambo
 author2: luigi-marino
