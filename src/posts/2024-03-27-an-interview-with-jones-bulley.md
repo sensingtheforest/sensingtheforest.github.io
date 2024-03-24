@@ -1,6 +1,6 @@
 ---
 title: An Interview with Jones Bulley
-date: 2024-03-15T10:00:00.000Z
+date: 2024-03-27T10:00:00.000Z
 excerpt: James Bulley and Daniel Jones are an artist duo whose collaborative practice explores the boundaries of sound art, music, and process-based composition. Their work draws on systems and patterns from the world around us as ways of organising sound, creating a reciprocal relationship between the two. 
 author: anna-xambo
 author2: luigi-marino
@@ -8,10 +8,10 @@ draft:
 seo:
   title:
   description:
-  image: 2024/02/jones-bulley.jpg
+  image: 2024/03/jones-bulley.jpg
 images: # relative to /src/assets/images/
-  feature: 2024/02/jones-bulley-1024px.jpg
-  thumb: 2024/02/jones-bulley.jpg
+  feature: 2024/03/jones-bulley-1024px.jpg
+  thumb: 2024/03/jones-bulley.jpg
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: h-auto # optional. Default = h-48 md:h-1/3
 tags:
@@ -64,7 +64,7 @@ Our work is fundamentally a social practice: at some level, all of our pieces ar
 
 ## What are the artistic, technological, or scientific research methods that inform your work? To what extent (and how) is audio/sound/music relevant to your work? 
 
-X
+Our work is underpinned by practice research, where applied practice is at the core, alongside an ever-expanding set of related areas that change depending on the work we are doing. We are informed by fields including systems theory, complex science, mycology, behavioural ecology, biosemiotics, linguistics, sculpture, and generative music – all areas in which structure and meaning unfold dynamically over time. We both come from a sound and music background, and so that is at the core of our practice. Composing sound is a way of engaging with space and time, and creates a prism through which we can re-articulate the world.
 
 {% bq "mt-8 p-4 border-blue-500 italic text-blue-500 border-t-4 bg-gray-200 " %}
 <h3>«Our hope is that, by creating a space for deeper interaction with the environment, works like *Living Symphonies* can foster a duty of care towards the natural world in an open and apolitical way.»
