@@ -91,10 +91,5 @@ Since the earliest days of our studio practice, generative tools have been a key
 Whilst we track new research emerging from the field of AI, we see it as a provocation to think carefully about how these tools can aid us in the work we are making, to provide more nuanced insights and greater depth of expression.
 
 
-## Sensing the Forest Seminar: Jones/Bulley
-
-<br />
-
-{% youtube "6Q9WSQCWDnM", "Sensing the Forest: Jones/Bulley" %}
 
 

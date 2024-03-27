@@ -28,9 +28,9 @@ tags:
 
 *Photo by the ADC Team*
 
-<!-- <br /> -->
+<br />
 
-<!-- {% youtube "kuZRC8DzD6Q", "CHIME Seminar: Anna Xambó" %} -->
+{% youtube "q5Mq8x_8if0", "KEYNOTE: NIME to NISE: Rethinking the Design & Evaluation of Musical Interfaces - Anna Xambó Sedó" %}
 
 
 The [Audio Developer Conference (ADC)](https://audio.dev/) is an annual event celebrating all audio development technologies, from music applications and game audio to audio processing and embedded systems. ADC’s mission is to help attendees acquire and develop new skills, and build a network that will support their career development. It is also aimed at showcasing academic research and facilitating collaborations between research and industry.
