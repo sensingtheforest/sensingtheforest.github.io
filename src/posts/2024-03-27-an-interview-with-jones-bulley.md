@@ -1,5 +1,5 @@
 ---
-title: An Interview with Jones Bulley
+title: An Interview with Jones/Bulley
 date: 2024-03-27T10:00:00.000Z
 excerpt: James Bulley and Daniel Jones are an artist duo whose collaborative practice explores the boundaries of sound art, music, and process-based composition. Their work draws on systems and patterns from the world around us as ways of organising sound, creating a reciprocal relationship between the two. 
 author: anna-xambo
@@ -28,7 +28,7 @@ tags:
 
 ---
 
-**About Jones/Bulley**: Jamess Bulley (b. 1984) and Daniel Jones (b. 1983) are an [artist duo](https://jones-bulley.com/) whose collaborative practice explores the boundaries of sound art, music, and process-based composition. Their work draws on systems and patterns from the world around us as ways of organising sound, creating a reciprocal relationship between the two: using sound as a way to illuminate our understanding of the world, and using natural processes as a way to deepen our approaches to composition. Jones/Bulley’s critically acclaimed work has been shown at venues including the Royal Festival Hall, the Barbican, the Museum of Science and Industry, Aldeburgh Music, the Old Royal Naval College, the Queen Elizabeth Hall, and the Design Museum.
+**About Jones/Bulley**: James Bulley (b. 1984) and Daniel Jones (b. 1983) are an [artist duo](https://jones-bulley.com/) whose collaborative practice explores the boundaries of sound art, music, and process-based composition. Their work draws on systems and patterns from the world around us as ways of organising sound, creating a reciprocal relationship between the two: using sound as a way to illuminate our understanding of the world, and using natural processes as a way to deepen our approaches to composition. Jones/Bulley’s critically acclaimed work has been shown at venues including the Royal Festival Hall, the Barbican, the Museum of Science and Industry, Aldeburgh Music, the Old Royal Naval College, the Queen Elizabeth Hall, and the Design Museum.
 
 {% bq "mt-8 p-4 border-blue-500 italic text-blue-500 border-t-4 bg-gray-200" %}
 <h3>«Our work is fundamentally a social practice: at some level, all of our pieces are founded upon communities and ecologies.»</h3>
