@@ -25,7 +25,6 @@ tags:
   - spatial-artworks
   - spatial-interaction
   - spatial-sound
-  - videos
 
 ---
 
