@@ -137,7 +137,7 @@ Danielle Grimsey is the Visitor Services Manager at Alice Holt Forest and works 
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/max-gravestock.jpg" alt="Photo of Max Gravestock">
 
-[Max Gravestock (Forestry England)](#)
+[Max Gravestock (Forestry England)](https://uk.linkedin.com/in/max-gravestock-a7995a1b3)
 
 Max Gravestock is the Site Manager at Alice Holt Forest (Forestry England) managing over 260 hectares of woodland at a busy visitor site that sees over 450,000 visitors a year. While Danielle focuses on the people and visitors, Max focuses on the site and its features including but not limited to: Mixed woodlands, Ponds, Meadows, Streams, Walking and cycling trails, play areas, and much more. Max's passion has always been in countryside management and finds great joy in starting an ambitious project, managing the works (or issues!) throughout and seeing the end product not only for the benefit of the site and its inhabitants but also the visitors who can enjoy and learn from the project and will go on to share what they have seen or learnt to others. Max has worked at Alice Holt for about 2.5 years now and still has much more to learn from this site with a rich history dating back to the Roman era, and is always looking for ways to tell the site's story in new and interesting ways.
 
