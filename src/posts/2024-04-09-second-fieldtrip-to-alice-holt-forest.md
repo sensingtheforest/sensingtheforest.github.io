@@ -39,7 +39,7 @@ I arrived just after 9.00am and began by going for a walk, mainly retracing step
 <div class="flex justify-center items-center">
 <figure>
 <img class="mt-4 mb-4" src="/assets/images/2024/04/02_20240402_111531__Alice_Holt_by_Peter_Batchelor.jpg" alt="Description photo 2?.">
-<figcaption><em>Alice Holt Forest: path from overspill carpark through deciduous woodland.</em></figcaption>
+<figcaption>Alice Holt Forest: path from overspill carpark through deciduous woodland.</figcaption>
 </figure>
 </div>
 
@@ -48,7 +48,7 @@ The air traffic from Heathrow, 30 miles away, is a further keynote—unsurprisin
 <div class="flex justify-center items-center">
 <figure>  
 <img class="mt-4 mb-4" src="/assets/images/2024/04/03_20240402_110209__Alice_Holt_by_Peter_Batchelor.jpg" alt="Description photo 3?.">
-<figcaption><em>Alice Holt Forest: path through denser coniferous woodland.</em></figcaption>
+<figcaption>Alice Holt Forest: path through denser coniferous woodland.</figcaption>
 </figure>
 </div>
 
@@ -57,7 +57,7 @@ There were far fewer people about than on our last visit, when I couldn’t find
 <div class="flex justify-center items-center">
 <figure>   
 <img class="mt-4 mb-4" src="/assets/images/2024/04/04_20240402_111449__Alice_Holt_by_Peter_Batchelor.jpg" alt="Description photo 4?.">
-<figcaption><em>Alice Holt Forest: meandering stream.</em></figcaption>
+<figcaption>Alice Holt Forest: meandering stream.</figcaption>
 </figure>
 </div>
 
@@ -66,7 +66,7 @@ Max and I met and spent a productive few hours talking about plans and likely re
 <div class="flex justify-center items-center">
 <figure>   
 <img class="mt-4 mb-4" src="/assets/images/2024/04/05_20240402_094729__Alice_Holt_by_Peter_Batchelor.jpg" alt="Description photo 5?.">
-<figcaption><em>Wide panorama of possible site for installations.</em></figcaption>
+<figcaption>Wide panorama of possible site for installations.</figcaption>
 </figure>
 </div>
 

@@ -61,3 +61,7 @@ h2 {
 	@apply pt-4 pb-2 text-3xl;
 }
 
+figcaption {
+	@apply text-sm italic;
+}
+
