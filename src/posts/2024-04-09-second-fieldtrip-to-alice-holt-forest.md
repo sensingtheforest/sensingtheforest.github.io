@@ -1,7 +1,7 @@
 ---
 title: Second Field Trip to Alice Holt Forest 
 date: 2024-04-09T08:00:00.000Z
-excerpt: We went for a second visit to the Alice Holt Forest to identify the best spots for our forthcoming artistic intervention in June.
+excerpt: We went for a second visit to the Alice Holt Forest to identify the best spots with the help of Max Gravestock for our forthcoming artistic intervention in June.
 author: peter-batchelor
 draft:
 seo:
