@@ -1,7 +1,7 @@
 ---
 title: Second Field Trip to Alice Holt Forest 
-date: 2024-04-09T10:00:00.000Z
-excerpt: We went for a second visit to the Alice Holt Forest to identify the best spots for our forthcoming artistic intervention.
+date: 2024-04-09T08:00:00.000Z
+excerpt: We went for a second visit to the Alice Holt Forest to identify the best spots for our forthcoming artistic intervention in June.
 author: peter-batchelor
 draft:
 seo:
@@ -14,6 +14,7 @@ images: # relative to /src/assets/images/
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: h-auto # optional. Default = h-48 md:h-1/3
 tags:
+  - audios
   - alice-holt-forest
   - announcements
   - artistic-interventions
