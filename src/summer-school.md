@@ -49,6 +49,7 @@ Thanks for your participation! Applications are now closed.
 
 <!-- **Deadline for applications**: January 15, 2024, AoE (Anywhere on Earth).-->
 
+
 ## Description
 
 The Sensing the Forest Summer School is here to provide an inclusive educational environment that serves state-of-the-art climate science, installation art, acoustic ecology, and environmental design.
@@ -85,6 +86,14 @@ This should be a unique collaborative experience and immersive learning environm
 ## Selection
 
 A rigorous selection process will be conducted by the Sensing the Forest team based on the strongest expressions of interest.
+
+## Selection Committee
+
+* Hazel Stone (Forestry England)
+* Johana Knowles (Forestry England)
+* Peter Batchelor (De Montfort University)
+* Luigi Marino (Queen Mary University of London)
+* Anna Xambó (Queen Mary University of London)
 
 ## Equality, Diversity and Inclusion
 
