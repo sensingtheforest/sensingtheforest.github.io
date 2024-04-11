@@ -91,7 +91,7 @@ Luigi Marino's work focuses on networks able to display relationships between hu
 
 [Hazel Stone (Forestry England)](https://uk.linkedin.com/in/hazelstone)
 
-Hazel Stone is the National Curator of Contemporary Art at Forestry England.
+Hazel Stone is the National Curator of Contemporary Art at Forestry England. Award-winning curator Hazel Stone has an established career that spans curating and commissioning contemporary art in the landscape, exhibition design, artist development, and learning. Her portfolio includes roles such as Curator of the Sidney Cooper Gallery, Director of Curious Planet, Lecturer and Arts Development Manager for the North of England for Forestry England, as well as Curator for Grizedale Forest. From 2016 to 2023, Hazel led the art programme for one of the largest outdoor galleries in the UK at Grizedale Forest, with over 50 sculptures in the landscape, maintaining and developing strategic partnerships to grow this nationally significant collection. She has initiated and supported a range of projects across the UK and internationally, bringing a wealth of experience, making her a driving force in the intersection of art, nature, and engagement. This expertise continues in her current role as National Curator of Contemporary Art for Forestry England, spearheading the development of contemporary art, architecture, and innovation in the nation’s forests through new commissions, publications, partnerships, residency programmes and touring exhibitions.
 
 {% endcols %}
 
