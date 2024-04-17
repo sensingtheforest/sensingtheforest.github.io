@@ -37,4 +37,4 @@ The *WP3 Public Conversations and Debate* was presented by me. In summary, we co
 
 The AB received very positively how the project is progressing, which is motivating for us the team to continue doing what we are doing in the same exciting and intense spirit! Mark mentioned that it sounds fantastic and really interesting to see so much interest in the summer school and that working with Freesound is a fantastic idea. Louise said that the project is very inspiring and that the team is doing a great job. Leigh praised the good work. 
 
-We are now clearly in the development phase with some anxiety on board about our forthcoming deliveries. The AB meeting has been very helpful to take a pulse of the project and obtaining fantastic feedback from the AB. Thank you to Louise, Leigh and Mark for your time and help!
+We are now clearly in the development phase with some anxiety on board about our forthcoming deliveries. The AB meeting has been very helpful to take a pulse of the project and obtaining fantastic feedback from the AB. Thank you to Louise, Leigh and Mark for your time, help and valuable feedback!
