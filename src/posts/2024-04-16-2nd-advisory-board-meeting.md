@@ -23,7 +23,7 @@ tags:
 
 *Photo: From left-right top-down, Mike Bell, Anna Xambó, Luigi Marino, Peter Batchelor, Mark Plumbley, Louise Fedotov-Clements, and Leigh Landy.*
 
-We had our 2nd Advisory Board (AB) Meeting on 11th April 2024. This meeting aimed to present the updates of the project to the AB and seek their feedback. We discussed where we are at the moment focusing on two of the three work packages: *WP1 Artistic Audio Ecology Intervention Concerning Forests and Climate Data* and *WP3 Public Conversations and Debate*. 
+We had our 2nd Advisory Board (AB) Meeting on 10th April 2024. This meeting aimed to present the updates of the project to the AB and seek their feedback. We discussed where we are at the moment focusing on two of the three work packages: *WP1 Artistic Audio Ecology Intervention Concerning Forests and Climate Data* and *WP3 Public Conversations and Debate*. 
 
 After short introductions, we started giving a quick overview of the project and updates. In particular, we welcomed the new collaborators Freesound, Locus Sonus and the University of Surrey as well as we introduced the new Co-Investigator Mike Bell (Forest Research) to the Advisory Board, who joined us in January 2024.
 
