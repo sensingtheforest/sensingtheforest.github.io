@@ -29,9 +29,7 @@ seo:
 
 [Dr Anna Xambó (PI, Queen Mary University of London)](https://annaxambo.me/)
 
-Anna Xambó is a researcher and musician. Her research and practice focus on building and evaluating interactive music systems for music creation and performance using human-computer interaction research. She is a Senior Lecturer in Sound and Music Computing and a member of the Centre for Digital Music (C4DM) at Queen Mary University of London.
-
-
+Anna Xambó is a researcher and musician. Her research and practice focus on building and evaluating interactive music systems for music creation and performance using human-computer interaction research. She is a Senior Lecturer in Sound and Music Computing and a member of the Centre for Digital Music (C4DM) at School of Electronic Engineering and Computer Science (EECS), Queen Mary University of London.
 
 {% endcols %}
 
@@ -160,40 +158,73 @@ Nick Wardlaw is the District Recreation Manager coving Visitor Centres in Forest
 {% cols "bg-gray-100 rounded-lg" %}
 
 
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/johana-knowles.jpg" alt="Photo of Johana Knowles"> 
+
+[Johana Knowles (Forestry England)](https://uk.linkedin.com/in/johana-knowles-51602722b)
+
+Johana Knowles is a Visitor Services Officer at the Alice Holt Forest. Johana works at Alice Holt Forest in the Visitor Centre and is very interested in improving how to communicate to the Alice Holt's visitors through on site interpretation and digital media. Alice Holt has a fascinating social and ecological history that she thinks enhances a visitor’s experience of this place. We are still learning how to tell this story but she believes artistic intervention is an important part of achieving that. Johana comes from an arts background and is currently completing a masters in Illustration at Kingston University. Her art practice seeks to foster a sense of shared identity through place. She wants to tell stories in exciting and dynamic ways, in the hope of changing the way people think about the world for the better.
+
+{% endcols %}
+
+{% endcolumns %}
+
+
+{% columns %}
+
+{% cols "bg-gray-100 rounded-lg" %}
+
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/matthew-wilkinson.jpg" alt="Photo of Matthew Wilkinson">
 
 [Dr Matthew Wilkinson (Advisor, Forest Research)](https://www.forestresearch.gov.uk/staff/matthew-wilkinson/)
 
 Matt Wilkinson is a Programme Manager of the Natural Capital Ecosystem Assessment (NCEA) and has been Co-Investigator of the project until January 2024. The focus of his research is to improve our understanding of forest carbon and greenhouse gas (GHG) balances and how they may be impacted by management, environmental and climate change. Matt’s particular work focuses on using a combination of surface flux techniques across a range of scales to understand the processes controlling C and GHG cycling within forest ecosystems. In addition to leading several GHG and forest monitoring related projects, he has managed the Straits Flux Research Site within the Alice Holt Research Forest for > ten years. Matt is also interested in developing new techniques and sensors for trace gas flux measurements and forest monitoring. Matt joined Forest Research in 2001. He graduated from the University of Wales, Aberystwyth in 1995 with a BSc (Hons) in Agriculture and the Environment and then obtained an MSc in Crop Production in the Changing Environment in 1996 from the University of Essex. He completed his PhD by Publication at the University of Portsmouth.
 
+{% endcols %}
+
+
+{% cols "bg-gray-100 rounded-lg" %}
+
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/kok-ho-huen.jpg" alt="Photo of Kok Ho Huen" >
+
+[Kok Ho Huen (Advisor, Queen Mary University of London)](https://www.qmul.ac.uk/eecs/people/profiles/huenho.html)
+
+
+Kok Ho Huen is Electronics Teaching Lab Manager and is a Technical Advisor of the project.
+
+<!--img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/zainab-tarki.jpg" alt="Photo of Zainab Tarki" -->
+
+[Mazharia Rahman (Advisor, Queen Mary University of London)](https://www.qmul.ac.uk/eecs/people/profiles/rahmanmazharia.html)
+
+Mazharia Rahman is an EECS Finance Assistant.
+
+
+<!--img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/zainab-tarki.jpg" alt="Photo of Zainab Tarki" -->
+
+[Zainab Tarki (Advisor, De Montfort University)](#)
+
+Zainab Tarki was the Finance Officer of the project from September 2023 until December 2024.
+
+
 
 {% endcols %}
 
 {% endcolumns %}
 
-{% columns %}
+
+<!-- {% columns %}
 
 {% cols "bg-gray-100 rounded-lg" %}
 
-<!--img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/zainab-tarki.jpg" alt="Photo of Zainab Tarki" -->
-
-[Zainab Tarki (De Montfort University)](#)
-
-Zainab Tarki is the Finance Officer of the project.
 
 {% endcols %}
 
 {% cols "bg-gray-100 rounded-lg" %}
 
-<!--img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/zainab-tarki.jpg" alt="Photo of Zainab Tarki" -->
-
-[Johana Knowles (Forestry England)](https://uk.linkedin.com/in/johana-knowles-51602722b)
-
-Jo Knowles is a Visitors Services Officer at the Alice Holt Forest.
 
 {% endcols %}
 
-{% endcolumns %}
+{% endcolumns %} -->
+
 
 
 {% endwrap %}
@@ -251,7 +282,7 @@ Prof Leigh Landy's research concerns electroacoustic musical production and musi
 
 ## Acknowledgements
 
-Gerard Roma (University of West London), Bret Battey (MTI2, DMU), Mike Baynham (University of Leeds), the Future Research Leaders 8 Cohort (DMU), Finella Bottomley (Leicester City Council), Tom Moore (DMU), Auwal Muktar Dodo (DMU), Gaia Rossetti (University of Nottingham), Lucy Gregson-Green (DMU), Meera Warrier (University of Leicester), Deborah Cartmell (DMU), Emma Vadher (DMU), Raffaella Villa (CEM, DMU), James Russell (CEM, DMU), Shushma Patel (CEM, DMU), Allan Taylor (LMS/CEM, DMU), James Andean (MTI2, DMU), Simon Atkinson (MTI2, DMU), John Young (MTI2, DMU), Janette Ratcliffe (DMU), Talent Acquisition Team (DMU), Krishna Vandra (TA, DMU), Emma Inch (TA, DMU), Ashiyah Banglawala (TA, DMU), Poonam Patel (HR, DMU), Monika Bednarczyk (HR, DMU), Val Milner (HR, DMU), Brijesh Thanki (CEM, DMU), Afzal Ghumra (DMU), Rachel Beeby (CEM, DMU), Lindsey Trent (CEM, DMU), Anne Galt (CEM, DMU), Zoe Cox (Forestry England), Jonathan McGloin (Forestry England), David Naylor (DMU), Shivalli (Leicester).
+Gerard Roma (University of West London), Bret Battey (MTI2, DMU), Mike Baynham (University of Leeds), the Future Research Leaders 8 Cohort (DMU), Finella Bottomley (Leicester City Council), Tom Moore (DMU), Auwal Muktar Dodo (DMU), Gaia Rossetti (University of Nottingham), Lucy Gregson-Green (DMU), Meera Warrier (University of Leicester), Deborah Cartmell (DMU), Emma Vadher (DMU), Raffaella Villa (CEM, DMU), James Russell (CEM, DMU), Shushma Patel (CEM, DMU), Allan Taylor (LMS/CEM, DMU), James Andean (MTI2, DMU), Simon Atkinson (MTI2, DMU), John Young (MTI2, DMU), Janette Ratcliffe (DMU), Talent Acquisition Team (DMU), Krishna Vandra (TA, DMU), Emma Inch (TA, DMU), Ashiyah Banglawala (TA, DMU), Poonam Patel (HR, DMU), Monika Bednarczyk (HR, DMU), Val Milner (HR, DMU), Brijesh Thanki (CEM, DMU), Afzal Ghumra (DMU), Rachel Beeby (CEM, DMU), Lindsey Trent (CEM, DMU), Anne Galt (CEM, DMU), Zoe Cox (Forestry England), Jonathan McGloin (Forestry England), David Naylor (DMU), Shivalli (Leicester), Julie Macdonald (QMUL), Hayley Cork (QMUL), Sharon Cordin (QMUL), Jasmina Bolfek-Radovani (QMUL), Elzbieta Poplawska (QMUL), Jan Clarke (QMUL), Laura Kennard (QMUL).
 
 
 
