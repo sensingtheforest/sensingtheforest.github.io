@@ -45,3 +45,12 @@ The font used is [Junction](https://www.theleagueofmoveabletype.com/junction), a
 
 [\[PNG\]](/assets/images/logo/logo-sensingtheforest-duochrome-blackgreen-horizontal.png) [\[SVG\]](/assets/images/logo/logo-sensingtheforest-duochrome-blackgreen-horizontal.svg)
 
+{% svg "logo-sensingtheforest-monochrome-black-horizontal", "mt-1 mr-2 h-15 float-none" %}
+
+[\[PNG\]](/assets/images/logo/logo-sensingtheforest-monochrome-black-horizontal.png) [\[SVG\]](/assets/images/logo/logo-sensingtheforest-monochrome-black-horizontal.svg)
+
+{% svg "logo-sensingtheforest-monochrome-black-horizontal-website", "mt-1 mr-2 h-15 float-none" %}
+
+[\[PNG\]](/assets/images/logo/logo-sensingtheforest-monochrome-black-horizontal-website.png) [\[SVG\]](/assets/images/logo/logo-sensingtheforest-monochrome-black-horizontal-website.svg)
+
+
