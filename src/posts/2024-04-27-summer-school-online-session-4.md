@@ -66,7 +66,7 @@ In this presentation, Johana Knowles presents core concepts related to audience 
 
 The group discussion was hosted by Hazel Stone and Peter Batchelor. The brief was: 
 
-> to share ideas on multi-artist exhibitions that could maybe inform the curating of the summer school exhibition as an outdoor experience to arts and non-arts audiences. 
+> Share ideas on multi-artist exhibitions that could maybe inform the curating of the summer school exhibition as an outdoor experience to arts and non-arts audiences. 
 
 What are the different strategies for curating? The summer school participants brought different ideas to the table. For example, 5 women composers in Istanbul were invited to create 5 different compositions about the same location, to then make a final composition embedding the 5 perspectives, which is seen as a transformative experience for the composers. 
 
