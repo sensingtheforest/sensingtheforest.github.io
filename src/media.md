@@ -18,6 +18,93 @@ We are committed to continuously improving the future Sensing the Forest events.
 
 {% endwrap %}
 
+<!-- //-->
+
+{% wrap "px-2 mt-8 rounded-lg pb-2 border border-gray-300 bg-gray-200" %}
+
+  {% columns %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
+      {% youtube "PVdjfxjYDIo", "Placemaking and Audience by Johana Knowles (Forestry England)" %}
+  {% endcols %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
+
+  ## Johana Knowles
+
+  ### Sensing the Forest Summer School Presentation: *Placemaking and Audience*
+
+  Related content: 
+
+  * [Summer School Online Session 4](/2024/05/01/summer-school-online-session-4/)
+  * [Second Field Trip to Alice Holt Forest](/2024/04/09/second-field-trip-to-alice-holt-forest/)
+  * [Summer School](/summer-school/)
+
+  {% endcols %}
+
+  {% endcolumns %}
+
+{% endwrap %}
+
+
+<!-- //-->
+
+{% wrap "px-2 mt-8 rounded-lg pb-2 border border-gray-300 bg-gray-200" %}
+
+  {% columns %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
+      {% youtube "EzGd2K_lBPI", "Approaches to Creative Responses in the Landscape by Hazel Stone (Forestry England)" %}
+  {% endcols %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
+
+  ## Hazel Stone
+
+  ### Sensing the Forest Summer School Presentation: *Approaches to Creative Responses in the Landscape*
+
+  Related content: 
+
+  * [Summer School Online Session 4](/2024/05/01/summer-school-online-session-4/)
+  * [Second Field Trip to Alice Holt Forest](/2024/04/09/second-field-trip-to-alice-holt-forest/)
+  * [Summer School](/summer-school/)
+
+  {% endcols %}
+
+  {% endcolumns %}
+
+{% endwrap %}
+
+<!-- //-->
+
+{% wrap "px-2 mt-8 rounded-lg pb-2 border border-gray-300 bg-gray-200" %}
+
+  {% columns %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
+      {% youtube "5lwzz32v5XU", "Public Sound Installation Art by Peter Batchelor (De Montfort University)" %}
+  {% endcols %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
+
+  ## Peter Batchelor
+
+  ### Sensing the Forest Summer School Presentation: *Public Sound Installation Art*
+
+  Related content: 
+
+  * [Summer School Online Session 3](/2024/04/26/summer-school-online-session-3/)
+  * [Second Field Trip to Alice Holt Forest](/2024/04/09/second-field-trip-to-alice-holt-forest/)
+  * [Summer School](/summer-school/)
+
+  {% endcols %}
+
+  {% endcolumns %}
+
+{% endwrap %}
+
+<!-- //-->
+
 {% wrap "px-2 mt-8 rounded-lg pb-2 border border-gray-300 bg-gray-200" %}
 
   {% columns %}
@@ -35,6 +122,7 @@ We are committed to continuously improving the future Sensing the Forest events.
   Related content: 
 
   * [Summer School Online Session 2](/2024/03/08/summer-school-online-session-2/)
+  * [An Introduction to Alice Holt Forest](/2023/11/22/an-introduction-to-alice-holt-forest/)
   * [Summer School](/summer-school/)
 
   {% endcols %}
