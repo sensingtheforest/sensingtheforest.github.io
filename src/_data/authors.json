@@ -243,6 +243,67 @@
 			}
 		]
 	},	
+	{
+		"slug": "hazel-stone",
+		"name": "Hazel Stone",
+		"image": "/assets/images/authors/hazel-stone.jpg",
+		"bio": "I am the National Curator of Contemporary Art at Forestry England. I have an established career that spans curating and commissioning contemporary art in the landscape, exhibition design, artist development, and learning. My portfolio includes roles such as Curator of the Sidney Cooper Gallery, Director of Curious Planet, Lecturer and Arts Development Manager for the North of England for Forestry England, as well as Curator for Grizedale Forest.",
+		"companyWebsites": [
+			{
+				"label": "LinkedIn webpage",
+				"url": "https://uk.linkedin.com/in/hazelstone",
+				"email": ""
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "",
+				"url": ""
+			},
+			{
+				"label": "",
+				"url": ""
+			},
+			{
+				"label": "",
+				"url": ""
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "dribbble",
+				"url": ""
+			},
+			{
+				"label": "github",
+				"url": ""
+			},
+			{
+				"label": "instagram",
+				"url": ""
+			},
+			{
+				"label": "linkedin",
+				"url": ""
+			},
+			{
+				"label": "piedpiper",
+				"url": ""
+			},
+			{
+				"label": "pinterest",
+				"url": ""
+			},
+			{
+				"label": "twitter",
+				"url": ""
+			},
+			{
+				"label": "youtube",
+				"url": ""
+			}
+		]
+	},	
 
 	{
 		"slug": "shane-robinson",
