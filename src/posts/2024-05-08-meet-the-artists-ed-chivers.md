@@ -29,7 +29,7 @@ tags:
 
 ## How do you describe your practice?
 
-I am a composer, performer and sound artist based in Brighton, UK. My work explores the interplay between the natural and technological worlds, such as using lightning strikes to generate musical patterns, and seismic activity. I am a member of the bands Fujiya & Miyagi, and AK/DK, with whom I tour internationally. I have composed music for contemporary dance, theatre, and short films.
+My tools of choice are technical and I love to experiment with emerging technologies, however the aesthetic output I look for is always heavily organic. Whether in the recording studio or gallery; I strive to embrace nature's chaos and the raw physicality of sound.
 
 ## What are your influences, what inspires you?
 
