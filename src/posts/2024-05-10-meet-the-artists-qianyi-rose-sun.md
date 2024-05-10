@@ -15,10 +15,10 @@ images: # relative to /src/assets/images/
   height: h-auto # optional. Default = h-48 md:h-1/3
 tags:
   - artificial-intelligence
+  - computational-ethnomusicology
   - data-science
   - interactive-systems
   - interviews
-  - computational-ethnomusicology
   - meet-the-artists
   - robotics
   - summer-school
