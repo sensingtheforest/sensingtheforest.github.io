@@ -60,13 +60,13 @@ You can [download the route of Bentley Station to Alice Holt walk (PDF)](https:/
 
 ## Kick-off meeting at the Alice Holt Café
 
-Meeting in the Café around 10.00-10.30 was our first landmark. We had a clear plan of splitting into smaller groups with meeting points throughout the day. Pete started in the early morning to have enough time to set up and test his early multichannel sound installation prototype. Nick, Danielle and I had an outdoor meeting over coffee and under the sun! 
+Meeting in the Café around 10.00-10.30 was our first landmark. We had a clear plan of splitting into smaller groups with meeting points throughout the day. Pete started in the early morning to have enough time to set up and test his initial multichannel sound installation prototype. Nick, Danielle and I had an outdoor meeting over coffee and under the sun! 
 
 ## Testing Luigi's *Streamer I* in the meadow
 
 When Luigi arrived, we left Nick and Danielle and went to meet Max to test Luigi's streamer prototype, in particular, Internet connectivity with an O2 SIM card. Jack, Goose and Gimly also joined us. We went to a meadow that has potential due to its sun exposure and biodiversity. 
 
-. Even though we inspected the area as methodically as possible, the dongle was unsuccessful in getting any signal. However, we experienced the portability of the streamer, and how the beautiful Swiss-inspired design meticulously crafted by Luigi will fit perfectly with the Alice Holt forest environment.
+Even though we inspected the area as methodically as possible, the dongle was unsuccessful in getting any signal. However, we experienced the portability of the streamer, and how the beautiful Swiss-inspired design meticulously crafted by Luigi will fit perfectly with the Alice Holt forest environment.
 
 <div class="flex justify-center items-center">
 <figure>
@@ -105,7 +105,7 @@ Pete brought several questions to the Alice Holt team, such as a potential workf
 </figure>
 </div>
 
-Pete delighted our ears with different texture-based, granular sonic materials. It felt immersive and unique already! Luigi kept exploring the Internet connectivity of the area with Streamer I, to find that it was again weak or null in this spot.
+Pete delighted our ears with different texture-based, granular sonic materials. It felt immersive and unique already! Luigi kept exploring the Internet connectivity of the area with Streamer I, to find that it was again weak or null in this spot with this set-up.
 
 ## Meeting lunch at the Visitors Centre
 
@@ -127,22 +127,22 @@ After lunch, we split again into smaller groups. Luigi and Danielle went to a se
 
 ## Streaming from the second meadow
 
-Pete and I went back to the Visitors Centre. At that moment, Luigi got a strong signal from O2 from the second meadow and started to successfully stream natural soundscapes! We enjoyed the streaming for a few minutes and this was the ultimate test that it works if there is a good internet signal. The streamer was left alone for some time. However, the streaming stopped working after a few minutes. Luigi went back to collect it and prepare it for the next expedition.
+Pete and I went back to the Visitors Centre. At that moment, Luigi got a strong signal from O2 from the second meadow and started to successfully stream natural soundscapes! This was epic! We enjoyed the streaming for a few minutes and this was the ultimate test that it works if there is a good internet signal. The streamer was left alone for some time. However, the streaming stopped working after a few minutes. Luigi went back to collect it and prepare it for the next expedition.
 
 
 ## Closing and final discussions
 
-We are in the development phase, where typically there are more questions than answers and several challenges to solve. Still, we felt that this field trip was successful with our goals and has shed light on our next steps.
+We are in the development phase, where typically there are more questions than answers and several challenges to solve. Still, we felt that this field trip was successful with several achievements and has shed light on our next steps.
 
-**Streamer** - We reflected with the team that we should try a different dongle with a longer and stronger antenna, as well as investigate different SIM cards (02, Vodafone, Three and EE) systematically. Besides, we need to place a sign near the streamer so that we inform visitors about the scientific purpose of the device. Also, we should coordinate with the site managers on how to take it away once it dies out - at least for this first version that is not self-sustained.
+**Streamer** - We reflected with the team that we should investigate different SIM cards (02, Vodafone, Three and EE) systematically, as well as try a different dongle with a longer and stronger antenna. Besides, we need to place a sign near the streamer so that we inform visitors about the scientific purpose of the device. Also, we should coordinate with the site management team on how to take it away once it dies out - at least for this first version that is not self-sustained.
 
 **Sound installation** - After talking with the Alice Holt team, we had to discard the original idea of replacing the battery every week because it is unsustainable. We need to assess and find more sustainable solutions. We were happy that the Alice Holt team could support us by providing a big wooden box to hide and centralise all the electronics and a presumably a bulky battery, which should also have an informative sign for the passers-by. Apart from powering the off-grid system, it will be a challenge to hang the speakers in different canopy trees that are far away from each other. More formal measurements of the distance among the trees should be considered, perhaps using a laser or something alike. Reassuring the area of the Willows Green Trail for Pete's multichannel sound installation and the summer school art exhibition was an important milestone.
 
-We concluded the session as we were caught in the rain. While walking back to the Bentley train station, with all the excitement of the day combined with the rain drops under my umbrella (which is one of my favourite sounds!), after crossing A325, I took the wrong path. This alternative path still brought me to the station, so it felt like 'all roads lead to Bentley'! 
+We concluded the session while we were caught in the rain. With all the excitement of the day combined with listening to the rain drops under the umbrella (which is one of my favourite sounds!), while walking back to the Bentley train station and after crossing A325, I took the wrong path. This alternative path still brought me to the station, so it felt like 'all roads lead to Bentley'! 
 
 Many thanks to Max, Danielle, Nick and Jack for their time, enthusiasm and help during this incredible day!
 
-
+<!--Tutorial used for Vimeo full width: https://stackoverflow.com/questions/42858199/vimeo-full-width -->
 
 
 
