@@ -46,17 +46,19 @@ On Wednesday 1 May we went for a third field trip to Alice Holt to prepare for t
 </figure>
 </div>
 
-[The Shipwrights Way](https://www.hants.gov.uk/thingstodo/countryside/walking/shipwrightsway), which goes from Alice Holt Forest to Portsmouth, has been reported by the Hampshire County Council as a *"long-distance route linking villages and towns in east Hampshire through some beautiful countryside on their doorstep"*. The tarmac path found at the beginning of the route seems to belong to a Roman Road connecting Winchester to London. As part of the Shipwrights Way, there is a leg of the way (section 1) that goes [from the Bentley Rail Station to the Alice Holt Forest](https://www.hants.gov.uk/thingstodo/countryside/walking/shipwrightsway-bentleystation). Promising!
+[The Shipwrights Way](https://www.hants.gov.uk/thingstodo/countryside/walking/shipwrightsway), which goes from Alice Holt Forest to Portsmouth, has been reported by the Hampshire County Council as a *"long-distance route linking villages and towns in east Hampshire through some beautiful countryside on their doorstep"*. As part of the Shipwrights Way, there is a leg of the way (section 1) that goes [from the Bentley Rail Station to the Alice Holt Forest](https://www.hants.gov.uk/thingstodo/countryside/walking/shipwrightsway-bentleystation). Promising! The tarmac path found at the beginning of the route seems to belong to a Roman Road connecting Winchester to London. 
 
 As shown in the below map, it is a 2-mile-long path. The weather was clear and sunny, so I found the walk not only inspiring but doable. The path seems well-known in the area: there were also cyclists, runners and other walkers on the way. My impression is that once you know the path, it should take down to 30-35-minute walk! It is also important to wear layers because it is still a long walk.
 
-You can [download the route of Bentley Station to Alice Holt walk (PDF)](https://documents.hants.gov.uk/ccbs/countryside/shipwrightsway-section1.pdf) from the Hampshire County Council website, which can be complemented with an interactive map from the Council website or Google Maps.
+You can [download the route of Bentley Station to Alice Holt walk (PDF)](https://documents.hants.gov.uk/ccbs/countryside/shipwrightsway-section1.pdf) from the Hampshire County Council website, which can be complemented with an interactive map from the [Council website](https://www.hants.gov.uk/thingstodo/countryside/walking/shipwrightsway-bentleystation) or Google Maps (see below).
 
 <br />
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d10005.67420142766!2d-0.8638938268766078!3d51.17450814782929!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x48742e2181363d17%3A0xdae84f02e9bdbb65!2sBentley%2C%20Farnham%20GU10%205JZ!3m2!1d51.181293399999994!2d-0.8682042999999999!4m5!1s0x487431fa11078965%3A0x6a6ba1e053f8c057!2sAlice%20Holt%20Forest!3m2!1d51.168613199999996!2d-0.8385747!5e0!3m2!1sen!2suk!4v1715446301622!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <br />
+
+<p>Interactive Google map of the route of Bentley Station to Alice Holt Forest.</p>
 
 ## Kick-off meeting at the Alice Holt Café
 
@@ -66,7 +68,7 @@ Meeting in the Café around 10.00-10.30 was our first landmark. We had a clear p
 
 When Luigi arrived, we left Nick and Danielle and went to meet Max to test Luigi's streamer prototype, in particular, Internet connectivity with an O2 SIM card. Jack, Goose and Gimly also joined us. We went to a meadow that has potential due to its sun exposure and biodiversity. 
 
-Even though we inspected the area as methodically as possible, the dongle was unsuccessful in getting any signal. However, we experienced the portability of the streamer, and how the beautiful Swiss-inspired design meticulously crafted by Luigi will fit perfectly with the Alice Holt forest environment.
+Even though we inspected the area as methodically as possible, the dongle was unsuccessful in getting any signal. However, we experienced the portability of the streamer, and how the beautiful Swiss-inspired design meticulously crafted by Luigi fits perfectly with the Alice Holt forest environment.
 
 <div class="flex justify-center items-center">
 <figure>
@@ -105,7 +107,7 @@ Pete brought several questions to the Alice Holt team, such as a potential workf
 </figure>
 </div>
 
-Pete delighted our ears with different texture-based, granular sonic materials. It felt immersive and unique already! Luigi kept exploring the Internet connectivity of the area with Streamer I, to find that it was again weak or null in this spot with this set-up.
+Pete delighted our ears with different texture-based, granular sonic materials. It felt immersive and unique already! Luigi kept exploring the Internet connectivity of the area with *Streamer I*, to find that it was again weak or null in this spot with this set-up.
 
 ## Meeting lunch at the Visitors Centre
 
