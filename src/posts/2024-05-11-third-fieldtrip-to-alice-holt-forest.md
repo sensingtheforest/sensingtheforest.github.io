@@ -32,7 +32,7 @@ tags:
 
 <br />
 
-*Group Photo: From left-right, Max Gravestock, Anna Xambó, Luigi Marino, Peter Batchelor,  Goose, Danielle Grimsey, Jack, and Gimly.*
+*Group Photo: From left-right, Max Gravestock, Anna Xambó, Luigi Marino, Peter Batchelor,  Goose, Danielle Grimsey, Jack Diprose, and Gimli.*
 
 
 On Wednesday 1 May we went for a third field trip to Alice Holt to prepare for the summer school and test early prototypes of Luigi’s streamer and Pete’s multichannel sound installation. I also wanted to see if it is doable to walk from Bentley train station to  Alice Holt Forest so that I can convince Londoners to come by train from Waterloo train station for the opening of the exhibition on the 20th of June!
@@ -66,7 +66,7 @@ Meeting in the Café around 10.00-10.30 was our first landmark. We had a clear p
 
 ## Testing Luigi's *Streamer I* in the meadow
 
-When Luigi arrived, we left Nick and Danielle and went to meet Max to test Luigi's streamer prototype, in particular, Internet connectivity with an O2 SIM card. Jack, Goose and Gimly also joined us. We went to a meadow that has potential due to its sun exposure and biodiversity. 
+When Luigi arrived, we left Nick and Danielle and went to meet Max to test Luigi's streamer prototype, in particular, Internet connectivity with an O2 SIM card. Jack, Goose and Gimli also joined us. We went to a meadow that has potential due to its sun exposure and biodiversity. 
 
 Even though we inspected the area as methodically as possible, the dongle was unsuccessful in getting any signal. However, we experienced the portability of the streamer, and how the beautiful Swiss-inspired design meticulously crafted by Luigi fits perfectly with the Alice Holt forest environment.
 
@@ -88,7 +88,7 @@ During the walk, Jack and Max pointed us to the seasonal changes in the flora an
 
 ## Testing Pete's multichannel sound installation in the Willows Green Trail
 
-Around 12.30pm, we said bye to Jack and Gimly and headed to the Willows Green Trail, where Pete was testing his multichannel sound installation. Here, Nick and Danielle joined us. Pete scattered eight speakers with long cables, offering an immersive audio experience in the wild. The amps (D-class) did a great job!
+Around 12.30pm, we said bye to Jack and Gimli and headed to the Willows Green Trail, where Pete was testing his multichannel sound installation. Here, Nick and Danielle joined us. Pete scattered eight speakers with long cables, offering an immersive audio experience in the wild. The amps (D-class) did a great job!
 
 <div class="flex justify-center items-center">
 <figure>
