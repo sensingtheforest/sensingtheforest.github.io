@@ -1,0 +1,53 @@
+---
+title: Meet the Artists - Austin Blanton
+date: 2024-05-15T10:00:00.000Z
+excerpt: Meet the artists selected for the summer school. Today we present the work of Austin Blanton.
+author: hazel-stone
+draft: 
+seo:
+  title:
+  description:
+  image: 2024/05/Austin-Blanton.jpg
+images: # relative to /src/assets/images/
+  feature: 2024/05/Austin-Blanton.jpg
+  thumb: 2024/05/Austin-Blanton.jpg
+  align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
+  height: h-auto # optional. Default = h-48 md:h-1/3
+tags:
+  - anthropocene
+  - biosignals
+  - interviews
+  - meet-the-artists
+  - mycology
+  - sonification
+  - summer-school
+
+---
+
+**About Austin Blanton**: .
+
+
+## How do you describe your practice?
+
+I'm a musical artist and machine learning practitioner. My latest endeavors are inspired by the natural world - plants, fungi, lichen, symbionts, and the entangled web of creating worlds together. I lean into the paradox of integrating electronic music into natural surroundings. This conflict between technology and nature invites ruminations on the massive changes of the Anthropocene, the precarity and dissociations of global capitalism, and our search for balance and new stories of more-than-human progress.
+
+## What are your influences, what inspires you?
+
+I'm inspired by images of slow invisible growth, like tree roots and mycelium underground; by natural examples of radical personal change - metamorphosis, chrysalises, tadpoles; and by visions of mutualism and interdependence as an expression of reality's fundamental substance - love.
+
+## Where are you based and what is your background in terms of education?
+
+I am based in Philadelphia, PA, USA. I have a bachelors in computer science from University of Virginia.
+
+## What does engaging with nature mean to you as an artist?
+
+Engaging with nature means reconnecting with ourselves. We are entangled with every living thing in this fragile bubble. We have constructed a false dichotomy of humans/nature, us/them, that is rooted in tribalism and fear. I want to imagine futures where we are integrated into the fabric of nature as shepherds of all life.
+
+
+## What does it mean to be selected for the summer school?
+
+I've lately been experimenting with using an Arduino to collect plant biosignals for sonification. The Sensing the Forest Summer School will encourage me to explore this thread deeper, as I look to expand into multi-plant collaborative interactive installations to encourage cross-species connections and deeper awareness.
+
+## What are your website and social media handles?
+
+* [art.fungus @ Instagram](https://www.instagram.com/art.fungus/)
