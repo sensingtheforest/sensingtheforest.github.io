@@ -177,7 +177,7 @@ Johana Knowles is a Visitor Services Officer at the Alice Holt Forest. Johana wo
 
 [Dr Matthew Wilkinson (Advisor, Forest Research)](https://www.forestresearch.gov.uk/staff/matthew-wilkinson/)
 
-Matt Wilkinson is a Programme Manager of the Natural Capital Ecosystem Assessment (NCEA) and has been Co-Investigator of the project until January 2024. The focus of his research is to improve our understanding of forest carbon and greenhouse gas (GHG) balances and how they may be impacted by management, environmental and climate change. Matt’s particular work focuses on using a combination of surface flux techniques across a range of scales to understand the processes controlling C and GHG cycling within forest ecosystems. In addition to leading several GHG and forest monitoring related projects, he has managed the Straits Flux Research Site within the Alice Holt Research Forest for > ten years. Matt is also interested in developing new techniques and sensors for trace gas flux measurements and forest monitoring. Matt joined Forest Research in 2001. He graduated from the University of Wales, Aberystwyth in 1995 with a BSc (Hons) in Agriculture and the Environment and then obtained an MSc in Crop Production in the Changing Environment in 1996 from the University of Essex. He completed his PhD by Publication at the University of Portsmouth.
+Matt Wilkinson is a Programme Manager of the Natural Capital Ecosystem Assessment (NCEA),  has been Co-Investigator of the project until January 2024 and is currently a project advisor. The focus of his research is to improve our understanding of forest carbon and greenhouse gas (GHG) balances and how they may be impacted by management, environmental and climate change. Matt’s particular work focuses on using a combination of surface flux techniques across a range of scales to understand the processes controlling C and GHG cycling within forest ecosystems. In addition to leading several GHG and forest monitoring related projects, he has managed the Straits Flux Research Site within the Alice Holt Research Forest for > ten years. Matt is also interested in developing new techniques and sensors for trace gas flux measurements and forest monitoring. Matt joined Forest Research in 2001. He graduated from the University of Wales, Aberystwyth in 1995 with a BSc (Hons) in Agriculture and the Environment and then obtained an MSc in Crop Production in the Changing Environment in 1996 from the University of Essex. He completed his PhD by Publication at the University of Portsmouth.
 
 {% endcols %}
 
@@ -209,6 +209,28 @@ Zainab Tarki was the Finance Officer of the project from September 2023 until De
 {% endcols %}
 
 {% endcolumns %}
+
+
+{% columns %}
+
+{% cols "bg-gray-100 rounded-lg" %}
+
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/gerard-roma.jpg" alt="Photo of Gerard Roma" >
+
+[Gerard Roma (Advisor, University of West London)](https://www.uwl.ac.uk/staff/gerard-roma)
+
+Gerard Roma has extensive experience in research and development in the field of sound and music computing and is a Technical Advisor of the project. He is also a practitioner in electronic and computer music. His research interests include audio analysis and synthesis, digital musical instruments, intelligent audio processing, audio source separation and environmental sound recognition.
+
+{% endcols %}
+
+{% cols "bg-gray-100 rounded-lg" %}
+
+
+
+{% endcols %}
+
+{% endcolumns %}
+
 
 
 <!-- {% columns %}
@@ -282,7 +304,7 @@ Prof Leigh Landy's research concerns electroacoustic musical production and musi
 
 ## Acknowledgements
 
-Gerard Roma (University of West London), Bret Battey (MTI2, DMU), Mike Baynham (University of Leeds), the Future Research Leaders 8 Cohort (DMU), Finella Bottomley (Leicester City Council), Tom Moore (DMU), Auwal Muktar Dodo (DMU), Gaia Rossetti (University of Nottingham), Lucy Gregson-Green (DMU), Meera Warrier (University of Leicester), Deborah Cartmell (DMU), Emma Vadher (DMU), Raffaella Villa (CEM, DMU), James Russell (CEM, DMU), Shushma Patel (CEM, DMU), Allan Taylor (LMS/CEM, DMU), James Andean (MTI2, DMU), Simon Atkinson (MTI2, DMU), John Young (MTI2, DMU), Janette Ratcliffe (DMU), Talent Acquisition Team (DMU), Krishna Vandra (TA, DMU), Emma Inch (TA, DMU), Ashiyah Banglawala (TA, DMU), Poonam Patel (HR, DMU), Monika Bednarczyk (HR, DMU), Val Milner (HR, DMU), Brijesh Thanki (CEM, DMU), Afzal Ghumra (DMU), Rachel Beeby (CEM, DMU), Lindsey Trent (CEM, DMU), Anne Galt (CEM, DMU), Zoe Cox (Forestry England), Jonathan McGloin (Forestry England), David Naylor (DMU), Shivalli (Leicester), Julie Macdonald (QMUL), Hayley Cork (QMUL), Sharon Cordin (QMUL), Jasmina Bolfek-Radovani (QMUL), Elzbieta Poplawska (QMUL), Jan Clarke (QMUL), Laura Kennard (QMUL), Annie Lewis (QMUL), Serena Bancroft (QMUL), Tania Sultana (QMUL), Jenny Martin (DMU), Gemma Goodman (DMU).
+Bret Battey (MTI2, DMU), Mike Baynham (University of Leeds), the Future Research Leaders 8 Cohort (DMU), Finella Bottomley (Leicester City Council), Tom Moore (DMU), Auwal Muktar Dodo (DMU), Gaia Rossetti (University of Nottingham), Lucy Gregson-Green (DMU), Meera Warrier (University of Leicester), Deborah Cartmell (DMU), Emma Vadher (DMU), Raffaella Villa (CEM, DMU), James Russell (CEM, DMU), Shushma Patel (CEM, DMU), Allan Taylor (LMS/CEM, DMU), James Andean (MTI2, DMU), Simon Atkinson (MTI2, DMU), John Young (MTI2, DMU), Janette Ratcliffe (DMU), Talent Acquisition Team (DMU), Krishna Vandra (TA, DMU), Emma Inch (TA, DMU), Ashiyah Banglawala (TA, DMU), Poonam Patel (HR, DMU), Monika Bednarczyk (HR, DMU), Val Milner (HR, DMU), Brijesh Thanki (CEM, DMU), Afzal Ghumra (DMU), Rachel Beeby (CEM, DMU), Lindsey Trent (CEM, DMU), Anne Galt (CEM, DMU), Zoe Cox (Forestry England), Jonathan McGloin (Forestry England), David Naylor (DMU), Shivalli (Leicester), Julie Macdonald (QMUL), Hayley Cork (QMUL), Sharon Cordin (QMUL), Jasmina Bolfek-Radovani (QMUL), Elzbieta Poplawska (QMUL), Jan Clarke (QMUL), Laura Kennard (QMUL), Annie Lewis (QMUL), Serena Bancroft (QMUL), Tania Sultana (QMUL), Jenny Martin (DMU), Gemma Goodman (DMU).
 
 
 
