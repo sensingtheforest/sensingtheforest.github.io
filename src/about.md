@@ -225,7 +225,11 @@ Gerard Roma has extensive experience in research and development in the field of
 
 {% cols "bg-gray-100 rounded-lg" %}
 
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/frederic-font.jpg" alt="Photo of Frederic Font" >
 
+[Frederic Font (Advisor, Universitat Pompeu Fabra)](https://ffont.github.io/)
+
+Frederic Font is a senior researcher at Phonos, a pioneering centre in the field of music technology research associated with the Music Technology Group of Universitat Pompeu Fabra, Barcelona, and is a Technical Advisor of the project. At the Music Technology Group, he leads the Freesound project and all Freesound-related research. 
 
 {% endcols %}
 
