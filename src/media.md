@@ -5,7 +5,7 @@ layout: page
 eleventyNavigation:
   key: main
   title: Media # as it will appear in the nav
-  order: 5 # order to display in the nav
+  order: 6 # order to display in the nav
 seo:
   title: Media # overrides 'title' above on both Page and META
   description: Explore the media outputs of the project (seminar series, presentations...)
