@@ -22,7 +22,7 @@ tags:
 
 ---
 
-**About Ed Chivers**: [Ed Chivers](http://edchivers.co.uk) is a composer, performer and sound artist based in Brighton, UK. His recent work explores the interplay between the natural and technological worlds, such as using lightning strikes and seismic activity to generate musical patterns. He is a member of the bands [Fujiya & Miyagi](https://www.fujiya-miyagi.co.uk/), and [AK/DK](https://akdk.bandcamp.com/music), with whom he tours internationally. He has composed music for contemporary dance, theatre, and short films.
+**About**: [Ed Chivers](http://edchivers.co.uk) is a composer, performer and sound artist based in Brighton, UK. His recent work explores the interplay between the natural and technological worlds, such as using lightning strikes and seismic activity to generate musical patterns. He is a member of the bands [Fujiya & Miyagi](https://www.fujiya-miyagi.co.uk/), and [AK/DK](https://akdk.bandcamp.com/music), with whom he tours internationally. He has composed music for contemporary dance, theatre, and short films.
 
 
 ## How do you describe your practice?
