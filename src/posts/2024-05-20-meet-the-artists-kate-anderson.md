@@ -58,5 +58,5 @@ I’m intrigued about the technology behind the data collection, which is quite 
 
 * [Personal website](http://www.kateanderson.co.uk/)
 * [@kateandersonjack @ Instagram](https://www.instagram.com/kateandersonjack/)
-* [@anderscone @ Twitter/X](https://www.instagram.com/anderscone/)
+* [@anderscone @ Twitter/X](https://www.twitter.com/anderscone/)
 
