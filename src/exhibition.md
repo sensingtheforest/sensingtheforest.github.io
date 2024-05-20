@@ -18,14 +18,14 @@ heroSettings:
     desktop: # leave blank to inherit "mobile" height (default = full screen)
   headingText: Your Sonic Forest
   headingTextColor: text-white # text-gray-800 # default = text-white (can use any TailwindCSS text-[color]-[xxx])
-  subheadingText: <strong>Art event</strong><br />Thursday 20th June 11am-3pm<br />Alice Holt Forest
+  subheadingText: <strong>Art event</strong><br />Thursday 20th June 11am-3pm<br />Alice Holt Forest, GU10 4LS, Farnham
   subheadingTextColor: #text-black-700 # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
   #buttonText: Apply # no button generated if left blank
   #buttonURL: https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-summer-school-application # full url required. Example: https://thisdomain.com/somepage/
   buttonTextColor: # leave blank to inherit from /src/_data/colors.buttonCustom or buttonDefault
   buttonBgColor:  # leave blank to inherit from /src/_data/colors.buttonCustom.bg or buttonDefault.bg
   bg:
-    image: exhibition/Peter-Batchelor-testing-multichannel-sound-installation-Alice-Holt-forest.jpg # image URL # image URL
+    image: exhibition/Peter-Batchelor-bird-boxes-speakers.jpg # image URL # image URL
     imagePosition: left # options = left, center, right
     imageOpacity: opacity-50 # options = opacity-25, opacity-50, opacity-75, opacity-100 (default)
     imageOpacityFilter: black # options = black or white (default) -> really depends on your background image
@@ -45,7 +45,8 @@ heroSettings:
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
-:fire: You can find more info and register for the free event on the following Eventbrite link: Coming soon :fire:
+:fire: You can find more info and register for the free event on the following Eventbrite link: 
+[https://www.eventbrite.com/e/your-sonic-forest-tickets-908706935907](https://www.eventbrite.com/e/your-sonic-forest-tickets-908706935907) :fire:
 
 :fire: [Subscribe to our announce mailing list](https://groups.google.com/g/sensingtheforest-announce) :fire: 
 
