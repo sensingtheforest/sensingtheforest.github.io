@@ -187,7 +187,7 @@ The team was able to enjoy the streaming from the small meadow for a few hours. 
 
 I could enjoy the immersive and stereophonic birds' song from the train back to London for the entire trip back (which had unexpected severe delays). At night there were no sounds (which poses the question of whether a venue with a water stream would be more interesting) or more attention should be paid to the microscopic world.  
 
-Still, there is a lot of work to do. In our next field trip related to the streamers, we should explore a third dongle (that should be plug-and-play), increase the lifespan of the battery, swap the SIM card to a 1-year SIM card plan and add remote monitoring features. Apart from that, we also will return to work on the data logger with Mike.
+Still, there is a lot of work to do. In our next field trip related to the streamers, we should explore a third dongle (that should be plug-and-play), increase the lifespan of the battery, swap the SIM card to a 1-year SIM card plan, add remote monitoring features, and try [self-amalgamating tape](https://en.wikipedia.org/wiki/Self-amalgamating_tape) recommended by Mike. Apart from that, we also will return to work on the data logger with Mike.
 
 Overall, big kudos to Luigi for a great achievement and the team for their constant help and support so this has become a reality!
 
