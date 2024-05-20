@@ -163,7 +163,7 @@ The second place was creating an ad-hoc structure with wooden sticks to elevate 
 </figure>
 </div>
 
-We added a sign explaining what this device is about, which was designed inspired by the posters created by Forest Research and Forestry England. We finished after 17.00, so we called it a day.
+We added a sign gently attached to a nearby fern explaining what this device is about, which was designed inspired by the posters created by Forest Research and Forestry England. We finished after 17.00, so we called it a day.
 
 <div class="flex justify-center items-center">
 <figure>
