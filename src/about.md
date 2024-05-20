@@ -235,6 +235,24 @@ Frederic Font is a senior researcher at Phonos, a pioneering centre in the field
 
 {% endcolumns %}
 
+{% columns %}
+
+{% cols "bg-gray-100 rounded-lg" %}
+
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/aleksander-skutnik.jpg" alt="Photo of Gerard Roma" >
+
+[Aleksander Skutnik (Queen Mary University of London)](https://www.linkedin.com/in/aleksander-skutnik-1a05a625a/)
+
+Aleksander Skutnik is a BSc Computer Science final year student at Queen Mary University of London. For his final year project, he has decided to undertake a research based topic within the Sensing the Forest project under the supervision of Dr Anna Xambó. His areas of interest and academic experience include probabilistic algorithms and risk analysis, as well as research experience in cognitive and sociocultural areas of psychology. Aleksander also has experience in community organising, advocacy and charity work for a range of organisations which include event and campaign planning.
+
+{% endcols %}
+
+{% cols "bg-gray-100 rounded-lg" %}
+
+{% endcols %}
+
+{% endcolumns %}
+
 
 
 <!-- {% columns %}
