@@ -32,16 +32,16 @@ tags:
 
 <br />
 
-*Group Photo: From left-right, Max Gravestock, Anna Xambó, Luigi Marino, Peter Batchelor,  Goose, Danielle Grimsey, Jack Diprose, and Gimli.*
+*Group Photo: From left-right, Max Gravestock, Anna Xambó, Luigi Marino, Peter Batchelor, Goose, Danielle Grimsey, Jack Diprose, and Gimli.*
 
 
-On Wednesday 1 May we went for a third field trip to Alice Holt to prepare for the summer school and test early prototypes of Luigi’s streamer and Pete’s multichannel sound installation. I also wanted to see if it is doable to walk from Bentley train station to  Alice Holt Forest so that I can convince Londoners to come by train from Waterloo train station for the opening of the exhibition on the 20th of June!
+On Wednesday 1 May we went for a third field trip to Alice Holt to prepare for the summer school and test early prototypes of Luigi’s streamer and Pete’s multichannel sound installation. I also wanted to see if it is doable to walk from Bentley train station to Alice Holt Forest so that I can convince Londoners to come by train from Waterloo train station for the opening of the exhibition on the 20th of June!
 
 ## From Bentley Rail Station to Alice Holt Forest
 
 <div class="flex justify-center items-center">
 <figure>
-<img class="mt-4 mb-4" src="/assets/images/2024/05/Shipwrights-way-Bentley-Alice-Holt.jpg" alt="Description photo 2?.">
+<img class="mt-4 mb-4" src="/assets/images/2024/05/Shipwrights-way-Bentley-Alice-Holt.jpg" alt="Photos of the route of Bentley Station to Alice Holt.">
 <figcaption>Photos of the route of Bentley Station to Alice Holt walk as the first section (2 miles) of the 50-mile Shipwrights Way.</figcaption>
 </figure>
 </div>
