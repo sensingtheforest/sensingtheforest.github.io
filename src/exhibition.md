@@ -40,8 +40,7 @@ heroSettings:
 <hr />
 <br />
 
-### Join us for a day of exploration and inspiration at Sonic Forest, a groundbreaking event that merges art, science, and nature to raise awareness of forest ecologies. Set against the picturesque backdrop of Alice Holt Forest, this immersive experience created by international artists is designed to engage families, art enthusiasts, environmentalists, and curious minds alike. Embark on a guided walk through the forest, where you will encounter a series of thought-provoking sound installations. These installations are not just art; they are a dialogue with the environment, using data collected from the forest itself to convey powerful messages about climate change, and contributing to its acoustic ecology.
-
+#### Join us for a day of exploration and inspiration at Sonic Forest, a groundbreaking event that merges art, science, and nature to raise awareness of forest ecologies. Set against the picturesque backdrop of Alice Holt Forest, this immersive experience created by international artists is designed to engage families, art enthusiasts, environmentalists, and curious minds alike. Embark on a guided walk through the forest, where you will encounter a series of thought-provoking sound installations. These installations are not just art; they are a dialogue with the environment, using data collected from the forest itself to convey powerful messages about climate change, and contributing to its acoustic ecology.
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
@@ -51,6 +50,38 @@ heroSettings:
 :fire: [Subscribe to our announce mailing list](https://groups.google.com/g/sensingtheforest-announce) :fire: 
 
 {% endwrap %}
+
+
+<br />
+
+### Accessibility statement
+ 
+The route follows the 0.6-mile Willows Green trail. The route will be clearly marked with the artists on site to discuss their work. When you arrive at the Visitors centre please ask for directions. The trail is surfaced with some short inclines. There are no seating facilities along the route, toilet and cafe facilities are available at the start of the trail. Please wear appropriate outdoor footwear and clothing for all weathers.
+
+<br />
+
+### How to get there
+
+* **Sat Nav Postcode**: GU10 4LS, Bucks Horn Oak, Farnham 
+* **By Car**: Take the A325 from Farnham to Bucks Horn Oak and follow signs to Alice Holt.
+* **[Car Free Options](https://www.goodjourney.org.uk/attractions/alice-holt-forest/)**
+* –– **Londoners!** You are welcome to take the train at London Waterloo to Bentley (Hampshire) and experience the nice first 2-mile path of [The Shipwrights Way](https://www.hants.gov.uk/thingstodo/countryside/walking/shipwrightsway) from [the Bentley Rail Station to the Alice Holt Forest](https://www.hants.gov.uk/thingstodo/countryside/walking/shipwrightsway-bentleystation). The walk should take less than 40 minutes! 
+* **By Public Transport**: We welcome car-free visitors and offer free admission to those arriving by public transport or bike – plan your journey at Good Journey. Take the number 18 bus (between Aldershot and Haslemere) and get off at the stop after the petrol station in Bucks Horn Oak.   
+* **OS Grid Ref**: SU 813 417
+* You can find more info at the [Alice Holt Forest website](https://www.forestryengland.uk/alice-holt-forest)
+
+<br />
+
+### Alice Holt Café
+
+The [Alice Holt Café](https://www.aliceholtcafe.co.uk/) is open daily from 8:30am, serving a wide range of tasty hot and cold locally sourced food (including superb daily specials), delicious cakes and freshly baked pastries, as well as a range of hot and cold Fairtrade drinks. The Café also caters for Gluten Free, Dairy Free, Vegetarians and Vegans! 
+
+<br />
+
+### What to wear
+
+You can find a [complete guide on what to wear hiking UK](https://www.forestholidays.co.uk/forestipedia/what-to-wear-hiking/) that explains the essentials! 
+
 
 
 <!-- Code source: https://www.w3schools.com/howto/howto_js_countdown.asp-->
