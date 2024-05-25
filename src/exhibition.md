@@ -10,7 +10,7 @@ seo:
   title: Your Sonic Forest - Hear Nature Speak through Sound Installations in Alice Holt Forest
  # overrides 'title' above on both Page and META
   description: Art event - Thursday 20th June 11am-3pm, Alice Holt Forest (free entrance)
-  image:  # relative to /assets/images/
+  image: exhibition/Peter-Batchelor-bird-boxes-speakers.jpg # relative to /assets/images/
 hero: graphic # options: carousel, graphic, video, split (text & image)
 heroSettings:
   height:
