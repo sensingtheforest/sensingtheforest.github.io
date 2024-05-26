@@ -56,3 +56,5 @@ I feel really honored to be a part of the summer school, with a group of incredi
 ## What are your website and social media handles?
 
 * [Personal website](https://beccyabraham.com/)
+* [beccy.doodles @ Instagram](https://www.instagram.com/beccy.doodles/)
+* [beccyabraham @ Instagram](https://www.instagram.com/beccyabraham/)
