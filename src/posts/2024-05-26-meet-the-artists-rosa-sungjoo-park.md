@@ -1,6 +1,6 @@
 ---
 title: Meet the Artists - Rosa Sungjoo Park
-date: 2024-05-27T10:00:00.000Z
+date: 2024-05-26T08:00:00.000Z
 excerpt: Meet the artists selected for the summer school. Today we present the work of Rosa Sungjoo Park.
 author: hazel-stone
 draft: 
@@ -25,7 +25,7 @@ tags:
 
 ---
 
-**About**: [Rosa Sungjoo Park](https://www.rosapark.org/) is a media artist and sound designer whose research interest is centered on the study of the physicality of sound, psychoacoustics, algorithmic composition, experimental film and sound, and expanded cinema. Park's creative practice is deeply grounded in her cultural identity, memories, and religion. She has produced and presented a large number of works that deal with Korean traditional rituals, Korean shamanism, acoustic memories, and the nature of life and death. Park's work has been exhibited and performed in galleries, theaters, and conferences in the United States, Canada, Austria, England, and South Korea. Park holds master’s degrees in [Digital + Media (DM) from Rhode Island School of Design](https://www.risd.edu/academics/digital-media/masters-program), [Interdisciplinary Studies (Visual Arts) from the University of British Columbia Okanagan](https://gradstudies.ok.ubc.ca/IGS/), and [Visual Communication Design from Seoul National University](https://art.snu.ac.kr/en/category/design-en/). She currently serves as an Assistant Professor in the [School of Cinema at San Francisco State University](https://cinema.sfsu.edu/), where she teaches courses in sound design and production, interactive cinema, and experimental filmmaking. 
+**About**: [Rosa Sungjoo Park](https://www.rosapark.org/) is a media artist and sound designer whose research interest is centered on the study of the physicality of sound, psychoacoustics, algorithmic composition, experimental film and sound, and expanded cinema. Park's creative practice is deeply grounded in her cultural identity, memories, and religion. She has produced and presented a large number of works that deal with Korean traditional rituals, Korean shamanism, acoustic memories, and the nature of life and death. Park's work has been exhibited and performed in galleries, theaters, and conferences in the United States, Canada, Austria, England, and South Korea. Park holds master’s degrees in [Digital + Media (DM) from Rhode Island School of Design](https://www.risd.edu/academics/digital-media/masters-program), [Visual Arts from the University of British Columbia Okanagan](https://fccs.ok.ubc.ca/degrees-programs/graduate/fine-arts/), and [Visual Communication Design from Seoul National University](https://art.snu.ac.kr/en/category/design-en/). She currently serves as an Assistant Professor in the [School of Cinema at San Francisco State University](https://cinema.sfsu.edu/), where she teaches courses in sound design and production, interactive cinema, and experimental filmmaking. 
 
 
 ## How do you describe your practice?
