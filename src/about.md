@@ -239,7 +239,7 @@ Frederic Font is a senior researcher at Phonos, a pioneering centre in the field
 
 {% cols "bg-gray-100 rounded-lg" %}
 
-<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/aleksander-skutnik.jpg" alt="Photo of Gerard Roma" >
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/aleksander-skutnik.jpg" alt="Photo of Aleksander Skutnik" >
 
 [Aleksander Skutnik (Queen Mary University of London)](https://www.linkedin.com/in/aleksander-skutnik-1a05a625a/)
 
@@ -248,6 +248,12 @@ Aleksander Skutnik is a BSc Computer Science final year student at Queen Mary Un
 {% endcols %}
 
 {% cols "bg-gray-100 rounded-lg" %}
+
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/shuoyang-zheng.jpg" alt="Photo of Shuoyang Zheng" >
+
+[Shuoyang Zheng (Queen Mary University of London)](https://jasperzheng.cc/)
+
+Shuoyang Zheng is a PhD student at the Centre for Digital Music (C4DM), Queen Mary University of London. His research is in the field of explainable AI for musical audio synthesis. His long-term research goal focuses on developing interactive and understandable AI systems that facilitate musical creation and expression, and on understanding how these technological advances impact artistic practices. He is equally interested in the aesthetical and ethical implications inherent to the development of AI.
 
 {% endcols %}
 
