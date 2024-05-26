@@ -42,6 +42,31 @@ heroSettings:
 
 #### Join us for a day of exploration and inspiration at Sonic Forest, a groundbreaking event that merges art, science, and nature to raise awareness of forest ecologies. Set against the picturesque backdrop of Alice Holt Forest, this immersive experience created by international artists is designed to engage families, art enthusiasts, environmentalists, and curious minds alike. Embark on a guided walk through the forest, where you will encounter a series of thought-provoking sound installations. These installations are not just art; they are a dialogue with the environment, using data collected from the forest itself to convey powerful messages about climate change, and contributing to its acoustic ecology.
 
+
+**Artists**
+
+[Bardia Hafizi](/2024/05/06/meet-the-artists-bardia-hafizi/)
+[Ed Chivers](/2024/05/08/meet-the-artists-ed-chivers/)
+[Qianyi Rose Sun](/2024/05/10/meet-the-artists-qianyi-rose-sun/) 
+[Gabrielle Cerberville](/2024/05/13/meet-the-artists-gabrielle-cerberville/) 
+[Austin Blanton](/2024/05/15/meet-the-artists-austin-blanton/)
+[Miles Scharff](/2024/05/17/meet-the-artists-miles-scharff/)
+[Kate Anderson](/2024/05/20/meet-the-artists-kate-anderson/)
+[Jordan Juras](/2024/05/24/meet-the-artists-jordan-juras/)
+[Rosa Sungjoo Park](/2024/05/26/meet-the-artists-rosa-sungjoo-park/)
+Beccy Abraham 
+
+**Featured Sound Installation:** *Dendrophonic* by [Peter Batchelor](/authors/peter-batchelor/)
+
+*Dendrophonic* is a sound installation that transforms environmental data from the forest into an auditory experience. By converting often hidden processes into sound, the installation aims to makes complex ecological interactions tangible. It also invites listeners to tune into the forest’s acoustic ecology, by complementing the natural soundscape. Dendrophonic aims to deepen the connection between people and nature, encouraging them to listen beyond the installation and embrace the rich symphony of the forest that is always present yet often overlooked.
+
+**Streamer**: [Luigi Marino](/authors/luigi-marino/)
+
+**Data logger**: [Mike Bell](https://www.forestresearch.gov.uk/staff/mike-bell/)
+
+**Curators**: Curated by [Hazel Stone](/authors/hazel-stone/) and [Peter Batchelor](/authors/peter-batchelor/) in cooperation with the [Sensing the Forest Summer School Team](/summer-school/) and the [Sensing the Forest Summer School Participants](/tags/meet-the-artists/).
+
+
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
 :fire: You can find more info and register for the free event on the following Eventbrite link: 
@@ -57,6 +82,12 @@ heroSettings:
 ### Accessibility statement
  
 The route follows the 0.6-mile Willows Green trail. The route will be clearly marked with the artists on site to discuss their work. When you arrive at the Visitors centre please ask for directions. The trail is surfaced with some short inclines. There are no seating facilities along the route, toilet and cafe facilities are available at the start of the trail. Please wear appropriate outdoor footwear and clothing for all weathers.
+
+<br />
+
+### Inclusivity statement
+
+*Your Sonic Forest* aims to be inclusive to all, ensuring a welcoming, safe, and respectful environment for each and every person to enjoy; everyone is welcome. This is a family-friendly and environmentally-friendly event. If the weather allows, there will be a trolley of ice cream next to the entrance of the exhibition.
 
 <br />
 
@@ -82,6 +113,15 @@ The [Alice Holt Café](https://www.aliceholtcafe.co.uk/) is open daily from 8:30
 
 You can find a [complete guide on what to wear hiking UK](https://www.forestholidays.co.uk/forestipedia/what-to-wear-hiking/) that explains the essentials! 
 
+<br />
+
+### Help us spread the word!
+
+Help us spread the word about this event! Feel free to use this brilliant poster designed by [Johana Knowles](https://uk.linkedin.com/in/johana-knowles-51602722b).
+
+* [Download *Your Sonic Forest* poster](/assets/pdf/Your-sonic-forest-poster.pdf) 
+
+<br />
 
 
 <!-- Code source: https://www.w3schools.com/howto/howto_js_countdown.asp-->
