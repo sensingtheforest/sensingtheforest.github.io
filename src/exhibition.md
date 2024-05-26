@@ -56,15 +56,21 @@ heroSettings:
 [Rosa Sungjoo Park](/2024/05/26/meet-the-artists-rosa-sungjoo-park/)
 Beccy Abraham 
 
-**Featured Sound Installation:** *Dendrophonic* by [Peter Batchelor](/authors/peter-batchelor/)
+**Featured Sound Installation:** *Dendrophonic* by [Peter Batchelor](/authors/peter-batchelor/) (De Montfort University)
 
-*Dendrophonic* is a sound installation that transforms environmental data from the forest into an auditory experience. By converting often hidden processes into sound, the installation aims to makes complex ecological interactions tangible. It also invites listeners to tune into the forest’s acoustic ecology, by complementing the natural soundscape. Dendrophonic aims to deepen the connection between people and nature, encouraging them to listen beyond the installation and embrace the rich symphony of the forest that is always present yet often overlooked.
+*Dendrophonic* is a sound installation that transforms environmental data from the forest into an auditory experience. By converting often hidden processes into sound, the installation aims to makes complex ecological interactions tangible. It also invites listeners to tune into the forest’s acoustic ecology, by complementing the natural soundscape. *Dendrophonic* aims to deepen the connection between people and nature, encouraging them to listen beyond the installation and embrace the rich symphony of the forest that is always present yet often overlooked.
 
-**Streamer**: [Luigi Marino](/authors/luigi-marino/)
+**Streamer**: [Luigi Marino](/authors/luigi-marino/) (Queen Mary University of London)
 
-**Data logger**: [Mike Bell](https://www.forestresearch.gov.uk/staff/mike-bell/)
+**Data logger**: [Mike Bell](https://www.forestresearch.gov.uk/staff/mike-bell/) (Forest Research)
 
-**Curators**: Curated by [Hazel Stone](/authors/hazel-stone/) and [Peter Batchelor](/authors/peter-batchelor/) in cooperation with the [Sensing the Forest Summer School Team](/summer-school/) and the [Sensing the Forest Summer School Participants](/tags/meet-the-artists/).
+**Curators**: Curated by [Hazel Stone](/authors/hazel-stone/) (Forestry England) and [Peter Batchelor](/authors/peter-batchelor/) (De Montfort University) in cooperation with the [Sensing the Forest Summer School Team](/summer-school/#summer-school-team) and the [Sensing the Forest Summer School Participants](/tags/meet-the-artists/)
+
+**Production**: Peter Batchelor (De Montfort University), Mike Bell (Forest Research),  Max Gravestock (Forestry England), Danielle Grimsey (Forestry England), Johana Knowles (Forestry England), Luigi Marino (Queen Mary University of London), Hazel Stone (Forestry England), Nick Wardlaw (Forestry England), Anna Xambó (Queen Mary University of London)
+
+**Marketing & Promotion (Forestry England)**: Melanie Keddie (Forestry England), Susan Smith (Forestry England), Johana Knowles (Forestry England)
+
+**AV Documentation**: [Shuoyang Zheng](https://jasperzheng.cc/) (Queen Mary University of London)
 
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}

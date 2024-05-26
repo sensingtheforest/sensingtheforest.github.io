@@ -95,6 +95,20 @@ A rigorous selection process will be conducted by the Sensing the Forest team ba
 * Luigi Marino (Queen Mary University of London)
 * Anna Xambó (Queen Mary University of London)
 
+<a id="summer-school-team"> </a>
+
+## Summer School Team
+
+* Peter Batchelor (De Montfort University)
+* Mike Bell (Forest Research)
+* Max Gravestock (Forestry England)
+* Danielle Grimsey (Forestry England)
+* Johana Knowles (Forestry England)
+* Luigi Marino (Queen Mary University of London)
+* Hazel Stone (Forestry England)
+* Nick Wardlaw (Forestry England)
+* Anna Xambó (Queen Mary University of London)
+
 ## Equality, Diversity and Inclusion
 
 We welcome underrepresented populations in the field of SMC and align with DMU’s Equality, Diversity and Inclusion (EDI) strategy (https://www.dmu.ac.uk/empowering-university/edi-strategy/).
