@@ -54,7 +54,7 @@ heroSettings:
 [Kate Anderson](/2024/05/20/meet-the-artists-kate-anderson/)
 [Jordan Juras](/2024/05/24/meet-the-artists-jordan-juras/)
 [Rosa Sungjoo Park](/2024/05/26/meet-the-artists-rosa-sungjoo-park/)
-Beccy Abraham 
+[Beccy Abraham](/2024/05/27/meet-the-artists-beccy-abraham/) 
 
 **Featured Sound Installation:** *Dendrophonic* by [Peter Batchelor](/authors/peter-batchelor/) (De Montfort University)
 

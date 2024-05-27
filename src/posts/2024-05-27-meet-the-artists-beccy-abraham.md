@@ -1,6 +1,6 @@
 ---
 title: Meet the Artists - Beccy Abraham
-date: 2024-05-27T15:00:00.000Z
+date: 2024-05-27T12:00:00.000Z
 excerpt: Meet the artists selected for the summer school. Today we present the work of Beccy Abraham.
 author: hazel-stone
 draft: 
