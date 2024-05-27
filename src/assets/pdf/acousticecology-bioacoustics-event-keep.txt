@@ -1,0 +1,87 @@
+An online networking event on acoustic ecology and bioacoustics
+===============================================================
+
+Quick round of 3-minute presentations
+-------------------------------------
+
+For the introductions, be ready to tell:
+- Who you are
+- What is your institution and role
+- How does your work relate to acoustic ecology/bioacoustics and from what disciplinary perspective(s)
+- Why are you interested in acoustic ecology/bioacoustics
+
+
+Lineup provided by random.org/lists
+
+TBD
+
+
+Small group discussions (breakout rooms)
+----------------------------------------
+
+- Find common interests among the group
+- Explore how this connects with present/future challenges & opportunities in acoustic ecology/bioacoustics
+- Identify potential new research areas/interests that emerged from the discussion that can inform your work
+
+
+Group 1 - Chair: Mark Plumbley, Scribe: ??
+	* Lia Mazzari (RHUL)
+	* Blazej Kotowski (MTG-UPF)
+	* Jinhua Liang (C4DM-QMUL)
+	* Antonella Maria Cristina Torrisi (C4DM-QMUL)
+
+Notes
+
+Common interests: Representation based systems in environmental sounds, real-time audio streaming. Sites of stress, contemporary crisis. Live audio streams - connected in real time with another location. How useful in artistic practice and geography. Live audio stream. 
+Sites of stress, soundscape, correlation in soundscapes and condition of environment. Correlation of pleasant and healthy environment. Extractivist practices.
+As humans / living beings, apply simple actions to understand consequences of actions.
+Have to design complex methods for computational systems.
+But what is a representation? Noise is psychological? Noise as separate from sound.
+Concept of "semanticity". Exploring representation dimensions - focus on representation itself.
+Semantics - process of deconding from representations to semantics.
+Represntation learning - many researchers in ML are focussed on this field, e.g. contrastive learning. Match two different distributions together - necessary?
+Instead of contrastive approach, more generative approach?
+Curious about data collection. Need automatic labels, not from human annotators.
+
+Challenges? Complex system approach rather than simple systems or individual elements.  
+
+
+Group 2 - Chair: Emmanouil Benetos, Scribe: same!
+	* Panagiota Anastasopoulou (MTG-UPF)
+	* Amaia Sagasti Martinez (MTG-UPF)
+	* Nicolas Farrugia (IMT Atlantique)
+
+Notes
+
+NF mentions connections with project by AS.
+Dataset was partly recorded during lockdown, there was much less noise given lack of car activity.
+Project took 4 years. Dataset is automatically labelled using a pretrained network from MP's group.
+Automatic labelling works good enough, data is in OSF.
+Questions that journalists had was whether the lockdown had something to do with our quality of life.
+
+AS discusses various analyzers / features and psychoacoustic indicators (e.g. loudness, brightness, roughness, tonality) which can be used to predict pleasantness and eventfulness. Goal is to check performance with real recorded audio.
+
+NF: We can predict pleasantness and eventfulness with respect to varying lockdown measures based on own dataset.
+
+EB: Learned audio representations can be used for predicting psychoacoustic descriptors (as opposed to handcrafted mixtures), also following NF's research.
+
+PA: We have taxonomies and we want to analyse sounds and how can we enhance that info, including pleasantness and eventfulness. We want to put more analysers on Freesound and enhance search and retrieval. 
+
+
+Group 3 - Frederic Font Corbera, Scribe: ??
+	* Peter Batchelor (DMU)
+	* Panagiota Anastasopoulou (MTG-UPF)
+	* Ilyass Moummad (C4DM-QMUL/IMT Atlantique)
+	* Ines Nolasco (C4DM-QMUL)
+
+Notes
+
+* same datasets used for both artistic and scientific purposes
+* supervised learning->labels very specific to problems-> is this biasinng our algorithms? common concern/interest: bias in data aqcuisition/gathering
+* explainability, understanding of learnt spaces, relation of learnt spaces with perceptual/semantic/cultural meaning of soundscapes
+
+
+General group discussion
+------------------------
+
+

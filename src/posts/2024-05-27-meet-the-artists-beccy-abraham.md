@@ -1,6 +1,6 @@
 ---
 title: Meet the Artists - Beccy Abraham
-date: 2024-05-27T08:00:00.000Z
+date: 2024-05-27T15:00:00.000Z
 excerpt: Meet the artists selected for the summer school. Today we present the work of Beccy Abraham.
 author: hazel-stone
 draft: 
@@ -30,7 +30,7 @@ tags:
 
 ## How do you describe your practice?
 
-I am an instrument builder and researcher pursuing an MFA in [Sonic Practice at Dartmouth College](https://music.dartmouth.edu/graduate). They work in creative coding and interface design with the goal of giving broad audiences easy access to sound-making and creative expression. My primary instrument is the marimba, and my performance practice has spanned solo marimba, wind ensemble, jazz ensemble, and marching band.
+I am an instrument builder and researcher pursuing an MFA in [Sonic Practice at Dartmouth College](https://music.dartmouth.edu/graduate). I work in creative coding and interface design with the goal of giving broad audiences easy access to sound-making and creative expression. My primary instrument is the marimba, and my performance practice has spanned solo marimba, wind ensemble, jazz ensemble, and marching band.
 
 
 ## What are your influences, what inspires you?
