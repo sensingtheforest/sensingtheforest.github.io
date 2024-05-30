@@ -93,7 +93,7 @@ The route follows the 0.6-mile Willows Green trail. The route will be clearly ma
 
 ### Inclusivity statement
 
-*Your Sonic Forest* aims to be inclusive to all, ensuring a welcoming, safe, and respectful environment for each and every person to enjoy; everyone is welcome. This is a family-friendly and environmentally-friendly event. If the weather allows, there will be a trolley of ice cream next to the entrance of the exhibition.
+*Your Sonic Forest* aims to be inclusive to all, ensuring a welcoming, safe, and respectful environment for each and every person to enjoy; everyone is welcome. This is a family-friendly and environmentally-friendly event. If the weather allows, there will be a trolley of ice cream from out the front of the cafe, near the entrance of the exhibition.
 
 <br />
 
