@@ -209,7 +209,7 @@ As per the data logger, a second step (of low priority now) will be to think abo
 
 The mini-hackathon was successful because we could work in a team, learn from each other, and progress to the "almost-there" moment. Luigi and I could also ask Mike about the Forest Research's experience on powering off-grid systems, which we are currently dealing with the streamers and Pete's installation. 
 
-Thanks, Mike and Alice Holt Forest Research for hosting us and making the mini-hackathon possible!
+Thanks, Mike and Alice Holt Forest Research for hosting us and making the mini-hackathon possible! Also thanks to Danielle for coordinating our collection of *Streamer I* at the Alice Holt Visitor Centre.
 
 
 
