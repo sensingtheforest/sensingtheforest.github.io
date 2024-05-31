@@ -8,10 +8,10 @@ draft:
 seo:
   title:
   description:
-  image: 2024/05/minihackathon.jpg
+  image: 2024/05/5th_fieldtrip_minihackathon.jpg
 images: # relative to /src/assets/images/
-  feature: 2024/05/minihackathon.jpg
-  thumb: 2024/05/minihackathon.jpg
+  feature: 2024/05/5th_fieldtrip_minihackathon.jpg
+  thumb: 2024/05/5th_fieldtrip_minihackathon.jpg
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: h-auto # optional. Default = h-48 md:h-1/3
 tags:
