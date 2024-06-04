@@ -102,7 +102,7 @@ First, we got familiar with the different sensors that Mike wants to include in 
 
 <br />
 
-#### Photosynthetically active radiation sensor
+#### Photosynthetically active radiation sensor (PAR)
 
 The photosynthetically active radiation (PAR) sensor is an instrument for measuring solar radiation from 400 to 700 nanometers, which is used by photosynthetic organisms for the process of photosynthesis (active radiation).
 
@@ -177,8 +177,7 @@ We also tested the Pure Data web client and decided that just parsing the values
 
 ## Follow-up
 
-After the visit, Mike solved the problem of CRbasic related to sending a long string of variables and values to the web server and I polished the basic Pure Data patch for Pete and the interested artists to use. We are employing the [
-PuRestJson external](https://github.com/residuum/PuRestJson) to parse the incoming JSON files into Pure Data. We found that the external version for Raspberry Pi works well with our initial patch, but for the Mac version, we had to hack a bit the patch to convert the values conceived as lists to float numbers.
+After the visit, Mike solved the problem of CRbasic related to sending a long string of variables and values to the web server and I polished the basic Pure Data patch for Pete and the interested artists to use. We are employing the [PuRestJson external](https://github.com/residuum/PuRestJson) to parse the incoming JSON files into Pure Data. We found that the external version for Raspberry Pi works well with our initial patch, but for the Mac version, we had to hack a bit the patch to convert the values conceived as lists to float numbers.
 
 <div class="flex justify-center items-center">
 <figure>
@@ -203,13 +202,13 @@ The next steps include:
 
 We plan to release the web server and Pure Data code once it is ready. For now, it is available for Pete and the summer school participants. While we are preparing the art event on the 20th of June, we will continue testing and tuning the hardware and software.
 
-The data logger will be showcased by Mike during the exhibition on the 20th of June and later will be set more permanently in the weather station at the Straits Inclosure. Pete's installation will demonstrate an artistic application of using weather data and Luigi is planning to explore data-music mappings for his musical practice. 
+The data logger will be showcased by Mike during the exhibition on the 20th of June and later will be set more permanently in the weather station at the Straits Inclosure. Pete's installation will demonstrate an artistic application of using weather data from the logger and Luigi is planning to explore data-music mappings for his musical practice. 
 
-As per the data logger, a second step (of low priority now) will be to think about also about capturing photos, which could be tuned with a frequency similar to the audio recordings of the streamers.
+As per the data logger, a second step (of low priority now) will be to think also about capturing photos, which could be tuned with a frequency similar to the audio recordings of the streamers.
 
 The mini-hackathon was successful because we could work in a team, learn from each other, and progress to the "almost-there" moment. Luigi and I could also ask Mike about the Forest Research's experience on powering off-grid systems, which we are currently dealing with the streamers and Pete's installation. 
 
-Thanks, Mike and Alice Holt Forest Research for hosting us and making the mini-hackathon possible! Also thanks to Danielle for coordinating our collection of *Streamer I* at the Alice Holt Visitor Centre.
+Thanks, Mike and Alice Holt Forest Research for hosting us and making the mini-hackathon possible! Thanks to Danielle for coordinating our collection of *Streamer I* at the Alice Holt Visitor Centre. Also thanks to Gerard for his technical advice on Pure Data.
 
 
 
