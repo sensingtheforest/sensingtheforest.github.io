@@ -56,9 +56,9 @@ heroSettings:
 [Rosa Sungjoo Park](/2024/05/26/meet-the-artists-rosa-sungjoo-park/)
 [Beccy Abraham](/2024/05/27/meet-the-artists-beccy-abraham/) 
 
-**Featured Sound Installation:** *Dendrophonic* by [Peter Batchelor](/authors/peter-batchelor/) (De Montfort University)
+**Featured Sound Installation:** *Dendrophone* by [Peter Batchelor](/authors/peter-batchelor/) (De Montfort University)
 
-*Dendrophonic* is a sound installation that transforms environmental data from the forest into an auditory experience. By converting often hidden processes into sound, the installation aims to makes complex ecological interactions tangible. It also invites listeners to tune into the forest’s acoustic ecology, by complementing the natural soundscape. *Dendrophonic* aims to deepen the connection between people and nature, encouraging them to listen beyond the installation and embrace the rich symphony of the forest that is always present yet often overlooked.
+*Dendrophone* is a sound installation that transforms environmental data from the forest into an auditory experience. By converting often hidden processes into sound, the installation aims to makes complex ecological interactions tangible. It also invites listeners to tune into the forest’s acoustic ecology, by complementing the natural soundscape. *Dendrophonic* aims to deepen the connection between people and nature, encouraging them to listen beyond the installation and embrace the rich symphony of the forest that is always present yet often overlooked.
 
 **Streamer**: [Luigi Marino](/authors/luigi-marino/) (Queen Mary University of London)
 

@@ -45,62 +45,62 @@ For the lineup, we used again the random tool [List Randomizer](https://www.rand
 
 ### *Sound Gardening at Alice Holt* by Jordan Juras
 
-*Sound Gardening* is a conceptual framework to create immersive and interactive AR audio installations. This project explores the creation of embodied musical instruments, which animate and position trees and other Floral entities and are modulated by environmental sensor data collected by Alice Holt Forest Research Station.
+[Jordan Juras](/2024/05/24/meet-the-artists-jordan-juras/)'s *Sound Gardening* is a conceptual framework to create immersive and interactive AR audio installations. This project explores the creation of embodied musical instruments, which animate and position trees and other Floral entities and are modulated by environmental sensor data collected by Alice Holt Forest Research Station.
 
 <br />
 
 ### *Tree Museum* by Ed Chivers
 
-This piece focuses on the Lesser Spotted Woodpecker, whose population has declined by 91% since 1967, and is on the UK’s red list for endangered species. The sound of the woodpecker’ drumming is reproduced artificially in the trees, considering the sounds that are lost when we loose a species.
+[Ed Chivers](/2024/05/08/meet-the-artists-ed-chivers/)'s *Tree Museum* is a piece that focuses on the Lesser Spotted Woodpecker, whose population has declined by 91% since 1967, and is on the UK’s red list for endangered species. The sound of the woodpecker’ drumming is reproduced artificially in the trees, considering the sounds that are lost when we loose a species.
 
 <br />
 
 ### *A tree listens to itself* by Miles Scharff
 
-A system in which a tree and the space around it are used as antenna for radio reception in an effort to listen to what electromagnetic signals are physically permeating through the natural world. The received signals are heard through speakers placed about the roots of the tree.
+[Miles Scharff](/2024/05/17/meet-the-artists-miles-scharff/)'s *A tree listens to itself* is a system in which a tree and the space around it are used as antenna for radio reception in an effort to listen to what electromagnetic signals are physically permeating through the natural world. The received signals are heard through speakers placed about the roots of the tree.
 
 <br />
 
 ### *Resonant Grove* by Austin Blanton
 
-A tree with a tangle of wires and copper is spouting noises from its trunk, inviting you to explore the mystery. As you move your hand closer, the sounds mutate, and activate invisible threads to other noisemakers in the forest.
+[Austin Blanton](/2024/05/15/meet-the-artists-austin-blanton/)'s *Resonant Grove* is based on a tree with a tangle of wires and copper that is spouting noises from its trunk, inviting you to explore the mystery. As you move your hand closer, the sounds mutate, and activate invisible threads to other noisemakers in the forest.
 
 <br />
 
 ### *Within and Between* by Rosa Sungjoo Park
 
-*Within and Between* is an interactive sound installation that explores the interconnectedness of humans and the environment. The audience is invited to intervene in their natural surroundings by interacting with the installation through their own playful gestures.
+[Rosa Sungjoo Park](/2024/05/26/meet-the-artists-rosa-sungjoo-park/)'s *Within and Between* is an interactive sound installation that explores the interconnectedness of humans and the environment. The audience is invited to intervene in their natural surroundings by interacting with the installation through their own playful gestures.
 
 <br />
 
 ### *tread(LIGHTLY)* by Gabrielle Cerberville
 
-This installation takes the form of a labyrinth built into the forest floor, triggered by human activities. The phrase “tread lightly” refers to being cautious, taking care, thinking before acting, and the labyrinth is designed to make us aware of how we move through natural environments by sonifying and amplifying human movements.
+[Gabrielle Cerberville](/2024/05/13/meet-the-artists-gabrielle-cerberville/)'s *tread(LIGHTLY)* is an installation that takes the form of a labyrinth built into the forest floor, triggered by human activities. The phrase “tread lightly” refers to being cautious, taking care, thinking before acting, and the labyrinth is designed to make us aware of how we move through natural environments by sonifying and amplifying human movements.
 
 <br />
 
 ### *Remembering the Mighty Oak* by Kate Anderson
 
-A sculptural reliquary to great oak trees. Constructed with oak and decorated with ink illustrations. Echoing the loss of the Elm in the 1970s, and the decline of the Ash this century, it invites the audience to consider a future where the Nation's Oaks are no more.
+[Kate Anderson](/2024/05/20/meet-the-artists-kate-anderson/)'s *Remembering the Mighty Oak* is a sculptural reliquary to great oak trees. Constructed with oak and decorated with ink illustrations. Echoing the loss of the Elm in the 1970s, and the decline of the Ash this century, it invites the audience to consider a future where the Nation's Oaks are no more.
 
 <br />
 
 ### *The Walking Tree* by Bardia Hafizi
 
-A multi-modal installation/performance that traces the kinship of people and trees, of cities and forests: Bardia's work investigates the technological boundaries between the two, and tries to re-imagine them through sonic -as well as other forms of- media.
+[Bardia Hafizi](/2024/05/06/meet-the-artists-bardia-hafizi/)'s *The Walking Tree* is a multi-modal installation/performance that traces the kinship of people and trees, of cities and forests: Bardia's work investigates the technological boundaries between the two, and tries to re-imagine them through sonic -as well as other forms of- media.
 
 <br />
 
 
 ### *Leaves Echo* by Qianyi Rose Sun
 
-In *Leaves Echo*, every interaction is a testament to the balance of our ecosystem. It challenges us to perceive the unseen, to hear the unspoken, and to understand the delicate interplay between our actions and the natural world.
+In [Qianyi Rose Sun](/2024/05/10/meet-the-artists-qianyi-rose-sun/)'s *Leaves Echo*, every interaction is a testament to the balance of our ecosystem. It challenges us to perceive the unseen, to hear the unspoken, and to understand the delicate interplay between our actions and the natural world.
 
 <br />
 
 ### *In touch* by Beccy Abraham
 
-*in touch* uses a collaborative musical instrument to build soundscapes with forest recordings as source material. It encourages visitors to connect with their environment by connecting with each other.
+[Beccy Abraham](/2024/05/27/meet-the-artists-beccy-abraham/)'s *in touch* uses a collaborative musical instrument to build soundscapes with forest recordings as source material. It encourages visitors to connect with their environment by connecting with each other.
 
 <br />
 
