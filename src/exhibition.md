@@ -42,19 +42,64 @@ heroSettings:
 
 #### Join us for a day of exploration and inspiration at Sonic Forest, a groundbreaking event that merges art, science, and nature to raise awareness of forest ecologies. Set against the picturesque backdrop of Alice Holt Forest, this immersive experience created by international artists is designed to engage families, art enthusiasts, environmentalists, and curious minds alike. Embark on a guided walk through the forest, where you will encounter a series of thought-provoking sound installations. These installations are not just art; they are a dialogue with the environment, using data collected from the forest itself to convey powerful messages about climate change, and contributing to its acoustic ecology.
 
+Use the hashtag #yoursonicforest to share your photos with us!
+
+
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
+
+Fill out our short survey to tell us what you think about Your Sonic Forest at Alice Holt Forest!
+
+<img class="h-1/2 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/exhibition/thumbnail_survey-qr-code.png" alt="Link to survey">
+
+{% endwrap %}
+
+
 
 **Artists**
 
 [Bardia Hafizi](/2024/05/06/meet-the-artists-bardia-hafizi/)
+
+*The Walking Tree* is a multi-modal installation/performance that traces the kinship of people and trees, of cities and forests: My work investigates the technological boundaries between the two, and tries to re-imagine them through sonic - as well as other forms of- media.
+
 [Ed Chivers](/2024/05/08/meet-the-artists-ed-chivers/)
+
+The piece *Tree Museum* focuses on the Lesser Spotted Woodpecker, whose population has declined by 91% since 1967, and is on the UK’s red list for endangered species. The sound of the woodpecker’ drumming is reproduced artificially in the trees, considering the sounds that are lost when we loose a species.
+
 [Qianyi Rose Sun](/2024/05/10/meet-the-artists-qianyi-rose-sun/) 
+
+In *Leaves Echo*, every interaction is a testament to the balance of our ecosystem. It challenges us to perceive the unseen, to hear the unspoken, and to understand the delicate interplay between our actions and the natural world.
+
 [Gabrielle Cerberville](/2024/05/13/meet-the-artists-gabrielle-cerberville/) 
+
+*tread(LIGHTLY)* is an installation that takes the form of a labyrinth built into the forest floor, triggered by human activities. The phrase “tread lightly” refers to being cautious, taking care, thinking before acting, and the labyrinth is designed to make us aware of how we move through natural environments by sonifying and amplifying human movements.
+
+
 [Austin Blanton](/2024/05/15/meet-the-artists-austin-blanton/)
+
+*Resonant Grove* is a tree with a tangle of wires and copper is spouting noises from its trunk, inviting you to explore the mystery. As you move your hand closer, the sounds mutate, and activate invisible threads to other noisemakers in the forest.
+
+
 [Miles Scharff](/2024/05/17/meet-the-artists-miles-scharff/)
+
+*A tree listens to itself* is a system in which a tree and the space around it are used as antenna for radio reception in an effort to listen to what electromagnetic signals are physically permeating through the natural world. The received signals are heard through speakers placed about the roots of the tree.
+
 [Kate Anderson](/2024/05/20/meet-the-artists-kate-anderson/)
+
+*Remembering the Mighty Oak* is a sculptural reliquary to great oak trees. Constructed with oak and decorated with ink illustrations. Echoing the loss of the Elm in the 1970s, and the decline of the Ash this century, it invites the audience to consider a future where the Nation's Oaks are no more.
+
 [Jordan Juras](/2024/05/24/meet-the-artists-jordan-juras/)
+
+*Sound Gardening* is a conceptual framework to create immersive and interactive AR audio installations. This project explores the creation of embodied musical instruments, which animate and position trees and other Floral entities and are modulated by environmental sensor data collected by Alice Holt Forest Research Station.
+
 [Rosa Sungjoo Park](/2024/05/26/meet-the-artists-rosa-sungjoo-park/)
-[Beccy Abraham](/2024/05/27/meet-the-artists-beccy-abraham/) 
+
+*Within and Between* is an interactive sound installation that explores the interconnectedness of humans and the environment. The audience is invited to intervene in their natural surroundings by interacting with the installation through their own playful gestures.
+
+
+Beccy Abraham](/2024/05/27/meet-the-artists-beccy-abraham/)
+
+*in touch* uses a collaborative musical instrument to build soundscapes with forest recordings as source material. It encourages visitors to connect with their environment by connecting with each other.
+
 
 **Featured Sound Installation:** *Dendrophone* by [Peter Batchelor](/authors/peter-batchelor/) (De Montfort University)
 
@@ -62,7 +107,15 @@ heroSettings:
 
 **Streamer**: [Luigi Marino](/authors/luigi-marino/) (Queen Mary University of London)
 
+Two listening stations are installed at the Alice Holt Forest: one near the permanent installation by Pete Bachelor, whose sounds are affected by the environmental data, and the second in a small meadow near a gorgeous chestnut tree. The devices are simple internet radio transmitters that can be enjoyed by anyone with an internet connection.
+
+* Streamer I: [http://solid67.streamupsolutions.com:8063/](http://solid67.streamupsolutions.com:8063/)
+* Streamer II: [http://solid41.streamupsolutions.com:8010/](http://solid41.streamupsolutions.com:8010/ )
+
+
 **Data logger**: [Mike Bell](https://www.forestresearch.gov.uk/staff/mike-bell/) (Forest Research)
+
+Data loggers help us to understand the carbon balance of the forest using environmental data. Here, we are measuring air temperature, relative humidity, wind speed, photosynthetically active radiation, net radiation and carbon dioxide concentration. The solar-powered system sends data via a cellular modem to an online server that the artists can access.
 
 **Curators**: Curated by [Hazel Stone](/authors/hazel-stone/) (Forestry England) and [Peter Batchelor](/authors/peter-batchelor/) (De Montfort University) in cooperation with the [Sensing the Forest Summer School Team](/summer-school/#summer-school-team) and the [Sensing the Forest Summer School Participants](/tags/meet-the-artists/)
 
