@@ -36,7 +36,7 @@ heroSettings:
 <br />
 <hr />
 <!-- Display the countdown timer in an element -->
-<h1 id="demo" style="background-color: greenyellow;"></h1>
+<!-- <h1 id="demo" style="background-color: greenyellow;"></h1> -->
 <hr />
 <br />
 <hr />
@@ -105,7 +105,7 @@ In *Leaves Echo*, every interaction is a testament to the balance of our ecosyst
 *Within and Between* is an interactive sound installation that explores the interconnectedness of humans and the environment. The audience is invited to intervene in their natural surroundings by interacting with the installation through their own playful gestures.
 
 
-Beccy Abraham](/2024/05/27/meet-the-artists-beccy-abraham/)
+[Beccy Abraham](/2024/05/27/meet-the-artists-beccy-abraham/)
 
 *in touch* uses a collaborative musical instrument to build soundscapes with forest recordings as source material. It encourages visitors to connect with their environment by connecting with each other.
 
@@ -118,8 +118,8 @@ Beccy Abraham](/2024/05/27/meet-the-artists-beccy-abraham/)
 
 Two listening stations are installed at the Alice Holt Forest: one near the permanent installation by Pete Bachelor, whose sounds are affected by the environmental data, and the second in a small meadow near a gorgeous chestnut tree. The devices are simple internet radio transmitters that can be enjoyed by anyone with an internet connection.
 
-* Streamer I: [http://solid67.streamupsolutions.com:8063/](http://solid67.streamupsolutions.com:8063/)
-* Streamer II: [http://solid41.streamupsolutions.com:8010/](http://solid41.streamupsolutions.com:8010/ )
+* Streamer I (Giorgio): [http://solid41.streamupsolutions.com:8010/](http://solid41.streamupsolutions.com:8010/)
+* Streamer II (Paula): [http://solid67.streamupsolutions.com:8063/](http://solid67.streamupsolutions.com:8063/)
 
 
 **Data logger**: [Mike Bell](https://www.forestresearch.gov.uk/staff/mike-bell/) (Forest Research)
