@@ -60,6 +60,8 @@ Fill out our short survey to tell us what you think about Your Sonic Forest at A
 
 <img class="h-1/2 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/exhibition/thumbnail_survey-qr-code.png" alt="Link to survey">
 
+[https://app.onlinesurveys.jisc.ac.uk/s/qmul/yoursonicforest](https://app.onlinesurveys.jisc.ac.uk/s/qmul/yoursonicforest ) 
+
 {% endwrap %}
 
 
@@ -122,7 +124,7 @@ Two listening stations are installed at the Alice Holt Forest: one near the perm
 * Streamer II (Paula): [http://solid67.streamupsolutions.com:8063/](http://solid67.streamupsolutions.com:8063/)
 
 
-**Data logger**: [Mike Bell](https://www.forestresearch.gov.uk/staff/mike-bell/) (Forest Research)
+**Data logger**: [Mike Bell](https://www.forestresearch.gov.uk/staff/mike-bell/) (Forest Research) / Catrina James (Forest Research)
 
 Data loggers help us to understand the carbon balance of the forest using environmental data. Here, we are measuring air temperature, relative humidity, wind speed, photosynthetically active radiation, net radiation and carbon dioxide concentration. The solar-powered system sends data via a cellular modem to an online server that the artists can access.
 
