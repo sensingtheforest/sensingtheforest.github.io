@@ -61,6 +61,15 @@ module.exports = function (eleventyConfig) {
 			shortcodeName,
 			pairedshortcodes[shortcodeName]
 		)
+
+	/**
+	 * Custom
+	 * @link https://www.11ty.dev/docs/assets/
+	 */
+	eleventyConfig.addPassthroughCopy("./utils/googlemapsapi.js")
+	eleventyConfig.addPassthroughCopy("./utils/googlemaps.js")
+	eleventyConfig.addPassthroughCopy("./src/assets/css/googlemaps.css");
+		eleventyConfig.addPassthroughCopy("./src/assets/html/googlemaps.html");
 	})
 
 	/**
