@@ -7,9 +7,9 @@ eleventyNavigation:
   title: Listen # as it will appear in the nav
   order: 4 # order to display in the nav
 seo:
-  title: # Listen # overrides 'title' above on both Page and META
-  description: # Listen to the live streamers
-  image:
+  title: Listen # Listen # overrides 'title' above on both Page and META
+  description: Listen to the live streamers # Listen to the live streamers
+  image:  listen/streamer1.jpg
 hero: graphic # options: carousel, graphic, video, split (text & image)
 heroSettings:
   height:
