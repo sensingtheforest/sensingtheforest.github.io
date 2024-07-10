@@ -24,7 +24,7 @@ tags:
 
 ---
 
-**About Bardia Hafizi**: Bardia finished his bachelors in Solid State Physics from Shahid Beheshti University in 2015. He briefly joined the masters program at Shiraz University in 2016, focusing on Complex Systems, before changing tracks to focus on his musical activities. 
+**About**: Bardia Hafizi finished his bachelors in Solid State Physics from Shahid Beheshti University in 2015. He briefly joined the masters program at Shiraz University in 2016, focusing on Complex Systems, before changing tracks to focus on his musical activities. 
 Since 2002, Bardia has been playing the [Persian goblet drum tombak](https://en.wikipedia.org/wiki/Tombak) in the traditional genres of music in Iran. He also started learning the [string instrument setar](https://en.wikipedia.org/wiki/Setar) in 2010, focusing on Classical Iranian repertoires as well as older Persian traditions. In 2019, he left Iran to enrol in the music program at the [Center for Advanced Research in Music](https://miam.itu.edu.tr/en/home/), Istanbul Technical University, focusing on the ethnomusicology of rhythm in Iran. In his master's thesis, Bardia traced a line of tradition of tombak and rhythmic performance in Iran -supervised by [Dr. Robert O. Beahrs](https://robeahrs.com)- from the oldest masters documented in the 19th century through the modernization period and the formation of Iran as a nation-state. Currently, he is doing his PhD in music at the same institute, focusing on sonic ecologies and critical histories.
 
 

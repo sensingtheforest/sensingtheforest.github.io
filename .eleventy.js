@@ -69,8 +69,15 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("./utils/googlemapsapi.js")
 	eleventyConfig.addPassthroughCopy("./utils/googlemaps.js")
 	eleventyConfig.addPassthroughCopy("./src/assets/css/googlemaps.css");
-		eleventyConfig.addPassthroughCopy("./src/assets/html/googlemaps.html");
+	eleventyConfig.addPassthroughCopy("./src/assets/html/googlemaps.html");
 	})
+
+	// eleventyConfig.addCollection('artwork', (collection) => {
+	// 	if (process.env.ELEVENTY_ENV !== 'production')
+	// 		return [...collection.getFilteredByGlob('./src/exhibition/*.md')]
+	// 	else
+	// 		return [...collection.getFilteredByGlob('./src/exhibition/*.md')].filter((post) => !post.data.draft)
+	// })
 
 	/**
 	 * Collections

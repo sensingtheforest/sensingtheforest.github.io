@@ -70,13 +70,17 @@ layout: base
 
   {# ===== Previous and Next =====  #}
   <div class="border-t mt-4 pt-4 {{ colors.borderCustom.color or colors.borderDefault.color }} md:flex-row md:flex md:justify-between">
+  {%- if tags == 'exhibition' -%}  
+    {% set previousPost = collections.exhibition | getPreviousCollectionItem(page) %}
+    {% set nextPost = collections.exhibition | getNextCollectionItem(page) %}
+  {%- else -%}
     {% set previousPost = collections.post | getPreviousCollectionItem(page) %}
     {% set nextPost = collections.post | getNextCollectionItem(page) %}
-
+  {%- endif -%}
     <div class="py-2 text-center sm:py-0">
       {% if previousPost %}
         <a class="{{ colors.prevNextCustom.text or colors.prevNextDefault.text }} hover:{{ colors.prevNextCustom.text or colors.prevNextDefault.textHover }}" href="{{ previousPost.url }}">← {{ previousPost.data.title }}</a>
-      {% endif %}
+      {%- endif -%}
     </div>
 
     <div class="py-2 text-center sm:py-0">
@@ -86,5 +90,6 @@ layout: base
     </div>
 
   </div>
+
 
 </article>
