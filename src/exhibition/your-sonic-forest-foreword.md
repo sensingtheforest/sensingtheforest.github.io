@@ -109,9 +109,9 @@ Here's the digital version of the printed leaflet that we distributed on the 20t
 
 <div class="bg-gray-200 p-4 mt-4 rounded-lg">
 
-<img class="h-0.5 mt-2 mr-2 float-left" src="/assets/images/exhibition/Your-sonic-forest-leaflet-p1_design_by_Johana_Knowles.jpg" alt="Leaflet with information about the exhibition.">
+<img class="mt-2 mr-2 float-left" src="/assets/images/exhibition/Your-sonic-forest-leaflet-p1_design_by_Johana_Knowles.jpg" alt="Leaflet with information about the exhibition.">
 
-<img class="h-0.5 mt-2 mr-2" src="/assets/images/exhibition/Your-sonic-forest-leaflet-p2_design_by_Johana_Knowles.jpg" alt="Leaflet with information about the exhibition.">
+<img class="mt-2 mr-2" src="/assets/images/exhibition/Your-sonic-forest-leaflet-p2_design_by_Johana_Knowles.jpg" alt="Leaflet with information about the exhibition.">
 
 </div>
 
