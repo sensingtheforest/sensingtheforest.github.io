@@ -48,7 +48,7 @@ In the evening, we met with the summer school attendees in Guildford (8 out of 1
 
 We had a tight agenda. The morning started with a quick visit to the exhibition area in Willows Green Trail led by Pete.
 
-Then, Luigi gave a hybrid keynote on "Arts, the forest, and tangential relationships" at the Alice Holt Activity Centre. The topic was very relevant to the artworks of the artists and set interesting questions to consider. We will publish the video of the keynote here soon. Apart from the summer school attendees and the Sensing the Forest Summer School team, there were 19 registered online attendees!
+Then, Luigi gave a hybrid keynote on "Arts, the forest, and tangential relationships" at the Alice Holt Activity Centre. The topic was very relevant to the artworks of the artists and set interesting questions to consider. We will publish the video of the keynote here soon. Apart from the summer school attendees and the Sensing the Forest Summer School team, there were 19 registered online attendees via our Eventbrite event!
 
 After that, the summer school participants offered quick presentations on their projects, focusing on updates. Next, the summer school participants visited Forest Research led by Mike, to then met back at the Alice Holt Visitor Centre for lunch.
 
@@ -65,7 +65,7 @@ In the evening, we met in Guildford. We had a social meetup at The White House a
 </figure>
 </div>
 
-And the day arrived. In the morning, we first took the group photo that you can see at the top of the blog post. Then, there was some time for setting up. We had a beautiful opening presented by Hazel and Pete with all the group present that was live streamed. Then, time flew. We had visitors throughout the four hours (11am-3pm), and there was time for everybody to explore the exhibition as well and also have lunch at the Alice Holt Visitor Centre! 
+And the day arrived. In the morning, we first took the group photo that you can see at the top of the blog post. Then, there was some time for setting up. We had a beautiful opening presented by Hazel and Pete with all the group present that was live streamed. Then, time flew. We had visitors throughout the four hours (11am-3pm), and there was time for everybody to explore the exhibition as well and also have lunch at the Alice Holt Visitor Centre! We had about 40 people registered from our Eventbrite event.
 
 The closing was quite intense. We had to say bye and pack/break down everything at the same time. All in all, it was fantastic to see all the work put together on a very special day. We were blessed to have such good weather for the three days.
 
