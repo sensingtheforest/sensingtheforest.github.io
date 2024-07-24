@@ -1,5 +1,5 @@
 ---
-title: Summer School at Alice Holt
+title: Summer School at Alice Holt Forest
 date: 2024-07-24T08:00:00.000Z
 excerpt: After the six online sessions of the summer school, we all met at Alice  Holt for two days on 19-20 June to prepare and launch the exhibition on the 20th! It was short and intense. It felt extremely rewarding. The exhibition was a big success. 
 author: anna-xambo
@@ -9,7 +9,7 @@ seo:
   description:
   image: 2024/06/summer-school-group-photo.jpg
 images: # relative to /src/assets/images/
-  #feature: 
+  feature: 2024/06/summer-school-group-photo.jpg
   thumb: 2024/06/summer-school-group-photo.jpg
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: h-auto # optional. Default = h-48 md:h-1/3
