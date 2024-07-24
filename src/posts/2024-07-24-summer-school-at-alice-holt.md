@@ -9,7 +9,7 @@ seo:
   description:
   image: 2024/06/summer-school-group-photo.jpg
 images: # relative to /src/assets/images/
-  feature: 2024/06/summer-school-group-photo.jpg
+  #feature: 
   thumb: 2024/06/summer-school-group-photo.jpg
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: h-auto # optional. Default = h-48 md:h-1/3

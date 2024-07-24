@@ -9,7 +9,10 @@ eleventyNavigation:
 seo:
   title: Listen # Listen # overrides 'title' above on both Page and META
   description: Listen to the live streamers # Listen to the live streamers
-  image:  listen/streamer1.jpg
+  image: listen/streamer1.jpg
+images: # relative to /src/assets/images/
+  #feature: listen/streamer1.jpg
+  thumb: listen/streamer1.jpg 
 hero: graphic # options: carousel, graphic, video, split (text & image)
 heroSettings:
   height:

@@ -20,9 +20,10 @@ async function initMap() {
 
   const contentString1 =
   '<div id="content">' +
-  '<img src="https://sensingtheforest.github.io/assets/images/listen/streamer1.jpg" alt="Streamer in a meadow." style="width:300px; float:left; padding: 0 2em 2em 0" />' +
+  '<img src="/assets/images/listen/streamer1.jpg" alt="Streamer in a meadow." style="width:300px; float:left; padding: 0 2em 2em 0" />' +
   '<h1 id="firstHeading" class="firstHeading">' + titles[0] + '</h1>' +
-  "<p>One of the two listening stations installed at the Alice Holt Forest is in a small meadow near a gorgeous chestnut tree. The device is a simple internet radio transmitter that can be enjoyed by anyone with an internet connection.</p>" +
+  // "<p>One of the two listening stations installed at the Alice Holt Forest is in a small meadow near a gorgeous chestnut tree. The device is a simple internet radio transmitter that can be enjoyed by anyone with an internet connection.</p>" +
+  "<p>One of the two listening stations installed at the Alice Holt Forest is near a small pond next to the Alice Holt Visitor Centre. The device is a simple internet radio transmitter that can be enjoyed by anyone with an internet connection.</p>" +
   "<p><strong>Note</strong>: This is currently in testing mode. Hence, the streamer might not be operational. Please be patient. It will soon be fully working 24/7/365!</p>" +
   '<!--Streamup HTML5 Player-->' +
   '<iframe width="500" height="100" src="https://players.dedicateware.com/engine/simple_no_artwork.php?soco=%23FFFFFF&stana=%23F39000&bgco=%23151D28&coco=%23FFFFFF&secure=1&host=solid41.streamupsolutions.com&user=ashgavye&port=8010&mount=STF_Soundscape&autoplay=-1" frameborder="0" scrolling="no" style="border-radius: 8px;"></iframe>' +
@@ -33,7 +34,7 @@ async function initMap() {
 
   const contentString2 =
   '<div id="content">' +
-  '<img src="https://sensingtheforest.github.io/assets/images/listen/streamer2.jpg" alt="Streamer in a trail." style="width:300px; float:left; padding: 0 2em 2em 0" />' +
+  '<img src="/assets/images/listen/streamer2.jpg" alt="Streamer in a trail." style="width:300px; float:left; padding: 0 2em 2em 0" />' +
   '<h1 id="firstHeading" class="firstHeading">' + titles[1] + '</h1>' +
   "<p>One of the two listening stations installed at the Alice Holt Forest is near the permanent installation by Pete Bachelor, whose sounds are affected by the environmental data. The device is a simple internet radio transmitter that can be enjoyed by anyone with an internet connection.</p>" +
   "<p><strong>Note</strong>: This is currently in testing mode. Hence, the streamer might not be operational. Please be patient. It will soon be fully working 24/7/365!</p>" +
@@ -47,7 +48,7 @@ async function initMap() {
   // Data for the markers consisting of a name, a LatLng and a zIndex for the
   // order in which these markers should display on top of each other.
   const streamers = [
-    [titles[0], 51.176792, -0.837306, 4, contentString1], // 51.168209, -0.83989888
+    [titles[0], 51.168209, -0.83989888, 4, contentString1], // 51.168209, -0.83989888 // 51.176792, -0.837306
     [titles[1], 51.167272, -0.838244, 4, contentString2], // 51.168907, -0.838251
   ];
   
