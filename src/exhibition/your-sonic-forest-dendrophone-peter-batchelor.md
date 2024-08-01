@@ -48,7 +48,7 @@ tags:
 
 ---
 
-:camera: **Photos by Shuoyang Zheng**
+:camera: *Photos and videos by Shuoyang Zheng*
 
 
 ***Dendrophone*** is a sound installation by Peter Batchelor that transforms environmental data from the forest into an auditory experience. By converting often hidden processes into sound, the installation aims to makes complex ecological interactions tangible. It also invites listeners to tune into the forest’s acoustic ecology, by complementing the natural soundscape. *Dendrophone* aims to deepen the connection between people and nature, encouraging them to listen beyond the installation and embrace the rich symphony of the forest that is always present yet often overlooked.
@@ -59,13 +59,15 @@ tags:
 
 {% endwrap %}
 
-<div class="bg-gray-200 p-4 mt-4">
+<div class="mt-4 mb-4">
+{% youtube "HYTKoBM6C0k", "Sound Installation by Peter Batchelor" %}
+</div>
+
+<div class="bg-gray-200 p-4 mt-4 mb-4">
 
 <img class="h-48 rounded-full mt-2 mr-2 float-left " src="/assets/images/authors/peter-batchelor.jpg" alt="Photo of Peter Batchelor">
 
 [**Peter Batchelor**](https://peterb.dmu.ac.uk/) is a Senior Lecturer and Programme Leader in Music Technology, and member of the Music, Technology and Innovation - Institute of Sonic Creativity (MTI2) at De Montfort University, Leicester and Co-Investigator of the Sensing the Forest Project. His creative activities encompass a range of electroacoustic composition and sound-making work, including radiophonic documentary, live-electronics and improvisation, multimedia and large-scale multi-channel installation work. Research interests that arise from this practice include: aural landscape construction in sonic arts practice; sound spatialisation/immersion; theories of space; place and listening as they pertain to sound; audience engagement and public art.
-
-<br />
 
 </div>
 

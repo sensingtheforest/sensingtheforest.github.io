@@ -47,10 +47,15 @@ tags:
 
 ---
 
-:camera: **Photos by Shuoyang Zheng**
+:camera: *Photos and videos by Shuoyang Zheng*
 
 
 **Tread(LIGHTLY)** takes the form of a labyrinth built into the forest floor, triggered by human activities. The phrase “tread lightly” refers to being cautious, taking care, thinking before acting, and the labyrinth is designed to make us aware of how we move through natural environments by sonifying and amplifying human movements.
+
+<div class="mt-4 mb-4">
+{% youtube "VgqhNuvJCtY", "Sound Installation by Gabrielle Cerberville" %}
+</div>
+
 
 <div class="bg-gray-200 p-4 mt-4">
 

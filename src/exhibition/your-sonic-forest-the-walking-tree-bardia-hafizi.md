@@ -47,10 +47,14 @@ tags:
 
 ---
 
-:camera: **Photos by Shuoyang Zheng**
+:camera: *Photos and videos by Shuoyang Zheng*
 
 
 If we take forests to be communities of trees, what does that imply for the ones that reside in the city? And what of humans in the forest? Are we intruders trespassing on each other's lands? My work is an investigation into the kinship between cities and forests, tentatively tracing the idea that the boundaries between the two are technologically constructed, and thus can be re-imagined in the same way.
+
+<div class="mt-4 mb-4">
+{% youtube "FhehZJUwDs0", "Sound Installation by Bardia Hafizi" %}
+</div>
 
 <div class="bg-gray-200 p-4 mt-4">
 
@@ -60,6 +64,13 @@ If we take forests to be communities of trees, what does that imply for the ones
 
 <br />
 
+</div>
+
+
+## Complementary material
+
+<div class="mt-4 mb-4">
+{% youtube "s2-iNEKM9xQ", "Narratives about four trees by Bardia Hafizi" %}
 </div>
 
 

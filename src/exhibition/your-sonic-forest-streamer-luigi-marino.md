@@ -47,7 +47,7 @@ tags:
 
 ---
 
-:camera: **Photos by Shuoyang Zheng**
+:camera: *Photos and videos by Shuoyang Zheng*
 
 
 At Sensing the Forest, we installed two listening stations: one near the permanent installation by Pete Bachelor, whose sounds are affected by the environmental data, and the second in a reclusive meadow near a gorgeous chestnut tree. In this way, everyone with an internet connection can go online and listen to the current state of Pete’s installation, or they can listen to the natural sounds happening in the meadow at any hour of the day or night. The devices we use for the transmission are simple internet radio transmitters. The technology isn’t new, but we gave the project an open-source twist. All the components of the transmitters belong to the DIY culture, and they are easily accessible or free to obtain as of today. All our original contributions - the models for the 3D-printed parts, the software, and the know-how - are freely available online on the project’s web page so that any enthusiast makers could build their own and hack them at will. We also tried to make them as environmentally friendly as possible: the cases are 3D-printed in PLA (a bioplastic made from corn starch) and waterproofed with bee wax.
@@ -57,12 +57,21 @@ You can check the two live streamers on [this map](/listen) or directly on the f
 * **Streamer I (Giorgio)**: [http://solid41.streamupsolutions.com:8010](http://solid41.streamupsolutions.com:8010/)
 * **Streamer II (Paula)**: [http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/)
 
-**Note**: This is currently in testing mode. Hence, the streamer might not be operational. Please be patient. It will soon be fully working 24/7/365!
+
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
+
+:fire: **Note**: This is currently in testing mode. Hence, the streamer might not be operational. Please be patient. It will soon be fully working 24/7/365!
+
+{% endwrap %}
+
+<div class="mt-4 mb-4">
+{% youtube "67sZidhHBdQ", "Streamer devices by Luigi Marino" %}
+</div>
 
 
 <div class="bg-gray-200 p-4 mt-4">
 
-<img class="h-48 rounded-full mt-2 mr-2 float-left " src="/assets/images/authors/luigi-marino.jpg" alt="Photo of Luigi Marino">
+<img class="h-48 rounded-full mt-2 mr-2 mb-2 float-left " src="/assets/images/authors/luigi-marino.jpg" alt="Photo of Luigi Marino">
 
 <br />
 

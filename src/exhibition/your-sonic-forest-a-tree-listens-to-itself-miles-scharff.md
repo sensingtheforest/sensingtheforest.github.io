@@ -47,10 +47,15 @@ tags:
 
 ---
 
-:camera: **Photos by Shuoyang Zheng**
+:camera: *Photos and videos by Shuoyang Zheng*
 
 
 ***A tree listens to itself*** is a system in which a tree and the space around it are used as antenna for radio reception in an effort to listen to what electromagnetic signals are physically permeating through the natural world. The received signals are heard through speakers placed about the roots of the tree such that we, and the tree, are listening to this electromagnetic ecology present in the forest in real time. We use technology to listen to an environment that would be invisible to us otherwise in the hopes to re-claim our relationship with technology as a tool to listen closer.
+
+<div class="mt-4 mb-4">
+{% youtube "gGFM6hIc2KA", "Sound Installation by Miles Scharff" %}
+</div>
+
 
 <div class="bg-gray-200 p-4 mt-4">
 

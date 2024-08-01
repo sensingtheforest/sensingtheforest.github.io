@@ -20,7 +20,7 @@ heroSettings:
     desktop: # leave blank to inherit "mobile" height (default = full screen)
   bg:
     color: bg-green-900 # default bg-black
-    image: exhibition/Rosa-Within-and-Between-closeup_photo_by_Shuoyang_Zheng.jpg # relative to /assets/images/
+    image: exhibition/Rosa-Park-Within-and-Between-closeup_photo_by_Shuoyang_Zheng.jpg # relative to /assets/images/
     imagePosition: # options = bg-center (default), bg-left, bg-right
     video: # pixabay-john-macdougall.mp4 # local relative /assets/video/, or full https://... if remote?
     opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
@@ -39,7 +39,7 @@ heroSettings:
   buttonBorder: # leave blank to inherit from /src/_data/colors.buttonCustom.border or buttonDefault.border
   carousel:
     images:
-      - exhibition/Rosa-Within-and-Between-closeup_photo_by_Shuoyang_Zheng.jpg
+      - exhibition/Rosa-Park-Within-and-Between-closeup_photo_by_Shuoyang_Zheng.jpg
 
 
 tags:
@@ -47,17 +47,19 @@ tags:
 
 ---
 
-:camera: **Photos by Shuoyang Zheng**
+:camera: *Photos and videos by Shuoyang Zheng*
 
 ***Within and Between*** is an interactive sound installation that explores the interconnectedness of humans and the environment. The audience is invited to intervene in their natural surroundings by interacting with the installation through their own playful gestures, experiencing how their intervention blends with or disrupts the soundscape of the forest.
 
-<div class="bg-gray-200 p-4 mt-4">
+<div class="mt-4 mb-4">
+{% youtube "E94JIQpMePo", "Sound Installation by Rosa Sungjoo Park" %}
+</div>
+
+<div class="bg-gray-200 p-4 mt-4 mb-4">
 
 <img class="h-48 rounded-full mt-2 mr-2 float-left " src="/assets/images/authors/rosa-sungjoo-park.jpg" alt="Photo of Rosa Sungjoo Park">
 
 [**Rosa Sungjoo Park**](/2024/05/26/meet-the-artists-rosa-sungjoo-park/) is a media artist and sound designer whose research interest is centered on the study of the physicality of sound, psychoacoustics, algorithmic composition, experimental film and sound, and expanded cinema. Park’s creative practice is deeply grounded in her cultural identity, memories, and religion. She has produced and presented a large number of works that deal with Korean traditional rituals, Korean shamanism, acoustic memories, and the nature of life and death. Park’s work has been exhibited and performed in galleries, theaters, and conferences in the United States, Canada, Austria, England, and South Korea. Park holds master’s degrees in Digital + Media (DM) from Rhode Island School of Design, Visual Arts from the University of British Columbia Okanagan, and Visual Communication Design from Seoul National University. She currently serves as an Assistant Professor in the School of Cinema at San Francisco State University, where she teaches courses in sound design and production, interactive cinema, and experimental filmmaking.
-
-<br />
 
 </div>
 

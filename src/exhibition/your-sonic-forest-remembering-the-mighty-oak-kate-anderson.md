@@ -47,10 +47,15 @@ tags:
 
 ---
 
-:camera: **Photos by Shuoyang Zheng**
+:camera: *Photos and videos by Shuoyang Zheng*
 
 
 ***Remembering the Mighty Oak*** is a sculptural reliquary to great oak trees. Constructed with oak and decorated with ink illustrations. Echoing the loss of the Elm in the 1970s, and the decline of the Ash this century, it invites the audience to consider a future where the Nation's Oaks are no more.
+
+
+<div class="mt-4 mb-4">
+{% youtube "Pk-_O_-FRy8 ", "Installation by Kate Anderson" %}
+</div>
 
 <div class="bg-gray-200 p-4 mt-4">
 

@@ -183,7 +183,7 @@ In *Leaves Echo*, every interaction is a testament to the balance of our ecosyst
 
 #### **Featured Sound Installation:** *Dendrophone* by [Peter Batchelor](/authors/peter-batchelor/) (De Montfort University)
 
-*Dendrophone* is a sound installation that transforms environmental data from the forest into an auditory experience. By converting often hidden processes into sound, the installation aims to makes complex ecological interactions tangible. It also invites listeners to tune into the forest’s acoustic ecology, by complementing the natural soundscape. *Dendrophonic* aims to deepen the connection between people and nature, encouraging them to listen beyond the installation and embrace the rich symphony of the forest that is always present yet often overlooked.
+*Dendrophone* is a sound installation that transforms environmental data from the forest into an auditory experience. By converting often hidden processes into sound, the installation aims to makes complex ecological interactions tangible. It also invites listeners to tune into the forest’s acoustic ecology, by complementing the natural soundscape. *Dendrophone* aims to deepen the connection between people and nature, encouraging them to listen beyond the installation and embrace the rich symphony of the forest that is always present yet often overlooked.
 
 <br />
 

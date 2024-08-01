@@ -47,10 +47,14 @@ tags:
 
 ---
 
-:camera: **Photos by Shuoyang Zheng**
+:camera: *Photos and videos by Shuoyang Zheng*
 
 
 ***in touch*** uses a collaborative musical instrument to build soundscapes with forest recordings as source material. It encourages visitors to connect with their environment by connecting with each other.
+
+<div class="mt-4 mb-4">
+{% youtube "C-MbfLbV9vg", "A sound installation by Beccy Abraham" %}
+</div>
 
 <div class="bg-gray-200 p-4 mt-4">
 

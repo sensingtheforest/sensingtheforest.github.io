@@ -47,10 +47,14 @@ tags:
 
 ---
 
-:camera: **Photos by Shuoyang Zheng**
-
+:camera: *Photos and videos by Shuoyang Zheng*
 
 In ***Leaves Echo***, every interaction is a testament to the balance of our ecosystem. It challenges us to perceive the unseen, to hear the unspoken, and to understand the delicate interplay between our actions and the natural world.
+
+<div class="mt-4 mb-4">
+{% youtube "rQm9fYQlWac", "A sound installation by Qianyi Rose Sun" %}
+</div>
+
 
 <div class="bg-gray-200 p-4 mt-4">
 

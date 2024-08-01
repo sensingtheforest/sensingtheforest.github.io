@@ -47,9 +47,15 @@ tags:
 
 ---
 
-:camera: **Photos by Shuoyang Zheng**
+:camera: *Photos and videos by Shuoyang Zheng*
 
 We use data loggers like this to measure a range of environmental variables that help us to understand the carbon balance of the forest. Here, we are measuring air temperature, relative humidity, wind speed, photosynthetically active radiation, net radiation and carbon dioxide concentration. The system is powered by a solar panel, and data is sent via a cellular modem to an online server that the artists can access.
+
+
+<div class="mt-4 mb-4">
+{% youtube "OIY0ZzOScsY", "A data logger device" %}
+</div>
+
 
 <div class="bg-gray-200 p-4 mt-4">
 

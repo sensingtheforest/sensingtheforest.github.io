@@ -47,8 +47,11 @@ tags:
 
 ---
 
-:camera: **Photos by Shuoyang Zheng**
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
+***Sound Gardening*** was not delibered on-site due to last-minute issues that did not allow the artist to travel.  
+
+{% endwrap %}
 
 ***Sound Gardening*** is a conceptual framework to create immersive and interactive AR audio installations, which can re-orient urban dwellers in the natural environments within which our cities have grown. At Alice Holt this project explores the creation of embodied musical instruments; which animate and position trees and other Floral entities as collaborators within an audio-reactive music system; and are modulated by environmental sensor data collected by Alice Holt Forest Research Station. As a collaborator in musical experience, connection can be formed across physical and spiritual dimensions, bridging phenomenological and material distance through AR mediation.
 

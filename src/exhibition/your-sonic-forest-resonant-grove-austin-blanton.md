@@ -47,10 +47,14 @@ tags:
 
 ---
 
-:camera: **Photos by Shuoyang Zheng**
+:camera: *Photos and videos by Shuoyang Zheng*
 
 
 A tree with a tangle of wires and copper is spouting noises from its trunk, inviting you to explore the mystery. As you move your hand closer, the sounds mutate, and activate invisible threads to other noisemakers in the forest. Is this cybernetic tree a contradiction, or can technology live in peace with the forest, and even help it thrive?
+
+<div class="mt-4 mb-4">
+{% youtube "Seri4CeSIPQ", "Sound Installation by Austin Blanton" %}
+</div>
 
 <div class="bg-gray-200 p-4 mt-4">
 

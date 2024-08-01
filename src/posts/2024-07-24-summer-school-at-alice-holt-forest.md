@@ -1,7 +1,7 @@
 ---
 title: Summer School at Alice Holt Forest
 date: 2024-07-24T08:00:00.000Z
-excerpt: After the six online sessions of the summer school, we all met at Alice  Holt for two days on 19-20 June to prepare and launch the exhibition on the 20th! It was short and intense. It felt extremely rewarding. The exhibition was a big success. 
+excerpt: After the six online sessions of the summer school, we all met at Alice Holt for two days on 19-20 June to prepare and launch the exhibition on the 20th! It was short and intense. It felt extremely rewarding. The exhibition was a big success. 
 author: anna-xambo
 draft:
 seo:
@@ -20,7 +20,6 @@ tags:
   - summer-school
   - videos
   - events
-  - exhibition
   
 ---
 
