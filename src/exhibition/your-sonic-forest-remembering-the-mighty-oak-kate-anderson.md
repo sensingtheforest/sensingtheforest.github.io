@@ -40,7 +40,19 @@ heroSettings:
   carousel:
     images:
       - exhibition/Kate-Anderson-Remembering-the-Mighty-Oak-closeup_photo_by_Shuoyang_Zheng.jpg
-
+      - exhibition/Kate-Anderson-Remembering-the-Mighty-Oak-closeup_photo_by_Shuoyang_Zheng_1.jpg      
+      - exhibition/Kate-Anderson-Remembering-the-Mighty-Oak-closeup_photo_by_Shuoyang_Zheng_2.jpg
+      - exhibition/Kate-Anderson-Remembering-the-Mighty-Oak-closeup_photo_by_Shuoyang_Zheng_3.jpg
+      - exhibition/Kate-Anderson-Remembering-the-Mighty-Oak-closeup_photo_by_Shuoyang_Zheng_4.jpg
+      - exhibition/Kate-Anderson-Remembering-the-Mighty-Oak-closeup_photo_by_Shuoyang_Zheng_5.jpg
+      - exhibition/Kate-Anderson-Remembering-the-Mighty-Oak-closeup_photo_by_Shuoyang_Zheng_6.jpg
+      - exhibition/Kate-Anderson-Remembering-the-Mighty-Oak-closeup_photo_by_Shuoyang_Zheng_7.jpg
+      - exhibition/Kate-Anderson-Remembering-the-Mighty-Oak-closeup_photo_by_Shuoyang_Zheng_8.jpg
+      - exhibition/Kate-Anderson-Remembering-the-Mighty-Oak-closeup_photo_by_Shuoyang_Zheng_9.jpg      
+      #- exhibition/Kate-Anderson-Remembering-the-Mighty-Oak-closeup_photo_by_Shuoyang_Zheng_10.jpg
+      - exhibition/Kate-Anderson-Remembering-the-Mighty-Oak-closeup_photo_by_Shuoyang_Zheng_11.jpg
+      - exhibition/Kate-Anderson-Remembering-the-Mighty-Oak-closeup_photo_by_Shuoyang_Zheng_12.jpg
+      - exhibition/Kate-Anderson-Remembering-the-Mighty-Oak-closeup_photo_by_Shuoyang_Zheng_13.jpg
 
 tags:
   - exhibition

@@ -40,7 +40,11 @@ heroSettings:
   carousel:
     images:
       - exhibition/Austin-Blanton-Resonant-Grove_closeup_photo_by_Shuoyang_Zheng.jpg
-
+      - exhibition/Austin-Blanton-Resonant-Grove_closeup_photo_by_Shuoyang_Zheng_1.jpg
+      - exhibition/Austin-Blanton-Resonant-Grove_closeup_photo_by_Shuoyang_Zheng_2.jpg
+      - exhibition/Austin-Blanton-Resonant-Grove_closeup_photo_by_Shuoyang_Zheng_3.jpg      
+      - exhibition/Austin-Blanton-Resonant-Grove_closeup_photo_by_Shuoyang_Zheng_4.jpg
+      - exhibition/Austin-Blanton-Resonant-Grove_closeup_photo_by_Shuoyang_Zheng_5.jpg
 
 tags:
   - exhibition

@@ -46,10 +46,11 @@ tags:
 
 ---
 
-:camera: **Photo by Shuoyang Zheng**
+:camera: *Photo by Shuoyang Zheng*
 
+## Online survey
 
-Use the hashtag ***#yoursonicforest*** to share your photos with us!
+Seen all the artworks of the online exhibition and/or the permanent 1-year sound installation *Dendrophone* at Alice Holt Forest? Would you like to share your comments in our anonymous survey? Please, participate! It should take less than 5-10 minutes to complete.
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
@@ -60,6 +61,10 @@ Fill out our short survey to tell us what you think about Your Sonic Forest at A
 [https://app.onlinesurveys.jisc.ac.uk/s/qmul/yoursonicforest](https://app.onlinesurveys.jisc.ac.uk/s/qmul/yoursonicforest ) 
 
 {% endwrap %}
+
+## Photo sharing
+
+Do you have photos of the onsite event that you would like to share? Please use the hashtag ***#yoursonicforest*** to share your photos with us!
 
 
 

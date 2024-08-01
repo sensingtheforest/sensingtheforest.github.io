@@ -40,6 +40,8 @@ heroSettings:
   carousel:
     images:
       - exhibition/Ed-Chivers-Tree-Museum-closeup_photo_by_Shuoyang_Zheng.jpg
+      - exhibition/Ed-Chivers-Tree-Museum_photo_by_Shuoyang_Zheng_1.jpg 
+      - exhibition/Ed-Chivers-Tree-Museum_photo_by_Shuoyang_Zheng_2.jpg      
 
 
 tags:

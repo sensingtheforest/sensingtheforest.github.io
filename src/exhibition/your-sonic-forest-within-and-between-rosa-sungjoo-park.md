@@ -40,7 +40,15 @@ heroSettings:
   carousel:
     images:
       - exhibition/Rosa-Park-Within-and-Between-closeup_photo_by_Shuoyang_Zheng.jpg
-
+      - exhibition/Rosa-Park-Within-and-Between_photo_by_Shuoyang_Zheng_1.jpg    
+      - exhibition/Rosa-Park-Within-and-Between_photo_by_Shuoyang_Zheng_2.jpg
+      - exhibition/Rosa-Park-Within-and-Between_photo_by_Shuoyang_Zheng_3.jpg    
+      - exhibition/Rosa-Park-Within-and-Between_photo_by_Shuoyang_Zheng_4.jpg
+      - exhibition/Rosa-Park-Within-and-Between_photo_by_Shuoyang_Zheng_5.jpg    
+      - exhibition/Rosa-Park-Within-and-Between_photo_by_Shuoyang_Zheng_6.jpg
+      - exhibition/Rosa-Park-Within-and-Between_photo_by_Shuoyang_Zheng_7.jpg    
+      - exhibition/Rosa-Park-Within-and-Between_photo_by_Shuoyang_Zheng_8.jpg
+      - exhibition/Rosa-Park-Within-and-Between_photo_by_Shuoyang_Zheng_9.jpg
 
 tags:
   - exhibition

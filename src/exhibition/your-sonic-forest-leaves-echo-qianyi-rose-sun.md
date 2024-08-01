@@ -40,8 +40,14 @@ heroSettings:
   carousel:
     images:
       - exhibition/Qianyi-Rose-Sun-Leaves-Echo_closeup_photo_by_Shuoyang_Zheng.jpg
-
-
+      - exhibition/Qianyi-Rose-Sun-Leaves-Echo_closeup_photo_by_Shuoyang_Zheng_1.jpg
+      - exhibition/Qianyi-Rose-Sun-Leaves-Echo_closeup_photo_by_Shuoyang_Zheng_2.jpg 
+      - exhibition/Qianyi-Rose-Sun-Leaves-Echo_closeup_photo_by_Shuoyang_Zheng_3.jpg           
+      - exhibition/Qianyi-Rose-Sun-Leaves-Echo_closeup_photo_by_Shuoyang_Zheng_4.jpg
+      - exhibition/Qianyi-Rose-Sun-Leaves-Echo_closeup_photo_by_Shuoyang_Zheng_5.jpg 
+      - exhibition/Qianyi-Rose-Sun-Leaves-Echo_closeup_photo_by_Shuoyang_Zheng_6.jpg           
+      - exhibition/Qianyi-Rose-Sun-Leaves-Echo_closeup_photo_by_Shuoyang_Zheng_7.jpg 
+      - exhibition/Qianyi-Rose-Sun-Leaves-Echo_closeup_photo_by_Shuoyang_Zheng_8.jpg 
 tags:
   - exhibition
 

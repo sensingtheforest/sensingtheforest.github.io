@@ -40,6 +40,23 @@ heroSettings:
   carousel:
     images:
       - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng.jpg
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_1.jpg      
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_2.jpg      
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_3.jpg      
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_4.jpg      
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_5.jpg      
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_6.jpg      
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_7.jpg      
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_8.jpg      
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_9.jpg      
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_10.jpg      
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_11.jpg      
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_12.jpg      
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_13.jpg      
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_14.jpg      
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_15.jpg      
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_16.jpg      
+      - exhibition/Miles-Scharff-A-tree-listens-to-itself_photo_by_Shuoyang_Zheng_17.jpg      
 
 
 tags:

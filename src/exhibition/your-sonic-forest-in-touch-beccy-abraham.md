@@ -40,7 +40,10 @@ heroSettings:
   carousel:
     images:
       - exhibition/Beccy_Abraham_In_touch_photo_by_Shuoyang_Zheng.jpg
-
+      - exhibition/Beccy_Abraham_In_touch_photo_by_Shuoyang_Zheng_1.jpg
+      - exhibition/Beccy_Abraham_In_touch_photo_by_Shuoyang_Zheng_2.jpg
+      - exhibition/Beccy_Abraham_In_touch_photo_by_Shuoyang_Zheng_4.jpg
+      - exhibition/Beccy_Abraham_In_touch_photo_by_Shuoyang_Zheng_6.jpg
 
 tags:
   - exhibition

@@ -40,14 +40,20 @@ heroSettings:
   carousel:
     images:
       - exhibition/Mike-Bell-and-Catrina-James-Data-Logger_photo_by_Shuoyang_Zheng.jpg
-
+      - exhibition/Mike-Bell-and-Catrina-James-Data-Logger_photo_by_Shuoyang_Zheng_1.jpg
+      - exhibition/Mike-Bell-and-Catrina-James-Data-Logger_photo_by_Shuoyang_Zheng_2.jpg      
+      - exhibition/Mike-Bell-and-Catrina-James-Data-Logger_photo_by_Shuoyang_Zheng_3.jpg
+      - exhibition/Mike-Bell-and-Catrina-James-Data-Logger_photo_by_Shuoyang_Zheng_4.jpg
+      - exhibition/Mike-Bell-and-Catrina-James-Data-Logger_photo_by_Michael_Bell_1.jpg 
+      - exhibition/Mike-Bell-and-Catrina-James-Data-Logger_photo_by_Michael_Bell_2.jpg 
+      - exhibition/Mike-Bell-and-Catrina-James-Data-Logger_photo_by_Michael_Bell_3.jpg      
 
 tags:
   - exhibition
 
 ---
 
-:camera: *Photos and videos by Shuoyang Zheng*
+:camera: *Photos by Shuoyang Zheng and Michael Bell. Videos by Shuoyang Zheng*
 
 We use data loggers like this to measure a range of environmental variables that help us to understand the carbon balance of the forest. Here, we are measuring air temperature, relative humidity, wind speed, photosynthetically active radiation, net radiation and carbon dioxide concentration. The system is powered by a solar panel, and data is sent via a cellular modem to an online server that the artists can access.
 

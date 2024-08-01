@@ -40,7 +40,14 @@ heroSettings:
   carousel:
     images:
       - exhibition/Bardia-Hafizi-The-Walking-Tree_closeup_photo_by_Shuoyang_Zheng.jpg
-
+      - exhibition/Bardia-Hafizi-The-Walking-Tree_closeup_photo_by_Shuoyang_Zheng_1.jpg      
+      - exhibition/Bardia-Hafizi-The-Walking-Tree_closeup_photo_by_Shuoyang_Zheng_2.jpg
+      - exhibition/Bardia-Hafizi-The-Walking-Tree_closeup_photo_by_Shuoyang_Zheng_3.jpg      
+      - exhibition/Bardia-Hafizi-The-Walking-Tree_closeup_photo_by_Shuoyang_Zheng_4.jpg
+      - exhibition/Bardia-Hafizi-The-Walking-Tree_closeup_photo_by_Shuoyang_Zheng_5.jpg      
+      - exhibition/Bardia-Hafizi-The-Walking-Tree_closeup_photo_by_Shuoyang_Zheng_6.jpg      
+      - exhibition/Bardia-Hafizi-The-Walking-Tree_closeup_photo_by_Shuoyang_Zheng_7.jpg      
+      - exhibition/Bardia-Hafizi-The-Walking-Tree_closeup_photo_by_Shuoyang_Zheng_8.jpg
 
 tags:
   - exhibition

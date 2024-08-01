@@ -40,7 +40,16 @@ heroSettings:
   carousel:
     images:
       - exhibition/Luigi-Marino-Streamer-II-closeup_photo_by_Shuoyang_Zheng.jpg
-
+      - exhibition/Luigi-Marino-Streamer-II-closeup_photo_by_Shuoyang_Zheng_1.jpg
+      - exhibition/Luigi-Marino-Streamer-II-closeup_photo_by_Shuoyang_Zheng_2.jpg
+      - exhibition/Luigi-Marino-Streamer-II-closeup_photo_by_Shuoyang_Zheng_3.jpg
+      #- exhibition/Luigi-Marino-Streamer-II-closeup_photo_by_Shuoyang_Zheng_4.jpg
+      - exhibition/Luigi-Marino-Streamer-II-closeup_photo_by_Shuoyang_Zheng_5.jpg
+      #- exhibition/Luigi-Marino-Streamer-II-closeup_photo_by_Shuoyang_Zheng_6.jpg
+      - exhibition/Luigi-Marino-Streamer-II-closeup_photo_by_Shuoyang_Zheng_7.jpg
+      - exhibition/Luigi-Marino-Streamer-II-closeup_photo_by_Shuoyang_Zheng_8.jpg
+      #- exhibition/Luigi-Marino-Streamer-II-closeup_photo_by_Shuoyang_Zheng_9.jpg
+      - exhibition/Luigi-Marino-Streamer-II-closeup_photo_by_Shuoyang_Zheng_10.jpg
 
 tags:
   - exhibition

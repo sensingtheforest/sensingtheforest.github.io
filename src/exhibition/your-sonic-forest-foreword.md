@@ -59,7 +59,7 @@ tags:
 
 ### Welcome
 
-Welcome to ***Your Sonic Forest - Hear Nature Speak through Sound Installations in Alice Holt Forest***. This art event is part of the Sensing the Forest project and has been a follow-up of the Sensing the Forest Summer School. The exhibition has two exhibition modes: onsite and online. 
+Welcome to ***Your Sonic Forest - Hear Nature Speak through Sound Installations in Alice Holt Forest***. This art event is part of the Sensing the Forest project and has been a follow-up of the [Sensing the Forest Summer School](https://sensingtheforest.github.io/summer-school/). The exhibition has two exhibition modes: onsite and online. 
 
 **What's onsite?** You are encouraged to go and visit *[Dendrophone](/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)*, a permanent multichannel sound installation by Peter Batchelor located in Alice Holt Forest, which will be permanent for one year.
 
