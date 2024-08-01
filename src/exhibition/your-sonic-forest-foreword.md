@@ -20,7 +20,7 @@ heroSettings:
     desktop: # leave blank to inherit "mobile" height (default = full screen)
   headingText: Your Sonic Forest
   headingTextColor: text-white # text-gray-800 # default = text-white (can use any TailwindCSS text-[color]-[xxx])
-  subheadingText: <strong>Art event</strong><br />Thursday 20th June 11am-3pm<br />Alice Holt Forest, GU10 4LS, Farnham
+  subheadingText: <strong>Art event</strong><br />Dendrophone - August 2024-July 2025, Alice Holt Forest, GU10 4LS, Farnham<br />Your Sonic Forest Exhibition - August 2024-July 2025, Online
   subheadingTextColor: #text-black-700 # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
   #buttonText: Apply # no button generated if left blank
   #buttonURL: https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-summer-school-application # full url required. Example: https://thisdomain.com/somepage/
@@ -59,24 +59,37 @@ tags:
 
 ### Welcome
 
-Welcome to ***Your Sonic Forest - Hear Nature Speak through Sound Installations in Alice Holt Forest***. This art event was part of the Sensing the Forest Summer School and has two exhibition modes: onsite and online. The onsite art event was a free event presented on Thursday, 20th of June, 11am-3pm, 2024, at the Alice Holt Forest. We had good weather and a good turnout of visitors. The [online art event](/exhibition) is what you can enjoy here from July 2024 until July 2025. This is a live online space where you can experience the presented artworks and see how they progress. 
+Welcome to ***Your Sonic Forest - Hear Nature Speak through Sound Installations in Alice Holt Forest***. This art event is part of the Sensing the Forest project and has been a follow-up of the Sensing the Forest Summer School. The exhibition has two exhibition modes: onsite and online. 
 
-We hope that you enjoy the pieces and that you can spare 5 minutes to tell us what you think on [this online survey](/exhibition/your-sonic-forest-online-survey).
+**What's onsite?** You are encouraged to go and visit *[Dendrophone](/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)*, a permanent multichannel sound installation by Peter Batchelor located in Alice Holt Forest, which will be permanent for one year.
 
-Next, we share relevant materials related to the opening of the art exhibition. Enjoy!
+**What's online?** On [this minisite](/exhibition), you can find the installations that were presented onsite in the opening with more contextual information on their processes and how they are evolving. We encourage you to explore all the incredible artworks!
 
+This exhibition has been curated by [Hazel Stone](/authors/hazel-stone/) (Forestry England) and [Peter Batchelor](/authors/peter-batchelor/) (De Montfort University) in cooperation with the [Sensing the Forest Summer School Team](/summer-school/#summer-school-team) and the [Sensing the Forest Summer School Participants](/tags/meet-the-artists/). 
+
+Enjoy!
 
 <br />
 
-### In-the-wild Opening (livestreamed)
+### Share your Thoughts
+
+Either if you go onsite to experience *Dendrophone* or explore the online exhibition, you are welcome to participate in our short survey.
+
+We hope that you can spare 5 minutes to tell us what you think on [this online survey](/exhibition/your-sonic-forest-online-survey).
 
 <br />
 
+### The Opening
+
+The opening of the onsite exhibition was a free event presented on Thursday, 20th of June, 11am-3pm, 2024, at the Alice Holt Forest. There was an exhibition of 13 installations (see below). We had good weather and a good turnout of visitors. The [online art event](/exhibition) is what you can enjoy here from August 2024 until July 2025. This is a live online space where you can experience the presented artworks and see how they progress. 
+
+You can see below the in-the-wild opening, which was livestreamed!
+
+<div class="mt-4 mb-6">
 {% youtube "wZFUNjvutvc", "Public Sound Installation Art by Peter Batchelor (De Montfort University)" %}
+</div>
 
-<br />
-
-### Introduction
+## About the Art Event on Thursday, 20th of June, 11am-3pm, 2024
 
 <br />
 
