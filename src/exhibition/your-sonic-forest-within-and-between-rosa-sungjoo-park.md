@@ -7,10 +7,10 @@ draft:
 seo:
   title: Within and Between | Rosa Sungjoo Park
   description: Explore human-environment interconnectedness through playful interaction.
-  image: exhibition/Rosa-Within-and-Between-closeup_photo_by_Shuoyang_Zheng.jpg
+  image: exhibition/Rosa-Park-Within-and-Between-closeup_photo_by_Shuoyang_Zheng.jpg
 images: # relative to /src/assets/images/
   #feature: exhibition/Peter-Batchelor-Dendrophone-overview_by_Shuoyang_Zheng.jpg
-  thumb: exhibition/Rosa-Within-and-Between-closeup_photo_by_Shuoyang_Zheng.jpg
+  thumb: exhibition/Rosa-Park-Within-and-Between-closeup_photo_by_Shuoyang_Zheng.jpg
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: h-auto # optional. Default = h-48 md:h-1/3
 hero: carousel # options: carousel, graphic, video, split (text & image)
