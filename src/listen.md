@@ -50,4 +50,8 @@ heroSettings:
 
 <div id="map"></div> -->
 
+Click on the markers in the map to find out more about the two streamers and listen to the streamers (we recommend Chrome or Firefox for an optimal experience). For more information, you can go to the [presentation of the streamer](/exhibition/your-sonic-forest-streamer-luigi-marino/). 
+
+<div class="mt-4 mb-4">
  <embed type="text/html" src="/assets/html/googlemaps.html" width="100%" height="600px"> 
+ </div>

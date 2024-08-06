@@ -50,7 +50,9 @@ tags:
 
 ## Online survey
 
-Seen all the artworks of the online exhibition and/or the permanent 1-year sound installation *Dendrophone* at Alice Holt Forest? Would you like to share your comments in our anonymous survey? Please, participate! It should take less than 5-10 minutes to complete.
+<br />
+
+#### Seen all the artworks of the online exhibition and/or the permanent 1-year sound installation *Dendrophone* at Alice Holt Forest? Would you like to share your comments in our anonymous survey? Please, participate! It should take less than 5-10 minutes to complete.
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
@@ -58,7 +60,7 @@ Fill out our short survey to tell us what you think about Your Sonic Forest at A
 
 <img class="h-48 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/exhibition/thumbnail_survey-qr-code.png" alt="Link to survey">
 
-[https://app.onlinesurveys.jisc.ac.uk/s/qmul/yoursonicforest](https://app.onlinesurveys.jisc.ac.uk/s/qmul/yoursonicforest ) 
+[https://app.onlinesurveys.jisc.ac.uk/s/qmul/yoursonicforest](https://app.onlinesurveys.jisc.ac.uk/s/qmul/yoursonicforest) 
 
 {% endwrap %}
 
