@@ -72,6 +72,18 @@ tags:
 
 {% endwrap %}
 
+## Live stream courtesy of Paula (Streamer II)
+
+<div class="mt-4 mb-4">
+<!--Streamup HTML5 Player-->
+<iframe width="500" height="100" src="https://players.dedicateware.com/engine/simple_no_artwork.php?soco=%23FFFFFF&stana=%23F39000&bgco=%23151D28&coco=%23FFFFFF&secure=1&host=solid67.streamupsolutions.com&user=upnybwpf&port=8063&mount=STF_Installation&autoplay=-1" frameborder="0" scrolling="no" style="border-radius: 8px;"></iframe>
+<!--Streamup HTML5 Player-->
+</div> 
+
+[http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/)
+
+## Video snippets from the opening
+
 <div class="mt-4 mb-4">
 {% youtube "HYTKoBM6C0k", "Sound Installation by Peter Batchelor" %}
 </div>

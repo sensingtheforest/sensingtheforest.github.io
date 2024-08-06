@@ -265,7 +265,7 @@ Shuoyang Zheng is a PhD student at the Centre for Digital Music (C4DM), Queen Ma
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/stanley-parker.jpg" alt="Photo of Stanley Parker" >
 
-[Stanley Parker (Queen Mary University of London)](www.linkedin.com/in/stanley-parker-43113425a)
+[Stanley Parker (Queen Mary University of London)](https://www.linkedin.com/in/stanley-parker-43113425a)
 
 Stanley Parker is a BSc Creative Computing student at Queen Mary University of London. He is creating an environmental monitoring module for his final year project and is working with the Sensing the Forest team to help make this happen and is being supervised for his project by Dr Anna Xambó. His areas of experience include sound design and generative audio, interactive media design, web programming, working with sensors and data mapping. Stanley also has an interest in music and audio production, conservation and general use of computers and other digital media in association with the natural world.
 
