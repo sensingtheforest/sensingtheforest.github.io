@@ -101,7 +101,7 @@ For now, Streamer II Paula is the system that is less reliable due to the EcoFlo
 
 <div class="flex justify-center items-center">
 <figure>
-<img class="mt-4 mb-4" src="/assets/images/2024/08/2024/08/2024-08-12-EcoFlow-app-AC-charging-Activity-Centre.jpg" alt="Charging the EcoFlow unit using AC charging.">
+<img class="mt-4 mb-4" src="/assets/images/2024/08/2024-08-12-Charging-the-EcoFlow-unit-using-AC-charging.jpg" alt="Charging the EcoFlow unit using AC charging.">
 <figcaption>Charging the EcoFlow unit using AC charging.</figcaption>
 </figure>
 </div>
