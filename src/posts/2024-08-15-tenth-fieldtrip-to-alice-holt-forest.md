@@ -136,8 +136,3 @@ In any case, we can now enjoy the streamer with the charged battery, with an est
 ## Follow-up
 
 Next week, I would like to debug the EcoFlow solar panel by trying with a new solar charging cable, measuring if the solar panel keeps giving the expected voltage/amperage values using a multimeter and testing the solar panel in another space to avoid the shade of the canopies. I asked George, who said this is a common task and gave me a bit of advice on how to proceed with this type of debugging. More to follow soon.
-
-
-
-
-
