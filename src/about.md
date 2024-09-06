@@ -273,6 +273,11 @@ Stanley Parker is a BSc Creative Computing student at Queen Mary University of L
 
 {% cols "bg-gray-100 rounded-lg" %}
 
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/ning-liu.jpg" alt="Photo of NING LIU" >
+
+NING LIU (Queen Mary University of London)
+
+NING LIU is the final year student in BSc(Eng)FT Eletronic Engineering(with BUPT) at Queen Mary University in London. Under the supervision of Dr. Anna Xambó, she chose to take a study on the evaluation of MEMS microphones in the "Sensing the Forest" project as the last year's research topic. Her fields of interest and academic experience include interactive algorithms and communication analysis, as well as research experience in Arduino installation and cloud connection.
 
 {% endcols %}
 
