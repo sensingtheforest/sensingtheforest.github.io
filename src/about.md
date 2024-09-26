@@ -283,6 +283,27 @@ NING LIU is the final year student in BSc(Eng)FT Eletronic Engineering(with BUPT
 
 {% endcolumns %}
 
+
+
+{% columns %}
+
+{% cols "bg-gray-100 rounded-lg" %}
+
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/mahmoud-elmokadem.jpg" alt="Photo of Mahmoud Elmokadem" >
+
+[Mahmoud B. Elmokadem (De Montfort University, School of Engineering and Sustainable Developments)](https://www.linkedin.com/in/mahmoud-b-elmokadem-478617174)
+
+Mahmoud B. Elmokadem is a PhD Researcher and Part-Time Lecturer in Mechatronics Engineering at De Montfort University, Leicester. His research focuses on the development of adaptive acoustic insulation panels designed to control sound with noise frequency adaptation capabilities. Mahmoud has a keen interest in building mechatronic systems and integrating advanced technologies to solve complex engineering problems.
+
+{% endcols %}
+
+{% cols "bg-gray-100 rounded-lg" %}
+
+
+{% endcols %}
+
+{% endcolumns %}
+
 <!-- {% columns %}
 
 {% cols "bg-gray-100 rounded-lg" %}

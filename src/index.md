@@ -28,7 +28,7 @@ heroSettings:
   headingTextColor: # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   headingTextCase: # default = as typed - options: uppercase, lowercase, capitalize
   subheadingText: >
-    Let the Forest Speak using the Internet of Things, Acoustic Ecology and Creative AI<br /><span style="color:grey">AHRC-funded project (2023-25) : AH/X011585/1</span>
+    Let the Forest Speak using the Internet of Things, Acoustic Ecology and Creative AI<br /><span style="color:grey">AHRC-funded project (2023-25) : AH/X011585/1, AH/X011585/2</span>
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
   buttonText: Subscribe to our announce mailing list # Contact Us... # no button generated if left blank
   buttonURL: https://groups.google.com/g/sensingtheforest-announce # /contact/ # full url required. Example: https://thisdomain.com/somepage/
