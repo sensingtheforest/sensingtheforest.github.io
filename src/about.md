@@ -299,6 +299,11 @@ Mahmoud B. Elmokadem is a PhD Researcher and Part-Time Lecturer in Mechatronics 
 
 {% cols "bg-gray-100 rounded-lg" %}
 
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/ireti-olowe.png" alt="Image of Ireti Olowe" >
+
+[Ireti Olowe (Advisor, Creative Computing Institute, University of the Arts London)](https://missnommer.com/)
+
+Ireti’s background, training and experience is in creativity support tools (CSTs) for audiovisual expression and performance. She has led industry research projects in games, virtual and urban experience, Web3, Internet of Things (IoT), HealthTech, FinTech, digital twins, digital agriculture, and smart cities, contributing expertise in human-computer interaction (HCI) and user experience (UX). Ireti is currently a research fellow at UAL’s Creative Computing Institute working on the AHRC funded Transforming Collections discovery project for the Towards a National Collection program. Her current research focuses on user interfaces that enable humans, facilitated by machine learning, to interrogate and manage museum-collections-as-data.
 
 {% endcols %}
 
