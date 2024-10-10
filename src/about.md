@@ -277,7 +277,7 @@ Stanley Parker is a BSc Creative Computing student at Queen Mary University of L
 
 NING LIU (Queen Mary University of London)
 
-NING LIU is the final year student in BSc(Eng)FT Eletronic Engineering(with BUPT) at Queen Mary University in London. Under the supervision of Dr. Anna Xambó, she chose to take a study on the evaluation of MEMS microphones in the "Sensing the Forest" project as the last year's research topic. Her fields of interest and academic experience include interactive algorithms and communication analysis, as well as research experience in Arduino installation and cloud connection.
+NING LIU is the final year student in BSc(Eng)FT Eletronic Engineering(with BUPT) at Queen Mary University in London. Under the supervision of Dr. Anna Xambó and Dr. Luigi Marino, she chose to take a study on the evaluation of MEMS microphones in the "Sensing the Forest" project as the last year's research topic. Her fields of interest and academic experience include interactive algorithms and communication analysis, as well as research experience in Arduino installation and cloud connection.
 
 {% endcols %}
 
@@ -304,6 +304,25 @@ Mahmoud B. Elmokadem is a PhD Researcher and Part-Time Lecturer in Mechatronics 
 [Ireti Olowe (Advisor, Creative Computing Institute, University of the Arts London)](https://missnommer.com/)
 
 Ireti’s background, training and experience is in creativity support tools (CSTs) for audiovisual expression and performance. She has led industry research projects in games, virtual and urban experience, Web3, Internet of Things (IoT), HealthTech, FinTech, digital twins, digital agriculture, and smart cities, contributing expertise in human-computer interaction (HCI) and user experience (UX). Ireti is currently a research fellow at UAL’s Creative Computing Institute working on the AHRC funded Transforming Collections discovery project for the Towards a National Collection program. Her current research focuses on user interfaces that enable humans, facilitated by machine learning, to interrogate and manage museum-collections-as-data.
+
+{% endcols %}
+
+{% endcolumns %}
+
+{% columns %}
+
+{% cols "bg-gray-100 rounded-lg" %}
+
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/subhash-arockiadoss.jpg" alt="Photo of Subhash Arockiadoss" >
+
+[Subhash Arockiadoss (De Montfort University, Mechatronics and Robotics)](https://www.linkedin.com/in/subhash-arockiadoss-2092b8171/)
+
+Subhash Arockiadoss is a Robotics Engineer with a strong track record in designing and developing autonomous systems, sensor integration, and real-time robotic applications. Having recently completed his MSc in Mechatronics and Robotics at De Montfort University, Subhash brings hands-on experience with cutting-edge technologies such as ROS (Robot Operating System), SLAM (Simultaneous Localization and Mapping), and embedded systems like Jetson Nano and Raspberry Pi. His expertise has been applied to various industrial projects, including: Healthcare automation robots (Service Robot and Disinfect Robot), Agricultural robot for crop maintenance and Logistics robot for industrial applications. In the Sensing the Forest project, Subhash leverages his experience in robotics, sensor networks, and data analysis to contribute to the innovative use of environmental data. His goal is to raise awareness about the critical connection between forests and climate change by integrating cutting-edge robotic and sensing technologies.
+
+{% endcols %}
+
+{% cols "bg-gray-100 rounded-lg" %}
+
 
 {% endcols %}
 
