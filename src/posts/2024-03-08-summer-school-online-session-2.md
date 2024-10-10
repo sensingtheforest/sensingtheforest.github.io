@@ -15,7 +15,6 @@ images: # relative to /src/assets/images/
   height: h-auto # optional. Default = h-48 md:h-1/3
 tags:
   - alice-holt-forest  
-  - announcements
   - climate-change
   - forestry-england  
   - forest-research    

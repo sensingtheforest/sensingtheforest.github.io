@@ -16,7 +16,6 @@ images: # relative to /src/assets/images/
 tags:
   - audios
   - alice-holt-forest
-  - announcements
   - artistic-interventions
   - field-trips
   - forests

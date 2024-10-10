@@ -37,7 +37,6 @@ images: # relative to /src/assets/images/
 tags:
   - aesthetics
   - alice-holt-forest
-  - announcements
   - forestry-england
   - mappings
   - mediation

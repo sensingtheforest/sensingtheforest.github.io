@@ -15,7 +15,6 @@ images: # relative to /src/assets/images/
   height: h-auto # optional. Default = h-48 md:h-1/3
 tags:
   - acousmatic-music
-  - announcements
   - installation-art 
   - meetings
   - multi-channel-installation
