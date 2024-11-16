@@ -217,7 +217,7 @@ Zainab Tarki was the Finance Officer of the project from September 2023 until De
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/gerard-roma.jpg" alt="Photo of Gerard Roma" >
 
-[Gerard Roma (Advisor, University of West London)](https://www.uwl.ac.uk/staff/gerard-roma)
+[Dr Gerard Roma (Advisor, University of West London)](https://www.uwl.ac.uk/staff/gerard-roma)
 
 Gerard Roma has extensive experience in research and development in the field of sound and music computing and is a Technical Advisor of the project. He is also a practitioner in electronic and computer music. His research interests include audio analysis and synthesis, digital musical instruments, intelligent audio processing, audio source separation and environmental sound recognition.
 
@@ -227,7 +227,7 @@ Gerard Roma has extensive experience in research and development in the field of
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/frederic-font.jpg" alt="Photo of Frederic Font" >
 
-[Frederic Font (Advisor, Universitat Pompeu Fabra)](https://ffont.github.io/)
+[Dr Frederic Font (Advisor, Universitat Pompeu Fabra)](https://ffont.github.io/)
 
 Frederic Font is a senior researcher at Phonos, a pioneering centre in the field of music technology research associated with the Music Technology Group of Universitat Pompeu Fabra, Barcelona, and is a Technical Advisor of the project. At the Music Technology Group, he leads the Freesound project and all Freesound-related research. 
 
@@ -243,7 +243,7 @@ Frederic Font is a senior researcher at Phonos, a pioneering centre in the field
 
 [Aleksander Skutnik (Queen Mary University of London)](https://www.linkedin.com/in/aleksander-skutnik-1a05a625a/)
 
-Aleksander Skutnik is a BSc Computer Science final year student at Queen Mary University of London. For his final year project, he has decided to undertake a research based topic within the Sensing the Forest project under the supervision of Dr Anna Xambó. His areas of interest and academic experience include probabilistic algorithms and risk analysis, as well as research experience in cognitive and sociocultural areas of psychology. Aleksander also has experience in community organising, advocacy and charity work for a range of organisations which include event and campaign planning.
+Aleksander Skutnik is a BSc Computer Science final year student at Queen Mary University of London. For his final year project, he has decided to undertake a research based topic within the Sensing the Forest project under the supervision of Dr Anna Xambó and Kok Ho Huen. His areas of interest and academic experience include probabilistic algorithms and risk analysis, as well as research experience in cognitive and sociocultural areas of psychology. Aleksander also has experience in community organising, advocacy and charity work for a range of organisations which include event and campaign planning.
 
 {% endcols %}
 
@@ -267,7 +267,7 @@ Shuoyang Zheng is a PhD student at the Centre for Digital Music (C4DM), Queen Ma
 
 [Stanley Parker (Queen Mary University of London)](https://www.linkedin.com/in/stanley-parker-43113425a)
 
-Stanley Parker is a BSc Creative Computing student at Queen Mary University of London. He is creating an environmental monitoring module for his final year project and is working with the Sensing the Forest team to help make this happen and is being supervised for his project by Dr Anna Xambó. His areas of experience include sound design and generative audio, interactive media design, web programming, working with sensors and data mapping. Stanley also has an interest in music and audio production, conservation and general use of computers and other digital media in association with the natural world.
+Stanley Parker is a BSc Creative Computing student at Queen Mary University of London. He is creating an environmental monitoring module for his final year project and is working with the Sensing the Forest team to help make this happen and is being supervised for his project by Dr Anna Xambó and Kok Ho Huen. His areas of experience include sound design and generative audio, interactive media design, web programming, working with sensors and data mapping. Stanley also has an interest in music and audio production, conservation and general use of computers and other digital media in association with the natural world.
 
 {% endcols %}
 
@@ -275,9 +275,9 @@ Stanley Parker is a BSc Creative Computing student at Queen Mary University of L
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/ning-liu.jpg" alt="Photo of NING LIU" >
 
-NING LIU (Queen Mary University of London)
+Ning Liu (Queen Mary University of London)
 
-NING LIU is the final year student in BSc(Eng)FT Eletronic Engineering(with BUPT) at Queen Mary University in London. Under the supervision of Dr. Anna Xambó and Dr. Luigi Marino, she chose to take a study on the evaluation of MEMS microphones in the "Sensing the Forest" project as the last year's research topic. Her fields of interest and academic experience include interactive algorithms and communication analysis, as well as research experience in Arduino installation and cloud connection.
+Ning Liu is the final year student in BSc(Eng)FT Electronic Engineering(with BUPT) at Queen Mary University in London. Under the supervision of Dr. Anna Xambó and Dr. Luigi Marino, she chose to take a study on the evaluation of MEMS microphones in the "Sensing the Forest" project as the last year's research topic. Her fields of interest and academic experience include interactive algorithms and communication analysis, as well as research experience in Arduino installation and cloud connection.
 
 {% endcols %}
 
@@ -301,7 +301,7 @@ Mahmoud B. Elmokadem is a PhD Researcher and Part-Time Lecturer in Mechatronics 
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/ireti-olowe.png" alt="Image of Ireti Olowe" >
 
-[Ireti Olowe (Advisor, Creative Computing Institute, University of the Arts London)](https://missnommer.com/)
+[Dr Ireti Olowe (Advisor, Creative Computing Institute, University of the Arts London)](https://missnommer.com/)
 
 Ireti’s background, training and experience is in creativity support tools (CSTs) for audiovisual expression and performance. She has led industry research projects in games, virtual and urban experience, Web3, Internet of Things (IoT), HealthTech, FinTech, digital twins, digital agriculture, and smart cities, contributing expertise in human-computer interaction (HCI) and user experience (UX). Ireti is currently a research fellow at UAL’s Creative Computing Institute working on the AHRC funded Transforming Collections discovery project for the Towards a National Collection program. Her current research focuses on user interfaces that enable humans, facilitated by machine learning, to interrogate and manage museum-collections-as-data.
 
