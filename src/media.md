@@ -11,10 +11,64 @@ seo:
   description: Explore the media outputs of the project (seminar series, presentations...)
   image: seminars/Sensing-the-Forest-Online-Seminar-Talks.jpg 
 ---
-
+ 
 {% wrap "mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg text-left" %}
 
 We are committed to continuously improving the future Sensing the Forest events. To provide feedback about the [online seminar series](/seminars), either experienced 'live' or 'offline', we would very much appreciate if you could spare five minutes to complete this [anonymous questionnaire](https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-seminar-series-feedback).
+
+{% endwrap %}
+
+<!-- //-->
+
+{% wrap "px-2 mt-8 rounded-lg pb-2 border border-gray-300 bg-gray-200" %}
+
+  {% columns %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
+      {% youtube "uGEq9BrhNNw", "Sensing the Forest Hands-on Demonstration: How a Tree Talker Works by George Xenakis (Forest Research)" %}
+  {% endcols %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
+
+  ## George Xenakis
+
+  ### Sensing the Forest Hands-on Demonstration: *How a Tree Talker Works by George Xenakis*
+
+  Related content: 
+
+  * [Hackathon at Northern Research Station Edinburgh - Day 1](/2024/11/12/hackathon-at-northern-research-station-edinburgh-day-1/)
+  * [Hackathon at Northern Research Station Edinburgh - Day 2](/2024/11/13/hackathon-at-northern-research-station-edinburgh-day-2/)
+
+  {% endcols %}
+
+  {% endcolumns %}
+
+{% endwrap %}
+
+<!-- //-->
+
+{% wrap "px-2 mt-8 rounded-lg pb-2 border border-gray-300 bg-gray-200" %}
+
+  {% columns %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
+      {% youtube "Axs6DDR2PuM", "Sensing the Forest Presentation: Introduction to the Northern Research Station by George Xenakis (Forest Research)" %}
+  {% endcols %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
+
+  ## George Xenakis
+
+  ### Sensing the Forest Presentation: *Introduction to the Alice Holt Research Forest*
+
+  Related content: 
+
+  * [Hackathon at Northern Research Station Edinburgh - Day 1](/2024/11/12/hackathon-at-northern-research-station-edinburgh-day-1/)
+  * [Hackathon at Northern Research Station Edinburgh - Day 2](/2024/11/13/hackathon-at-northern-research-station-edinburgh-day-2/)
+
+  {% endcols %}
+
+  {% endcolumns %}
 
 {% endwrap %}
 

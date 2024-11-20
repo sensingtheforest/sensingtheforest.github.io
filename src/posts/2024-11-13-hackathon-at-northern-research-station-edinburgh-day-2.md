@@ -106,7 +106,7 @@ After the presentation of the node prototype on day 1, Mahmoud and Subhash start
 
 ## The installation of a tree talker
 
-We then moved outdoors. George had prepared a unique demonstration of how a tree talker sensor is installed on a Scottish spruce tree. Soon, we will publish a video of the demonstration to explore new and cheaper ways of data acquisition using known technologies. Mahmoud also took a series of portraits, which you can enjoy as a carousel at the top of this blog post.
+We then moved outdoors. George had prepared a unique demonstration of how a tree talker sensor is installed on a Scottish spruce tree. See below for the video demonstration that explores new and cheaper ways of data acquisition using known technologies. Mahmoud also took a series of portraits, which you can enjoy as a carousel at the top of this blog post.
 
 <div class="flex justify-center items-center">
 <figure>
@@ -114,6 +114,10 @@ We then moved outdoors. George had prepared a unique demonstration of how a tree
 <figcaption>Figure 4. George demonstrating the installation of a tree talker.</figcaption>
 </figure>
 </div>
+
+<br />
+
+{% youtube "uGEq9BrhNNw", "Sensing the Forest Hands-on Demonstration: How a Tree Talker Works by George Xenakis (Forest Research)" %}
 
 George also introduced us to the fascinating measurement object of the [increment borer](https://en.wikipedia.org/wiki/Increment_borer), which is used to extract a section of wood tissue from a tree to determine the age of the tree. It is possible to count the number of rings in the core sample and to infer the age of the tree as well as the growth rate.
 
