@@ -49,7 +49,7 @@ Peter Batchelor is a Senior Lecturer and Programme Leader in Music Technology, a
 
 {% cols "bg-gray-100 rounded-lg" %}
 
-<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/michael-bell.jpg" alt="Photo of Michael Bell"> 
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/michael-bell.jpg" alt="Photo of Michael Bell">
 
 [Dr Michael Bell (CI, Forest Research)](https://www.forestresearch.gov.uk/staff/mike-bell/)
 
@@ -147,7 +147,7 @@ Max Gravestock is the Site Manager at Alice Holt Forest (Forestry England) manag
 
 {% cols "bg-gray-100 rounded-lg" %}
 
-<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/nick-wardlaw.jpg" alt="Photo of Nick Wardlaw"> 
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/nick-wardlaw.jpg" alt="Photo of Nick Wardlaw">
 
 [Nick Wardlaw (Forestry England)](https://uk.linkedin.com/in/nick-wardlaw-960251119)
 
@@ -158,7 +158,7 @@ Nick Wardlaw is the District Recreation Manager coving Visitor Centres in Forest
 {% cols "bg-gray-100 rounded-lg" %}
 
 
-<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/johana-knowles.jpg" alt="Photo of Johana Knowles"> 
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/johana-knowles.jpg" alt="Photo of Johana Knowles">
 
 [Johana Knowles (Forestry England)](https://uk.linkedin.com/in/johana-knowles-51602722b)
 
@@ -229,7 +229,7 @@ Gerard Roma has extensive experience in research and development in the field of
 
 [Dr Frederic Font (Advisor, Universitat Pompeu Fabra)](https://ffont.github.io/)
 
-Frederic Font is a senior researcher at Phonos, a pioneering centre in the field of music technology research associated with the Music Technology Group of Universitat Pompeu Fabra, Barcelona, and is a Technical Advisor of the project. At the Music Technology Group, he leads the Freesound project and all Freesound-related research. 
+Frederic Font is a senior researcher at Phonos, a pioneering centre in the field of music technology research associated with the Music Technology Group of Universitat Pompeu Fabra, Barcelona, and is a Technical Advisor of the project. At the Music Technology Group, he leads the Freesound project and all Freesound-related research.
 
 {% endcols %}
 
@@ -323,6 +323,11 @@ Subhash Arockiadoss is a Robotics Engineer with a strong track record in designi
 
 {% cols "bg-gray-100 rounded-lg" %}
 
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/xinyue-xu.jpg" alt="Photo of Xinyue Xu" >
+
+Xinyue Xu (Queen Mary University of London)
+
+Xinyue Xu is a MSc Sound and Music Computing student in EECS at Queen Mary University of London. She participates in the "Sensing the Forest" project, focusing on research in parameter mapping sonification and interactive music systems and under the supervision of Dr. Anna Xambó. Her research interests center on translating meteorological sensor data into sound and enhancing the understanding of the connection between forests and climate change through sonification techniques. She is also interested in immersive audio, 3D binaural sound rendering, and spatial hearing.
 
 {% endcols %}
 

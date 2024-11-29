@@ -3,7 +3,7 @@ title: Presentation at Aix-Marseille University - October 23, 2024
 date: 2024-10-23T10:00:00.000Z
 excerpt: Luigi Marino and I presented the Sensing the Forest project at the Master in Acoustics and Musicology, Aix-Marseille University.
 author: anna-xambo
-draft: 
+draft:
 seo:
   title:
   description:
@@ -19,7 +19,7 @@ tags:
   - presentations
 
 ---
-  
+
 <br />
 
 The [Master's degree in Acoustics and Musicology from Aix-Marseille University](https://aec-music.eu/news-article/master-of-acoustics-and-musicology-aix-marseille-universite/) prepares students for careers in sound, engineering and sound design, perceptual acoustics, sound design, and music, creation, cultural action, musicological and ethnomusicological research. Mathieu Barthet invited me and Luigi Marino to present the Sensing the Forest project at the research seminar series of the master's.
@@ -45,7 +45,7 @@ In this talk, Anna Xambó and Luigi Marino will present the ongoing Arts and Hum
 
 * Bernie Krause. 2008. [Anatomy of the Soundscape: Evolving Perspectives](https://www.researchgate.net/publication/257943187_Anatomy_of_the_Soundscape_Evolving_Perspectives). Journal of the Audio Engineering Society. Audio Engineering Society 56 (Jan 2008), 73 – 80.
 
-* Bruno Latour. 2017. [Face à Gaïa. Huit conférences sur le nouveau régime climatique}(http://www.bruno-latour.fr/node/634.html) / [Facing Gaia: Eight Lectures on the New Climatic Regime](http://www.bruno-latour.fr/node/693.html). Polity Press. 
+* Bruno Latour. 2017. [Face à Gaïa. Huit conférences sur le nouveau régime climatique](http://www.bruno-latour.fr/node/634.html) / [Facing Gaia: Eight Lectures on the New Climatic Regime](http://www.bruno-latour.fr/node/693.html). Polity Press. 
 
 <!-- The slides of my presentation are available [here](/assets/pdf/CHIME-2023.pdf). -->
 
@@ -60,6 +60,3 @@ For the second part of the session, Mathieu proposed exploring the nature of res
 ## Acknowledgements
 
 Thank you to Mathieu Barthet for the invitation and to the students of the Master in Acoustics and Musicology, Aix-Marseille University, for their curiosity and good questions.
-
-
-
