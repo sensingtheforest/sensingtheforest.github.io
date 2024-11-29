@@ -50,6 +50,11 @@ heroSettings:
 
 <div id="map"></div> -->
 
+You can experience the sounds by navigating the map or going directly to the below two links. **We recommend Chrome or Firefox for an optimal experience.**
+
+* **Streamer I (Giorgio)**: [http://solid41.streamupsolutions.com:8010](http://solid41.streamupsolutions.com:8010/)
+* **Streamer II (Paula)**: [http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/)
+
 Click on the markers in the map to find out more about the two streamers and listen to the streamers (we recommend Chrome or Firefox for an optimal experience). For more information, you can go to the [presentation of the streamer](/exhibition/your-sonic-forest-streamer-luigi-marino/).
 
 <div class="mt-4 mb-4">
