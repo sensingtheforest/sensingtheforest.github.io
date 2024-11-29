@@ -51,7 +51,7 @@ heroSettings:
 * Xambó, Anna (accepted): *Sensing the Alice Holt Forest*, live performance. International Conference on Live Coding, May 28-31, 2025. Barcelona, Spain.
 * Batchelor, Peter: *[Dendrophone](https://sensingtheforest.github.io/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)*. Sound installation. August 2024-July 2025, Alice Holt Forest, GU10 4LS, Farnham, UK.
 * *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event - Online](https://sensingtheforest.github.io/exhibition/)*. August 2024-July 2025, Online.
-* *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event](https://sensingtheforest.github.io/exhibition/your-sonic-forest-foreword/)*. 20 June, 11am-3pm, 2024. Alice Holt Forest, UK.
+* *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event](https://sensingtheforest.github.io/exhibition/your-sonic-forest-foreword/)*. 20 June, 11am-3pm, 2024. Alice Holt Forest, GU10 4LS, Farnham, UK.
   * [*Within and Between* | Rosa Sungjoo Park](https://sensingtheforest.github.io/exhibition/your-sonic-forest-within-and-between-rosa-sungjoo-park/)
   * [*Dendrophone* | Peter Batchelor](https://sensingtheforest.github.io/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)
   * [*Streamers* | Luigi Marino](https://sensingtheforest.github.io/exhibition/your-sonic-forest-streamer-luigi-marino/)
@@ -85,7 +85,11 @@ heroSettings:
 
 * Web app customised DIY tree talker (2024-). Under development.
 
-* Xambó, Anna (2024-): Pd web client customised data logger. Under development.
+* Marino, Luigi; Xambó, Anna; Roma, Gerard; Batchelor, Peter; Bell, Mike; et al. (2024-): Max web client customised data logger. Under development.
+
+* Xambó, Anna; Roma, Gerard; Batchelor, Peter; Bell, Mike; Marino, Luigi; et al. (2024-): Pd web client customised data logger. Under development.
+
+* Xambó, Anna; Roma, Gerard and Bell, Mike (2024-): Web server (Express.js). Under development.
 
 * Marino, Luigi (2023-): Streamers' software (Raspberry Pi platform).
   * [Tutorial 1: Phase 1 - Setting up the streamers](http://localhost:8080/2024/01/17/phase-1-setting-up-the-streamers/).
