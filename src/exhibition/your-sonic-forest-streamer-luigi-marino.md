@@ -28,7 +28,7 @@ heroSettings:
   headingText: Streamer | Luigi Marino
   headingTextColor: # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   headingTextCase: # default = as typed - options: uppercase, lowercase, capitalize
-  subheadingText: #>
+  subheadingText: This is a solar-powered system in the woods, which means it sometimes goes offline
     #Let the Forest Speak using the Internet of Things, Acoustic Ecology and Creative AI<br /><span style="color:grey">AHRC-funded project (2023-25) : AH/X011585/1</span>
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
   buttonText: # Contact Us... # no button generated if left blank
@@ -61,9 +61,15 @@ tags:
 
 At Sensing the Forest, we installed two listening stations: one near the permanent installation by Pete Bachelor, whose sounds are affected by the environmental data, and the second in a reclusive meadow near a gorgeous chestnut tree. In this way, everyone with an internet connection can go online and listen to the current state of Pete’s installation, or they can listen to the natural sounds happening in the meadow at any hour of the day or night. The devices we use for the transmission are simple internet radio transmitters. The technology isn’t new, but we gave the project an open-source twist. All the components of the transmitters belong to the DIY culture, and they are easily accessible or free to obtain as of today. All our original contributions - the models for the 3D-printed parts, the software, and the know-how - are freely available online on the project’s web page so that any enthusiast makers could build their own and hack them at will. We also tried to make them as environmentally friendly as possible: the cases are 3D-printed in PLA (a bioplastic made from corn starch) and waterproofed with bee wax.
 
-You can check the two live streamers on [this map](/listen) or directly on the following two links. We recommend Chrome or Firefox for an optimal experience. 
+You can check the two live streamers on [this map](/listen) or directly on the following two links. **We recommend Chrome or Firefox for an optimal experience.**
 
 ## Streamer I (Giorgio)
+
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
+
+:fire: **Note**: This is a solar-powered system in the woods, which means it sometimes goes offline.
+
+{% endwrap %}
 
 **Streamer I (Giorgio)**: [http://solid41.streamupsolutions.com:8010](http://solid41.streamupsolutions.com:8010/)
 
@@ -75,19 +81,20 @@ You can check the two live streamers on [this map](/listen) or directly on the f
 
 ## Streamer II (Paula)
 
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
+
+:fire: **Note**: This is a solar-powered system in the woods, which means it sometimes goes offline.
+
+{% endwrap %}
+
 **Streamer II (Paula)**: [http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/)
 
 <div class="mt-4 mb-4">
 <!--Streamup HTML5 Player-->
 <iframe width="500" height="100" src="https://players.dedicateware.com/engine/simple_no_artwork.php?soco=%23FFFFFF&stana=%23F39000&bgco=%23151D28&coco=%23FFFFFF&secure=1&host=solid67.streamupsolutions.com&user=upnybwpf&port=8063&mount=STF_Installation&autoplay=-1" frameborder="0" scrolling="no" style="border-radius: 8px;"></iframe>
 <!--Streamup HTML5 Player-->
-</div> 
+</div>
 
-{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
-
-:fire: **Note**: This is currently in testing mode. Hence, the streamer might not be operational. Please be patient. It will soon be fully working 24/7/365!
-
-{% endwrap %}
 
 <div class="mt-4 mb-4">
 {% youtube "67sZidhHBdQ", "Streamer devices by Luigi Marino" %}
@@ -107,10 +114,3 @@ You can check the two live streamers on [this map](/listen) or directly on the f
 
 
 </div>
-
-
-
-
-
-
-

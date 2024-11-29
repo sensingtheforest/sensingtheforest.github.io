@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 6 # order to display in the nav
 seo:
   title: Outputs # overrides 'title' above on both Page and META
-  description: Academic and artistic outputs of the AHRC Sensing the Forest Project
+  description: Academic, artistic and non-specialist outputs of the AHRC Sensing the Forest Project
   image:  # relative to /assets/images/
 hero: graphic # options: carousel, graphic, video, split (text & image)
 heroSettings:
@@ -34,7 +34,7 @@ heroSettings:
 
 ## Abstracts
 
-* Marino, Luigi and Xambó, Anna (2024). [Developing DIY Solar-Powered, Off-Grid Audio Streamers for Forest Soundscapes: Progress and Challenges](https://www.chime.ac.uk/s/21-Luigi-Marino-and-Anna-Xambo.pdf), [Proceedings of CHIME 2024](https://www.chime.ac.uk/chime-annual-conference-2024).
+* Marino, Luigi and Xambó, Anna (2024). [Developing DIY Solar-Powered, Off-Grid Audio Streamers for Forest Soundscapes: Progress and Challenges](https://www.chime.ac.uk/s/21-Luigi-Marino-and-Anna-Xambo.pdf), Proceedings of [CHIME 2024](https://www.chime.ac.uk/chime-annual-conference-2024).
 
 <pre>---</pre>
 
@@ -48,10 +48,10 @@ heroSettings:
 
 ## Artistic
 
-* Xambó, Anna (accepted): *Sensing the Alice Holt Forest*, live performance. International Conference on Live Coding, May 28-31, 2025. Barcelona.
-* Batchelor, Peter: *[Dendrophone](https://sensingtheforest.github.io/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)*. Sound installation. August 2024-July 2025, Alice Holt Forest, GU10 4LS, Farnham.
+* Xambó, Anna (accepted): *Sensing the Alice Holt Forest*, live performance. International Conference on Live Coding, May 28-31, 2025. Barcelona, Spain.
+* Batchelor, Peter: *[Dendrophone](https://sensingtheforest.github.io/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)*. Sound installation. August 2024-July 2025, Alice Holt Forest, GU10 4LS, Farnham, UK.
 * *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event - Online](https://sensingtheforest.github.io/exhibition/)*. August 2024-July 2025, Online.
-* *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event](https://sensingtheforest.github.io/exhibition/your-sonic-forest-foreword/)*. 20 June, 11am-3pm, 2024. Alice Holt Forest.
+* *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event](https://sensingtheforest.github.io/exhibition/your-sonic-forest-foreword/)*. 20 June, 11am-3pm, 2024. Alice Holt Forest, UK.
   * [*Within and Between* | Rosa Sungjoo Park](https://sensingtheforest.github.io/exhibition/your-sonic-forest-within-and-between-rosa-sungjoo-park/)
   * [*Dendrophone* | Peter Batchelor](https://sensingtheforest.github.io/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)
   * [*Streamers* | Luigi Marino](https://sensingtheforest.github.io/exhibition/your-sonic-forest-streamer-luigi-marino/)
@@ -72,7 +72,7 @@ heroSettings:
 * Manjunatha, Krishna Nama; Elmokadem, Mahmoud B.; Arockiadoss, Subhash; Xenakis, George; and Xambó Anna (2024-): DIY tree talker. Under development.
 
 * Marino, Luigi (2023-): Streamers. Under development.
-  * [Tutorial 1: Phase 1 - Setting up the streamers](http://localhost:8080/2024/01/17/phase-1-setting-up-the-streamers/)
+  * [Tutorial 1: Phase 1 - Setting up the streamers](http://localhost:8080/2024/01/17/phase-1-setting-up-the-streamers/).
   * Tutorial 2: Forthcoming.
   * Tutorial 3: Forthcoming.
 
@@ -80,10 +80,9 @@ heroSettings:
 
 <pre>---</pre>
 
-
 ## Software
 
-* Pd web client customised data logger (2023-). Under development.
+* Xambó, Anna (2024-): Pd web client customised data logger. Under development.
 * Web app customised DIY tree talker (2024-). Under development.
 
 <pre>---</pre>
@@ -94,6 +93,19 @@ heroSettings:
 * 5-minute audio recordings streamer II (sound installation). Ongoing.
 * 1-minute JSON files from customised data logger. Ongoing.
 * 10-minute JSON files from DIY tree talker. Forthcoming.
+
+<pre>---</pre>
+
+## Live streams
+
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
+
+:fire: **Note**: This is a solar-powered system in the woods, which means it sometimes goes offline. We recommend Chrome or Firefox for an optimal experience.
+
+{% endwrap %}
+
+* [Natural soundscape](http://solid41.streamupsolutions.com:8010/)
+* [Sound installation](https://solid67.streamupsolutions.com:8063/)
 
 <pre>---</pre>
 
@@ -137,5 +149,12 @@ heroSettings:
 * Xambó, Anna and Marino, Luigi (5 February 2024) [An Interview with Alice Eldridge](https://sensingtheforest.github.io/2024/02/05/an-interview-with-alice-eldridge/). The Sensing the Forest blog.
 * Xambó, Anna and Marino, Luigi (14 January 2024) [An Interview with Peter Sinclair](https://sensingtheforest.github.io/2024/01/14/an-interview-with-peter-sinclair/). The Sensing the Forest blog.
 * Xambó, Anna and Marino, Luigi (5 December 2023) [An Interview with Saloni Shah](https://sensingtheforest.github.io/2023/12/05/an-interview-with-saloni-shah/). The Sensing the Forest blog.
+
+<pre>---</pre>
+
+## Photo albums
+
+* [Sensing the Forest Summer School - Day 1](https://flickr.com/photos/200917075@N06/albums/72177720318062910), The Sensing the Forest Flickr account.
+* [Sensing the Forest Summer School - Day 2](https://flickr.com/photos/200917075@N06/albums/72177720318197655), The Sensing the Forest Flickr account.
 
 <pre>---</pre>

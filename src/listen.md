@@ -12,7 +12,7 @@ seo:
   image: listen/streamer1.jpg
 images: # relative to /src/assets/images/
   #feature: listen/streamer1.jpg
-  thumb: listen/streamer1.jpg 
+  thumb: listen/streamer1.jpg
 hero: graphic # options: carousel, graphic, video, split (text & image)
 heroSettings:
   height:
@@ -28,7 +28,7 @@ heroSettings:
   headingText: Listen to the live streamers
   headingTextColor: # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   headingTextCase: # default = as typed - options: uppercase, lowercase, capitalize
-  subheadingText: #>
+  subheadingText: This is a solar-powered system in the woods, which means it sometimes goes offline
     #Let the Forest Speak using the Internet of Things, Acoustic Ecology and Creative AI<br /><span style="color:grey">AHRC-funded project (2023-25) : AH/X011585/1</span>
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
   buttonText: Full screen # Contact Us... # no button generated if left blank
@@ -40,7 +40,7 @@ heroSettings:
   carousel:
     images:
       - listen/streamer1.jpg
-      - listen/streamer2.jpg 
+      - listen/streamer2.jpg
 ---
 
 
@@ -50,8 +50,8 @@ heroSettings:
 
 <div id="map"></div> -->
 
-Click on the markers in the map to find out more about the two streamers and listen to the streamers (we recommend Chrome or Firefox for an optimal experience). For more information, you can go to the [presentation of the streamer](/exhibition/your-sonic-forest-streamer-luigi-marino/). 
+Click on the markers in the map to find out more about the two streamers and listen to the streamers (we recommend Chrome or Firefox for an optimal experience). For more information, you can go to the [presentation of the streamer](/exhibition/your-sonic-forest-streamer-luigi-marino/).
 
 <div class="mt-4 mb-4">
- <embed type="text/html" src="/assets/html/googlemaps.html" width="100%" height="600px"> 
+ <embed type="text/html" src="/assets/html/googlemaps.html" width="100%" height="600px">
  </div>
