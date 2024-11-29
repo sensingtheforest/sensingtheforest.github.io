@@ -9,14 +9,16 @@ eleventyNavigation:
 seo:
   title: Media # overrides 'title' above on both Page and META
   description: Explore the media outputs of the project (seminar series, presentations...)
-  image: seminars/Sensing-the-Forest-Online-Seminar-Talks.jpg 
+  image: seminars/Sensing-the-Forest-Online-Seminar-Talks.jpg
 ---
- 
+
+<!--
 {% wrap "mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg text-left" %}
 
 We are committed to continuously improving the future Sensing the Forest events. To provide feedback about the [online seminar series](/seminars), either experienced 'live' or 'offline', we would very much appreciate if you could spare five minutes to complete this [anonymous questionnaire](https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-seminar-series-feedback).
 
 {% endwrap %}
+//-->
 
 <!-- //-->
 
@@ -32,9 +34,9 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ## George Xenakis
 
-  ### Sensing the Forest Hands-on Demonstration: *How a Tree Talker Works by George Xenakis*
+  ### Sensing the Forest Hands-on Demonstration: *How a Tree Talker Works*
 
-  Related content: 
+  Related content:
 
   * [Hackathon at Northern Research Station Edinburgh - Day 1](/2024/11/12/hackathon-at-northern-research-station-edinburgh-day-1/)
   * [Hackathon at Northern Research Station Edinburgh - Day 2](/2024/11/13/hackathon-at-northern-research-station-edinburgh-day-2/)
@@ -59,9 +61,9 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ## George Xenakis
 
-  ### Sensing the Forest Presentation: *Introduction to the Alice Holt Research Forest*
+  ### Sensing the Forest Presentation: *Introduction to the Northern Research Station*
 
-  Related content: 
+  Related content:
 
   * [Hackathon at Northern Research Station Edinburgh - Day 1](/2024/11/12/hackathon-at-northern-research-station-edinburgh-day-1/)
   * [Hackathon at Northern Research Station Edinburgh - Day 2](/2024/11/13/hackathon-at-northern-research-station-edinburgh-day-2/)
@@ -79,6 +81,36 @@ We are committed to continuously improving the future Sensing the Forest events.
   {% columns %}
 
   {% cols "bg-gray-100 rounded-lg" %}
+      {% youtube "cuNWg0LoENU", "Initial Prototypes by Summer School Artists" %}
+  {% endcols %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
+
+  ## Summer School Artists
+
+  ### Sensing the Forest Summer School Presentation: *Initial Prototypes*
+
+  Related content:
+
+  * [Summer School Online Session 6](/2024/06/09/summer-school-online-session-6/)
+  * [Your Sonic Forest Exhibition](/exhibition/)
+  * [Meet the Artists](tags/meet-the-artists/)
+  * [Summer School](/summer-school/)
+
+  {% endcols %}
+
+  {% endcolumns %}
+
+{% endwrap %}
+
+
+<!-- //-->
+
+{% wrap "px-2 mt-8 rounded-lg pb-2 border border-gray-300 bg-gray-200" %}
+
+  {% columns %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
       {% youtube "PVdjfxjYDIo", "Placemaking and Audience by Johana Knowles (Forestry England)" %}
   {% endcols %}
 
@@ -88,7 +120,7 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ### Sensing the Forest Summer School Presentation: *Placemaking and Audience*
 
-  Related content: 
+  Related content:
 
   * [Summer School Online Session 4](/2024/05/01/summer-school-online-session-4/)
   * [Second Field Trip to Alice Holt Forest](/2024/04/09/second-field-trip-to-alice-holt-forest/)
@@ -117,7 +149,7 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ### Sensing the Forest Summer School Presentation: *Approaches to Creative Responses in the Landscape*
 
-  Related content: 
+  Related content:
 
   * [Summer School Online Session 4](/2024/05/01/summer-school-online-session-4/)
   * [Second Field Trip to Alice Holt Forest](/2024/04/09/second-field-trip-to-alice-holt-forest/)
@@ -145,7 +177,7 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ### Sensing the Forest Summer School Presentation: *Public Sound Installation Art*
 
-  Related content: 
+  Related content:
 
   * [Summer School Online Session 3](/2024/04/26/summer-school-online-session-3/)
   * [Second Field Trip to Alice Holt Forest](/2024/04/09/second-field-trip-to-alice-holt-forest/)
@@ -173,7 +205,7 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ### Sensing the Forest Summer School Presentation: *Alice Holt Long-Term Carbon Dioxide Flux Monitoring Site*
 
-  Related content: 
+  Related content:
 
   * [Summer School Online Session 2](/2024/03/08/summer-school-online-session-2/)
   * [An Introduction to Alice Holt Forest](/2023/11/22/an-introduction-to-alice-holt-forest/)
@@ -201,7 +233,7 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ### Sensing the Forest Summer School Presentation: *An Introduction to Alice Holt Forest Centre*
 
-  Related content: 
+  Related content:
 
   * [Summer School Online Session 2](/2024/03/08/summer-school-online-session-2/)
   * [Summer School](/summer-school/)
@@ -228,7 +260,7 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ### Sensing the Forest Presentation: *Introduction to the Alice Holt Research Forest*
 
-  Related content: 
+  Related content:
 
   * [An Introduction to Alice Holt Forest](/2023/11/22/an-introduction-to-alice-holt-forest/)
   * [Summer School](/summer-school/)
@@ -255,7 +287,7 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ### Sensing the Forest Seminar #3: *Q&A moderated by Peter Batchelor*
 
-  Related content: 
+  Related content:
 
   * [An Interview with Liz O'Brien](/2024/02/21/an-interview-with-liz-obrien/)
   * [An Interview with Alice Eldridge](/2024/02/05/an-interview-with-alice-eldridge/)  
@@ -283,9 +315,9 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ### Sensing the Forest Seminar #3: *Tuning in to Soundscape Dynamical Complexity*
 
-  Related content: 
+  Related content:
 
-  * [An Interview with Alice Eldridge](/2024/02/05/an-interview-with-alice-eldridge/) 
+  * [An Interview with Alice Eldridge](/2024/02/05/an-interview-with-alice-eldridge/)
   * [Seminars](/seminars/)
 
   {% endcols %}
@@ -310,10 +342,10 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ### Sensing the Forest Seminar #3: *Sounds in and of the Forest: Can We Connect People to Nature Through Sound?*
 
-  Related content: 
+  Related content:
 
   * [Slides](/assets/pdf/Sensing-the-Forest-LizOBrien-slides-Nov-2023.pdf)
-  * [An Interview with Liz O'Brien](/2024/02/21/an-interview-with-liz-obrien/) 
+  * [An Interview with Liz O'Brien](/2024/02/21/an-interview-with-liz-obrien/)
   * [Seminars](/seminars/)
 
   {% endcols %}
@@ -338,9 +370,9 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ### Sensing the Forest Seminar #2: *Q&A moderated by Peter Batchelor*
 
-  Related content: 
+  Related content:
 
-  * [An interview with Saloni Shah](/2023/12/05/an-interview-with-saloni-shah/) 
+  * [An interview with Saloni Shah](/2023/12/05/an-interview-with-saloni-shah/)
   * [Seminars](/seminars/)  
 
   {% endcols %}
@@ -365,7 +397,7 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ### Sensing the Forest Seminar #2: *Living Symphonies*
 
-  Related content: 
+  Related content:
 
   * [Seminars](/seminars/)  
 
@@ -391,9 +423,9 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ### Sensing the Forest Seminar #2: *How Information Design Can Save Forest Ecosystems*
 
-  Related content: 
+  Related content:
 
-  * [An interview with Saloni Shah](/2023/12/05/an-interview-with-saloni-shah/) 
+  * [An interview with Saloni Shah](/2023/12/05/an-interview-with-saloni-shah/)
   * [Seminars](/seminars/)  
 
   {% endcols %}
@@ -418,7 +450,7 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ### Sensing the Forest Seminar #1: *Q&A moderated by Peter Batchelor*
 
-  Related content: 
+  Related content:
 
   * [An interview with Peter Sinclair](/2024/01/14/an-interview-with-peter-sinclair/)
   * [Seminars](/seminars/)  
@@ -445,7 +477,7 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ### Sensing the Forest Seminar #1: *Locustream Open Microphones - Acoustic commons : a shared resource to renew listening*
 
-  Related content: 
+  Related content:
 
   * [An interview with Peter Sinclair](/2024/01/14/an-interview-with-peter-sinclair/)
   * [Seminars](/seminars/)  
@@ -472,7 +504,7 @@ We are committed to continuously improving the future Sensing the Forest events.
 
   ### Sensing the Forest Seminar #1: *Worlds in Flux: Semiconductor*
 
-  Related content: 
+  Related content:
 
   * [Seminars](/seminars/)  
 
@@ -481,6 +513,3 @@ We are committed to continuously improving the future Sensing the Forest events.
   {% endcolumns %}
 
 {% endwrap %}
-
-
-

@@ -9,7 +9,7 @@ eleventyNavigation:
 seo:
   title: Seminars # overrides 'title' above on both Page and META
   description: Discover the 1st AHRC Sensing the Forest seminar series (Oct-Nov 2023)
-  image: seminars/Sensing-the-Forest-Online-Seminar-Talks.jpg 
+  image: seminars/Sensing-the-Forest-Online-Seminar-Talks.jpg
 ---
 
 The AHRC Sensing the Forest project is organising a series of three fortnightly online seminar talks with experts related to artistic, social and scientific interventions in the forest or other natural landscapes with a special focus on acoustic phenomena. The seminar series will include talks by Semiconductor, Peter Sinclair, Saloni Shah, Jones/Bulley, Liz O'Brien and Alice Eldridge.
@@ -22,7 +22,8 @@ The AHRC Sensing the Forest project is organising a series of three fortnightly 
 Many thanks for your interest in the seminar series. The first edition of the seminar series concluded with great success. We had a total of 275 registered attendees. You can:
 * Download the [poster of the seminar series](/assets/images/seminars/Sensing-the-Forest-Online-Seminar-Talks.jpg).
 * Watch the [video presentations](/media).
-* Provide us [feedback](https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-seminar-series-feedback).
+* Leave comments / give likes to our [Sensing the Forest YouTube channel](youtube.com/@sensingtheforest).
+<!-- * Provide us [feedback](https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-seminar-series-feedback). -->
 
 {% endwrap %}
 
