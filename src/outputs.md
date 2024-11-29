@@ -71,19 +71,26 @@ heroSettings:
 
 * Manjunatha, Krishna Nama; Elmokadem, Mahmoud B.; Arockiadoss, Subhash; Xenakis, George; and Xambó Anna (2024-): DIY tree talker. Under development.
 
-* Marino, Luigi (2023-): Streamers. Under development.
+* Bell, Mike and James, Catrina (2024): [Customised Data Logger](https://sensingtheforest.github.io/exhibition/your-sonic-forest-data-logger-mike-bell-and-catrina-james/).
+
+* Marino, Luigi (2023-): Streamers' hardware. Under development.
   * [Tutorial 1: Phase 1 - Setting up the streamers](http://localhost:8080/2024/01/17/phase-1-setting-up-the-streamers/).
   * Tutorial 2: Forthcoming.
   * Tutorial 3: Forthcoming.
-
-* Bell, Mike and James, Catrina (2024): [Customised Data Logger](https://sensingtheforest.github.io/exhibition/your-sonic-forest-data-logger-mike-bell-and-catrina-james/).
+  * 3D models.
 
 <pre>---</pre>
 
 ## Software
 
-* Xambó, Anna (2024-): Pd web client customised data logger. Under development.
 * Web app customised DIY tree talker (2024-). Under development.
+
+* Xambó, Anna (2024-): Pd web client customised data logger. Under development.
+
+* Marino, Luigi (2023-): Streamers' software (Raspberry Pi platform).
+  * [Tutorial 1: Phase 1 - Setting up the streamers](http://localhost:8080/2024/01/17/phase-1-setting-up-the-streamers/).
+  * Tutorial 2: Forthcoming.
+  * Tutorial 3: Forthcoming.
 
 <pre>---</pre>
 
@@ -96,7 +103,7 @@ heroSettings:
 
 <pre>---</pre>
 
-## Live streams
+## Live streams (from streamers)
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
@@ -154,7 +161,7 @@ heroSettings:
 
 ## Photo albums
 
-* [Sensing the Forest Summer School - Day 1](https://flickr.com/photos/200917075@N06/albums/72177720318062910), The Sensing the Forest Flickr account.
-* [Sensing the Forest Summer School - Day 2](https://flickr.com/photos/200917075@N06/albums/72177720318197655), The Sensing the Forest Flickr account.
+* Zheng, Shuoyang (2024) [Sensing the Forest Summer School - Day 1](https://flickr.com/photos/200917075@N06/albums/72177720318062910), The Sensing the Forest Flickr account.
+* Zheng, Shuoyang (2024) [Sensing the Forest Summer School - Day 2](https://flickr.com/photos/200917075@N06/albums/72177720318197655), The Sensing the Forest Flickr account.
 
 <pre>---</pre>
