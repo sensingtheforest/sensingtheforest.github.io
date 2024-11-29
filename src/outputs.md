@@ -85,7 +85,7 @@ heroSettings:
 
 * Web app customised DIY tree talker (2024-). Under development.
 
-* Marino, Luigi; Xambó, Anna; Roma, Gerard; Batchelor, Peter; Bell, Mike; et al. (2024-): Max web client customised data logger. Under development.
+* Xambó, Anna; Roma, Gerard; Batchelor, Peter; Bell, Mike; Marino, Luigi; et al. (2024-): Max web client customised data logger. Under development.
 
 * Xambó, Anna; Roma, Gerard; Batchelor, Peter; Bell, Mike; Marino, Luigi; et al. (2024-): Pd web client customised data logger. Under development.
 
