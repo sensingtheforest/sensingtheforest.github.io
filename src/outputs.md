@@ -77,7 +77,7 @@ heroSettings:
   * [Tutorial 1: Phase 1 - Setting up the streamers](http://localhost:8080/2024/01/17/phase-1-setting-up-the-streamers/).
   * Tutorial 2: Forthcoming.
   * Tutorial 3: Forthcoming.
-  * 3D models.
+  * 3D models. Forthcoming.
 
 <pre>---</pre>
 
