@@ -40,30 +40,30 @@ heroSettings:
 
 ## Presentations
 
-* Xambó, Anna and Marino, Luigi (October 23, 2024). Invited Talk: [”Sensing the Forest: Lessons Learned from our Artistic-Acoustic Intervention at the Alice Holt Forest”](https://sensingtheforest.github.io/2024/10/23/presentation-at-aix-marseille-university-october-23-2024/). Aix-Marseille University - Master in Acoustics and Musicology. Online.
-* Xambó, Anna (November 14, 2023). Keynote: [”From NIME to NISE: Rethinking the design and evaluation of musical interfaces”](https://sensingtheforest.github.io/2023/12/18/presentation-at-adc23-november-14-2023/). Audio Developer Conference 2023 (ADC23). London, UK.
-* Xambó, Anna (October 25, 2023). Invited Talk: [”In the search for epistemological cross-pollination between forest research, HCI and SMC”](https://sensingtheforest.github.io/2023/11/01/presentation-at-chime-october-25-2023/). CHIME network. Online.
+* Xambó, Anna and Marino, Luigi (October 23, 2024). Invited Talk: [”Sensing the Forest: Lessons Learned from our Artistic-Acoustic Intervention at the Alice Holt Forest”](/2024/10/23/presentation-at-aix-marseille-university-october-23-2024/). Aix-Marseille University - Master in Acoustics and Musicology. Online.
+* Xambó, Anna (November 14, 2023). Keynote: [”From NIME to NISE: Rethinking the design and evaluation of musical interfaces”](/2023/12/18/presentation-at-adc23-november-14-2023/). Audio Developer Conference 2023 (ADC23). London, UK.
+* Xambó, Anna (October 25, 2023). Invited Talk: [”In the search for epistemological cross-pollination between forest research, HCI and SMC”](/2023/11/01/presentation-at-chime-october-25-2023/). CHIME network. Online.
 
 <pre>---</pre>
 
 ## Artistic
 
 * Xambó, Anna (accepted): *Sensing the Alice Holt Forest*, live performance. International Conference on Live Coding, May 28-31, 2025. Barcelona, Spain.
-* Batchelor, Peter: *[Dendrophone](https://sensingtheforest.github.io/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)*. Sound installation. August 2024-July 2025, Alice Holt Forest, GU10 4LS, Farnham, UK.
-* *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event - Online](https://sensingtheforest.github.io/exhibition/)*. August 2024-July 2025, Online.
-* *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event](https://sensingtheforest.github.io/exhibition/your-sonic-forest-foreword/)*. 20 June, 11am-3pm, 2024. Alice Holt Forest, GU10 4LS, Farnham, UK.
-  * [*Within and Between* | Rosa Sungjoo Park](https://sensingtheforest.github.io/exhibition/your-sonic-forest-within-and-between-rosa-sungjoo-park/)
-  * [*Dendrophone* | Peter Batchelor](https://sensingtheforest.github.io/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)
-  * [*Streamers* | Luigi Marino](https://sensingtheforest.github.io/exhibition/your-sonic-forest-streamer-luigi-marino/)
-  * [*Remembering the Mighty Oak* | Kate Anderson](https://sensingtheforest.github.io/exhibition/your-sonic-forest-remembering-the-mighty-oak-kate-anderson/)
-  * [*Tree Museum* | Ed Chivers](https://sensingtheforest.github.io/exhibition/your-sonic-forest-tree-museum-ed-chivers/)
-  * [*Tread(LIGHTLY)* | Gabrielle Cerberville](https://sensingtheforest.github.io/exhibition/your-sonic-forest-tread(lightly)-gabrielle-cerberville/)
-  * [*The Walking Tree* | Bardia Hafizi](https://sensingtheforest.github.io/exhibition/your-sonic-forest-the-walking-tree-bardia-hafizi/)
-  * [*Resonant Grove* | Austin Blanton](https://sensingtheforest.github.io/exhibition/your-sonic-forest-resonant-grove-austin-blanton/)
-  * [*A tree listens to itself* | Miles Scharff](https://sensingtheforest.github.io/exhibition/your-sonic-forest-a-tree-listens-to-itself-miles-scharff/)
-  * [*Sound Gardening at Alice Holt* | Jordan Juras](https://sensingtheforest.github.io/exhibition/your-sonic-forest-sound-gardening-at-alice-holt-jordan-juras/)
-  * [*Leaves Echo* | Qianyi Rose Sun](https://sensingtheforest.github.io/exhibition/your-sonic-forest-leaves-echo-qianyi-rose-sun/)
-  * [*In touch* | Beccy Abraham](https://sensingtheforest.github.io/exhibition/your-sonic-forest-in-touch-beccy-abraham/)
+* Batchelor, Peter: *[Dendrophone](/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)*. Sound installation. August 2024-July 2025, Alice Holt Forest, GU10 4LS, Farnham, UK.
+* *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event - Online](/exhibition/)*. August 2024-July 2025, Online.
+* *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event](/exhibition/your-sonic-forest-foreword/)*. 20 June, 11am-3pm, 2024. Alice Holt Forest, GU10 4LS, Farnham, UK.
+  * [*Within and Between* | Rosa Sungjoo Park](/exhibition/your-sonic-forest-within-and-between-rosa-sungjoo-park/)
+  * [*Dendrophone* | Peter Batchelor](/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)
+  * [*Streamers* | Luigi Marino](/exhibition/your-sonic-forest-streamer-luigi-marino/)
+  * [*Remembering the Mighty Oak* | Kate Anderson](/exhibition/your-sonic-forest-remembering-the-mighty-oak-kate-anderson/)
+  * [*Tree Museum* | Ed Chivers](/exhibition/your-sonic-forest-tree-museum-ed-chivers/)
+  * [*Tread(LIGHTLY)* | Gabrielle Cerberville](/exhibition/your-sonic-forest-tread(lightly)-gabrielle-cerberville/)
+  * [*The Walking Tree* | Bardia Hafizi](/exhibition/your-sonic-forest-the-walking-tree-bardia-hafizi/)
+  * [*Resonant Grove* | Austin Blanton](/exhibition/your-sonic-forest-resonant-grove-austin-blanton/)
+  * [*A tree listens to itself* | Miles Scharff](/exhibition/your-sonic-forest-a-tree-listens-to-itself-miles-scharff/)
+  * [*Sound Gardening at Alice Holt* | Jordan Juras](/exhibition/your-sonic-forest-sound-gardening-at-alice-holt-jordan-juras/)
+  * [*Leaves Echo* | Qianyi Rose Sun](/exhibition/your-sonic-forest-leaves-echo-qianyi-rose-sun/)
+  * [*In touch* | Beccy Abraham](/exhibition/your-sonic-forest-in-touch-beccy-abraham/)
 
 <pre>---</pre>
 
@@ -71,10 +71,10 @@ heroSettings:
 
 * Manjunatha, Krishna Nama; Elmokadem, Mahmoud B.; Arockiadoss, Subhash; Xenakis, George; and Xambó Anna (2024-): DIY tree talker. Under development.
 
-* Bell, Mike and James, Catrina (2024): [Customised Data Logger](https://sensingtheforest.github.io/exhibition/your-sonic-forest-data-logger-mike-bell-and-catrina-james/).
+* Bell, Mike and James, Catrina (2024): [Customised Data Logger](/exhibition/your-sonic-forest-data-logger-mike-bell-and-catrina-james/).
 
 * Marino, Luigi (2023-): Streamers' hardware. Under development.
-  * [Tutorial 1: Phase 1 - Setting up the streamers](http://localhost:8080/2024/01/17/phase-1-setting-up-the-streamers/).
+  * [Tutorial 1: Phase 1 - Setting up the streamers](/2024/01/17/phase-1-setting-up-the-streamers/).
   * Tutorial 2: Forthcoming.
   * Tutorial 3: Forthcoming.
   * 3D models. Forthcoming.
@@ -92,7 +92,7 @@ heroSettings:
 * Xambó, Anna; Roma, Gerard and Bell, Mike (2024-): Web server (Express.js). Under development.
 
 * Marino, Luigi (2023-): Streamers' software (Raspberry Pi platform).
-  * [Tutorial 1: Phase 1 - Setting up the streamers](http://localhost:8080/2024/01/17/phase-1-setting-up-the-streamers/).
+  * [Tutorial 1: Phase 1 - Setting up the streamers](/2024/01/17/phase-1-setting-up-the-streamers/).
   * Tutorial 2: Forthcoming.
   * Tutorial 3: Forthcoming.
 
@@ -145,21 +145,21 @@ heroSettings:
 
 ## Interviews
 
-* Stone, Hazel (26 May 2024) [Meet the Artists - Beccy Abraham](https://sensingtheforest.github.io/2024/05/27/meet-the-artists-beccy-abraham/). The Sensing the Forest blog.
-* Stone, Hazel (26 May 2024) [Meet the Artists - Rosa Sungjoo Park](https://sensingtheforest.github.io/2024/05/26/meet-the-artists-rosa-sungjoo-park/). The Sensing the Forest blog.
-* Stone, Hazel (24 May 2024) [Meet the Artists - Jordan Juras](https://sensingtheforest.github.io/2024/05/24/meet-the-artists-jordan-juras/). The Sensing the Forest blog.
-* Stone, Hazel (20 May 2024) [Meet the Artists - Kate Anderson](https://sensingtheforest.github.io/2024/05/20/meet-the-artists-kate-anderson/). The Sensing the Forest blog.
-* Stone, Hazel (17 May 2024) [Meet the Artists - Miles Scharff](https://sensingtheforest.github.io/2024/05/17/meet-the-artists-miles-scharff/). The Sensing the Forest blog.
-* Stone, Hazel (15 May 2024) [Meet the Artists - Austin Blanton](https://sensingtheforest.github.io/2024/05/15/meet-the-artists-austin-blanton/). The Sensing the Forest blog.
-* Stone, Hazel (13 May 2024) [Meet the Artists - Gabrielle Cerberville](https://sensingtheforest.github.io/2024/05/13/meet-the-artists-gabrielle-cerberville/). The Sensing the Forest blog.
-* Stone, Hazel (10 May 2024) [Meet the Artists - Qianyi Rose Sun](https://sensingtheforest.github.io/2024/05/10/meet-the-artists-qianyi-rose-sun/). The Sensing the Forest blog.
-* Stone, Hazel (8 May 2024) [Meet the Artists - Ed Chivers](https://sensingtheforest.github.io/2024/05/08/meet-the-artists-ed-chivers/). The Sensing the Forest blog.
-* Stone, Hazel (6 May 2024) [Meet the Artists - Bardia Hafizi](https://sensingtheforest.github.io/2024/05/06/meet-the-artists-bardia-hafizi/). The Sensing the Forest blog.
-* Xambó, Anna and Marino, Luigi (27 March 2024) [An Interview with Jones/Bulley](https://sensingtheforest.github.io/2024/03/27/an-interview-with-jones-bulley/). The Sensing the Forest blog.
-* Xambó, Anna and Marino, Luigi (21 February 2024) [An Interview with Liz O'Brien](https://sensingtheforest.github.io/2024/02/21/an-interview-with-liz-obrien/). The Sensing the Forest blog.
-* Xambó, Anna and Marino, Luigi (5 February 2024) [An Interview with Alice Eldridge](https://sensingtheforest.github.io/2024/02/05/an-interview-with-alice-eldridge/). The Sensing the Forest blog.
-* Xambó, Anna and Marino, Luigi (14 January 2024) [An Interview with Peter Sinclair](https://sensingtheforest.github.io/2024/01/14/an-interview-with-peter-sinclair/). The Sensing the Forest blog.
-* Xambó, Anna and Marino, Luigi (5 December 2023) [An Interview with Saloni Shah](https://sensingtheforest.github.io/2023/12/05/an-interview-with-saloni-shah/). The Sensing the Forest blog.
+* Stone, Hazel (26 May 2024) [Meet the Artists - Beccy Abraham](/2024/05/27/meet-the-artists-beccy-abraham/). The Sensing the Forest blog.
+* Stone, Hazel (26 May 2024) [Meet the Artists - Rosa Sungjoo Park](/2024/05/26/meet-the-artists-rosa-sungjoo-park/). The Sensing the Forest blog.
+* Stone, Hazel (24 May 2024) [Meet the Artists - Jordan Juras](/2024/05/24/meet-the-artists-jordan-juras/). The Sensing the Forest blog.
+* Stone, Hazel (20 May 2024) [Meet the Artists - Kate Anderson](/2024/05/20/meet-the-artists-kate-anderson/). The Sensing the Forest blog.
+* Stone, Hazel (17 May 2024) [Meet the Artists - Miles Scharff](/2024/05/17/meet-the-artists-miles-scharff/). The Sensing the Forest blog.
+* Stone, Hazel (15 May 2024) [Meet the Artists - Austin Blanton](/2024/05/15/meet-the-artists-austin-blanton/). The Sensing the Forest blog.
+* Stone, Hazel (13 May 2024) [Meet the Artists - Gabrielle Cerberville](/2024/05/13/meet-the-artists-gabrielle-cerberville/). The Sensing the Forest blog.
+* Stone, Hazel (10 May 2024) [Meet the Artists - Qianyi Rose Sun](/2024/05/10/meet-the-artists-qianyi-rose-sun/). The Sensing the Forest blog.
+* Stone, Hazel (8 May 2024) [Meet the Artists - Ed Chivers](/2024/05/08/meet-the-artists-ed-chivers/). The Sensing the Forest blog.
+* Stone, Hazel (6 May 2024) [Meet the Artists - Bardia Hafizi](/2024/05/06/meet-the-artists-bardia-hafizi/). The Sensing the Forest blog.
+* Xambó, Anna and Marino, Luigi (27 March 2024) [An Interview with Jones/Bulley](/2024/03/27/an-interview-with-jones-bulley/). The Sensing the Forest blog.
+* Xambó, Anna and Marino, Luigi (21 February 2024) [An Interview with Liz O'Brien](/2024/02/21/an-interview-with-liz-obrien/). The Sensing the Forest blog.
+* Xambó, Anna and Marino, Luigi (5 February 2024) [An Interview with Alice Eldridge](/2024/02/05/an-interview-with-alice-eldridge/). The Sensing the Forest blog.
+* Xambó, Anna and Marino, Luigi (14 January 2024) [An Interview with Peter Sinclair](/2024/01/14/an-interview-with-peter-sinclair/). The Sensing the Forest blog.
+* Xambó, Anna and Marino, Luigi (5 December 2023) [An Interview with Saloni Shah](/2023/12/05/an-interview-with-saloni-shah/). The Sensing the Forest blog.
 
 <pre>---</pre>
 

@@ -333,6 +333,25 @@ Xinyue Xu is a MSc Sound and Music Computing student in EECS at Queen Mary Unive
 
 {% endcolumns %}
 
+{% columns %}
+
+{% cols "bg-gray-100 rounded-lg" %}
+
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/andres-sanchez-castrillon.jpg" alt="Photo of Andrés Sánchez Castrillón" >
+
+Andrés Sánchez Castrillón (Queen Mary University of London)
+
+Andrés is a Master's student in Artificial Intelligence with a focus on Computer Vision. Originally from Medellín, Colombia, he has a background in software engineering and a keen interest in using AI to address environmental and sustainability challenges. Currently, he is starting to explore soundscape analysis for detecting patterns linked to climate change as part of his research.
+
+{% endcols %}
+
+{% cols "bg-gray-100 rounded-lg" %}
+
+
+{% endcols %}
+
+{% endcolumns %}
+
 <!-- {% columns %}
 
 {% cols "bg-gray-100 rounded-lg" %}
