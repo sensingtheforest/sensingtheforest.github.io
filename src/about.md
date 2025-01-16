@@ -339,7 +339,7 @@ Xinyue Xu is a MSc Sound and Music Computing student in EECS at Queen Mary Unive
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/andres-sanchez-castrillon.jpg" alt="Photo of Andrés Sánchez Castrillón" >
 
-Andrés Sánchez Castrillón (Queen Mary University of London)
+[Andrés Sánchez Castrillón (Queen Mary University of London)](https://www.linkedin.com/in/andres-sanchez-59a8331a6/)
 
 Andrés is a Master's student in Artificial Intelligence with a focus on Computer Vision. Originally from Medellín, Colombia, he has a background in software engineering and a keen interest in using AI to address environmental and sustainability challenges. Currently, he is starting to explore soundscape analysis for detecting patterns linked to climate change as part of his research.
 
@@ -347,6 +347,11 @@ Andrés is a Master's student in Artificial Intelligence with a focus on Compute
 
 {% cols "bg-gray-100 rounded-lg" %}
 
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/tug-oflaherty.jpg" alt="Photo of Tug O’Flaherty">
+
+[Tug O’Flaherty (Queen Mary University of London)](https://tugoflaherty.com)
+
+Tug O’Flaherty is a Sound and Music Computing MSc student at Queen Mary University of London. Having previously undertaken a BSc (Hons) in Computer Science at Kingston University, he specialises in web and cross-platform mobile application development. Tug is excited to be applying his software development background to producing an interactive tool for the sonification and visualisation of climate and tree data within the Sensing the Forest project, under the direction of Dr Anna Xambó. He is passionate about climate change awareness and community-focussed initiatives, and keen to contribute his expertise in data mappings, music, and web development.
 
 {% endcols %}
 
