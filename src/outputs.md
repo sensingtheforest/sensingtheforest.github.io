@@ -122,7 +122,7 @@ heroSettings:
 {% endwrap %}
 
 * [Natural soundscape](http://solid41.streamupsolutions.com:8010/)
-* [Sound installation](https://solid67.streamupsolutions.com:8063/)
+* [Sound installation](http://solid67.streamupsolutions.com:8063/)
 
 <pre>---</pre>
 
