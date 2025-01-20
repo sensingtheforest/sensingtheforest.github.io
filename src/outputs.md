@@ -34,7 +34,13 @@ heroSettings:
 
 ## Abstracts
 
-* Marino, Luigi and Xambó, Anna (2024). [Developing DIY Solar-Powered, Off-Grid Audio Streamers for Forest Soundscapes: Progress and Challenges](https://www.chime.ac.uk/s/21-Luigi-Marino-and-Anna-Xambo.pdf), Proceedings of [CHIME 2024](https://www.chime.ac.uk/chime-annual-conference-2024).
+* Marino, Luigi and Xambó, Anna (2024). [Developing DIY Solar-Powered, Off-Grid Audio Streamers for Forest Soundscapes: Progress and Challenges](https://www.chime.ac.uk/s/21-Luigi-Marino-and-Anna-Xambo.pdf), Proceedings of [CHIME 2024](https://www.chime.ac.uk/chime-annual-conference-2024), Milton Keynes, UK.
+
+<pre>---</pre>
+
+## Posters
+
+* Bell, Mike; Batchelor, Peter; Marino, Luigi; Xenakis, George; Gravestock, Max; Grimsey, Danielle; Knowles, Johana; Stone, Hazel; Wardlaw, Nick; and Xambó, Anna (2024). [Sensing the Forest: combining artistic and scientific methods](/assets/pdf/ICOS-2024.pdf), [Integrated Carbon Observation System (ICOS) Science Conference 2024](https://www.icos-cp.eu/news-and-events/science-conference/icos2024sc), Versailles, France & Online.
 
 <pre>---</pre>
 
@@ -46,7 +52,7 @@ heroSettings:
 
 <pre>---</pre>
 
-## Artistic
+## Artistic outputs
 
 * Xambó, Anna (accepted): *Sensing the Alice Holt Forest*, live performance. International Conference on Live Coding, May 28-31, 2025. Barcelona, Spain.
 * Batchelor, Peter: *[Dendrophone](/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)*. Sound installation. August 2024-July 2025, Alice Holt Forest, GU10 4LS, Farnham, UK.
