@@ -357,6 +357,25 @@ Tug O’Flaherty is a Sound and Music Computing MSc student at Queen Mary Univer
 
 {% endcolumns %}
 
+{% columns %}
+
+{% cols "bg-gray-100 rounded-lg" %}
+
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/james-shortland.jpg" alt="Photo of James Shortland">
+
+James Shortland (Queen Mary University of London)
+
+James Shortland is an MSc Data Science and Artificial Intelligence student at Queen Mary University of London. Originally from California, he is passionate about the outdoors and exploring AI’s potential to support nature conservation and combat climate change. He is contributing to the Sensing the Forest project through his work on Passive Acoustic Monitoring (PAM) under the supervision of Dr. Anna Xambó.
+
+{% endcols %}
+
+{% cols "bg-gray-100 rounded-lg" %}
+
+
+{% endcols %}
+
+{% endcolumns %}
+
 <!-- {% columns %}
 
 {% cols "bg-gray-100 rounded-lg" %}

@@ -16,7 +16,7 @@ images: # relative to /src/assets/images/
 tags:
   - announcements
   - projects  
-  
+
 ---
 
 *From left-right, Aleksander Skutnik, Ning Liu, and Stanley Parker.*
@@ -25,7 +25,6 @@ We are happy to welcome three third-year undergraduate students from Queen Mary 
 
 * [Aleksander Skutnik](https://www.linkedin.com/in/aleksander-skutnik-1a05a625a/) is a BSc Computer Science final year student at Queen Mary University of London. For his final year project, he has decided to undertake a research based topic within the Sensing the Forest project under the supervision of Dr Anna Xambó and Kok Ho Huen. His areas of interest and academic experience include probabilistic algorithms and risk analysis, as well as research experience in cognitive and sociocultural areas of psychology. Aleksander also has experience in community organising, advocacy and charity work for a range of organisations which include event and campaign planning. The aim of his project is to conduct a thorough analysis of different power solutions in an attempt to eventually design a fully self-sustainable solution.
 
-* **Ning Liu** is the final year student in BSc(Eng)FT Electronic Engineering(with BUPT) at Queen Mary University in London. Under the supervision of Dr. Anna Xambó and Dr. Luigi Marino, she chose to take a study on the evaluation of MEMS microphones in the “Sensing the Forest” project as the last year’s research topic. Her fields of interest and academic experience include interactive algorithms and communication analysis, as well as research experience in Arduino installation and cloud connection. The aim of her project is to find optimal solutions of recording in silent conditions.
+* **Ning Liu** is the final year student in BSc(Eng)FT Electronic Engineering(with BUPT) at Queen Mary University in London. Under the supervision of Dr Anna Xambó and Dr Luigi Marino, she chose to take a study on the evaluation of MEMS microphones in the “Sensing the Forest” project as the last year’s research topic. Her fields of interest and academic experience include interactive algorithms and communication analysis, as well as research experience in Arduino installation and cloud connection. The aim of her project is to find optimal solutions of recording in silent conditions.
 
 * [Stanley Parker](https://www.linkedin.com/in/stanley-parker-43113425a) is a BSc Creative Computing student at Queen Mary University of London. He is creating an environmental monitoring module for his final year project and is working with the Sensing the Forest team to help make this happen and is being supervised for his project by Dr Anna Xambó and Kok Ho Huen. His areas of experience include sound design and generative audio, interactive media design, web programming, working with sensors and data mapping. Stanley also has an interest in music and audio production, conservation and general use of computers and other digital media in association with the natural world. The aim of his project is to design a system that can be used in a domestic outdoor environment to give people knowledge on what’s happening in the environment around them, and show them what the environmental quality of the environment they’re living in.
-

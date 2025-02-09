@@ -242,7 +242,7 @@
 				"url": ""
 			}
 		]
-	},	
+	},
 	{
 		"slug": "hazel-stone",
 		"name": "Hazel Stone",
@@ -303,7 +303,68 @@
 				"url": ""
 			}
 		]
-	},	
+	},
+	{
+		"slug": "aleksander-skutnik",
+		"name": "Aleksander Skutnik",
+		"image": "/assets/images/authors/aleksander-skutnik.jpg",
+		"bio": "I am a BSc Computer Science final year student at Queen Mary University of London. For my final year project, I have decided to undertake a research based topic within the Sensing the Forest project under the supervision of Dr Anna Xambó and Kok Ho Huen. My areas of interest and academic experience include probabilistic algorithms and risk analysis, as well as research experience in cognitive and sociocultural areas of psychology.",
+		"companyWebsites": [
+			{
+				"label": "LinkedIn webpage",
+				"url": "https://www.linkedin.com/in/aleksander-skutnik-1a05a625a/",
+				"email": ""
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "",
+				"url": ""
+			},
+			{
+				"label": "",
+				"url": ""
+			},
+			{
+				"label": "",
+				"url": ""
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "dribbble",
+				"url": ""
+			},
+			{
+				"label": "github",
+				"url": ""
+			},
+			{
+				"label": "instagram",
+				"url": ""
+			},
+			{
+				"label": "linkedin",
+				"url": ""
+			},
+			{
+				"label": "piedpiper",
+				"url": ""
+			},
+			{
+				"label": "pinterest",
+				"url": ""
+			},
+			{
+				"label": "twitter",
+				"url": ""
+			},
+			{
+				"label": "youtube",
+				"url": ""
+			}
+		]
+	},
 
 	{
 		"slug": "shane-robinson",

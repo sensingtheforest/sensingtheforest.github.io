@@ -34,7 +34,7 @@ heroSettings:
 
 ## Abstracts
 
-* Marino, Luigi and Xambó, Anna (2024). [Developing DIY Solar-Powered, Off-Grid Audio Streamers for Forest Soundscapes: Progress and Challenges](https://www.chime.ac.uk/s/21-Luigi-Marino-and-Anna-Xambo.pdf), Proceedings of [CHIME 2024](https://www.chime.ac.uk/chime-annual-conference-2024), Milton Keynes, UK.
+* Marino, Luigi and Xambó, Anna (2024). [Developing DIY Solar-Powered, Off-Grid Audio Streamers for Forest Soundscapes: Progress and Challenges](https://www.chime.ac.uk/s/21-Luigi-Marino-and-Anna-Xambo.pdf), Proceedings of the [CHIME Annual One-day Music and HCI Conference 2024](https://www.chime.ac.uk/chime-annual-conference-2024), Milton Keynes, UK.
 
 <pre>---</pre>
 
