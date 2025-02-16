@@ -189,7 +189,7 @@ Matt Wilkinson is a Programme Manager of the Natural Capital Ecosystem Assessmen
 [Kok Ho Huen (Advisor, Queen Mary University of London)](https://www.qmul.ac.uk/eecs/people/profiles/huenho.html)
 
 
-Kok Ho Huen is Electronics Teaching Lab Manager and is a Technical Advisor of the project.
+Kok Ho Huen is Electronics Teaching Lab Manager at QMUL and is a Technical Advisor of the project.
 
 <!--img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/zainab-tarki.jpg" alt="Photo of Zainab Tarki" -->
 
@@ -371,6 +371,11 @@ James Shortland is an MSc Data Science and Artificial Intelligence student at Qu
 
 {% cols "bg-gray-100 rounded-lg" %}
 
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/geetha-bommireddy.jpg" alt="Photo of Geetha Bommireddy" >
+
+[Geetha Bommireddy (Advisor, Queen Mary University of London)](https://www.qmul.ac.uk/eecs/people/profiles/bommireddygeetha.html)
+
+Geetha Bommireddy is a Laboratory Technician & Materials Processing Research Technician at QMUL and a Technical Advisor of the project. Geetha is a graduate of Electronics and Communication Engineering. She has worked as a Technician for 10 years in sixth form college in London and joined QMUL in the year 2013. She has worked with many Masters and PhD students over the years in QMUL and loves what she does.
 
 {% endcols %}
 
