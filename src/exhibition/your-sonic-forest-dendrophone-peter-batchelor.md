@@ -53,7 +53,7 @@ heroSettings:
       - exhibition/Peter-Batchelor-Dendrophone_photo_by_Shuoyang_Zheng_9.jpg  
       - exhibition/Peter-Batchelor-Dendrophone_photo_by_Shuoyang_Zheng_10.jpg  
       - exhibition/Peter-Batchelor-Dendrophone_photo_by_Shuoyang_Zheng_11.jpg  
-      - exhibition/Peter-Batchelor-Dendrophone_photo_by_Shuoyang_Zheng_12.jpg 
+      - exhibition/Peter-Batchelor-Dendrophone_photo_by_Shuoyang_Zheng_12.jpg
       - exhibition/Peter-Batchelor-Dendrophone_photo_by_Shuoyang_Zheng_13.jpg  
       - exhibition/Peter-Batchelor-Dendrophone_photo_by_Shuoyang_Zheng_14.jpg              
 tags:
@@ -74,11 +74,17 @@ tags:
 
 ## Live stream courtesy of Paula (Streamer II)
 
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
+
+:fire: **Note**: This is a solar-powered system in the woods, which means it sometimes goes offline.
+
+{% endwrap %}
+
 <div class="mt-4 mb-4">
 <!--Streamup HTML5 Player-->
 <iframe width="500" height="100" src="https://players.dedicateware.com/engine/simple_no_artwork.php?soco=%23FFFFFF&stana=%23F39000&bgco=%23151D28&coco=%23FFFFFF&secure=1&host=solid67.streamupsolutions.com&user=upnybwpf&port=8063&mount=STF_Installation&autoplay=-1" frameborder="0" scrolling="no" style="border-radius: 8px;"></iframe>
 <!--Streamup HTML5 Player-->
-</div> 
+</div>
 
 [http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/)
 
@@ -95,10 +101,3 @@ tags:
 [**Peter Batchelor**](https://peterb.dmu.ac.uk/) is a Senior Lecturer and Programme Leader in Music Technology, and member of the Music, Technology and Innovation - Institute of Sonic Creativity (MTI2) at De Montfort University, Leicester and Co-Investigator of the Sensing the Forest Project. His creative activities encompass a range of electroacoustic composition and sound-making work, including radiophonic documentary, live-electronics and improvisation, multimedia and large-scale multi-channel installation work. Research interests that arise from this practice include: aural landscape construction in sonic arts practice; sound spatialisation/immersion; theories of space; place and listening as they pertain to sound; audience engagement and public art.
 
 </div>
-
-
-
-
-
-
-
