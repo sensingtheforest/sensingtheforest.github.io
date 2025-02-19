@@ -66,11 +66,15 @@ tags:
 ***Dendrophone*** is a sound installation that transforms invisible environmental data into an immersive listening experience. By converting often invisible environmental processes into sound, it reveals the hidden dynamics of the forest. The installation is designed to blend with the natural sounds of the forest, inviting listeners to experience these in a new way.
 
 As you listen, you’ll hear shifting sound textures that respond to the forest’s changing conditions:
-*Humidity*: This represents how ‘dry’ or ‘wet’ the forest feels. You might hear dry sounds like crackling wood or chirping insects, or wet sounds like flowing water or rain. Humidity matters because it helps trees take in water, keeps plants from drying out, and provides the damp conditions that fungi and many forest creatures need to survive. 
-*Sunlight energy*: This tells us how much sunlight the forest is using. You’ll hear hissing sounds—juddery ones when the forest is busy using sunlight, and smoother ones when it’s calmer. Sunlight is the forest’s power source. Trees use it to grow, and the energy they create supports the entire forest ecosystem. In winter, when trees lose their leaves, the sunlight warms the ground instead, and the sound changes to show that.
-*Carbon dioxide levels*: The forest absorbs carbon dioxide, much like how we take in oxygen when we breathe. Trees use carbon dioxide during photosynthesis to create energy, playing a crucial role in regulating the atmosphere. The way it does this changes throughout the day and across the seasons. If you hear long, steady breathing, the trees are taking in a lot of carbon dioxide; if you hear shorter, uneven breathing, they are absorbing less.
+
+- **Humidity**: This represents how ‘dry’ or ‘wet’ the forest feels. You might hear dry sounds like crackling wood or chirping insects, or wet sounds like flowing water or rain. Humidity matters because it helps trees take in water, keeps plants from drying out, and provides the damp conditions that fungi and many forest creatures need to survive.
+
+- **Sunlight energy**: This tells us how much sunlight the forest is using. You’ll hear hissing sounds—juddery ones when the forest is busy using sunlight, and smoother ones when it’s calmer. Sunlight is the forest’s power source. Trees use it to grow, and the energy they create supports the entire forest ecosystem. In winter, when trees lose their leaves, the sunlight warms the ground instead, and the sound changes to show that.
+
+- **Carbon dioxide levels**: The forest absorbs carbon dioxide, much like how we take in oxygen when we breathe. Trees use carbon dioxide during photosynthesis to create energy, playing a crucial role in regulating the atmosphere. The way it does this changes throughout the day and across the seasons. If you hear long, steady breathing, the trees are taking in a lot of carbon dioxide; if you hear shorter, uneven breathing, they are absorbing less.
 
 By making these hidden processes audible, *Dendrophone* is designed to encourage a deeper connection with nature, inviting visitors to tune into the rhythms of the forest in a new way. The installation is powered by DIY principles, with every element -- from the sound design to the technical setup -- crafted to be accessible and easy to replicate, while being self-sustaining. For those unable to visit in person, live online streams make it possible to hear the forest’s changing sounds from anywhere in the world.
+
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
