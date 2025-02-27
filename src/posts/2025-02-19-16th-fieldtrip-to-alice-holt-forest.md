@@ -4,7 +4,7 @@ date: 2025-02-19T08:00:00.000Z
 excerpt: We went for the 16th visit to the Alice Holt Forest on 15th February 2025. The main goal of this field trip was to replace the batteries for Dendrophone installation and Paula's streamer in the Willows Green Trail and install a newer high-end model for Giorgio's streamer.
 
 author: luigi-marino
-draft: true
+draft:
 seo:
   title:
   description:

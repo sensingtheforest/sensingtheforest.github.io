@@ -4,7 +4,7 @@ date: 2025-02-18T08:00:00.000Z
 excerpt: We went for the 15th visit to the Alice Holt Forest on 31st January 2025. The main goal of this field trip was to replace batteries and change Paula's model (installation streamer) in the Willows Green Trail.
 
 author: luigi-marino
-draft: true
+draft:
 seo:
   title:
   description:
