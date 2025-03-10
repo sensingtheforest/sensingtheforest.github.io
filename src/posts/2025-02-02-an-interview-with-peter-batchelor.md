@@ -1,7 +1,7 @@
 ---
 title: An Interview with Peter Batchelor
 date: 2025-02-08T10:00:00.000Z
-excerpt: For his final year project, I am conducting a series of interviews with artists who work with solar-powered solutions. Peter Batchelor is the creator of Dendrophone, a sound installation currently exhibited at the Alice Holt Forest that transforms environmental data from the forest into an auditory experience.
+excerpt: For my final year project, I am conducting a series of interviews with artists who work with solar-powered solutions. Peter Batchelor is the creator of Dendrophone, a sound installation currently exhibited at the Alice Holt Forest that transforms environmental data from the forest into an auditory experience.
 author: aleksander-skutnik
 draft:
 seo:
@@ -21,6 +21,7 @@ tags:
   - interviews
   - multichannel
   - multichannel-installation
+  - off-grid
   - pure-data
   - raspberry-pi
   - solar-panels

@@ -46,7 +46,8 @@ heroSettings:
 
 ## Presentations
 
-* Xambó, Anna and Marino, Luigi (October 23, 2024). Invited Talk: [”Sensing the Forest: Lessons Learned from our Artistic-Acoustic Intervention at the Alice Holt Forest”](/2024/10/23/presentation-at-aix-marseille-university-october-23-2024/). Aix-Marseille University - Master in Acoustics and Musicology. Online.
+* Xambó, Anna (February 28, 2025). Invited Talk: "Intersecting Sonic Arts & Computing: A Portfolio Journey". Music Engineering Forum. University of Miami, Miami, FL, USA. Online.
+* Xambó, Anna and Marino, Luigi (October 23, 2024). Invited Talk: [”Sensing the Forest: Lessons Learned from our Artistic-Acoustic Intervention at the Alice Holt Forest”](/2024/10/23/presentation-at-aix-marseille-university-october-23-2024/). Aix-Marseille University - Master in Acoustics and Musicology, Marseille, France. Online.
 * Xambó, Anna (November 14, 2023). Keynote: [”From NIME to NISE: Rethinking the design and evaluation of musical interfaces”](/2023/12/18/presentation-at-adc23-november-14-2023/). Audio Developer Conference 2023 (ADC23). London, UK.
 * Xambó, Anna (October 25, 2023). Invited Talk: [”In the search for epistemological cross-pollination between forest research, HCI and SMC”](/2023/11/01/presentation-at-chime-october-25-2023/). CHIME network. Online.
 
