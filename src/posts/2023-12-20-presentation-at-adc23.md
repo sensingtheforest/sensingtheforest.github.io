@@ -16,10 +16,10 @@ images: # relative to /src/assets/images/
 tags:
   - artistic-interventions
   - events
-  - HCI
+  - hci
   - presentations
-  - NIME
-  - SMC
+  - nime
+  - smc
   - sonic-arts
   - sonification
   - sustainable-design

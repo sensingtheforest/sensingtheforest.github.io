@@ -1,7 +1,7 @@
 ---
 title: An Interview with Sarah Hall
 date: 2025-03-10T10:00:00.000Z
-excerpt: For my final year project, I am conducting a series of interviews with artists who work with solar-powered solutions. Sarah Hall is the creator of Lux Nova, a sustainable off-grid power solution for immersive art installations.
+excerpt: For my final year BSc project, I am conducting a series of interviews with artists who work with solar-powered solutions. Sarah Hall is the creator of Lux Nova, a sustainable off-grid power solution for immersive art installations.
 author: aleksander-skutnik
 draft:
 seo:
