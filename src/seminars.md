@@ -20,9 +20,10 @@ The AHRC Sensing the Forest project is organising a series of three fortnightly 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
 Many thanks for your interest in the seminar series. The first edition of the seminar series concluded with great success. We had a total of 275 registered attendees. You can:
-* Download the [poster of the seminar series](/assets/images/seminars/Sensing-the-Forest-Online-Seminar-Talks.jpg).
-* Watch the [video presentations](/media).
-* Leave comments / give likes to our [Sensing the Forest YouTube channel](youtube.com/@sensingtheforest).
+:fire: Download the [poster of the seminar series](/assets/images/seminars/Sensing-the-Forest-Online-Seminar-Talks.jpg) :fire:
+:fire: Watch the [video presentations playlist](https://youtu.be/ybcRIX_kR8I?list=PLoMU4dVZn5UPXOKGwu9AxdXYPorWwrM2e) :fire:
+:fire: Leave comments / give likes to our [blog posts](/blog) and to our [Sensing the Forest YouTube channel](https://www.youtube.com/@sensingtheforest) :fire:
+:fire: [Subscribe to our announce mailing list](https://groups.google.com/g/sensingtheforest-announce) (Ask to join the group) :fire:
 <!-- * Provide us [feedback](https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-seminar-series-feedback). -->
 
 {% endwrap %}

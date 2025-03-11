@@ -39,12 +39,15 @@ Applications are being accepted for an online and on-site summer school in Sprin
 The **1st Sensing the Forest Summer School**, will be held online on February-May, 2024, and on-site on June 19-20, 2024, in Alice Holt, UK.
 
 
-{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg text-center italic rounded-lg" %}
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg text-left italic rounded-lg" %}
 
 <!-- **Apply at**: https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-summer-school-application-->
 
 Thanks for your participation! Applications are now closed.
 
+:fire: Watch the [summer school videos playlist](https://www.youtube.com/playlist?list=PLoMU4dVZn5UMzBSWGUo3WYEt5x6vj6Pbu) :fire:
+:fire: Leave comments / give likes to our [blog posts](/blog) and to our [Sensing the Forest YouTube channel](https://www.youtube.com/@sensingtheforest) :fire:
+:fire: [Subscribe to our announce mailing list](https://groups.google.com/g/sensingtheforest-announce) (Ask to join the group) :fire:
 {% endwrap %}
 
 <!-- **Deadline for applications**: January 15, 2024, AoE (Anywhere on Earth).-->
