@@ -23,6 +23,7 @@ tags:
   - practice-led-research
   - presentations
   - summer-school
+  - summer-school-online-session 
   - design
   - videos
   - visual-arts
@@ -43,7 +44,7 @@ The format consisted of a 25-minute presentation by Hazel Stone followed by a 5-
 
 <br />
 
-{% youtube "EzGd2K_lBPI", "Approaches to Creative Responses in the Landscape by Hazel Stone (Forestry England)" %}
+{% youtube "mutJeu9INE", "Your Sonic Forest | The Exhibition" %}
 
 In this presentation, Hazel Stone gives an overview of approaches to creative responses in the landscape. The presentation introduces the beginning of the arts programme in 1968 for Forestry England, then provides a range of approaches that can be considered, and then leads to a discussion on how to engage with different audiences on contemporary art in the landscape. Hazel selects relevant work from the artists [Richard Harris](https://www.grizedalesculpture.co.uk/series/richard-harris/), [David Nash](https://www.grizedalesculpture.org/archive/2021/5/14/david-nash-return-to-grizedale), [Alannah Robins](https://www.grizedalesculpture.co.uk/lady-of-the-water/), [Greyworld](https://grizedaleforestsculpturepark.wordpress.com/clockwork-forest/), [Birgit Oigus](https://www.grizedalesculpture.org/archive/2018/9/18/ruup-by-birgit-oigus). [Marshmallow Laser Feast](https://www.grizedalesculpture.org/newsblog/2016/7/18/fantastical-in-the-eyes-of-the-animal-online-experience-launches-22-july-2016), [Steve Messam](https://www.grizedalesculpture.org/archive/2020/2/13/intrastellar-2020-by-steve-messam), [Sally Matthews](https://www.grizedalesculpture.co.uk/series/sally-matthews/), [Shona Branigan](https://salmonjampress.co.uk/), [Lorna Singleton](https://www.lornasingleton.co.uk/), [Rachel Whiteread](https://www.forestryengland.uk/dalby-forest/nissen-hut-dalby-forest), and [Luke Jerram](https://moors-valley.co.uk/press/gaia-2021/), among others. Concepts discussed include working with interdisciplinary teams, understanding the landscape as well as using materials from the landscape. Digging into relevant design considerations and a potential range of creative approaches can inform the Sensing the Forest Summer School and the related artistic intervention on the site where site, time and sound will play an important role. 
 

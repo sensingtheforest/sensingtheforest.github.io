@@ -27,6 +27,36 @@ We are committed to continuously improving the future Sensing the Forest events.
   {% columns %}
 
   {% cols "bg-gray-100 rounded-lg" %}
+      {% youtube "VmutJeu9INE", "Your Sonic Forest | The Exhibition" %}
+  {% endcols %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
+
+  ## Your Sonic Forest | The Exhibition
+
+  ### Hear Nature Speak through Sound Installations in Alice Holt Forest
+
+  Related content:
+
+  * [Your Sonic Forest | The Exhibition](/exhibition/)
+  * [Videos of the summer school video presentations playlist](https://www.youtube.com/playlist?list=PLoMU4dVZn5UMzBSWGUo3WYEt5x6vj6Pbu)
+  * [Interviews with the artists](/tags/meet-the-artists)
+  * [Blog posts about the summer school online sessions](/tags/summer-school-online-session/)
+
+  {% endcols %}
+
+  {% endcolumns %}
+
+{% endwrap %}
+
+
+<!-- //-->
+
+{% wrap "px-2 mt-8 rounded-lg pb-2 border border-gray-300 bg-gray-200" %}
+
+  {% columns %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
       {% youtube "uGEq9BrhNNw", "Sensing the Forest Hands-on Demonstration: How a Tree Talker Works by George Xenakis (Forest Research)" %}
   {% endcols %}
 

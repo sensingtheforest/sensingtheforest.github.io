@@ -17,6 +17,7 @@ tags:
   - announcements
   - meetings
   - summer-school
+  - summer-school-online-session
 ---
 
 <br />

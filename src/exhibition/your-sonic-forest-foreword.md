@@ -202,12 +202,18 @@ In *Leaves Echo*, every interaction is a testament to the balance of our ecosyst
 
 #### **Streamer**: [Luigi Marino](/authors/luigi-marino/) (Queen Mary University of London)
 
-Two listening stations are installed at the Alice Holt Forest: one near the permanent installation by Pete Bachelor, whose sounds are affected by the environmental data (Streamer II, Paula), and the second in a small meadow near a gorgeous chestnut tree (Streamer I, Giorgio). The devices are simple internet radio transmitters that can be enjoyed by anyone with an internet connection. You can check the two live streamers on [this map](/listen).
+Two listening stations are installed at the Alice Holt Forest: one near the permanent installation by Pete Bachelor, whose sounds are affected by the environmental data (Streamer II, Paula), and the second in a small meadow near a gorgeous chestnut tree (Streamer I, Giorgio). The devices are simple internet radio transmitters that can be enjoyed by anyone with an internet connection. You can check the two live streamers on [this map](/listen). 
 
-* **Streamer I (Giorgio)**: [http://solid41.streamupsolutions.com:8010](http://solid41.streamupsolutions.com:8010/)
-* **Streamer II (Paula)**: [http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/)
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
-**Note**: This is currently in testing mode. Hence, the streamer might not be operational. Please be patient. It will soon be fully working 24/7/365!
+:fire: We recommend Chrome or Firefox for an optimal experience. :fire:
+
+:fire: **Streamer I (Giorgio)**: [http://solid41.streamupsolutions.com:8010](http://solid41.streamupsolutions.com:8010/) :fire:
+:fire: **Streamer II (Paula)**: [http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/) :fire:
+
+:fire: **Note**: This is currently in testing mode. Hence, the streamer might not be operational. Please be patient. It will soon be fully working 24/7/365! :fire:
+
+{% endwrap %}
 
 <br />
 

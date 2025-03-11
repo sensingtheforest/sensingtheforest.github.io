@@ -23,6 +23,7 @@ tags:
   - public-sound-installation
   - sound-installations
   - summer-school
+  - summer-school-online-session
   - videos
 ---
 

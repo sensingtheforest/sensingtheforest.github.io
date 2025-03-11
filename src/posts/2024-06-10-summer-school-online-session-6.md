@@ -17,6 +17,7 @@ tags:
   - meetings
   - presentations
   - summer-school
+  - summer-school-online-session
   - videos
   
 ---

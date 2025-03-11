@@ -22,7 +22,8 @@ The AHRC Sensing the Forest project is organising a series of three fortnightly 
 Many thanks for your interest in the seminar series. The first edition of the seminar series concluded with great success. We had a total of 275 registered attendees. You can:
 :fire: Download the [poster of the seminar series](/assets/images/seminars/Sensing-the-Forest-Online-Seminar-Talks.jpg) :fire:
 :fire: Watch the [video presentations playlist](https://youtu.be/ybcRIX_kR8I?list=PLoMU4dVZn5UPXOKGwu9AxdXYPorWwrM2e) :fire:
-:fire: Leave comments / give likes to our [blog posts](/blog) and to our [Sensing the Forest YouTube channel](https://www.youtube.com/@sensingtheforest) :fire:
+:fire: Read the [interviews with the seminar speakers](/tags/seminar-series/) :fire:
+:fire: Leave comments / give likes to our [blog posts](/blog) & [Sensing the Forest YouTube channel](https://www.youtube.com/@sensingtheforest) :fire:
 :fire: [Subscribe to our announce mailing list](https://groups.google.com/g/sensingtheforest-announce) (Ask to join the group) :fire:
 <!-- * Provide us [feedback](https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-seminar-series-feedback). -->
 
@@ -37,8 +38,7 @@ Many thanks for your interest in the seminar series. The first edition of the se
 
 {% wrap "mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-full text-left" %}
 
-You can find more info and register for the free event on the following Eventbrite link:
-[https://www.eventbrite.com/e/sensing-the-forest-seminar-liz-obrien-and-alice-eldridge-tickets-745155689727](https://www.eventbrite.com/e/sensing-the-forest-seminar-liz-obrien-and-alice-eldridge-tickets-745155689727)
+:star: You can find more info and register for the free event on the [following Eventbrite link](https://www.eventbrite.com/e/sensing-the-forest-seminar-liz-obrien-and-alice-eldridge-tickets-745155689727) :star:
 
 {% endwrap %}
 
@@ -75,8 +75,7 @@ Alice Eldridge is an interdisciplinarian with an interest in how sound organises
 
 {% wrap "mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-full text-left" %}
 
-You can find more info and register for the free event on the following Eventbrite link:
-[https://www.eventbrite.com/e/sensing-the-forest-seminar-saloni-shah-and-jonesbulley-tickets-745112580787](https://www.eventbrite.com/e/sensing-the-forest-seminar-saloni-shah-and-jonesbulley-tickets-745112580787)
+:star: You can find more info and register for the free event on the [following Eventbrite link](https://www.eventbrite.com/e/sensing-the-forest-seminar-saloni-shah-and-jonesbulley-tickets-745112580787) :star:
 
 {% endwrap %}
 
@@ -120,8 +119,7 @@ James Bulley (b. 1984) and Daniel Jones (b. 1983) are an artist duo whose collab
 
 <!-- <img class="object-scale-down max-h-xs h-48 w-96 float-left mt-0 ml-20 mb-14" src="/assets/images/seminars/QR-code-talk-1-eventbrite.png" alt="QR code to 1st Sensing the Forest Seminar: Semiconductor and Peter Sinclair Eventbrite event"> -->
 
-You can find more info and register for the free event on the following Eventbrite link:
-[https://www.eventbrite.com/e/sensing-the-forest-seminar-semiconductor-and-peter-sinclair-tickets-734997275637](https://www.eventbrite.com/e/sensing-the-forest-seminar-semiconductor-and-peter-sinclair-tickets-734997275637)
+:star: You can find more info and register for the free event on the [following Eventbrite link](https://www.eventbrite.com/e/sensing-the-forest-seminar-semiconductor-and-peter-sinclair-tickets-734997275637) :star:
 
 
 

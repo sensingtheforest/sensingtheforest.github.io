@@ -45,7 +45,10 @@ The **1st Sensing the Forest Summer School**, will be held online on February-Ma
 
 Thanks for your participation! Applications are now closed.
 
-:fire: Watch the [summer school videos playlist](https://www.youtube.com/playlist?list=PLoMU4dVZn5UMzBSWGUo3WYEt5x6vj6Pbu) :fire:
+:fire: Visit [Your Sonic Forest | The Exhibition](/exhibition/) :fire:
+:fire: Watch the [videos of the summer school video presentations playlist](https://www.youtube.com/playlist?list=PLoMU4dVZn5UMzBSWGUo3WYEt5x6vj6Pbu) :fire:
+:fire: Read the [interviews with the artists](/tags/meet-the-artists) :fire:
+:fire: Read the [blog posts about the summer school online sessions](/tags/summer-school-online-session/) :fire:
 :fire: Leave comments / give likes to our [blog posts](/blog) and to our [Sensing the Forest YouTube channel](https://www.youtube.com/@sensingtheforest) :fire:
 :fire: [Subscribe to our announce mailing list](https://groups.google.com/g/sensingtheforest-announce) (Ask to join the group) :fire:
 {% endwrap %}

@@ -15,6 +15,7 @@ images: # relative to /src/assets/images/
   height: h-auto # optional. Default = h-48 md:h-1/3
 tags:
   - acousmatic-music
+  - artistic-olar-powered-solutions  
   - dendrophone
   - DIY
   - FUDI
