@@ -15,7 +15,7 @@ images: # relative to /src/assets/images/
   height: h-auto # optional. Default = h-48 md:h-1/3
 tags:
   - architectural-glass
-  - artistic-olar-powered-solutions
+  - artistic-solar-powered-solutions
   - contemporary-art-glass
   - interviews
   - lux-nova
