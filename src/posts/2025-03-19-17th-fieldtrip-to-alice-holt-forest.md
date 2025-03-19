@@ -95,4 +95,4 @@ Next, we need to update the A4 scientific poster because the laminated paper ver
 
 ## Acknowledgements
 
-Thanks to Danielle Grimsey and Emma Ward for their help with the logistics of the day.
+Thanks to Danielle Grimsey and Emma Ward for their help with the logistics of the day and Geetha Bommireddy for her help and support with printing the QR codes.
