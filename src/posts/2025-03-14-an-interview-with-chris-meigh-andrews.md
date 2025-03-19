@@ -28,6 +28,8 @@ tags:
 
 ---
 
+*Sunbeam, installing screen, 2011*
+
 **About Chris Meigh-Andrews**: [Chris Meigh-Andrews](https://www.meigh-andrews.com) is a video artist, writer and curator from Essex, England, whose work often includes elements of renewable energy technology in tandem with moving image and sound. He is currently Professor Emeritus in Electronic & Digital Art at the University of Central Lancashire and Visiting Professor at the Centre for Moving image Research (CMIR) at the University of the West of England.
 
 {% bq "mt-8 p-4 border-blue-500 italic text-blue-500 border-t-4 bg-gray-200" %}
