@@ -75,7 +75,7 @@ Second, we placed a new blackboard using a mallet as well as placed the wooden Q
 <div class="flex justify-center items-center">
 <figure>
 <img class="mt-4 mb-4" src="/assets/images/2025/03/2025-02-28-Xinyue-coating-QR-code-Giorgio-streamer.jpg" alt="Xinyue coating the new QR code for the Giorgio streamer.">
-<figcaption>inyue coating the new QR code for the Giorgio streamer.</figcaption>
+<figcaption>Xinyue coating the new QR code for the Giorgio streamer.</figcaption>
 </figure>
 </div>
 
