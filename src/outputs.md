@@ -107,7 +107,7 @@ heroSettings:
 
 ## Datasets
 
-* 5-minute audio recordings streamer I (natural soundscape). Ongoing.
+* 5-minute audio recordings streamer I (natural soundscape). Ongoing. [Pack: natural-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/42937/) on Freesound.
 * 5-minute audio recordings streamer II (sound installation). Ongoing.
 * 1-minute JSON files from customised data logger. Ongoing.
 * 30-minute JSON files from DIY tree talker. Forthcoming.
@@ -199,6 +199,7 @@ heroSettings:
 
 :star: [Interviews with Artists who Work with Solar-Powered Solutions](/tags/artistic-olar-powered-solutions/) :star:
 
+* Skutnik, Aleksander (14 Mar 2025) [An Interview with Chris Meigh-Andrews](/2025/03/14/an-interview-with-chris-meigh-andrews/). The Sensing the Forest blog.
 * Skutnik, Aleksander (10 Mar 2025) [An Interview with Sarah Hall](/2025/03/10/an-interview-with-sarah-hall/). The Sensing the Forest blog.
 * Skutnik, Aleksander (8 Feb 2025) [An Interview with Peter Batchelor](/2025/02/08/an-interview-with-peter-batchelor/). The Sensing the Forest blog.
 
