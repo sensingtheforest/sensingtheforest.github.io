@@ -487,5 +487,58 @@
 				"url": ""
 			}
 		]
+	},
+	{
+		"slug": "shuoyang-zheng",
+		"name": "Shuoyang Zheng",
+		"image": "/assets/images/authors/shuoyang-zheng.jpg",
+		"bio": "Shuoyang Zheng is a PhD student at the Centre for Digital Music (C4DM), Queen Mary University of London. His research is in the field of explainable AI for musical audio synthesis. His long-term research goal focuses on developing interactive and understandable AI systems that facilitate musical creation and expression, and on understanding how these technological advances impact artistic practices. He is equally interested in the aesthetical and ethical implications inherent to the development of AI.",
+		"companyWebsites": [
+			{
+				"label": "QMUL webpage",
+				"url": "https://www.qmul.ac.uk/eecs/people/profiles/zhengshuovang.html",
+				"email": "shuoyang.zheng@qmul.ac.uk"
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "jasperzheng.cc",
+				"url": "https://jasperzheng.cc/"
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "dribbble",
+				"url": ""
+			},
+			{
+				"label": "github",
+				"url": "https://github.com/jasper-zheng"
+			},
+			{
+				"label": "instagram",
+				"url": ""
+			},
+			{
+				"label": "linkedin",
+				"url": ""
+			},
+			{
+				"label": "piedpiper",
+				"url": ""
+			},
+			{
+				"label": "pinterest",
+				"url": ""
+			},
+			{
+				"label": "twitter",
+				"url": ""
+			},
+			{
+				"label": "youtube",
+				"url": ""
+			}
+		]
 	}
 ]
