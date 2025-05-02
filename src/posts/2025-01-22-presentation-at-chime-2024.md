@@ -28,6 +28,8 @@ tags:
 
 <br />
 
+{% youtube "gODHBXBR-vQ", "CHIME Annual Conference: Luigi Marino - DIY Off-Grid Audio Streamers for Forest Soundscapes" %}
+
 The [CHIME Annual One-day Music and HCI Conference 2024](https://www.chime.ac.uk/chime-annual-conference-2024) took place on Monday 2 December 2024 at The Open University, in Milton Keynes, UK. This is a one-day research event for sharing work in the area of music and human-computer interaction, with a particular emphasis on participative hands-on demos. This is an opportunity to hear the latest research in music and interaction; network with peers; get hands-on experience with participative demos; and share your work and interests with representatives from music-interaction-related industry and charities.
 
 Luigi presented the development of the streamers and the challenges that we are facing. It was nice to present the status of the streamers to the CHIME network after our [CHIME seminar one year ago on November 2023 about the Sensing the Forest project](/2023/11/01/presentation-at-chime-october-25-2023/).

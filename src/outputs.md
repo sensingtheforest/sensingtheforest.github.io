@@ -189,6 +189,14 @@ heroSettings:
 * [Peter Sinclair - Sensing the Forest Seminar #1: Locustream Open Microphones - Acoustic commons : a shared resource to renew listening](https://youtu.be/MBMupEfgu54) (27:55), The Sensing the Forest YouTube Channel. Recorded on 18 Oct 2023.
 * [Ruth Jarman (Semiconductor) - Sensing the Forest Seminar #1: Worlds in Flux: Semiconductor](https://youtu.be/ybcRIX_kR8I) (29:05), The Sensing the Forest YouTube Channel. Recorded on 18 Oct 2023.
 
+<br />
+
+### Testimonials
+
+* [StF QMUL EECS UG Projects 2024-25](https://youtu.be/YbqCNVtGH7Q) (2:48), The Sensing the Forest YouTube Channel. Published on 2 May 2025.
+
+<br />
+
 <pre>---</pre>
 
 ## Interviews
@@ -241,3 +249,9 @@ heroSettings:
 * Zheng, Shuoyang (2024) [Sensing the Forest Summer School - Day 2](https://flickr.com/photos/200917075@N06/albums/72177720318197655), The Sensing the Forest Flickr account.
 
 <pre>---</pre>
+
+## Promotional Leaflets & Posters
+
+* [Your Sonic Forest leaflet](/assets/pdf/Your-sonic-forest-leaflet.pdf)
+* [Your Sonic Forest poster](/assets/pdf/Your-sonic-forest-poster.pdf)
+* [Sensing the Forest at Alice Holt Forest leaflet](/assets/pdf/StF-Alice-Holt-Forest_A4_highres_V2.pdf)
