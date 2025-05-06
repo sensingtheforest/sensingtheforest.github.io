@@ -11,7 +11,7 @@ eleventyNavigation: # Required if want to display in Main Nav Bar
 seo: # SEO values are used for OG and will overwrite 'title' and 'excerpt' above
   title:
   description:
-  image: # used for OG:image and Twitter:image. Overrides default set in _data/meta.siteImage
+  image: home/Canopy_view_AliceHolt_Aug2011.jpg # used for OG:image and Twitter:image. Overrides default set in _data/meta.siteImage
 hero: graphic # options: carousel, graphic, video, split (text & image)
 heroSettings:
   height:

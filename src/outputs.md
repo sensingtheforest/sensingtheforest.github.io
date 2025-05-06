@@ -9,7 +9,7 @@ eleventyNavigation:
 seo:
   title: Outputs # overrides 'title' above on both Page and META
   description: Academic, artistic and non-specialist outputs of the AHRC Sensing the Forest Project
-  image:  # relative to /assets/images/
+  image:  outputs/starling-swarm.jpg # relative to /assets/images/
 hero: graphic # options: carousel, graphic, video, split (text & image)
 heroSettings:
   height:
