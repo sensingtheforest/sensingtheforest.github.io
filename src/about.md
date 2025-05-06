@@ -5,7 +5,7 @@ layout: page
 eleventyNavigation:
   key: main
   title: About # as it will appear in the nav
-  order: 8 # order to display in the nav
+  order: 10 # order to display in the nav
 seo:
   title: About Us # overrides 'title' above on both Page and META
   description: Meet the team
@@ -27,7 +27,7 @@ seo:
 
 <img class="h-64 rounded-lg mt-0 mr-2 " src="/assets/images/authors/anna-xambo.jpg" alt="Photo of Anna Xambó">
 
-[Dr Anna Xambó (PI, Queen Mary University of London)](https://annaxambo.me/)
+[Dr Anna Xambó (PI, Queen Mary University of London, C4DM)](https://annaxambo.me/)
 
 Anna Xambó is a researcher and musician. Her research and practice focus on building and evaluating interactive music systems for music creation and performance using human-computer interaction research. She is a Senior Lecturer in Sound and Music Computing and a member of the Centre for Digital Music (C4DM) at School of Electronic Engineering and Computer Science (EECS), Queen Mary University of London.
 
@@ -37,7 +37,7 @@ Anna Xambó is a researcher and musician. Her research and practice focus on bui
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/peter-batchelor.jpg" alt="Photo of Peter Batchelor">
 
-[Dr Peter Batchelor (CI, De Montfort University)](https://peterb.dmu.ac.uk/)
+[Dr Peter Batchelor (CI, De Montfort University, MTI2)](https://peterb.dmu.ac.uk/)
 
 Peter Batchelor is a Senior Lecturer and Programme Leader in Music Technology, and member of the Music, Technology and Innovation - Institute of Sonic Creativity (MTI2) at De Montfort University, Leicester.  His creative activities encompass a range of electroacoustic composition and sound-making work, including radiophonic documentary, live-electronics and improvisation, multimedia and large-scale multi-channel installation work. Research interests that arise from this practice include: aural landscape construction in sonic arts practice; sound spatialisation/immersion; theories of space; place and listening as they pertain to sound; audience engagement and public art.
 
@@ -77,7 +77,7 @@ Georgios Xenakis' work focuses on measuring the carbon, water and energy balance
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/luigi-marino.jpg" alt="Photo of Luigi Marino">
 
-[Dr Luigi Marino (Research Fellow in Sound and Music Computing, Queen Mary University of London)](http://www.luigimarino.net/)
+[Dr Luigi Marino (Research Fellow in Sound and Music Computing, Queen Mary University of London, C4DM)](http://www.luigimarino.net/)
 
 Luigi Marino's work focuses on networks able to display relationships between human and nonhuman actors, and especially on how intuitive decisions can derail a pre-existing order. He is an active improvisor performing on both electronic media and percussion, in particular zarb and bowed custom cymbals extended with DIY portable circuits.
 
@@ -99,9 +99,9 @@ Hazel Stone is the National Curator of Contemporary Art at Forestry England. Awa
 
 {% cols "bg-gray-100 rounded-lg" %}
 
-<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/krishna-nama-manjunatha.jpg" alt="Photo of Krishna Nama Manjunatha">
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/krishna-nama-manjunatha-2.png" alt="Photo of Krishna Nama Manjunatha">
 
-[Dr Krishna Nama Manjunatha (CI, De Montfort University)](https://www.dmu.ac.uk/about-dmu/academic-staff/technology/krishna-nama-manjunatha/krishna-nama-manjunatha.aspx)
+[Dr Krishna Nama Manjunatha (CI, De Montfort University, Emerging Technologies Research Centre)](https://www.dmu.ac.uk/about-dmu/academic-staff/technology/krishna-nama-manjunatha/krishna-nama-manjunatha.aspx)
 
 Krishna Nama Manjunatha is a Senior Lecturer in Micro and Nano Electronics at De Montfort University. Krishna is interested in synthesis, development, and characterisation of nanoscale materials and their applications in emerging areas of electronics as well as in the growth of silicon nanostructures and its application in charge storage (memory and Li-Ion batteries) and charge generation (photovoltaics).
 
@@ -186,21 +186,21 @@ Matt Wilkinson is a Programme Manager of the Natural Capital Ecosystem Assessmen
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/kok-ho-huen.jpg" alt="Photo of Kok Ho Huen" >
 
-[Kok Ho Huen (Advisor, Queen Mary University of London)](https://www.qmul.ac.uk/eecs/people/profiles/huenho.html)
+[Kok Ho Huen (Advisor, Queen Mary University of London, Electronics Lab)](https://www.qmul.ac.uk/eecs/people/profiles/huenho.html)
 
 
 Kok Ho Huen is Electronics Teaching Lab Manager at QMUL and is a Technical Advisor of the project.
 
 <!--img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/zainab-tarki.jpg" alt="Photo of Zainab Tarki" -->
 
-[Mazharia Rahman (Advisor, Queen Mary University of London)](https://www.qmul.ac.uk/eecs/people/profiles/rahmanmazharia.html)
+[Mazharia Rahman (Advisor, Queen Mary University of London, EECS Finance)](https://www.qmul.ac.uk/eecs/people/profiles/rahmanmazharia.html)
 
 Mazharia Rahman is an EECS Finance Assistant.
 
 
 <!--img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/zainab-tarki.jpg" alt="Photo of Zainab Tarki" -->
 
-[Zainab Tarki (Advisor, De Montfort University)](#)
+[Zainab Tarki (Advisor, De Montfort University, DMU Finance)](#)
 
 Zainab Tarki was the Finance Officer of the project from September 2023 until December 2024.
 
@@ -241,7 +241,7 @@ Frederic Font is a senior researcher at Phonos, a pioneering centre in the field
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/aleksander-skutnik.jpg" alt="Photo of Aleksander Skutnik" >
 
-[Aleksander Skutnik (Queen Mary University of London)](https://www.linkedin.com/in/aleksander-skutnik-1a05a625a/)
+[Aleksander Skutnik (Queen Mary University of London, Computer Science)](https://www.linkedin.com/in/aleksander-skutnik-1a05a625a/)
 
 Aleksander Skutnik is a BSc Computer Science final year student at Queen Mary University of London. For his final year project, he has decided to undertake a research based topic within the Sensing the Forest project under the supervision of Dr Anna Xambó and Kok Ho Huen. His areas of interest and academic experience include probabilistic algorithms and risk analysis, as well as research experience in cognitive and sociocultural areas of psychology. Aleksander also has experience in community organising, advocacy and charity work for a range of organisations which include event and campaign planning.
 
@@ -251,7 +251,7 @@ Aleksander Skutnik is a BSc Computer Science final year student at Queen Mary Un
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/shuoyang-zheng.jpg" alt="Photo of Shuoyang Zheng" >
 
-[Shuoyang Zheng (Queen Mary University of London)](https://jasperzheng.cc/)
+[Shuoyang Zheng (Queen Mary University of London, AIM, C4DM)](https://jasperzheng.cc/)
 
 Shuoyang Zheng is a PhD student at the Centre for Digital Music (C4DM), Queen Mary University of London. His research is in the field of explainable AI for musical audio synthesis. His long-term research goal focuses on developing interactive and understandable AI systems that facilitate musical creation and expression, and on understanding how these technological advances impact artistic practices. He is equally interested in the aesthetical and ethical implications inherent to the development of AI.
 
@@ -265,7 +265,7 @@ Shuoyang Zheng is a PhD student at the Centre for Digital Music (C4DM), Queen Ma
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/stanley-parker.jpg" alt="Photo of Stanley Parker" >
 
-[Stanley Parker (Queen Mary University of London)](https://www.linkedin.com/in/stanley-parker-43113425a)
+[Stanley Parker (Queen Mary University of London, Creative Computing)](https://www.linkedin.com/in/stanley-parker-43113425a)
 
 Stanley Parker is a BSc Creative Computing student at Queen Mary University of London. He is creating an environmental monitoring module for his final year project and is working with the Sensing the Forest team to help make this happen and is being supervised for his project by Dr Anna Xambó and Kok Ho Huen. His areas of experience include sound design and generative audio, interactive media design, web programming, working with sensors and data mapping. Stanley also has an interest in music and audio production, conservation and general use of computers and other digital media in association with the natural world.
 
@@ -275,7 +275,7 @@ Stanley Parker is a BSc Creative Computing student at Queen Mary University of L
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/ning-liu.jpg" alt="Photo of NING LIU" >
 
-Ning Liu (Queen Mary University of London)
+Ning Liu (Queen Mary University of London, Electronic Engineering)
 
 Ning Liu is the final year student in BSc(Eng)FT Electronic Engineering(with BUPT) at Queen Mary University in London. Under the supervision of Dr. Anna Xambó and Dr. Luigi Marino, she chose to take a study on the evaluation of MEMS microphones in the "Sensing the Forest" project as the last year's research topic. Her fields of interest and academic experience include interactive algorithms and communication analysis, as well as research experience in Arduino installation and cloud connection.
 
@@ -325,7 +325,7 @@ Subhash Arockiadoss is a Robotics Engineer with a strong track record in designi
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/xinyue-xu.jpg" alt="Photo of Xinyue Xu" >
 
-Xinyue Xu (Queen Mary University of London)
+Xinyue Xu (Queen Mary University of London, Sound and Music Computing)
 
 Xinyue Xu is a MSc Sound and Music Computing student in EECS at Queen Mary University of London. She participates in the "Sensing the Forest" project, focusing on research in parameter mapping sonification and interactive music systems and under the supervision of Dr. Anna Xambó. Her research interests center on translating meteorological sensor data into sound and enhancing the understanding of the connection between forests and climate change through sonification techniques. She is also interested in immersive audio, 3D binaural sound rendering, and spatial hearing.
 
@@ -339,7 +339,7 @@ Xinyue Xu is a MSc Sound and Music Computing student in EECS at Queen Mary Unive
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/andres-sanchez-castrillon.jpg" alt="Photo of Andrés Sánchez Castrillón" >
 
-[Andrés Sánchez Castrillón (Queen Mary University of London)](https://www.linkedin.com/in/andres-sanchez-59a8331a6/)
+[Andrés Sánchez Castrillón (Queen Mary University of London, Artificial Intelligence)](https://www.linkedin.com/in/andres-sanchez-59a8331a6/)
 
 Andrés is a Master's student in Artificial Intelligence with a focus on Computer Vision. Originally from Medellín, Colombia, he has a background in software engineering and a keen interest in using AI to address environmental and sustainability challenges. Currently, he is starting to explore soundscape analysis for detecting patterns linked to climate change as part of his research.
 
@@ -349,7 +349,7 @@ Andrés is a Master's student in Artificial Intelligence with a focus on Compute
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/tug-oflaherty.jpg" alt="Photo of Tug O’Flaherty">
 
-[Tug O’Flaherty (Queen Mary University of London)](https://tugoflaherty.com)
+[Tug O’Flaherty (Queen Mary University of London, Sound and Music Computing)](https://tugoflaherty.com)
 
 Tug O’Flaherty is a Sound and Music Computing MSc student at Queen Mary University of London. Having previously undertaken a BSc (Hons) in Computer Science at Kingston University, he specialises in web and cross-platform mobile application development. Tug is excited to be applying his software development background to producing an interactive tool for the sonification and visualisation of climate and tree data within the Sensing the Forest project, under the direction of Dr Anna Xambó. He is passionate about climate change awareness and community-focussed initiatives, and keen to contribute his expertise in data mappings, music, and web development.
 
@@ -363,7 +363,7 @@ Tug O’Flaherty is a Sound and Music Computing MSc student at Queen Mary Univer
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/james-shortland.jpg" alt="Photo of James Shortland">
 
-James Shortland (Queen Mary University of London)
+James Shortland (Queen Mary University of London, Data Science and Artificial Intelligence)
 
 James Shortland is an MSc Data Science and Artificial Intelligence student at Queen Mary University of London. Originally from California, he is passionate about the outdoors and exploring AI’s potential to support nature conservation and combat climate change. He is contributing to the Sensing the Forest project through his work on Passive Acoustic Monitoring (PAM) under the supervision of Dr. Anna Xambó.
 
@@ -373,7 +373,7 @@ James Shortland is an MSc Data Science and Artificial Intelligence student at Qu
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/geetha-bommireddy.jpg" alt="Photo of Geetha Bommireddy" >
 
-[Geetha Bommireddy (Advisor, Queen Mary University of London)](https://www.qmul.ac.uk/eecs/people/profiles/bommireddygeetha.html)
+[Geetha Bommireddy (Advisor, Queen Mary University of London, The Maker Space)](https://www.qmul.ac.uk/eecs/people/profiles/bommireddygeetha.html)
 
 Geetha Bommireddy is a Laboratory Technician & Materials Processing Research Technician at QMUL and a Technical Advisor of the project. Geetha is a graduate of Electronics and Communication Engineering. She has worked as a Technician for 10 years in sixth form college in London and joined QMUL in the year 2013. She has worked with many Masters and PhD students over the years in QMUL and loves what she does.
 
@@ -452,7 +452,7 @@ Prof Leigh Landy's research concerns electroacoustic musical production and musi
 
 ## Acknowledgements
 
-Bret Battey (MTI2, DMU), Mike Baynham (University of Leeds), the Future Research Leaders 8 Cohort (DMU), Finella Bottomley (Leicester City Council), Tom Moore (DMU), Auwal Muktar Dodo (DMU), Gaia Rossetti (University of Nottingham), Lucy Gregson-Green (DMU), Meera Warrier (University of Leicester), Deborah Cartmell (DMU), Emma Vadher (DMU), Raffaella Villa (CEM, DMU), James Russell (CEM, DMU), Shushma Patel (CEM, DMU), Allan Taylor (LMS/CEM, DMU), James Andean (MTI2, DMU), Simon Atkinson (MTI2, DMU), John Young (MTI2, DMU), Janette Ratcliffe (DMU), Talent Acquisition Team (DMU), Krishna Vandra (TA, DMU), Emma Inch (TA, DMU), Ashiyah Banglawala (TA, DMU), Poonam Patel (HR, DMU), Monika Bednarczyk (HR, DMU), Val Milner (HR, DMU), Brijesh Thanki (CEM, DMU), Afzal Ghumra (DMU), Rachel Beeby (CEM, DMU), Lindsey Trent (CEM, DMU), Anne Galt (CEM, DMU), Zoe Cox (Forestry England), Jonathan McGloin (Forestry England), David Naylor (DMU), Shivalli (Leicester), Julie Macdonald (QMUL), Hayley Cork (QMUL), Sharon Cordin (QMUL), Jasmina Bolfek-Radovani (QMUL), Elzbieta Poplawska (QMUL), Jan Clarke (QMUL), Laura Kennard (QMUL), Annie Lewis (QMUL), Serena Bancroft (QMUL), Tania Sultana (QMUL), Jenny Martin (DMU), Gemma Goodman (DMU), Jack Diprose (Forestry England).
+Bret Battey (MTI2, DMU), Mike Baynham (University of Leeds), the Future Research Leaders 8 Cohort (DMU), Finella Bottomley (Leicester City Council), Tom Moore (DMU), Auwal Muktar Dodo (DMU), Gaia Rossetti (University of Nottingham), Lucy Gregson-Green (DMU), Meera Warrier (University of Leicester), Deborah Cartmell (DMU), Emma Vadher (DMU), Raffaella Villa (CEM, DMU), James Russell (CEM, DMU), Shushma Patel (CEM, DMU), Allan Taylor (LMS/CEM, DMU), James Andean (MTI2, DMU), Simon Atkinson (MTI2, DMU), John Young (MTI2, DMU), Janette Ratcliffe (DMU), Talent Acquisition Team (DMU), Krishna Vandra (TA, DMU), Emma Inch (TA, DMU), Ashiyah Banglawala (TA, DMU), Poonam Patel (HR, DMU), Monika Bednarczyk (HR, DMU), Val Milner (HR, DMU), Brijesh Thanki (CEM, DMU), Afzal Ghumra (DMU), Rachel Beeby (CEM, DMU), Lindsey Trent (CEM, DMU), Anne Galt (CEM, DMU), Zoe Cox (Forestry England), Jonathan McGloin (Forestry England), David Naylor (DMU), Shivalli (Leicester), Julie Macdonald (QMUL), Hayley Cork (QMUL), Sharon Cordin (QMUL), Jasmina Bolfek-Radovani (QMUL), Elzbieta Poplawska (QMUL), Jan Clarke (QMUL), Laura Kennard (QMUL), Annie Lewis (QMUL), Serena Bancroft (QMUL), Tania Sultana (QMUL), Jenny Martin (DMU), Gemma Goodman (DMU), Jack Diprose (Forestry England), David Wilkinson (QMUL).
 
 
 

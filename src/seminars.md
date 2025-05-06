@@ -5,7 +5,7 @@ layout: page
 eleventyNavigation:
   key: main
   title: Seminars # as it will appear in the nav
-  order: 6 # order to display in the nav
+  order: 7 # order to display in the nav
 seo:
   title: Seminars # overrides 'title' above on both Page and META
   description: Discover the 1st AHRC Sensing the Forest seminar series (Oct-Nov 2023)

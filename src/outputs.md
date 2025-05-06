@@ -5,7 +5,7 @@ layout: page
 eleventyNavigation:
   key: main
   title: Outputs # as it will appear in the nav
-  order: 6 # order to display in the nav
+  order: 8 # order to display in the nav
 seo:
   title: Outputs # overrides 'title' above on both Page and META
   description: Academic, artistic and non-specialist outputs of the AHRC Sensing the Forest Project

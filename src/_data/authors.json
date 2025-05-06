@@ -321,6 +321,7 @@
 				"label": "",
 				"url": ""
 			},
+			
 			{
 				"label": "",
 				"url": ""
@@ -365,6 +366,130 @@
 			}
 		]
 	},
+	{
+		"slug": "mahmoud-elmokadem",
+		"name": "Mahmoud B. Elmokadem",
+		"image": "/assets/images/authors/mahmoud-elmokadem.jpg",
+		"bio": "Mahmoud Elmokadem (Emerging Technologies Research Centre, De Montfort University, Leicester, United Kingdom) is a highly motivated mechanical engineer and researcher with extensive expertise in control systems, mechatronics, and advanced materials. His career spans academia, industry, and start-ups, combining deep technical knowledge with strategic project management experience. He is adept at aligning engineering innovation with commercial objectives, making him ideally positioned to lead product development, manage new and ongoing projects, and drive collaborative success across technical and business teams. Currently undertaking a PhD in Mechanical Acoustic Metamaterials, Elmokadem brings a strong research foundation and a commitment to delivering sustainable, high-performance solutions. He is passionate about innovation in fast-paced environments and plays a key role in supporting the company's technical roadmap and commercial growth.",
+		"companyWebsites": [
+			{
+				"label": "LinkedIn webpage",
+				"url": "https://www.linkedin.com/in/mahmoud-b-elmokadem-478617174",
+				"email": ""
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "",
+				"url": ""
+			},
+			
+			{
+				"label": "",
+				"url": ""
+			},
+			{
+				"label": "",
+				"url": ""
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "dribbble",
+				"url": ""
+			},
+			{
+				"label": "github",
+				"url": ""
+			},
+			{
+				"label": "instagram",
+				"url": ""
+			},
+			{
+				"label": "linkedin",
+				"url": ""
+			},
+			{
+				"label": "piedpiper",
+				"url": ""
+			},
+			{
+				"label": "pinterest",
+				"url": ""
+			},
+			{
+				"label": "twitter",
+				"url": ""
+			},
+			{
+				"label": "youtube",
+				"url": ""
+			}
+		]
+	},
+	{
+		"slug": "krishna-nama-manjunatha",
+		"name": "Krishna Nama Manjunatha",
+		"image": "/assets/images/authors/krishna-nama-manjunatha-2.png",
+		"bio": "Krishna Nama Manjunatha (Emerging Technologies Research Centre, De Montfort University, Leicester, United Kingdom) is a Senior Lecturer in microelectronics and nanoelectronics at De Montfort University and works within the Emerging Technologies Research Centre. His PhD in Nanomaterials for Photovoltaic Applications won the ‘‘Best PhD Thesis of the Year’’. He leads research based on emerging materials for energy related applications, specialising in self-doped silicon nanowires (SiNWs) for energy-related applications. His research is further focused in the field of wide-bandgap semiconductors, synthesis of materials for solar cells, Li- & Na-ion batteries and thermoelectric applications. His entrepreneurial mindset is demonstrated through successful ideation, prototyping, and commercial grant acquisition for lab-to-market transitions of innovative micro/nano-scale manufacturing tools.",
+		"companyWebsites": [
+			{
+				"label": "LinkedIn webpage",
+				"url": "https://www.linkedin.com/in/krishnanama/",
+				"email": ""
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "",
+				"url": ""
+			},
+			
+			{
+				"label": "",
+				"url": ""
+			},
+			{
+				"label": "",
+				"url": ""
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "dribbble",
+				"url": ""
+			},
+			{
+				"label": "github",
+				"url": ""
+			},
+			{
+				"label": "instagram",
+				"url": ""
+			},
+			{
+				"label": "linkedin",
+				"url": ""
+			},
+			{
+				"label": "piedpiper",
+				"url": ""
+			},
+			{
+				"label": "pinterest",
+				"url": ""
+			},
+			{
+				"label": "twitter",
+				"url": ""
+			},
+			{
+				"label": "youtube",
+				"url": ""
+			}
+		]
+	},	
 
 	{
 		"slug": "shane-robinson",

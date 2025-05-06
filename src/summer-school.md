@@ -5,7 +5,7 @@ layout: page
 eleventyNavigation:
   key: main
   title: Summer School # as it will appear in the nav
-  order: 5 # order to display in the nav
+  order: 6 # order to display in the nav
 seo:
   title: Summer School # overrides 'title' above on both Page and META
   description: The 1st AHRC Sensing the Forest Summer School (Feb-Jun 2024)
