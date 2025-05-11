@@ -53,6 +53,7 @@ heroSettings:
 
 tags:
   - exhibition
+  - technologies
 
 ---
 

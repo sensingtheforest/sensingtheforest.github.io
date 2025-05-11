@@ -1,16 +1,16 @@
 ---
-title: Tutorials
-date: 2025-05-05
-description: Tutorials related to the technologies developed at the Sensing the Forest project.
+title: Technologies
+date: 2025-05-11
+description: Technologies developed at the Sensing the Forest project.
 layout: page
 eleventyNavigation:
   key: main
-  title: Tutorials #  as it will appear in the nav
-  order: 5    # order to display in the nav
+  title: Technologies #  as it will appear in the nav
+  order: 4    # order to display in the nav
 seo:
-  title: Tutorials
-  description: Hands-on tutorials of the streamer, tree talker, and more.
-  image: tutorials/open-wave-receiver-workshop-with-shortwave-collective.jpg # relative to /assets/images/
+  title: Technologies
+  description: Streamer, tree talker, data logger, and more.
+  image: technologies/hackathon.jpg # relative to /assets/images/
 hero: graphic # options: carousel, graphic, video, split (text & image)
 heroSettings:
   height:
@@ -18,12 +18,12 @@ heroSettings:
     desktop: # leave blank to inherit "mobile" height (default = full screen)
   bg:
     color: bg-green-900 # default bg-black
-    image: tutorials/open-wave-receiver-workshop-with-shortwave-collective.jpg # relative to /assets/images/
+    image: technologies/hackathon.jpg # relative to /assets/images/
     imagePosition: # options = bg-center (default), bg-left, bg-right
     video: # pixabay-john-macdougall.mp4 # local relative /assets/video/, or full https://... if remote?
     opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
     opacityDesktop: opacity-75 # Leave blank to inherit opacityMobile, use same options as opacityMobile
-  headingText: Hands-on tutorials of DIY technologies
+  headingText: DIY self-built hardware & software technologies
   headingTextColor: text-white # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   headingTextCase: # default = as typed - options: uppercase, lowercase, capitalize
   subheadingText: #
@@ -35,7 +35,7 @@ heroSettings:
   buttonBgHover: # leave blank to inherit from /src/_data/colors.buttonCustom.bgHover or buttonDefault.bgHover
   buttonBorder: # leave blank to inherit from /src/_data/colors.buttonCustom.border or buttonDefault.border  
 pagination:
-  data: collections.tutorials
+  data: collections.technologies
   size: 15
   reverse: true
   alias: posts
@@ -47,7 +47,7 @@ Adapted from blog.njk
 
 <br />
 
-{% set postslist = collections.tutorials | reverse %}
+{% set postslist = collections.technologies | reverse %}
 
 {#
   Allows a user to easily change the Tag List Style.

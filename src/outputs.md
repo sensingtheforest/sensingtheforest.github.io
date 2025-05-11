@@ -3,7 +3,7 @@ title: Outputs Title # will be overwritten by SEO.title below
 date: 2024-11-29
 layout: page
 eleventyNavigation:
-  key: main
+  key: Outputs
   title: Outputs # as it will appear in the nav
   order: 8 # order to display in the nav
 seo:
@@ -31,6 +31,34 @@ heroSettings:
 
 
 ---
+
+## Activities
+ 
+<div class="float-left">
+     <a aria-label="Link to Summer School" alt="Link to Summer School" href="/summer-school">
+     <p class="text-center p-2">Summer School</p>
+     </a>
+     <a aria-label="Link to Summer School" alt="Link to Summer School" href="/summer-school">
+     {% svg "sun-solid", "mt-2 ml-2 h-50 w-150" %}</a>
+</div> 
+<div class="float-left">    
+     <a aria-label="Link to Seminars" alt="Link to Seminars" href="/seminars">
+     <p class="text-center p-2">Seminars</p></a>
+     <a aria-label="Link to Seminars" alt="Link to Seminars" href="/seminars">
+     {% svg "comments-solid", "mt-1 mr-2 ml-2 h-50 w-150" %}</a>
+</div>   
+<div class="float-left">
+  <a aria-label="Link to Media" alt="Link to Media" href="/media">
+     <p class="text-center p-2">Media</p></a> 
+     <a aria-label="Link to Media" alt="Link to Media" href="/media">
+     {% svg "photo-film-solid", "mt-1 mr-2 ml-2 h-50 w-150 float-left" %}</a>
+</div>
+
+<div class="clear-left"></div>
+
+<br />
+
+<pre>---</pre>
 
 ## Abstracts
 

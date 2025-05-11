@@ -3,7 +3,8 @@ title: Summer School Title # will be overwritten by SEO.title below
 date: 2023-12-18
 layout: page
 eleventyNavigation:
-  key: main
+  key: Summer School
+  parent: Outputs
   title: Summer School # as it will appear in the nav
   order: 6 # order to display in the nav
 seo:

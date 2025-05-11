@@ -3,9 +3,10 @@ title: Media # will be overwritten by SEO.title below
 date: 2023-11-24
 layout: page
 eleventyNavigation:
-  key: main
+  key: Media
+  parent: Outputs
   title: Media # as it will appear in the nav
-  order: 9 # order to display in the nav
+  #order: 9 # order to display in the nav
 seo:
   title: Media # overrides 'title' above on both Page and META
   description: Explore the media outputs of the project (seminar series, presentations...)

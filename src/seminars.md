@@ -3,7 +3,8 @@ title: Seminars Title # will be overwritten by SEO.title below
 date: 2023-09-21
 layout: page
 eleventyNavigation:
-  key: main
+  key: Seminars
+  parent: Outputs  
   title: Seminars # as it will appear in the nav
   order: 7 # order to display in the nav
 seo:

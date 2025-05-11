@@ -5,7 +5,7 @@ layout: page
 eleventyNavigation:
   key: main
   title: Listen # as it will appear in the nav
-  order: 5 # order to display in the nav
+  order: 7 # order to display in the nav
 seo:
   title: Listen # Listen # overrides 'title' above on both Page and META
   description: Listen to the live streamers # Listen to the live streamers

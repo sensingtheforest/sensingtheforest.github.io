@@ -58,6 +58,7 @@ heroSettings:
       - exhibition/Peter-Batchelor-Dendrophone_photo_by_Shuoyang_Zheng_14.jpg              
 tags:
   - exhibition
+  - technologies
 
 ---
 
