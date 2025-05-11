@@ -50,7 +50,9 @@ heroSettings:
 
 <div id="map"></div> -->
 
-You can experience the sounds by navigating the map or going directly to the below two links. **We recommend Chrome or Firefox for an optimal experience.**
+You can experience the sounds by navigating the map or going directly to the below two links. 
+
+:fire: **Note**: We recommend Chrome or Firefox for an optimal experience.
 
 * **Streamer I (Giorgio)**: [http://solid41.streamupsolutions.com:8010](http://solid41.streamupsolutions.com:8010/)
 * **Streamer II (Paula)**: [http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/)

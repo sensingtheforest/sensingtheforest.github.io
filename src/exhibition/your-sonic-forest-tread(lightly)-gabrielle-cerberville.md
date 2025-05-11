@@ -54,7 +54,7 @@ heroSettings:
       - exhibition/Gabrielle-Cerberville-Tread_LIGHTLY_photo_by_Shuoyang_Zheng_12.jpg      
 
 tags:
-  - exhibition
+  - exhibition 
 
 ---
 

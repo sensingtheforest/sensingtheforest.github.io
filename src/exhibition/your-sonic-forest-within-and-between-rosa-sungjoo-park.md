@@ -51,7 +51,7 @@ heroSettings:
       - exhibition/Rosa-Park-Within-and-Between_photo_by_Shuoyang_Zheng_9.jpg
 
 tags:
-  - exhibition
+  - exhibition 
 
 ---
 

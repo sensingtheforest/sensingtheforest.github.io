@@ -50,7 +50,7 @@ heroSettings:
       - exhibition/Qianyi-Rose-Sun-Leaves-Echo_closeup_photo_by_Shuoyang_Zheng_8.jpg 
 tags:
   - exhibition
-
+  
 ---
 
 :camera: *Photos and videos by Shuoyang Zheng*

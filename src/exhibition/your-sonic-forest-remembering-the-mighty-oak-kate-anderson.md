@@ -55,7 +55,7 @@ heroSettings:
       - exhibition/Kate-Anderson-Remembering-the-Mighty-Oak-closeup_photo_by_Shuoyang_Zheng_13.jpg
 
 tags:
-  - exhibition
+  - exhibition 
 
 ---
 

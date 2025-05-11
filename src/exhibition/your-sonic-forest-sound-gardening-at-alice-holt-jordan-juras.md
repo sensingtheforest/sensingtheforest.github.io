@@ -44,7 +44,7 @@ heroSettings:
 
 tags:
   - exhibition
-
+  
 ---
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}

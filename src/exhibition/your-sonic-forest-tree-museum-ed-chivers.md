@@ -45,7 +45,7 @@ heroSettings:
 
 
 tags:
-  - exhibition
+  - exhibition 
 
 ---
 
