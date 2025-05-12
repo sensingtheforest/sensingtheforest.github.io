@@ -136,7 +136,7 @@ heroSettings:
 ## Datasets
 
 * 5-minute audio recordings streamer I (natural soundscape). Ongoing. [Pack: natural-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/42937/) on Freesound.
-* 5-minute audio recordings streamer II (sound installation). Ongoing.
+* 5-minute audio recordings streamer II (sound installation). Ongoing. [Pack: installation-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/43504/) on Freesound.
 * 1-minute JSON files from customised data logger. Ongoing.
 * 30-minute JSON files from DIY tree talker. Forthcoming.
 
