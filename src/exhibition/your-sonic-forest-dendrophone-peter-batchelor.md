@@ -59,6 +59,11 @@ heroSettings:
 tags:
   - exhibition
 
+themes:
+  - invisible-visible
+  - rhyzomes-networks
+  - human-environment-interactions
+  
 ---
 
 :camera: *Photos and videos by Shuoyang Zheng*

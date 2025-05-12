@@ -49,6 +49,11 @@ heroSettings:
 tags:
   - exhibition
 
+themes:
+  - theme
+  - invisible-visible
+  - tree-cybernetic-system
+
 ---
 
 :camera: *Photos and videos by Shuoyang Zheng*

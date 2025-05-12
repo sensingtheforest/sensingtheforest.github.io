@@ -1,0 +1,84 @@
+---
+permalink: /themes/
+layout: page
+title: The Themes of the Artworks
+---
+
+
+{# <div class="mt-6">
+  
+  {% include "components/themepills.njk" %}
+</div> #}
+{% set t = collections.themeSlugList %}
+{% set postslist = collections.exhibition | reverse %}
+
+<div class="mt-6">
+  <p class="pb-4">Six non-exclusive themes, metaphors or topics help us talk about forests and climate change:</p>
+  {% for postTheme in t %}
+    {# Knock out the first iteration of the loop to drop the default "post" tag generated in `posts/posts.json`. #}
+    {# If there's a better/easier way of doing this, please LMK.  #}
+
+      {% set thisTheme = collections.themeList | getTheme(postTheme) %}
+      
+      <div class="block p-2">
+        <h2 class="block" style="margin-right:10px; margin-bottom:10px">{{ thisTheme.name }}</h2> 
+        <a alt="tagged {{ thisTheme.slug }}" aria-label="tagged {{ thisTheme.slug }}" href="/themes/" class="px-4 py-2 text-sm {{ colors.tagPillCustom.text or colors.tagPillDefault.text }} {{ colors.tagPillCustom.bg or colors.tagPillDefault.bg }}  rounded-full hover:{{ colors.tagPillCustom.textHover or colors.tagPillDefault.textHover }}  hover:{{ colors.tagPillCustom.bgHover or colors.tagPillDefault.bgHover }}"><img src="/assets/images/icons/{{ thisTheme.slug }}.png" width="16px" style="display: inline; margin-right:3px"></img> {{ thisTheme.slug }}</a>
+        <br><br>
+        {% if thisTheme.quote is defined %}
+        <p class="inline" style="font-style: italic">
+          {{ thisTheme.quote }} - {{ thisTheme.quotefrom }}
+        </p>
+        {% endif %}
+        {% if thisTheme.quote2 is defined %}
+          <br>
+          <p class="inline" style="font-style: italic">
+            {{ thisTheme.quote2 }} - {{ thisTheme.quote2from }}
+          </p>
+        {% endif %}
+        <p>
+          {{ thisTheme.description }}
+        </p>
+
+        <section class="mt-12">
+        <div class="container px-5 pb-8 mx-auto">
+          <div class="flex flex-wrap -mx-4 -mt-4 -mb-10 sm:-m-4">
+
+        {# {{ postslist }} #}
+        {% for post in postslist %}
+          {% set allThemes = post.data.themes %}
+          {% for t in allThemes %}
+            {% if postTheme===t %}
+                    
+                    <div class="p-4 md:w-1/3 xl:w-1/5 lg:w-1/4 sm:w-1/2 xs:mb-0">
+                      <div class="relative flex h-20 w-40 overflow-hidden border border-gray-200 rounded-lg shadow-md hover:shadow-lg">
+                        <a class="" href="{{ post.url | url }}">
+                          <img class="absolute inset-0 object-cover {{ post.data.images.align }} w-full h-full" src={% if post.data.images.thumb %}"/assets/images/{{ post.data.images.thumb }}"{% else %}"/assets/images/david-kovalenko-G85VuTpw6jg-unsplash.jpg"{% endif %} alt="">
+                        </a>
+                      </div>
+                      <div class="w-40">
+                      <medium>
+                        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+                      </medium>
+
+                      {# Display Post Excerpt if set 'true' in /src/_data/structure.js:g_showExcerpt  #}
+                      {% if structure.g_showExcerpt %}
+                        <div class="{{ colors.excerptCustom or colors.excerptDefault }}">
+                          {{ post.data.excerpt }}
+                        </div>
+                      {% endif %}
+                      </div>
+
+                    </div>
+
+            {% endif %}
+          {% endfor %}
+          
+        {% endfor %}
+            </div>
+          </div>
+        </section>
+
+      </div> 
+
+  {% endfor %}
+</div>

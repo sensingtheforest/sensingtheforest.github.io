@@ -44,6 +44,11 @@
               {% include "components/tagpills.njk" %}
             </div>
           {% endif %}
+
+          <div>
+            {% set t = post.data.themes %}
+            {% include "components/themepills.njk" %}
+          </div>
         </div>
       {% endfor %}
 

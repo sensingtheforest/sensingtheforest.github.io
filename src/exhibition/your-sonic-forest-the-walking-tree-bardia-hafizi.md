@@ -52,6 +52,12 @@ heroSettings:
 tags:
   - exhibition
 
+themes:
+  - theme
+  - tree-antique
+  - rhyzomes-networks
+  - tree-cybernetic-system
+
 ---
 
 :camera: *Photos and videos by Shuoyang Zheng*

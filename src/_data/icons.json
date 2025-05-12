@@ -1,0 +1,50 @@
+[
+{
+	"slug": "species-extinction",
+	"name": "Extinction of Species/Habitat",
+	"quote": "What happens if/when biodiversity collapses in the natural word? Will forests become tree museums?",
+	"quotefrom": "Ed Chivers",
+	"description": "This theme involves the loss of biodiversity and the degradation of ecosystems. As species disappear and habitats are destroyed, the ecological balance that sustains forests is disrupted, which in turn affects the climate and vice versa."
+},
+{
+	"slug": "tree-antique",
+	"name": "Tree as an Antique",
+	"quote": "Trees are your best antiques.",
+	"quotefrom": "Alexander Smith",
+	"description": "This theme focuses on trees as historical artefacts that are also fragile in the face of modern environmental threats. This perspective acknowledges the longevity and role of trees and can also draw attention to the urgent environmental changes threatening them. Trees can be seen not only as relics of the past but also as symbols of what could be lost if climate change continues progressing."
+},
+{
+	"slug": "invisible-visible",
+	"name": "Making Visible the Invisible",
+	"quote": "If a tree falls in the forest there are other trees listening.",
+	"quotefrom": "Peter Wohlleben",
+	"description": "This theme exposes hidden environmental processes and highlights ecological interdependencies that tend to be unnoticed. This can help raise awareness of the natural world and help people understand the invisible impacts of climate change."
+},
+{
+	"slug": "rhyzomes-networks",
+	"name": "Rhizomatic Interconnections/Communities",
+	"quote": "The trees soon revealed startling secrets. I discovered that they are in a web of interdependence, linked by a system of underground channels, where they perceive and connect and relate with an ancient intricacy and wisdom that can no longer be denied.",
+	"quotefrom": "Suzanne Simard",
+	"quote2":"As we sense a tree, the city turns into our forest, and the forest becomes our city.",
+	"quote2from": "Bardia Hafizi",
+	"description": "In this theme, the concept of rhizomatic interconnections is drawn from Deleuze and Guattari’s philosophical framework, described as a non-hierarchical, decentralised way of thinking about systems, communities, and relationships. Here, the emphasis lays on how trees and ecosystems are interconnected in ways that resemble rhizomes, with multiple, non-linear relationships of exchange, support, and communication."
+},
+{
+	"slug": "human-environment-interactions",
+	"name": "Human-Environment Interactions/(Re-)Connecting with the Environment",
+	"quote": "I hope my piece might engage the audience with climate change, by giving consideration to their own connection to the forest environment, specifically the Oak tree.",
+	"quotefrom": "Kate Anderson",
+	"quote2": "I aim to create an immersive experience that invites participants to actively engage with their surroundings.",
+	"quote2from": "Rosa Sungjoo Park",
+	"description": "In this theme, the human-environment interactions are seen as a mechanism to (re-)connect with the environment and promote environmental consciousness. This theme involves human interaction with nature as a way to raise awareness of ecological concerns such as climate change by interacting with augmented natural systems that can help us interpret the state of forests and the broader environment."
+},
+{
+	"slug": "tree-cybernetic-system",
+	"name": "Tree as a Cybernetic System",
+	"quote": "A cyborg is a cybernetic organism, a hybrid of machine and organism, a creature of social reality as well as a creature of fiction.",
+	"quotefrom": "Donna Haraway",
+	"quote2": "Is this cybernetic tree a contradiction, or can technology live in peace with the forest, and even help it thrive?",
+	"quote2from": "Austin Blanton"
+}
+
+]

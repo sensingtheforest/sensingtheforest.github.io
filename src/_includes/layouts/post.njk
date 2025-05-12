@@ -24,6 +24,11 @@ layout: base
 
   </div>
 
+  <div class="mt-2">
+    {% set t = themes %}
+    {% include "components/themepills.njk" %}
+  </div>
+  
   {{ layoutContent | safe }}
 
   {% if structure.g_showTagPills or structure.g_showSocialShareIcons %}

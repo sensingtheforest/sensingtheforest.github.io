@@ -123,6 +123,67 @@ module.exports = function (eleventyConfig) {
 		// returning an array in addCollection works in Eleventy 0.5.3
 		return [...tagSet]
 	})
+	// THEMELIST
+	eleventyConfig.addCollection('themeList', function (collection) {
+		let themeSet = new Set()
+		collection.getAll().forEach(function (item) {
+			
+			if ('icons' in item.data) {
+
+				let themes = item.data.icons
+
+				themes = themes.filter(function (item) {
+					switch (item) {
+						// this list should match the `filter` list in tags.njk
+						case 'authors':
+						case 'pages':
+						case 'post':
+							return false
+					}
+
+					return true
+				})
+				// console.log(themes)
+				for (const theme of themes) {
+					themeSet.add(theme)
+				}
+			}
+		})
+
+		// returning an array in addCollection works in Eleventy 0.5.3
+		return [...themeSet]
+	})
+
+		// THEMELIST
+	eleventyConfig.addCollection('themeSlugList', function (collection) {
+		let themeSet = new Set()
+		collection.getAll().forEach(function (item) {
+			
+			if ('icons' in item.data) {
+
+				let themes = item.data.icons
+
+				themes = themes.filter(function (item) {
+					switch (item) {
+						// this list should match the `filter` list in tags.njk
+						case 'authors':
+						case 'pages':
+						case 'post':
+							return false
+					}
+
+					return true
+				})
+				// console.log(themes)
+				for (const theme of themes) {
+					themeSet.add(theme.slug)
+				}
+			}
+		})
+
+		// returning an array in addCollection works in Eleventy 0.5.3
+		return [...themeSet]
+	})
 
 	/**
 	 * Custom Watch Targets

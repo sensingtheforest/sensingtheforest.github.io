@@ -53,6 +53,10 @@ heroSettings:
 tags:
   - exhibition 
 
+themes:
+  - theme
+  - human-environment-interactions
+  
 ---
 
 :camera: *Photos and videos by Shuoyang Zheng*

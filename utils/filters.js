@@ -52,6 +52,14 @@ module.exports = {
 	},
 
 	/**
+	 * Get themes from _data/themes.json to use in exhibition page and theme tags
+	 */
+	getTheme: (icons, key) => {
+		let theme = icons.filter((a) => a.slug === key)[0]
+		return theme
+	},
+	
+	/**
 	 * Get Posts by Author for the Author detail page
 	 */
 	getPostsByAuthor: (posts, key) => {

@@ -1,0 +1,43 @@
+---
+layout: page
+pagination:
+  data: collections
+  size: 1
+  alias: theme
+  filter:
+    - authors
+    - pages
+    - post
+permalink: /themes/{{ theme }}/
+eleventyComputed:
+  title: Entries Tagged "{{ theme }}”
+---
+
+
+<hr class="mt-8">
+
+{# 
+  We set this to 'postslist' so we can use the same postslist components as the /blog 
+#}
+  {% set postslist = collections[tag] %}
+
+{# 
+  Either inherit the 'postListStyle' or use another layout
+  Please see instructions in /src/_data/structure.js 
+#}
+{% set tagStyle = structure.tagListStyle or structure.postListStyle %}
+
+{# 
+  Allows a user to easily change the Tag List Style.
+  Please see instructions in /src/_data/structure.js
+#}
+{% set postlist = ['components/', tagStyle, '.njk'] %}
+{% include postlist | join %}
+
+<div class="border-t border-gray-300">
+<h4 class="{{ colors.tagPillCustom.text or colors.tagPillDefault.text }}">All Tags:</h4>
+{% set tags = collections.tagList %}
+{% include "components/tagpills.njk" %}
+</div>
+
+

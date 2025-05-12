@@ -46,6 +46,11 @@ heroSettings:
 
 tags:
   - exhibition 
+  
+themes:
+  - theme
+  - species-extinction
+  - invisible-visible
 
 ---
 

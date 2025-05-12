@@ -56,6 +56,11 @@ heroSettings:
 tags:
   - exhibition 
 
+themes:
+  - theme
+  - species-extinction
+  - invisible-visible
+  
 ---
 
 :camera: *Photos and videos by Shuoyang Zheng*

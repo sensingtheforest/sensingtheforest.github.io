@@ -57,6 +57,12 @@ heroSettings:
 tags:
   - exhibition 
 
+themes:
+  - theme
+  - species-extinction
+  - tree-antique
+  - human-environment-interactions
+  
 ---
 
 :camera: *Photos and videos by Shuoyang Zheng*
