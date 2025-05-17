@@ -24,7 +24,7 @@ tags:
 
 ---
 
-*From left-right, natural streamer on 28th February 2025 with two solar pnaels (photos 1 and 2), natural streamer on 14th March 2025 with one solar panel (photo 3), installation streamer with two solar panels (photo 4) and closeup of the installation streamer with shorter distance between modem and RPi (photo 5).*
+*From left-right, natural streamer on 28th February 2025 with two solar panels (photos 1 and 2), natural streamer on 14th March 2025 with one solar panel (photo 3), installation streamer with two solar panels (photo 4) and closeup of the installation streamer with shorter distance between modem and RPi (photo 5).*
 
 
 After [our group visit on 28 February 2025](/2025/03/19/17th-field-trip-to-alice-holt-forest/), I went for two more consecutive visits to the Alice Holt Forest on 14 March and 20 April 2025. The main goal of these two follow-up field trips was to collect the monthly recordings, replace the batteries of Paula's streamer and Pete's installation in the Willows Green trail, adjust the solar panels of the streamers for the spring period, and adjust the hi-fi streamer.

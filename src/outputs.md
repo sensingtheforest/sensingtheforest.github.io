@@ -74,6 +74,7 @@ heroSettings:
 
 ## Presentations
 
+* Xambó, Anna and Batchelor, Pete (May 14, 2025). Guest Lecture: "Sensing the Forest - UAL workshop". Computer and Data Science and AI, UAL Creative Computing Institute, University of the Arts London, London, UK. 
 * Xambó, Anna (February 28, 2025). Invited Talk: "Intersecting Sonic Arts & Computing: A Portfolio Journey". Music Engineering Forum. University of Miami, Miami, FL, USA. Online.
 * Xambó, Anna and Marino, Luigi (October 23, 2024). Invited Talk: [”Sensing the Forest: Lessons Learned from our Artistic-Acoustic Intervention at the Alice Holt Forest”](/2024/10/23/presentation-at-aix-marseille-university-october-23-2024/). Aix-Marseille University - Master in Acoustics and Musicology, Marseille, France. Online.
 * Xambó, Anna (November 14, 2023). Keynote: [”From NIME to NISE: Rethinking the design and evaluation of musical interfaces”](/2023/12/18/presentation-at-adc23-november-14-2023/). Audio Developer Conference 2023 (ADC23). London, UK.
@@ -280,6 +281,7 @@ heroSettings:
 
 ## Promotional Leaflets & Posters
 
-* [Your Sonic Forest leaflet](/assets/pdf/Your-sonic-forest-leaflet.pdf)
-* [Your Sonic Forest poster](/assets/pdf/Your-sonic-forest-poster.pdf)
+* [Your Sonic Forest leaflet](/assets/pdf/Your-sonic-forest-leaflet.pdf). Designed by Johana Knowles.
+* [Your Sonic Forest poster](/assets/pdf/Your-sonic-forest-poster.pdf). Designed by Johana Knowles.
+* [Your Sonic Forest survey poster](/assets/pdf/Your-sonic-forest-survey-poster.pdf). Designed by Johana Knowles.
 * [Sensing the Forest at Alice Holt Forest leaflet](/assets/pdf/StF-Alice-Holt-Forest_A4_highres_V2.pdf)
