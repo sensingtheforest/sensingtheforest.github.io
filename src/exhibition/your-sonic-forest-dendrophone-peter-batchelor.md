@@ -83,7 +83,7 @@ By making these hidden processes audible, *Dendrophone* is designed to encourage
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
-:fire: ***Dendrophone*** can be enjoyed on-site at the Alice Holt forest until July 2025. It works 9.00-17.00 (London time). Don't miss it!
+:fire: ***Dendrophone*** can be enjoyed on-site at the Alice Holt forest until August 2025. It works 9.00-17.00 (London time). Don't miss it!
 
 {% endwrap %}
 

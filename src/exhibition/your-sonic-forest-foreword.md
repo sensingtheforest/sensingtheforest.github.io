@@ -20,7 +20,7 @@ heroSettings:
     desktop: # leave blank to inherit "mobile" height (default = full screen)
   headingText: Your Sonic Forest
   headingTextColor: text-white # text-gray-800 # default = text-white (can use any TailwindCSS text-[color]-[xxx])
-  subheadingText: <strong>Art event</strong><br />Dendrophone - August 2024-July 2025, Alice Holt Forest, GU10 4LS, Farnham<br />Your Sonic Forest Exhibition - August 2024-July 2025, Online
+  subheadingText: <strong>Art event</strong><br />Dendrophone - August 2024-August 2025, Alice Holt Forest, GU10 4LS, Farnham<br />Your Sonic Forest Exhibition - August 2024-August 2025, Online
   subheadingTextColor: #text-black-700 # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
   #buttonText: Apply # no button generated if left blank
   #buttonURL: https://de-montfort.onlinesurveys.ac.uk/sensing-the-forest-summer-school-application # full url required. Example: https://thisdomain.com/somepage/
