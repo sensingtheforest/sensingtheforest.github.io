@@ -106,9 +106,9 @@ Use the hashtag ***#yoursonicforest*** to share your photos with us!
 
 Fill out our short survey to tell us what you think about Your Sonic Forest at Alice Holt Forest. Many thanks for your participation!
 
-<img class="h-48 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/exhibition/thumbnail_survey-qr-code.png" alt="Link to survey">
+<img class="h-48 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/exhibition/thumbnail_survey-v2-qr-code.png" alt="Link to survey">
 
-[https://app.onlinesurveys.jisc.ac.uk/s/qmul/yoursonicforest](https://app.onlinesurveys.jisc.ac.uk/s/qmul/yoursonicforest ) 
+[https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2](https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2) 
 
 {% endwrap %}
 

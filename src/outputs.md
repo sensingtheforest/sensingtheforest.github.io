@@ -74,7 +74,7 @@ heroSettings:
 
 ## Presentations
 
-* Xambó, Anna and Batchelor, Pete (May 14, 2025). Guest Lecture: "Sensing the Forest - UAL workshop". Computer and Data Science and AI, UAL Creative Computing Institute, University of the Arts London, London, UK. 
+* Xambó, Anna and Batchelor, Pete (May 14, 2025). Guest Lecture: []"Sensing the Forest - UAL workshop". Computer and Data Science and AI](/2025/05/17/presentation-at-ual-may-14-2025/), UAL Creative Computing Institute, University of the Arts London, London, UK. 
 * Xambó, Anna (February 28, 2025). Invited Talk: "Intersecting Sonic Arts & Computing: A Portfolio Journey". Music Engineering Forum. University of Miami, Miami, FL, USA. Online.
 * Xambó, Anna and Marino, Luigi (October 23, 2024). Invited Talk: [”Sensing the Forest: Lessons Learned from our Artistic-Acoustic Intervention at the Alice Holt Forest”](/2024/10/23/presentation-at-aix-marseille-university-october-23-2024/). Aix-Marseille University - Master in Acoustics and Musicology, Marseille, France. Online.
 * Xambó, Anna (November 14, 2023). Keynote: [”From NIME to NISE: Rethinking the design and evaluation of musical interfaces”](/2023/12/18/presentation-at-adc23-november-14-2023/). Audio Developer Conference 2023 (ADC23). London, UK.
