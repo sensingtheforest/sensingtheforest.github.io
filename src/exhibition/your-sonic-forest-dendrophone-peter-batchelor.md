@@ -6,7 +6,7 @@ layout: post
 draft:
 seo:
   title: Dendrophone | Peter Batchelor
-  description: Sound installation - August 2024 - July 2025, Alice Holt Forest (free entrance)
+  description: Sound installation - 1st August 2024 - 25th August 2025, Alice Holt Forest (free entrance)
   image: exhibition/Peter-Batchelor-Dendrophone-overview_photo_by_Shuoyang_Zheng.jpg
 images: # relative to /src/assets/images/
   #feature: exhibition/Peter-Batchelor-Dendrophone-overview_photo_by_Shuoyang_Zheng.jpg
