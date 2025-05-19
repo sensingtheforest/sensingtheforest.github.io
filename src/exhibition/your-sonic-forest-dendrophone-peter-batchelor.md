@@ -28,7 +28,7 @@ heroSettings:
   headingText: Dendrophone | Peter Batchelor
   headingTextColor: # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   headingTextCase: # default = as typed - options: uppercase, lowercase, capitalize
-  subheadingText: Sound installation - August 2024 - July 2025, Alice Holt Forest (free entrance) #>
+  subheadingText: Sound installation - August 2024 - August 2025, Alice Holt Forest (free entrance) #>
     #Let the Forest Speak using the Internet of Things, Acoustic Ecology and Creative AI<br /><span style="color:grey">AHRC-funded project (2023-25) : AH/X011585/1</span>
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
   buttonText: # Contact Us... # no button generated if left blank
