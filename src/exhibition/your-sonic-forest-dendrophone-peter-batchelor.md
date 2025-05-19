@@ -39,7 +39,7 @@ heroSettings:
   buttonBorder: # leave blank to inherit from /src/_data/colors.buttonCustom.border or buttonDefault.border
   carousel:
     images:
-      - exhibition/Peter-Batchelor-Dendrophone-cover_photo_by_Shuoyang_Zheng.jpg
+      - exhibition/Peter-Batchelor-Dendrophone-cover_photo_v2_by_Shuoyang_Zheng.jpg
       - exhibition/Peter-Batchelor-Dendrophone-overview_photo_by_Shuoyang_Zheng.jpg
       - exhibition/Peter-Batchelor-Dendrophone-closeup_photo_by_Shuoyang_Zheng.jpg
       - exhibition/Peter-Batchelor-Dendrophone_photo_by_Shuoyang_Zheng_1.jpg  
