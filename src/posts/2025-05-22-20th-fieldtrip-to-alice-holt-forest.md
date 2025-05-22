@@ -103,7 +103,7 @@ The installation has now been running 11am-5pm (10-4 in winter) without interrup
   <video src="/assets/video/Dendrophone_20250517_110406.mp4" autoplay loop class="object-cover w-full h-full"></video>
 </div>
 <br />
-<figcaption>Video walkthrough (press on the image to play the video)</figcaption>
+<figcaption>Video walkthrough (press on the image to play the video and reload the page to stop the video)</figcaption>
 
 
 
