@@ -60,8 +60,8 @@ Danielle also kindly checked the installation for us right before our visit conf
 <div class="flex justify-center items-center">
 <figure>
 <img class="mt-4 mb-4" src="/assets/images/2025/06/willows-green-installations-photo-by-danielle-grimsey.jpg
-" alt="Willows Green installations. Photos by Danielle Grimsey..">
-<figcaption>Willows Green installations. Photos by Danielle Grimsey..</figcaption>
+" alt="Willows Green installations. Photos by Danielle Grimsey.">
+<figcaption>Willows Green installations. Photos by Danielle Grimsey.</figcaption>
 </figure>
 </div>
 
