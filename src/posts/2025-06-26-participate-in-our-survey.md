@@ -32,7 +32,7 @@ We need your help! Please follow these two easy steps:
 <div class="flex justify-center items-center">
 <figure>
 <img class="mt-4 mb-4" src="/assets/images/2025/06/exhibition-qr-code.png" alt="Exhibition QR code">
-<figcaption><a href="https://sensingtheforest.github.io/exhibition/">https://sensingtheforest.github.io/exhibition/</a></figcaption>
+<figcaption style="text-align: center;"><a href="https://sensingtheforest.github.io/exhibition/">sensingtheforest.github.io/exhibition/</a></figcaption>
 </figure>
 </div>
 
@@ -42,7 +42,7 @@ It only takes a few minutes!
 <div class="flex justify-center items-center">
 <figure>
 <img class="mt-4 mb-4" src="/assets/images/2025/06/survey-v2-qr-code.png" alt="Survey QR code">
-<figcaption><a href="https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2">https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2</a></figcaption>
+<figcaption style="text-align: center;"><a href="https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2">app.onlinesurveys.jisc.ac.uk/s/qmul/<br/>your-sonic-forest-v2</a></figcaption>
 </figure>
 </div>
 
