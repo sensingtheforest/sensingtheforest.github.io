@@ -16,8 +16,9 @@ images: # relative to /src/assets/images/
 tags:
   - announcements
   - surveys
-  - exhibition
 ---
+
+:camera: *Photo by Shuoyang Zheng*
 
 We are excited to announce the launch of our new online exhibition:
 🌲 **"Your Sonic Forest – Hear Nature Speak through Sound Installations in Alice Holt Forest / Online"**
