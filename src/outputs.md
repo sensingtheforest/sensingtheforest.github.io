@@ -284,4 +284,5 @@ heroSettings:
 * [Your Sonic Forest leaflet](/assets/pdf/Your-sonic-forest-leaflet.pdf). Designed by Johana Knowles.
 * [Your Sonic Forest poster](/assets/pdf/Your-sonic-forest-poster.pdf). Designed by Johana Knowles.
 * [Your Sonic Forest survey poster](/assets/pdf/Your-sonic-forest-survey-poster.pdf). Designed by Johana Knowles.
-* [Sensing the Forest at Alice Holt Forest leaflet](/assets/pdf/StF-Alice-Holt-Forest_A4_highres_V2.pdf)
+* [Sensing the Forest at Alice Holt Forest leaflet](/assets/pdf/StF-Alice-Holt-Forest_A4_highres_V2.pdf). Designed by the Sensing the Forest Team.
+* [Sensing the Forest at Northern Research Station leaflet](/assets/pdf/StF-Northern-Research-Station_A4_highres-V2.pdf). Designed by the Sensing the Forest Team.
