@@ -109,6 +109,21 @@ At Sensing the Forest, we installed two listening stations: one near the permane
 <!--Streamup HTML5 Player-->
 </div>
 
+## Sound recordings 
+
+The recordings from the two streamers are captured at least four times a day, timed to solar events (sunrise, solar noon, sunset, and the midpoint between sunset and sunrise). We are building an ongoing dataset from these recordings on Freesound.org. We hope these recordings will also be valuable resources for the Freesound community. You can find some highlighted examples on this blog post published on the Freesound blog: *[Sensing the Forest: Two Ongoing Datasets from DIY Streamers at Alice Holt Forest, UK](https://blog.freesound.org/?p=2248)*.
+
+You can enjoy the recordings here:
+
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
+
+👉 5-minute audio recordings streamer I (natural soundscape). Ongoing. [Pack: natural-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/42937/) on Freesound. 
+
+👉 5-minute audio recordings streamer II (sound installation). Ongoing. [Pack: installation-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/43504/) on Freesound.
+
+{% endwrap %}
+
+
 ## Video snippets from the opening
 
 <div class="mt-4 mb-4">
@@ -129,3 +144,14 @@ At Sensing the Forest, we installed two listening stations: one near the permane
 
 
 </div>
+
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
+
+👉 Take our quick follow-up [survey](https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2). It only takes a few minutes! Many thanks for your participation!
+
+<img class="h-48 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/2025/06/survey-v2-qr-code.png" alt="Survey QR code">
+
+Go to visit: 
+[app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2](https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2) 
+
+{% endwrap %}

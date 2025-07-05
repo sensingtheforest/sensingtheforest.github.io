@@ -86,6 +86,16 @@ If we take forests to be communities of trees, what does that imply for the ones
 {% youtube "s2-iNEKM9xQ", "Narratives about four trees by Bardia Hafizi" %}
 </div>
 
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
+
+👉 Take our quick follow-up [survey](https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2). It only takes a few minutes! Many thanks for your participation!
+
+<img class="h-48 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/2025/06/survey-v2-qr-code.png" alt="Survey QR code">
+
+Go to visit: 
+[app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2](https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2) 
+
+{% endwrap %}
 
 
 

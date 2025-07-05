@@ -60,7 +60,7 @@ Fill out our short survey to tell us what you think about Your Sonic Forest at A
 
 <img class="h-48 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/exhibition/thumbnail_survey-v2-qr-code.png" alt="Link to survey">
 
-[https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2](https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2) 
+Go to visit: [app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2](https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2) 
 
 {% endwrap %}
 
