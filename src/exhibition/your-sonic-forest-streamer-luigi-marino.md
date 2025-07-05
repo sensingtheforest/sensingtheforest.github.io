@@ -68,19 +68,21 @@ At Sensing the Forest, we installed two listening stations: one near the permane
 
 :fire: You can check the two live streamers on [this map](/listen) or directly following the below two links :fire:
 
-:fire: **Attention**: We recommend Chrome or Firefox for an optimal experience :fire:
-
 {% endwrap %}
 
-## Streamer I (Giorgio)
+## Natural streamer - Streamer I (*Giorgio*)
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
 :fire: **Note**: This is a solar-powered system in the woods, which means it sometimes goes offline :fire:
 
+:fire: **Attention**: We recommend Chrome or Firefox for an optimal experience :fire:
+
+
 {% endwrap %}
 
-**Streamer I (Giorgio)**: [http://solid41.streamupsolutions.com:8010](http://solid41.streamupsolutions.com:8010/)
+**Natural streamer - Streamer I (*Giorgio) URL*** (Chrome or Firefox): 
+[http://solid41.streamupsolutions.com:8010](http://solid41.streamupsolutions.com:8010/)
 
 <div class="mt-4 mb-4">
 <!--Streamup HTML5 Player-->
@@ -88,15 +90,18 @@ At Sensing the Forest, we installed two listening stations: one near the permane
 <!--Streamup HTML5 Player-->
 </div>
 
-## Streamer II (Paula)
+## Installation streamer - Streamer II (*Paula*)
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
 :fire: **Note**: This is a solar-powered system in the woods, which means it sometimes goes offline :fire:
 
+:fire: **Attention**: We recommend Chrome or Firefox for an optimal experience :fire:
+
 {% endwrap %}
 
-**Streamer II (Paula)**: [http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/)
+**Installation streamer - Streamer II (*Paula*) URL** (Chrome or Firefox): 
+[http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/)
 
 <div class="mt-4 mb-4">
 <!--Streamup HTML5 Player-->
@@ -104,6 +109,7 @@ At Sensing the Forest, we installed two listening stations: one near the permane
 <!--Streamup HTML5 Player-->
 </div>
 
+## Video snippets from the opening
 
 <div class="mt-4 mb-4">
 {% youtube "67sZidhHBdQ", "Streamer devices by Luigi Marino" %}

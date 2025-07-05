@@ -83,17 +83,11 @@ By making these hidden processes audible, *Dendrophone* is designed to encourage
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
-:fire: ***Dendrophone*** can be enjoyed on-site at the Alice Holt forest until August 2025. It works 9.00-17.00 (London time). Don't miss it!
+:fire: ***Dendrophone*** can be enjoyed on-site at the Alice Holt forest until August 2025. It works **11.00-17.00 (London time)**. Don't miss it! :fire: 
 
 {% endwrap %}
 
-## Live stream courtesy of Paula (Streamer II)
-
-{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
-
-:fire: **Note**: This is a solar-powered system in the woods, which means it sometimes goes offline.
-
-{% endwrap %}
+## Live stream courtesy of *Paula* (Streamer II, installation streamer)
 
 <div class="mt-4 mb-4">
 <!--Streamup HTML5 Player-->
@@ -101,7 +95,31 @@ By making these hidden processes audible, *Dendrophone* is designed to encourage
 <!--Streamup HTML5 Player-->
 </div>
 
+**Installation streamer - Streamer II (*Paula*) URL** : 
 [http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/)
+
+
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
+
+:fire: **Note**: This is a solar-powered system in the woods, which means it sometimes goes offline. :fire: 
+
+:fire: **Attention**: We recommend Chrome or Firefox for an optimal experience. :fire: 
+
+{% endwrap %}
+
+## Sound recordings 
+
+As part of StF, [we have developed two DIY, solar-powered, off-grid audio streamer](https://www.chime.ac.uk/s/21-Luigi-Marino-and-Anna-Xambo.pdf) led by Luigi Marino, which are installed in Alice Holt Forest. These streamers act as listening and recording stations, capturing the sounds of the forest. Because they are placed in public outdoor spaces, occasional human voices may be recorded.
+
+One of the streamers is next to Dendrophone. The recordings are captured at least four times a day, timed to solar events (sunrise, solar noon, sunset, and the midpoint between sunset and sunrise). These recordings are made directly from the installation’s multichannel output and capture both its generative soundscape and the ambient natural environment. We are building an ongoing dataset from these recordings on Freesound.org. We hope these recordings will also be valuable resources for the Freesound community.
+
+You can enjoy the recordings here:
+
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
+
+:fire: 5-minute audio recordings streamer II (sound installation). Ongoing. [Pack: installation-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/43504/) on Freesound. :fire: 
+
+{% endwrap %}
 
 ## Video snippets from the opening
 
