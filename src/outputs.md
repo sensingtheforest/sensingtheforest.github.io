@@ -62,6 +62,7 @@ heroSettings:
 
 ## Abstracts
 
+* Xambó, Anna; Batchelor, Peter; Marino, Luigi; Roma, Gerard; Bell, Mike; and Xenakis, George (accepted). Soundscape-based music and creative AI: Insights and promises, UK AI Research Symposium (UKAIRS) 2025, Newcastle, UK. 
 * Marino, Luigi and Xambó, Anna (2024). [Developing DIY Solar-Powered, Off-Grid Audio Streamers for Forest Soundscapes: Progress and Challenges](https://www.chime.ac.uk/s/21-Luigi-Marino-and-Anna-Xambo.pdf), Proceedings of the [CHIME Annual One-day Music and HCI Conference 2024](https://www.chime.ac.uk/chime-annual-conference-2024), Milton Keynes, UK.
 
 <pre>---</pre>
@@ -74,6 +75,7 @@ heroSettings:
 
 ## Presentations
 
+* Xambó, Anna (May 28, 2025). Keynote: [Liveness as an Open Work: An Ongoing Live-Coding Algorithmic Journey](https://iclc.toplap.org/2025/catalogue/keynote/keynote-anna-xambo.html), 9th International Conference on Live Coding (ICLC2025), Barcelona, 27 May 2025 - 31 May 2025, Spain.
 * Xambó, Anna and Batchelor, Pete (May 14, 2025). Guest Lecture: ["Sensing the Forest - UAL workshop". Computer and Data Science and AI](/2025/05/17/presentation-at-ual-may-14-2025/), UAL Creative Computing Institute, University of the Arts London, London, UK. 
 * Xambó, Anna (February 28, 2025). Invited Talk: "Intersecting Sonic Arts & Computing: A Portfolio Journey". Music Engineering Forum. University of Miami, Miami, FL, USA. Online.
 * Xambó, Anna and Marino, Luigi (October 23, 2024). Invited Talk: [”Sensing the Forest: Lessons Learned from our Artistic-Acoustic Intervention at the Alice Holt Forest”](/2024/10/23/presentation-at-aix-marseille-university-october-23-2024/). Aix-Marseille University - Master in Acoustics and Musicology, Marseille, France. Online.
@@ -84,7 +86,7 @@ heroSettings:
 
 ## Artistic outputs
 
-* Xambó, Anna (accepted): *Sensing the Alice Holt Forest*, live performance. International Conference on Live Coding, May 28-31, 2025. Barcelona, Spain.
+* Xambó, Anna (May 29, 2025): *[Sensing the Alice Holt Forest](https://iclc.toplap.org/2025/catalogue/performance/sensing-the-alice-holt-forest.html)*, live performance.  9th International Conference on Live Coding (ICLC2025), Barcelona, 27 May 2025 - 31 May 2025, Spain.
 * Batchelor, Peter: *[Dendrophone](/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)*. Sound installation. August 2024-July 2025, Alice Holt Forest, GU10 4LS, Farnham, UK.
 * *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event - Online](/exhibition/)*. August 2024-July 2025, Online.
 * *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event](/exhibition/your-sonic-forest-foreword/)*. 20 June, 11am-3pm, 2024. Alice Holt Forest, GU10 4LS, Farnham, UK.
@@ -105,11 +107,11 @@ heroSettings:
 
 ## Hardware
 
-* Manjunatha, Krishna Nama; Elmokadem, Mahmoud B.; Arockiadoss, Subhash; Xenakis, George; and Xambó Anna (2024-): DIY tree talker. Under development.
+* Elmokadem, Mahmoud B.; Manjunatha, Krishna Nama; Xenakis, George; and Xambó Anna (2024-): [DIY tree talker](https://github.com/sensingtheforest/Sensing-Unit-System-Code). Under development.
 
 * Bell, Mike and James, Catrina (2024): [Customised Data Logger](/exhibition/your-sonic-forest-data-logger-mike-bell-and-catrina-james/).
 
-* Marino, Luigi (2023-): Streamers' hardware. Under development.
+* Marino, Luigi (2023-): [Streamers' hardware](https://github.com/sensingtheforest/audio-streamer). Under development.
   * [Tutorial 1: Phase 1 - Setting up the streamers](/2024/01/17/phase-1-setting-up-the-streamers/).
   * Tutorial 2: Forthcoming.
   * Tutorial 3: Forthcoming.
