@@ -491,6 +491,69 @@
 		]
 	},	
 
+{
+		"slug": "sofia-zahri",
+		"name": "Sofia Zahri",
+		"image": "/assets/images/authors/sofia-zahri.jpg",
+		"bio": "Sofia Zahri is a highly motivated, keen and hard working computer network and AI PhD researcher based in London. Sofia is working on the innovative area of biomedical engineering focusing on infectious disease outbreaks forecasting and Federated learning techniques.",
+		"companyWebsites": [
+			{
+				"label": "LinkedIn webpage",
+				"url": "https://www.linkedin.com/in/sofiazahri/",
+				"email": ""
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "",
+				"url": ""
+			},
+			
+			{
+				"label": "",
+				"url": ""
+			},
+			{
+				"label": "",
+				"url": ""
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "dribbble",
+				"url": ""
+			},
+			{
+				"label": "github",
+				"url": ""
+			},
+			{
+				"label": "instagram",
+				"url": ""
+			},
+			{
+				"label": "linkedin",
+				"url": ""
+			},
+			{
+				"label": "piedpiper",
+				"url": ""
+			},
+			{
+				"label": "pinterest",
+				"url": ""
+			},
+			{
+				"label": "twitter",
+				"url": ""
+			},
+			{
+				"label": "youtube",
+				"url": ""
+			}
+		]
+	},	
+
 	{
 		"slug": "shane-robinson",
 		"name": "Shane Robinson",
