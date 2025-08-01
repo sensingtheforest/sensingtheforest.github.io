@@ -2,7 +2,7 @@
 title: Field-Trip to Alice Holt Forest with EECS PhD students, Dr. Anna Xambo and Melissa Yeo
 date: 2025-08-01T08:00:00.000Z
 excerpt: We visited Alice Holt Forest on Friday, 4th July 2025, as part of a field-trip funded by the ‘Sensing the Forest’ research project, an interdisciplinary exploration blending art and science to raise awareness of climate change and forest behaviour through immersive sound installations, led by Dr. Anna Xambó Sedó.
-permalink: /2025/08/10/walk-and-talk-field-trip-to-alice-holt-forest
+permalink: /2025/08/01/walk-and-talk-field-trip-to-alice-holt-forest
 author: sofia-zahri
 draft:
 seo:
