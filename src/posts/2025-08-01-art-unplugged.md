@@ -17,12 +17,14 @@ images: # relative to /src/assets/images/
 tags:
   - artistic-solar-powered-solutions
   - interviews
-  - master-theses
+  - theses
   - machine-learning
   - research
   - solar-panels
 
 ---
+
+*From left-right, Aleksander Skutnik and Peter Batchelor.*
 
 ## Introduction
 

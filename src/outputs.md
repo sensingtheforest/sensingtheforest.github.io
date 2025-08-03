@@ -134,6 +134,8 @@ heroSettings:
   * Tutorial 2: Forthcoming.
   * Tutorial 3: Forthcoming.
 
+* Skutnik, Alexander (2025): [Art Unplugged](https://github.com/askutnik/artunplugged). Python.  
+
 <pre>---</pre>
 
 ## Datasets

@@ -61,6 +61,8 @@ What happens if/when biodiversity collapses in the natural word? Will the lost s
 
 **Tree Museum** focuses on the Lesser Spotted Woodpecker, whose population has declined by 91% since 1967, and is on the UK’s red list for endangered species. The sound of the woodpecker’ drumming is reproduced artificially in the trees, asking us to consider the sounds that are lost when we loose a species. 
 
+You can [find more info about the Tree Museum here](http://edchivers.co.uk/tree-museum).
+
 <div class="mt-4 mb-4">
 {% youtube "wyNkLs5y0yg", "Sound Installation by Ed Chivers" %}
 </div>

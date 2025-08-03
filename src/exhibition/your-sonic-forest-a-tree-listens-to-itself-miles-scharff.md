@@ -31,8 +31,8 @@ heroSettings:
   subheadingText: #>
     #Let the Forest Speak using the Internet of Things, Acoustic Ecology and Creative AI<br /><span style="color:grey">AHRC-funded project (2023-25) : AH/X011585/1</span>
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
-  buttonText: Tell us what you think! # Contact Us... # no button generated if left blank
-  buttonURL: https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2 # /contact/ # full url required. Example: https://thisdomain.com/somepage/
+  buttonText: #Tell us what you think! # Contact Us... # no button generated if left blank
+  buttonURL: #https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2 # /contact/ # full url required. Example: https://thisdomain.com/somepage/
   buttonTextColor: # leave blank to inherit from /src/_data/colors.buttonCustom or buttonDefault
   buttonBgColor: # leave blank to inherit from /src/_data/colors.buttonCustom.bg or buttonDefault.bg
   buttonBgHover: # leave blank to inherit from /src/_data/colors.buttonCustom.bgHover or buttonDefault.bgHover
