@@ -20,6 +20,7 @@ tags:
   - theses
   - machine-learning
   - research
+  - software
   - solar-panels
 
 ---
