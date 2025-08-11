@@ -28,6 +28,32 @@ We are committed to continuously improving the future Sensing the Forest events.
   {% columns %}
 
   {% cols "bg-gray-100 rounded-lg" %}
+      {% youtube "YbqCNVtGH7Q", "StF QMUL EECS UG Projects 2024-25" %}
+  {% endcols %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
+
+  ## StF QMUL EECS UG Projects 2024-25
+
+  Related content:
+
+  * [UG theses](/tags/theses/)
+  * [Blog post Welcome three third-year undergraduate students](https://sensingtheforest.github.io/2024/10/30/welcome-three-third-year-undergraduate-students/)
+
+  {% endcols %}
+
+  {% endcolumns %}
+
+{% endwrap %}
+
+
+<!-- //-->
+
+{% wrap "px-2 mt-8 rounded-lg pb-2 border border-gray-300 bg-gray-200" %}
+
+  {% columns %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
       {% youtube "VmutJeu9INE", "Your Sonic Forest | The Exhibition" %}
   {% endcols %}
 

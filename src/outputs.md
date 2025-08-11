@@ -60,6 +60,10 @@ heroSettings:
 
 <pre>---</pre>
 
+## Papers
+
+*	O’Flaherty, T. F., Elmokadem, M. B., Xu, X., Manjunatha, K. N., Roma, G., Xenakis, G., Xambó, A., (accepted) “Sonification Mappings for Sensing Tree Stress: A DIY Approach”. Proceedings of the Web Audio Conference 2025 (WAC 2025). Ircam/Mozilla, Paris, France.
+
 ## Abstracts
 
 * Xambó, Anna; Batchelor, Peter; Marino, Luigi; Roma, Gerard; Bell, Mike; and Xenakis, George (accepted). Soundscape-based music and creative AI: Insights and promises, UK AI Research Symposium (UKAIRS) 2025, Newcastle, UK. 
@@ -86,6 +90,7 @@ heroSettings:
 
 ## Artistic outputs
 
+* Xambó, A. Sensing the Alice Holt Forest. Web Audio Conference 2025 (accepted), Ircam/Mozilla, Paris, France. November 2025.
 * Xambó, Anna (May 29, 2025): *[Sensing the Alice Holt Forest](https://iclc.toplap.org/2025/catalogue/performance/sensing-the-alice-holt-forest.html)*, live performance.  9th International Conference on Live Coding (ICLC2025), Barcelona, 27 May 2025 - 31 May 2025, Spain.
 * Batchelor, Peter: *[Dendrophone](/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)*. Sound installation. August 2024-July 2025, Alice Holt Forest, GU10 4LS, Farnham, UK.
 * *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event - Online](/exhibition/)*. August 2024-July 2025, Online.
