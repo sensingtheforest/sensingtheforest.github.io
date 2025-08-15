@@ -64,6 +64,8 @@ heroSettings:
 
 *	O’Flaherty, T. F., Elmokadem, M. B., Xu, X., Manjunatha, K. N., Roma, G., Xenakis, G., Xambó, A., (accepted) “Sonification Mappings for Sensing Tree Stress: A DIY Approach”. Proceedings of the Web Audio Conference 2025 (WAC 2025). Ircam/Mozilla, Paris, France.
 
+<pre>---</pre>
+
 ## Abstracts
 
 * Xambó, Anna; Batchelor, Peter; Marino, Luigi; Roma, Gerard; Bell, Mike; and Xenakis, George (accepted). Soundscape-based music and creative AI: Insights and promises, UK AI Research Symposium (UKAIRS) 2025, Newcastle, UK. 

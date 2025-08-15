@@ -553,7 +553,68 @@
 			}
 		]
 	},	
-
+{
+		"slug": "daniel-gill",
+		"name": "Daniel Gill",
+		"image": "/assets/images/authors/daniel-gill.jpg",
+		"bio": "Daniel Gill is a PhD student in Computer Science at Queen Mary University of London under the supervision of Dr Ekaterina Ivanova and Prof Rachael Bedford. He previously received a bachelor's degree in computer science and master's degree in computer science by research from Queen Mary University of London. His research explores the intersection of psychological theories for autistic perception, robotic-aided haptic interaction and communication, and design practices for neurodivergent technology users.",
+		"companyWebsites": [
+			{
+				"label": "LinkedIn webpage",
+				"url": "https://www.linkedin.com/in/daniel-gill2/",
+				"email": ""
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "",
+				"url": ""
+			},
+			
+			{
+				"label": "",
+				"url": ""
+			},
+			{
+				"label": "",
+				"url": ""
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "dribbble",
+				"url": ""
+			},
+			{
+				"label": "github",
+				"url": ""
+			},
+			{
+				"label": "instagram",
+				"url": ""
+			},
+			{
+				"label": "linkedin",
+				"url": ""
+			},
+			{
+				"label": "piedpiper",
+				"url": ""
+			},
+			{
+				"label": "pinterest",
+				"url": ""
+			},
+			{
+				"label": "twitter",
+				"url": ""
+			},
+			{
+				"label": "youtube",
+				"url": ""
+			}
+		]
+	},	
 	{
 		"slug": "shane-robinson",
 		"name": "Shane Robinson",
