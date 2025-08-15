@@ -615,6 +615,68 @@
 			}
 		]
 	},	
+{
+		"slug": "stanley-parker",
+		"name": "Stanley Parker",
+		"image": "/assets/images/authors/stanley-parker.jpg",
+		"bio": "Stanley Parker is a BSc Creative Computing student at Queen Mary University of London. He is creating an environmental monitoring module for his final year project and is working with the Sensing the Forest team to help make this happen and is being supervised for his project by Dr Anna Xambó and Kok Ho Huen. His areas of experience include sound design and generative audio, interactive media design, web programming, working with sensors and data mapping. Stanley also has an interest in music and audio production, conservation and general use of computers and other digital media in association with the natural world.",
+		"companyWebsites": [
+			{
+				"label": "LinkedIn webpage",
+				"url": "https://www.linkedin.com/in/stanley-parker-43113425a/",
+				"email": ""
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "",
+				"url": ""
+			},
+			
+			{
+				"label": "",
+				"url": ""
+			},
+			{
+				"label": "",
+				"url": ""
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "youtube",
+				"url": ""
+			},
+			{
+				"label": "github",
+				"url": "https://github.com/S-Parker03/"
+			},
+			{
+				"label": "instagram",
+				"url": ""
+			},
+			{
+				"label": "linkedin",
+				"url": ""
+			},
+			{
+				"label": "piedpiper",
+				"url": ""
+			},
+			{
+				"label": "pinterest",
+				"url": "https://pin.it/459qRZ1MV"
+			},
+			{
+				"label": "twitter",
+				"url": ""
+			},
+			{
+				"label": "youtube",
+				"url": "https://www.youtube.com/@stanleyp03"
+			}
+		]
+	},		
 	{
 		"slug": "shane-robinson",
 		"name": "Shane Robinson",
