@@ -7,10 +7,10 @@ draft: true
 seo:
   title:
   description:
-  image: 2023/12/adc23.jpg
+  image: 2025/08/2025-05-28-ICLC2025-keynote.jpg
 images: # relative to /src/assets/images/
-  feature: 2023/12/adc23.jpg
-  thumb: 2023/12/adc23.jpg
+  feature: 2025/08/2025-05-28-ICLC2025-keynote.jpg
+  thumb: 2025/08/2025-05-28-ICLC2025-keynote.jpg
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: h-auto # optional. Default = h-48 md:h-1/3
 tags:

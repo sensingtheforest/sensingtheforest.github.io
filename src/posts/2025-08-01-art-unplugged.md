@@ -22,6 +22,7 @@ tags:
   - research
   - software
   - solar-panels
+  - technologies
 
 ---
 
