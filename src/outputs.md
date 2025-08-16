@@ -141,7 +141,9 @@ heroSettings:
   * Tutorial 2: Forthcoming.
   * Tutorial 3: Forthcoming.
 
-* Skutnik, Alexander (2025): [Art Unplugged](https://github.com/askutnik/artunplugged). Python.  
+* Skutnik, Alexander (2025): [Art Unplugged](https://github.com/askutnik/artunplugged). Python. 
+
+* Parker, Stanley (2025): [Viridi](https://github.com/S-Parker03/Final-Year-Project---Viridi). C++.
 
 <pre>---</pre>
 

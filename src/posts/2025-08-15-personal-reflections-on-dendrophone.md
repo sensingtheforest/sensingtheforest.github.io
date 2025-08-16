@@ -57,6 +57,8 @@ tags:
 
 ---
 
+*Photos of Dendrophone by Daniel Gill*
+
 Last month, I, alongside colleagues and friends from Queen Mary University of London, took a day out of our busy schedules to visit Hampshire to experience [Dendrophone](/exhibition/your-sonic-forest-dendrophone-peter-batchelor/). Created by [Dr Peter Batchelor](/authors/peter-batchelor/) and the Sensing the Forest team, this sound installation “transforms invisible environmental data into an immersive listening experience”, set within the ancient Alice Holt Forest.
 
 Our field trip was described in great detail by Sofia Zahri within [an article on this blog](/2025/08/01/walk-and-talk-field-trip-to-alice-holt-forest/). Instead, I wanted to use this opportunity to reflect more personally on my own experiences of Dendrophone, and particularly, how they link to my experiences of autism.
