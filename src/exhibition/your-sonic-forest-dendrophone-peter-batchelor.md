@@ -31,7 +31,7 @@ heroSettings:
   subheadingText: Sound installation - August 2024 - August 2025, Alice Holt Forest (free entrance) #>
     #Let the Forest Speak using the Internet of Things, Acoustic Ecology and Creative AI<br /><span style="color:grey">AHRC-funded project (2023-25) : AH/X011585/1</span>
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
-  buttonText: # Contact Us... # no button generated if left blank
+  buttonText: hello # Contact Us... # no button generated if left blank
   buttonURL: # /contact/ # full url required. Example: https://thisdomain.com/somepage/
   buttonTextColor: # leave blank to inherit from /src/_data/colors.buttonCustom or buttonDefault
   buttonBgColor: # leave blank to inherit from /src/_data/colors.buttonCustom.bg or buttonDefault.bg
@@ -68,6 +68,24 @@ themes:
 
 :camera: *Photos and videos by Shuoyang Zheng*
 
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
+
+👉 Tell us what you think [here](https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2). 
+
+<img class="h-48 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/2025/06/survey-v2-qr-code.png" alt="Survey QR code">
+
+<!-- Go to visit: 
+[app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2](https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2) -->
+
+{% endwrap %}
+
+
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
+
+:fire: ***Dendrophone*** can be enjoyed on-site at the Alice Holt forest until August 2025. It works **11.00-17.00 (London time)**. Don't miss it! :fire: 
+
+{% endwrap %}
+
 ***Dendrophone*** is a sound installation that transforms invisible environmental data into an immersive listening experience. By converting often invisible environmental processes into sound, it reveals the hidden dynamics of the forest. The installation is designed to blend with the natural sounds of the forest, inviting listeners to experience these in a new way.
 
 As you listen, you’ll hear shifting sound textures that respond to the forest’s changing conditions:
@@ -81,13 +99,12 @@ As you listen, you’ll hear shifting sound textures that respond to the forest�
 By making these hidden processes audible, *Dendrophone* is designed to encourage a deeper connection with nature, inviting visitors to tune into the rhythms of the forest in a new way. The installation is powered by DIY principles, with every element -- from the sound design to the technical setup -- crafted to be accessible and easy to replicate, while being self-sustaining. For those unable to visit in person, live online streams make it possible to hear the forest’s changing sounds from anywhere in the world.
 
 
-{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
-:fire: ***Dendrophone*** can be enjoyed on-site at the Alice Holt forest until August 2025. It works **11.00-17.00 (London time)**. Don't miss it! :fire: 
-
-{% endwrap %}
 
 ## Live stream courtesy of *Paula* (Streamer II, installation streamer)
+
+**Installation streamer - Streamer II (*Paula*) PLAYER - click on the button Play to listen to the live stream:** 
+:fire: **Attention**: We recommend Chrome or Firefox for an optimal experience. :fire: 
 
 <div class="mt-4 mb-4">
 <!--Streamup HTML5 Player-->
@@ -95,15 +112,12 @@ By making these hidden processes audible, *Dendrophone* is designed to encourage
 <!--Streamup HTML5 Player-->
 </div>
 
-**Installation streamer - Streamer II (*Paula*) URL** : 
+**Installation streamer - Streamer II (*Paula*) URL**: 
 [http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/)
-
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
 :fire: **Note**: This is a solar-powered system in the woods, which means it sometimes goes offline. :fire: 
-
-:fire: **Attention**: We recommend Chrome or Firefox for an optimal experience. :fire: 
 
 {% endwrap %}
 
@@ -117,7 +131,8 @@ You can enjoy the recordings here:
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
-:fire: 5-minute audio recordings streamer II (sound installation). Ongoing. [Pack: installation-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/43504/) on Freesound. :fire: 
+:fire: 5-minute audio recordings streamer II (sound installation). Ongoing. 
+Listen to/Download [Pack: installation-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/43504/) on Freesound. :fire: 
 
 {% endwrap %}
 
@@ -135,13 +150,3 @@ You can enjoy the recordings here:
 
 </div>
 
-{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
-
-👉 Take our quick follow-up [survey](https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2). It only takes a few minutes! Many thanks for your participation!
-
-<img class="h-48 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/2025/06/survey-v2-qr-code.png" alt="Survey QR code">
-
-Go to visit: 
-[app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2](https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2) 
-
-{% endwrap %}
