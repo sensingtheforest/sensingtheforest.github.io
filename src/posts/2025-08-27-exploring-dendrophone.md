@@ -10,7 +10,7 @@ seo:
   description:
   image: 2025/08/2025-08-18-Group-photo-fieldtrip.jpg
 images: # relative to /src/assets/images/
-  feature: #2025/08/Dendrophone-by-Daniel-Gill-01.jpg
+  feature: 2025/08/2025-08-18-Group-photo-fieldtrip.jpg
   thumb: 2025/08/2025-08-18-Group-photo-fieldtrip.jpg
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: h-auto # optional. Default = h-48 md:h-1/3   
