@@ -19,6 +19,7 @@ tags:
   - artistic-interventions
   - dendrophone
   - field-trips
+  - guided-tours
   - maintenance
   - streamers
   - walk-and-talk

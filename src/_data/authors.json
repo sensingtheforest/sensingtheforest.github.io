@@ -676,7 +676,69 @@
 				"url": "https://www.youtube.com/@stanleyp03"
 			}
 		]
-	},		
+	},	
+{
+		"slug": "nico-garcía",
+		"name": "Nico García",
+		"image": "/assets/images/authors/nico-garcia.jpg",
+		"bio": "Nico García is a Computer Music Researcher based in London.",
+		"companyWebsites": [
+			{
+				"label": "LinkedIn webpage",
+				"url": "https://www.linkedin.com/in/nico-g-p/",
+				"email": ""
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "",
+				"url": ""
+			},
+			
+			{
+				"label": "",
+				"url": ""
+			},
+			{
+				"label": "",
+				"url": ""
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "youtube",
+				"url": ""
+			},
+			{
+				"label": "github",
+				"url": "https://github.com/S-Parker03/"
+			},
+			{
+				"label": "instagram",
+				"url": ""
+			},
+			{
+				"label": "linkedin",
+				"url": ""
+			},
+			{
+				"label": "piedpiper",
+				"url": ""
+			},
+			{
+				"label": "pinterest",
+				"url": "https://pin.it/459qRZ1MV"
+			},
+			{
+				"label": "twitter",
+				"url": ""
+			},
+			{
+				"label": "youtube",
+				"url": "https://www.youtube.com/@stanleyp03"
+			}
+		]
+	},			
 	{
 		"slug": "shane-robinson",
 		"name": "Shane Robinson",
