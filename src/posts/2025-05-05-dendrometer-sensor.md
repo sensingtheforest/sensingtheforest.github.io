@@ -18,6 +18,7 @@ tags:
   - dendrometer
   - development
   - diy-tree-talker
+  - do-it-yourself
   - raspberry-pi
   - tutorials
  

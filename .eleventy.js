@@ -207,6 +207,8 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('src/assets/svg/')
 	eleventyConfig.addPassthroughCopy('src/assets/video/')
 	eleventyConfig.addPassthroughCopy('src/assets/pdf/')
+	eleventyConfig.addPassthroughCopy('src/assets/audio/')
+	eleventyConfig.addPassthroughCopy('src/assets/3d-print/')		
 
 	/**
 	 * Set custom markdown library instance...
