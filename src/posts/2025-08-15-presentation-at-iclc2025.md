@@ -1,62 +1,70 @@
 ---
 title: Presentation at ICLC2025 - May 28, 2025
 date: 2025-08-15T10:00:00.000Z
-excerpt: We presented the Sensing the Forest project at the International Conference 2023, The Mermaid, London.
+excerpt: We presented the Sensing the Forest project at the International Conference on Live Coding 2025, Barcelona, Catalonia.
 author: anna-xambo
-draft: true
+draft: false
 seo:
   title:
   description:
-  image: 2025/08/2025-05-28-ICLC2025-keynote.jpg
+  image: 2025/08/2025-05-28-ICLC2025-Anna_Xambo_keynote_photo_by_Santiago_Botero.jpg
 images: # relative to /src/assets/images/
-  feature: 2025/08/2025-05-28-ICLC2025-keynote.jpg
-  thumb: 2025/08/2025-05-28-ICLC2025-keynote.jpg
+  feature: 2025/08/2025-05-28-ICLC2025-Anna_Xambo_keynote_photo_by_Santiago_Botero.jpg
+  thumb: 2025/08/2025-05-28-ICLC2025-Anna_Xambo_keynote_photo_by_Santiago_Botero.jpg
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: h-auto # optional. Default = h-48 md:h-1/3
 tags:
   - artistic-interventions
   - events
-  - hci
+  - keynote
+  - livecoding
   - presentations
-  - nime
-  - smc
-  - sonic-arts
-  - sonification
-  - sustainable-design
   - videos
 ---
 
-*Photo by the ADC Team*
+*Photo by Santiago Botero (UOC, ICLC 2025)*
 
 <br />
 
-TODO: replace this text, wait until the video is ready
+<div class="flex justify-center items-center">
+<figure>
+<img class="mt-4 mb-4" src="/assets/images/2025/08/2025-05-29-ICLC2025-Anna_Xambo_performance_screenshot.jpg" alt="Screenshot of the Sensing the Forest live-coding session.">
+<figcaption>Screenshot of the Sensing the Forest live-coding session.</figcaption>
+</figure>
+</div>
 
-{% youtube "q5Mq8x_8if0", "KEYNOTE: NIME to NISE: Rethinking the Design & Evaluation of Musical Interfaces - Anna Xambó Sedó" %}
+The [International Conference on Live Coding (ICLC) 2025](https://iclc.toplap.org/2025/) was held in Barcelona, May 27-31, 2025. ICLC is dedicated to practices and research focused on technologies and philosophies that interpret the use of computer code as gesture within the context of live performances. The theme of the conference was "liveness" with an invitation to the community to reflect on *liveness* and its many forms and consequences within live coding.
 
+The Sensing the Forest project has been present at ICLC2025 in two acts:
 
+{% bq "mt-8 p-4 border-blue-500 italic text-black-500 border-t-4 border-b-4 border-r-4 bg-gray-200" %}
 
-The [Audio Developer Conference (ADC)](https://audio.dev/) is an annual event celebrating all audio development technologies, from music applications and game audio to audio processing and embedded systems. ADC’s mission is to help attendees acquire and develop new skills, and build a network that will support their career development. It is also aimed at showcasing academic research and facilitating collaborations between research and industry.
+Xambó, Anna (May 28, 2025). Keynote: [Liveness as an Open Work: An Ongoing Live-Coding Algorithmic Journey](https://iclc.toplap.org/2025/catalogue/keynote/keynote-anna-xambo.html), 9th International Conference on Live Coding (ICLC2025), Barcelona, 27 May 2025 - 31 May 2025, Spain.
 
-The ADC Team invited me to give a keynote at this year's ADC in London (November 13-15th) at the Mermaid. The [ADC](https://audio.dev/conference/) has grown into a full hybrid in-person and online conference with over 600 in-person attendees (London) and over 800 online participants. The ADC Team program over 60 talks each year at the conference over a wide range of audio topics.
+Abstract: This talk will present a personal journey reflecting on liveness that started in the early days of live coding in Barcelona as part of a community of makers connected to an international network of DIY artist-coders. Narrated as an open and undetermined work, this presentation will discuss liveness through examples that move from physical to digital places, from tangible to intangible matter, and from human to non-human actors. The attempt will be to understand the role of liveness in live coding in a century of exponential growth and complexity.
 
-On November 14, I presented the talk [*From NIME to NISE: Rethinking the design and evaluation of musical interfaces*](https://adc23.sched.com/event/1PudY/keynote-from-nime-to-nise-rethinking-the-design-and-evaluation-of-musical-interfaces). In this keynote talk, I presented my insights into designing and evaluating networked algorithmic spaces that support collaboration, participation, non-hierarchical structures and Do-it-yourself (DIY) practices for Sound and Music Computing (SMC) from a Human-Computer Interaction (HCI) perspective. In this context, we looked into the Sensing the Forest project related to creating natural NIMEs as interventions to the environment through sonic arts and sonification. The project contributes to the vision of democratising SMC through the creation of technologies that can empower the community to solve real-world problems. 
+{% endbq %}
 
-The slides of my presentation are available [here](/assets/pdf/ADC23-slides.pdf).
+{% bq "mt-8 p-4 border-blue-500 italic text-black-500 border-t-4 border-b-4 border-r-4 bg-gray-200" %}
 
-The keynote's topic and especially the *Sensing the Forest* project intended to spark some ideas on other ways of thinking about musical interfaces. The presentation raised questions about how to connect better academia with industry, the importance of bringing natural time units and environmental awareness into creative processes, the need for bringing more feminist and humanist perspectives into technical development, and the expansion from music to sound to attract more diversity into the community of music builders.
+Xambó, Anna (May 29, 2025): [Sensing the Alice Holt Forest](https://iclc.toplap.org/2025/catalogue/performance/sensing-the-alice-holt-forest.html), live performance. 9th International Conference on Live Coding (ICLC2025), Barcelona, 27 May 2025 - 31 May 2025, Spain.
 
-It was a positive surprise to find out more about the successful efforts of the ADC Team to bring more diversity to the audio development community. The talk [*Diversity in music technology: Initiatives and insights from Music Information Retrieval*](https://adc23.sched.com/event/1PudP/diversity-in-music-technology-initiatives-and-insights-from-music-information-retrieval) by Blair Kaneshiro and the [*Diversity in Audio Reception*](https://adc23.sched.com/event/1Puf0/diversity-in-audio-reception) were relevant events that showcase the important work done by women and allies towards bringing more diversity and inclusion into the field of audio development. This is also exemplified by previous ADC keynote speakers such as [Rebecca Fiebrink](https://researchers.arts.ac.uk/1594-rebecca-fiebrink) (UAL), [Astrid Bin](https://www.astridbin.com/about/) (Ableton/Bela.io), [Imogen Heap](https://imogenheap.com/) (Mimu gloves), [Ruth John](https://ruthjohn.com/), [Elaine Chew](https://www.kcl.ac.uk/people/elaine-chew) (King's College London) and [Anna Wszeborowska](https://www.linkedin.com/in/anna-wszeborowska/), among others.
+Program notes: This data-driven live coding performance explores natural soundscape recordings from the Alice Holt Forest, UK, captured continuously over the course of a year via a custom-built audio streamer and uploaded to the Freesound database. The central enquiry is whether patterns in forest soundscapes can be linked to climate change, using acoustic ecology and live coding to highlight their interconnection. Are species’ sounds diminishing? Do environmental noises dominate? Are there other acoustic markers tied to climate shifts? The performance uses MIRLCa, a self-developed SuperCollider extension that combines AI and music information retrieval (MIR) techniques to retrieve and manipulate sounds from Freesound in real time. 
 
+{% endbq %}
 
-Sadly, I missed the talks on November 15 due to teaching duties, including Josh Reiss' keynote on *[Commercialisation of Audio Technology](https://adc23.sched.com/event/1Pueo/keynote-commercialisation-of-audio-technology)*. The good news is that the videos will be soon publicly available on YouTube.
+<div class="flex justify-center items-center">
+<figure>
+<img class="mt-4 mb-4" src="/assets/images/2025/08/2025-05-29-ICLC2025-Anna_Xambo_performance_sala_beckett-photo-by-Miquel-Martinez.jpg" alt="Anna Xambó performing at the Sala Beckett, ICLC 2025. Photo by Miquel Martinez.">
+<figcaption>Anna Xambó performing at the Sala Beckett, ICLC 2025. Photo by Miquel Martinez.</figcaption>
+</figure>
+</div>
 
-The full programme of ADC23 is available here: 
-https://adc23.sched.com
+<div class="flex justify-center items-center">
+<figure>
+<img class="mt-4 mb-4" src="/assets/images/2025/08/2025-05-29-ICLC2025-audience-at-sala_beckett-photo-by-Miquel-Martinez.jpg" alt="Audience at the Sala Beckett, ICLC 2025. Photo by Miquel Martinez.">
+<figcaption>Audience at the Sala Beckett, ICLC 2025. Photo by Miquel Martinez.</figcaption>
+</figure>
+</div>
 
-To find out more about ADC23, visit:
-https://audio.dev/adc23/
-
-See you at ADC24!
-
-**Acknowledgements**: Thank you to Sophie Carus, Bobby Lombardi and the ADC Team for the invitation and excellent organisation, the ADC community for their curiosity about my work and the StF project, and the StF project team members for their help. Special thanks to Luigi Marino for setting up a proof-of-concept of the audio streamer and successfully live streaming from Bristol.
+**Acknowledgements**: Thank you to the ICLC 2025 Committee for organising such an incredible conference.

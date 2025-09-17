@@ -68,20 +68,22 @@ heroSettings:
 
 ## Abstracts
 
-* Xambó, Anna; Batchelor, Peter; Marino, Luigi; Roma, Gerard; Bell, Mike; and Xenakis, George (accepted). Soundscape-based music and creative AI: Insights and promises, UK AI Research Symposium (UKAIRS) 2025, Newcastle, UK. 
+* Xambó, Anna; Batchelor, Peter; Marino, Luigi; Roma, Gerard; Bell, Mike; and Xenakis, George (2025). [Soundscape-based music and creative AI: Insights and promises](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/110219/Xambo%20Soundscape-based%20music%202025%20Accepted.pdf?sequence=2), UK AI Research Symposium (UKAIRS) 2025, Newcastle, UK. 
 * Marino, Luigi and Xambó, Anna (2024). [Developing DIY Solar-Powered, Off-Grid Audio Streamers for Forest Soundscapes: Progress and Challenges](https://www.chime.ac.uk/s/21-Luigi-Marino-and-Anna-Xambo.pdf), Proceedings of the [CHIME Annual One-day Music and HCI Conference 2024](https://www.chime.ac.uk/chime-annual-conference-2024), Milton Keynes, UK.
 
 <pre>---</pre>
 
 ## Posters
 
+* Xambó, Anna; Batchelor, Peter; Marino, Luigi; Roma, Gerard; Bell, Mike; and Xenakis, George (2025). [Soundscape-based music and creative AI: Insights and promises](/assets/pdf/UKAIRS-2025.pdf), UK AI Research Symposium (UKAIRS) 2025, Newcastle, UK. 
 * Bell, Mike; Batchelor, Peter; Marino, Luigi; Xenakis, George; Gravestock, Max; Grimsey, Danielle; Knowles, Johana; Stone, Hazel; Wardlaw, Nick; and Xambó, Anna (2024). [Sensing the Forest: combining artistic and scientific methods](/assets/pdf/ICOS-2024.pdf), [Integrated Carbon Observation System (ICOS) Science Conference 2024](https://www.icos-cp.eu/news-and-events/science-conference/icos2024sc), Versailles, France & Online.
 
 <pre>---</pre>
 
 ## Presentations
 
-* Xambó, Anna (May 28, 2025). Keynote: [Liveness as an Open Work: An Ongoing Live-Coding Algorithmic Journey](https://iclc.toplap.org/2025/catalogue/keynote/keynote-anna-xambo.html), 9th International Conference on Live Coding (ICLC2025), Barcelona, 27 May 2025 - 31 May 2025, Spain.
+* Xambó, Anna (October 28, 2025): Sensing the Forest: Exploring Climate Change Through Soundscape Datasets from DIY Streamers at Alice Holt Forest, Freesound Day, 28 October 2025, Online/Barcelona.
+* Xambó, Anna (May 28, 2025). Keynote: [Liveness as an Open Work: An Ongoing Live-Coding Algorithmic Journey](https://iclc.toplap.org/2025/catalogue/keynote/keynote-anna-xambo.html), 9th International Conference on Live Coding (ICLC2025), 27 May 2025 - 31 May 2025, Barcelona, Spain.
 * Xambó, Anna and Batchelor, Pete (May 14, 2025). Guest Lecture: ["Sensing the Forest - UAL workshop". Computer and Data Science and AI](/2025/05/17/presentation-at-ual-may-14-2025/), UAL Creative Computing Institute, University of the Arts London, London, UK. 
 * Xambó, Anna (February 28, 2025). Invited Talk: "Intersecting Sonic Arts & Computing: A Portfolio Journey". Music Engineering Forum. University of Miami, Miami, FL, USA. Online.
 * Xambó, Anna and Marino, Luigi (October 23, 2024). Invited Talk: [”Sensing the Forest: Lessons Learned from our Artistic-Acoustic Intervention at the Alice Holt Forest”](/2024/10/23/presentation-at-aix-marseille-university-october-23-2024/). Aix-Marseille University - Master in Acoustics and Musicology, Marseille, France. Online.
