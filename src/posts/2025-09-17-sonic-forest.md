@@ -91,4 +91,6 @@ Sonic Forest transforms climate data into music, inviting us to listen different
 🎧 Explore the sounds here: [https://freesound.org/people/lilyxu1006/packs/44081/](https://freesound.org/people/lilyxu1006/packs/44081/)
 💻 Source code on GitHub: [https://github.com/LilyXu1006/SonicForest_PureData](https://github.com/LilyXu1006/SonicForest_PureData) 
 
+Note: Due to ethics requirements, the dataset is under restricted access. Aggregated results are reported in the thesis, and enquiries can be directed to the authors.
+
 

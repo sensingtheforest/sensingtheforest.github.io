@@ -120,11 +120,11 @@ heroSettings:
 
 * Bell, Mike and James, Catrina (2024): [Customised Data Logger](/exhibition/your-sonic-forest-data-logger-mike-bell-and-catrina-james/).
 
-* Marino, Luigi (2023-): [Streamers' hardware](https://github.com/sensingtheforest/audio-streamer). Under development.
-  * [Tutorial 1: Phase 1 - Setting up the streamers](/2024/01/17/phase-1-setting-up-the-streamers/).
+* Marino, Luigi (2023-2025): [Streamers' hardware](https://github.com/sensingtheforest/audio-streamer).
+  * [Tutorial 1: Phase 1 - Setting up the streamers](/streamers/tutorial-1/).
   * Tutorial 2: Forthcoming.
-  * Tutorial 3: Forthcoming.
-  * 3D models. Forthcoming.
+  * [Tutorial 3: A DIY Solar-Powered Audio Streamer that Can Record Samples at Solar Times](/streamers/tutorial-3/).
+  * [3D models](/streamers/tutorial-3/#3d-printed-parts).
 
 <pre>---</pre>
 
@@ -132,9 +132,9 @@ heroSettings:
 
 * Web app customised DIY tree talker (2024-). Under development.
 
-* Xambó, Anna; Roma, Gerard; Batchelor, Peter; Bell, Mike; Marino, Luigi; et al. (2024-): Max web client customised data logger. Under development.
+* Xambó, Anna; Roma, Gerard; Bell, Mike; Jones, Catrina; Batchelor, Peter; Marino, Luigi; et al. (2024): Max web client customised data logger. Under development.
 
-* Xambó, Anna; Roma, Gerard; Batchelor, Peter; Bell, Mike; Marino, Luigi; et al. (2024-): Pd web client customised data logger. Under development.
+* Xambó, Anna; Roma, Gerard; Batchelor, Peter; Bell, Mike; Marino, Luigi; et al. (2024-): [Pd web client customised data logger](https://github.com/sensingtheforest/web-client-data-logger). Under development.
 
 * Xambó, Anna; Roma, Gerard and Bell, Mike (2024-): Web server (Express.js). Under development.
 
