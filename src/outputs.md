@@ -62,7 +62,7 @@ heroSettings:
 
 ## Papers
 
-*	O’Flaherty, T. F., Elmokadem, M. B., Xu, X., Manjunatha, K. N., Roma, G., Xenakis, G., Xambó, A., (accepted) “Sonification Mappings for Sensing Tree Stress: A DIY Approach”. Proceedings of the Web Audio Conference 2025 (WAC 2025). Ircam/Mozilla, Paris, France.
+*	O’Flaherty, T. F., Elmokadem, M. B., Xu, X., Manjunatha, K. N., Roma, G., Xenakis, G., Xambó, A., (accepted) “Sonification Mappings for Sensing Tree Stress: A DIY Approach”. Proceedings of the Web Audio Conference 2025 (WAC 2025). Ircam/Mozilla, Paris, France. [\[Companion webpage\]](/wac2025)
 
 <pre>---</pre>
 
