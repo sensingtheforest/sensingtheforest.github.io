@@ -60,6 +60,13 @@ heroSettings:
 
 <pre>---</pre>
 
+## On the Press
+
+* Wang, Lianganzi (9 September 2025) [审视林木：倾听气候代码——Sensing the Forest（感知森林）](https://mp.weixin.qq.com/s/52byCkEwKg63zC1B_h_FUQ) (Auditing the Arboreal: Listening to the Climate Code — Sensing the Forest), WeChat Official Account “女性艺术家” (Women Artists)
+* Wang, Lianganzi (9 October 2025) [《聆听森林的脉动：声学叙事重塑生态感知》](https://mp.weixin.qq.com/s/rQ94gi-qFYV2b5PxY72iZQ) (Listening to the Forest’s Pulse: Acoustic Narratives Reshape Ecological Perception), WeChat Official Account “艺术学人” (The Artologist) 
+
+<pre>---</pre>
+
 ## Papers
 
 *	O’Flaherty, T. F., Elmokadem, M. B., Xu, X., Manjunatha, K. N., Roma, G., Xenakis, G., Xambó, A., (accepted) “Sonification Mappings for Sensing Tree Stress: A DIY Approach”. Proceedings of the Web Audio Conference 2025 (WAC 2025). Ircam/Mozilla, Paris, France. [\[Companion webpage\]](/wac2025)
@@ -301,3 +308,5 @@ heroSettings:
 * [Your Sonic Forest survey poster](/assets/pdf/Your-sonic-forest-survey-poster.pdf). Designed by Johana Knowles.
 * [Sensing the Forest at Alice Holt Forest leaflet](/assets/pdf/StF-Alice-Holt-Forest_A4_highres_V2.pdf). Designed by the Sensing the Forest Team.
 * [Sensing the Forest at Northern Research Station leaflet](/assets/pdf/StF-Northern-Research-Station_A4_highres-V2.pdf). Designed by the Sensing the Forest Team.
+
+  
