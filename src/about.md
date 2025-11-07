@@ -387,7 +387,7 @@ Geetha Bommireddy is a Laboratory Technician & Materials Processing Research Tec
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/nico-garcia-peguinho.jpg" alt="Photo of Nico García-Peguinho" >
 
-[Nico García-Peguinho (Queen Mary University of London,C4DM)](https://www.linkedin.com/in/nico-g-p/)
+[Nico García-Peguinho (Queen Mary University of London, C4DM)](https://www.linkedin.com/in/nico-g-p/)
 
 Nico García-Peguinho is an artist and researcher based in the UK. His practice mainly explores algorithmic composition and sound art, with a recent focus on machine listening and data sonification. He is a member of the Sensing the Forest project and a first-year PhD student at the Centre for Digital Music (C4DM), Queen Mary University of London.
 
