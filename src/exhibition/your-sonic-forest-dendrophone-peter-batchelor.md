@@ -68,17 +68,6 @@ themes:
 
 :camera: *Photos and videos by Shuoyang Zheng*
 
-{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
-
-👉 Tell us what you think [here](https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2). 
-
-<img class="h-48 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/2025/06/survey-v2-qr-code.png" alt="Survey QR code">
-
-<!-- Go to visit: 
-[app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2](https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2) -->
-
-{% endwrap %}
-
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
@@ -101,27 +90,33 @@ By making these hidden processes audible, *Dendrophone* is designed to encourage
 
 
 
-## Live stream courtesy of *Paula* (Streamer II, installation streamer)
+<!-- ## Live stream courtesy of *Paula* (Streamer II, installation streamer) -->
 
-**Installation streamer - Streamer II (*Paula*) PLAYER - click on the button Play to listen to the live stream:** 
-:fire: **Attention**: We recommend Chrome or Firefox for an optimal experience. :fire: 
+<!-- **Installation streamer - Streamer II (*Paula*) PLAYER - click on the button Play to listen to the live stream:**  -->
+<!-- :fire: **Attention**: We recommend Chrome or Firefox for an optimal experience. :fire:  -->
 
-<div class="mt-4 mb-4">
+<!-- <div class="mt-4 mb-4"> -->
 <!--Streamup HTML5 Player-->
-<iframe width="500" height="100" src="https://players.dedicateware.com/engine/simple_no_artwork.php?soco=%23FFFFFF&stana=%23F39000&bgco=%23151D28&coco=%23FFFFFF&secure=1&host=solid67.streamupsolutions.com&user=upnybwpf&port=8063&mount=STF_Installation&autoplay=-1" frameborder="0" scrolling="no" style="border-radius: 8px;"></iframe>
+<!-- <iframe width="500" height="100" src="https://players.dedicateware.com/engine/simple_no_artwork.php?soco=%23FFFFFF&stana=%23F39000&bgco=%23151D28&coco=%23FFFFFF&secure=1&host=solid67.streamupsolutions.com&user=upnybwpf&port=8063&mount=STF_Installation&autoplay=-1" frameborder="0" scrolling="no" style="border-radius: 8px;"></iframe> -->
 <!--Streamup HTML5 Player-->
-</div>
+<!-- </div> -->
 
-**Installation streamer - Streamer II (*Paula*) URL**: 
-[http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/)
+<!-- **Installation streamer - Streamer II (*Paula*) URL**:  -->
+<!-- [http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/) -->
+
+<!-- {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %} -->
+
+<!-- :fire: **Note**: This is a solar-powered system in the woods, which means it sometimes goes offline. :fire:  -->
+
+<!-- {% endwrap %} -->
+
+## Sound recordings 
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
-:fire: **Note**: This is a solar-powered system in the woods, which means it sometimes goes offline. :fire: 
+:fire: After one year of streaming and recording (August 2024 - August 2025), the streamers stopped their mission on 26 August 2025. You can now enjoy the sound recordings on Freesound.
 
 {% endwrap %}
-
-## Sound recordings 
 
 As part of StF, [we have developed two DIY, solar-powered, off-grid audio streamer](https://www.chime.ac.uk/s/21-Luigi-Marino-and-Anna-Xambo.pdf) led by Luigi Marino, which are installed in Alice Holt Forest. These streamers act as listening and recording stations, capturing the sounds of the forest. Because they are placed in public outdoor spaces, occasional human voices may be recorded.
 
@@ -131,7 +126,7 @@ You can enjoy the recordings here:
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
-:fire: 5-minute audio recordings streamer II (sound installation). Ongoing. 
+:fire: 5-minute audio recordings streamer II (sound installation).
 Listen to/Download [Pack: installation-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/43504/) on Freesound. :fire: 
 
 {% endwrap %}
@@ -149,4 +144,17 @@ Listen to/Download [Pack: installation-soundscape-dataset](https://freesound.org
 [**Peter Batchelor**](https://peterb.dmu.ac.uk/) is a Senior Lecturer and Programme Leader in Music Technology, and member of the Music, Technology and Innovation - Institute of Sonic Creativity (MTI2) at De Montfort University, Leicester and Co-Investigator of the Sensing the Forest Project. His creative activities encompass a range of electroacoustic composition and sound-making work, including radiophonic documentary, live-electronics and improvisation, multimedia and large-scale multi-channel installation work. Research interests that arise from this practice include: aural landscape construction in sonic arts practice; sound spatialisation/immersion; theories of space; place and listening as they pertain to sound; audience engagement and public art.
 
 </div>
+
+{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
+
+👉 Tell us what you think [here](https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2). 
+
+<img class="h-48 rounded-lg mt-2 mr-2 mb-4" src="/assets/images/2025/06/survey-v2-qr-code.png" alt="Survey QR code">
+
+<!-- Go to visit: 
+[app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2](https://app.onlinesurveys.jisc.ac.uk/s/qmul/your-sonic-forest-v2) -->
+
+{% endwrap %}
+
+
 

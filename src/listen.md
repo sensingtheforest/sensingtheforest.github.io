@@ -50,6 +50,25 @@ heroSettings:
 
 <div id="map"></div> -->
 
+We built two streamers that were streaming and recording for one year (August 2024 - August 2025). The streamers stopped their mission on 26 August 2025. You can now enjoy the recordings on Freesound following the two links below:
+
+* [5-minute audio recordings streamer I (natural soundscape)](https://freesound.org/people/sensingtheforest/packs/42937/).
+* [5-minute audio recordings streamer II (sound installation)](https://freesound.org/people/sensingtheforest/packs/43504/).
+
+We have documented our experience in the following tutorials and position paper:
+
+* Marino, Luigi and Xambó, Anna (2024). [Developing DIY Solar-Powered, Off-Grid Audio Streamers for Forest Soundscapes: Progress and Challenges](https://www.chime.ac.uk/s/21-Luigi-Marino-and-Anna-Xambo.pdf), Proceedings of the [CHIME Annual One-day Music and HCI Conference 2024](https://www.chime.ac.uk/chime-annual-conference-2024), Milton Keynes, UK.
+
+* Marino, Luigi (2023-2025): [Streamers' hardware](https://github.com/sensingtheforest/audio-streamer).
+  * [Tutorial 1: Phase 1 - Setting up the streamers](/streamers/tutorial-1/).
+  * Tutorial 2: Forthcoming.
+  * [Tutorial 3: A DIY Solar-Powered Audio Streamer that Can Record Samples at Solar Times](/streamers/tutorial-3/).
+  * [3D models](/streamers/tutorial-3/#3d-printed-parts).
+
+Below, we leave the past information on how to access the streamers for archival purposes.
+
+<span style="color: grey">  
+
 You can experience the sounds by navigating the map or going directly to the below two links. 
 
 :fire: **Note**: We recommend Chrome or Firefox for an optimal experience.
@@ -58,6 +77,8 @@ You can experience the sounds by navigating the map or going directly to the bel
 * **Streamer II (Paula)**: [http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/)
 
 Click on the markers in the map to find out more about the two streamers and listen to the streamers (we recommend Chrome or Firefox for an optimal experience). For more information, you can go to the [presentation of the streamer](/exhibition/your-sonic-forest-streamer-luigi-marino/).
+
+</span>
 
 <div class="mt-4 mb-4">
  <embed type="text/html" src="/assets/html/googlemaps.html" width="100%" height="600px">

@@ -60,6 +60,12 @@ heroSettings:
 
 <pre>---</pre>
 
+## Podcasts
+
+* Zheng, Shuoyang (2025) [Sensing the Forest - Episode 1](https://soundcloud.com/sensingtheforest/podcast-ep1).
+
+<pre>---</pre>
+
 ## On the Press
 
 * Wang, Lianganzi (9 September 2025) [审视林木：倾听气候代码——Sensing the Forest（感知森林）](https://mp.weixin.qq.com/s/52byCkEwKg63zC1B_h_FUQ) (Auditing the Arboreal: Listening to the Climate Code — Sensing the Forest), WeChat Official Account “女性艺术家” (Women Artists)
@@ -158,8 +164,8 @@ heroSettings:
 
 ## Datasets
 
-* 5-minute audio recordings streamer I (natural soundscape). Ongoing. [Pack: natural-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/42937/) on Freesound.
-* 5-minute audio recordings streamer II (sound installation). Ongoing. [Pack: installation-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/43504/) on Freesound.
+* 5-minute audio recordings streamer I (natural soundscape). [Pack: natural-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/42937/) on Freesound.
+* 5-minute audio recordings streamer II (sound installation). [Pack: installation-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/43504/) on Freesound.
 * 1-minute JSON files from customised data logger. Ongoing.
 * 30-minute JSON files from DIY tree talker. Forthcoming.
 
@@ -174,8 +180,8 @@ heroSettings:
 
 {% endwrap %}
 
-* [Natural soundscape](http://solid41.streamupsolutions.com:8010/) (ongoing)
-* [Sound installation](http://solid67.streamupsolutions.com:8063/) (ongoing)
+* [Natural soundscape](http://solid41.streamupsolutions.com:8010/) (streaming ended on 26 August 2025)
+* [Sound installation](http://solid67.streamupsolutions.com:8063/) (streaming ended on 26 August 2025)
 
 <pre>---</pre>
 

@@ -62,52 +62,17 @@ tags:
 
 At Sensing the Forest, we installed two listening stations: one near the permanent installation by Pete Bachelor, whose sounds are affected by the environmental data, and the second in a reclusive meadow near a gorgeous chestnut tree. In this way, everyone with an internet connection can go online and listen to the current state of Pete’s installation, or they can listen to the natural sounds happening in the meadow at any hour of the day or night. The devices we use for the transmission are simple internet radio transmitters. The technology isn’t new, but we gave the project an open-source twist. All the components of the transmitters belong to the DIY culture, and they are easily accessible or free to obtain as of today. All our original contributions - the models for the 3D-printed parts, the software, and the know-how - are freely available online on the project’s web page so that any enthusiast makers could build their own and hack them at will. We also tried to make them as environmentally friendly as possible: the cases are 3D-printed in PLA (a bioplastic made from corn starch) and waterproofed with bee wax.
 
+We have documented our experience in the following tutorials and position paper:
 
-{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
+* Marino, Luigi and Xambó, Anna (2024). [Developing DIY Solar-Powered, Off-Grid Audio Streamers for Forest Soundscapes: Progress and Challenges](https://www.chime.ac.uk/s/21-Luigi-Marino-and-Anna-Xambo.pdf), Proceedings of the [CHIME Annual One-day Music and HCI Conference 2024](https://www.chime.ac.uk/chime-annual-conference-2024), Milton Keynes, UK.
 
+* Marino, Luigi (2023-2025): [Streamers' hardware](https://github.com/sensingtheforest/audio-streamer).
+  * [Tutorial 1: Phase 1 - Setting up the streamers](/streamers/tutorial-1/).
+  * Tutorial 2: Forthcoming.
+  * [Tutorial 3: A DIY Solar-Powered Audio Streamer that Can Record Samples at Solar Times](/streamers/tutorial-3/).
+  * [3D models](/streamers/tutorial-3/#3d-printed-parts).
 
-:fire: You can check the two live streamers on [this map](/listen) or directly following the below two links :fire:
-
-{% endwrap %}
-
-## Natural streamer - Streamer I (*Giorgio*)
-
-{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
-
-:fire: **Note**: This is a solar-powered system in the woods, which means it sometimes goes offline :fire:
-
-:fire: **Attention**: We recommend Chrome or Firefox for an optimal experience :fire:
-
-
-{% endwrap %}
-
-**Natural streamer - Streamer I (*Giorgio) URL*** (Chrome or Firefox): 
-[http://solid41.streamupsolutions.com:8010](http://solid41.streamupsolutions.com:8010/)
-
-<div class="mt-4 mb-4">
-<!--Streamup HTML5 Player-->
-<iframe width="500" height="100" src="https://players.dedicateware.com/engine/simple_no_artwork.php?soco=%23FFFFFF&stana=%23F39000&bgco=%23151D28&coco=%23FFFFFF&secure=1&host=solid41.streamupsolutions.com&user=ashgavye&port=8010&mount=STF_Soundscape&autoplay=-1" frameborder="0" scrolling="no" style="border-radius: 8px;"></iframe>
-<!--Streamup HTML5 Player-->
-</div>
-
-## Installation streamer - Streamer II (*Paula*)
-
-{% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
-
-:fire: **Note**: This is a solar-powered system in the woods, which means it sometimes goes offline :fire:
-
-:fire: **Attention**: We recommend Chrome or Firefox for an optimal experience :fire:
-
-{% endwrap %}
-
-**Installation streamer - Streamer II (*Paula*) URL** (Chrome or Firefox): 
-[http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/)
-
-<div class="mt-4 mb-4">
-<!--Streamup HTML5 Player-->
-<iframe width="500" height="100" src="https://players.dedicateware.com/engine/simple_no_artwork.php?soco=%23FFFFFF&stana=%23F39000&bgco=%23151D28&coco=%23FFFFFF&secure=1&host=solid67.streamupsolutions.com&user=upnybwpf&port=8063&mount=STF_Installation&autoplay=-1" frameborder="0" scrolling="no" style="border-radius: 8px;"></iframe>
-<!--Streamup HTML5 Player-->
-</div>
+After one year of streaming and recording (August 2024 - August 2025), the streamers stopped their mission on 26 August 2025. You can now enjoy the sound recordings on Freesound.
 
 ## Sound recordings 
 
@@ -117,12 +82,61 @@ You can enjoy the recordings here:
 
 {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %}
 
-👉 5-minute audio recordings streamer I (natural soundscape). Ongoing. [Pack: natural-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/42937/) on Freesound. 
+👉 5-minute audio recordings streamer I (natural soundscape). [Pack: natural-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/42937/) on Freesound. 
 
-👉 5-minute audio recordings streamer II (sound installation). Ongoing. [Pack: installation-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/43504/) on Freesound.
+👉 5-minute audio recordings streamer II (sound installation). [Pack: installation-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/43504/) on Freesound.
+
+:fire: **Note**: This is a solar-powered system in the woods, which means it sometimes goes offline :fire:
 
 {% endwrap %}
 
+<!-- {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %} -->
+
+
+<!-- :fire: You can check the two live streamers on [this map](/listen) or directly following the below two links :fire: -->
+
+<!-- {% endwrap %} -->
+
+<!-- ## Natural streamer - Streamer I (*Giorgio*) -->
+
+<!-- {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %} -->
+
+<!-- :fire: **Note**: This is a solar-powered system in the woods, which means it sometimes goes offline :fire: -->
+
+<!-- :fire: **Attention**: We recommend Chrome or Firefox for an optimal experience :fire: -->
+
+
+<!-- {% endwrap %} -->
+
+<!-- **Natural streamer - Streamer I (*Giorgio) URL*** (Chrome or Firefox):  -->
+<!-- [http://solid41.streamupsolutions.com:8010](http://solid41.streamupsolutions.com:8010/) -->
+
+<!-- <div class="mt-4 mb-4"> -->
+<!-- Streamup HTML5 Player -->
+<!-- <iframe width="500" height="100" src="https://players.dedicateware.com/engine/simple_no_artwork.php?soco=%23FFFFFF&stana=%23F39000&bgco=%23151D28&coco=%23FFFFFF&secure=1&host=solid41.streamupsolutions.com&user=ashgavye&port=8010&mount=STF_Soundscape&autoplay=-1" frameborder="0" scrolling="no" style="border-radius: 8px;"></iframe> -->
+<!--Streamup HTML5 Player-->
+<!-- </div> -->
+
+<!-- ## Installation streamer - Streamer II (*Paula*) -->
+
+<!-- {% wrap "pl-3 mt-4 bg-indigo-100 border border-indigo-300 text-lg italic rounded-lg" %} -->
+
+<!-- :fire: **Note**: This is a solar-powered system in the woods, which means it sometimes goes offline :fire: -->
+
+<!-- :fire: **Attention**: We recommend Chrome or Firefox for an optimal experience :fire: -->
+
+<!-- {% endwrap %} -->
+
+<!-- **Installation streamer - Streamer II (*Paula*) URL** (Chrome or Firefox):  -->
+<!-- [http://solid67.streamupsolutions.com:8063](http://solid67.streamupsolutions.com:8063/) -->
+
+<!-- <div class="mt-4 mb-4"> -->
+<!--Streamup HTML5 Player-->
+<!-- <iframe width="500" height="100" src="https://players.dedicateware.com/engine/simple_no_artwork.php?soco=%23FFFFFF&stana=%23F39000&bgco=%23151D28&coco=%23FFFFFF&secure=1&host=solid67.streamupsolutions.com&user=upnybwpf&port=8063&mount=STF_Installation&autoplay=-1" frameborder="0" scrolling="no" style="border-radius: 8px;"></iframe> -->
+<!--Streamup HTML5 Player-->
+<!-- </div> -->
+
+<br />
 
 ## Video snippets from the opening
 
