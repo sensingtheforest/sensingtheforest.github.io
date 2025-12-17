@@ -7,7 +7,7 @@ draft:
 seo:
   title:
   description:
-  image: 2025/11/Your_sonic_forest_entrance_photo_by_Shuoyang_Zheng.jpg
+  image: 2025/11/podcast-E1-cover.jpg
 images: # relative to /src/assets/images/
   feature: 2025/11/Your_sonic_forest_entrance_photo_by_Shuoyang_Zheng.jpg
   thumb: 2025/11/Your_sonic_forest_entrance_photo_by_Shuoyang_Zheng.jpg
@@ -22,6 +22,10 @@ tags:
 
 <br />
 
+During the Sensing the Forest Summer School, we had ten artists working on bringing their sound installation to the Willows Green trail at Alice Holt. The forest became an exhibition for visitors to walk, listen, and experience these artistic responses to climate change.
+
+As the Sensing the Forest project is approaching an end, we created a two-episode podcast as an epilogue to share our stories along the journey of the summer school, and the sound installations presented in the [Your Sonic Forest exhibition](https://sensingtheforest.github.io/exhibition/). 
+
 As the Sensing the Forest project is coming to an end, it is our delight to share the first of a two-episode podcast as an epilogue of the Sensing the Forest project. 
 
 In Episode 1 we invited the participants from the 2024 summer school to talk about their installations:
@@ -35,3 +39,5 @@ The first episode presents an interview with Anna Xambó Sedó (Principal Invest
 Thanks to all the artists for their invaluable and inspiring contributions!
 
 The production of the podcast is carried out by Shuoyang Zheng, with the help and feedback from Hazel Stone, Dominic Head, Peter Batchelor, and Anna Xambó Sedó.
+
+The second episode can be found at: [https://soundcloud.com/sensingtheforest/podcast-ep2](https://soundcloud.com/sensingtheforest/podcast-ep2)

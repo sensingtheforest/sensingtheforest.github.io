@@ -68,7 +68,7 @@ heroSettings:
 
 ## On the Press
 
-* Xambó, Anna (1 November 2925) [Sensing the forest: exploring climate change through sound, AI and art](https://www.qmul.ac.uk/eecs/research/research-impact/case-study-sensing-the-forest/), Featured AI research case study series, EECS, QMUL.
+* Xambó, Anna (1 November 2025) [Sensing the forest: exploring climate change through sound, AI and art](https://www.qmul.ac.uk/eecs/research/research-impact/case-study-sensing-the-forest/), Featured AI research case study series, EECS, QMUL.
 * Wang, Lianganzi (9 September 2025) [审视林木：倾听气候代码——Sensing the Forest（感知森林）](https://mp.weixin.qq.com/s/52byCkEwKg63zC1B_h_FUQ) (Auditing the Arboreal: Listening to the Climate Code — Sensing the Forest), WeChat Official Account “女性艺术家” (Women Artists)
 * Wang, Lianganzi (9 October 2025) [《聆听森林的脉动：声学叙事重塑生态感知》](https://mp.weixin.qq.com/s/rQ94gi-qFYV2b5PxY72iZQ) (Listening to the Forest’s Pulse: Acoustic Narratives Reshape Ecological Perception), WeChat Official Account “艺术学人” (The Artologist) 
 
