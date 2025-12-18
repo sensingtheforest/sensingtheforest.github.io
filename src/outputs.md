@@ -108,8 +108,9 @@ heroSettings:
 
 ## Artistic outputs
 
-* Xambó, A. Sensing the Alice Holt Forest. Web Audio Conference 2025 (accepted), Ircam/Mozilla, Paris, France. November 2025.
-* Xambó, Anna (May 29, 2025): *[Sensing the Alice Holt Forest](https://iclc.toplap.org/2025/catalogue/performance/sensing-the-alice-holt-forest.html)*, live performance.  9th International Conference on Live Coding (ICLC2025), Barcelona, 27 May 2025 - 31 May 2025, Spain.
+* García-Peguinho, Nico (November 22, 2025). Sensing the Alice Holt Forest, live performance. Multispecies concert, Creative Coding Utrecht, Utrecht, The Netherlands.
+* Xambó, Anna (November 19, 2025). Sensing the Alice Holt Forest, live performance. Web Audio Conference 2025, IRCAM/Mozilla, Paris, France.
+* Xambó, Anna (May 29, 2025). *[Sensing the Alice Holt Forest](https://iclc.toplap.org/2025/catalogue/performance/sensing-the-alice-holt-forest.html)*, live performance.  9th International Conference on Live Coding (ICLC2025), 27 May 2025 - 31 May 2025, Barcelona, Spain.
 * Batchelor, Peter: *[Dendrophone](/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)*. Sound installation. August 2024-July 2025, Alice Holt Forest, GU10 4LS, Farnham, UK.
 * *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event - Online](/exhibition/)*. August 2024-July 2025, Online.
 * *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event](/exhibition/your-sonic-forest-foreword/)*. 20 June, 11am-3pm, 2024. Alice Holt Forest, GU10 4LS, Farnham, UK.
@@ -130,32 +131,32 @@ heroSettings:
 
 ## Hardware
 
-* Elmokadem, Mahmoud B.; Manjunatha, Krishna Nama; Xenakis, George; and Xambó Anna (2024-): [DIY tree talker](https://github.com/sensingtheforest/Sensing-Unit-System-Code). Under development.
+* Elmokadem, Mahmoud B.; Manjunatha, Krishna Nama; Xenakis, George; and Xambó Anna (2024-): [DIY tree talker (code)](https://github.com/sensingtheforest/Sensing-Unit-System-Code).
 
 * Bell, Mike and James, Catrina (2024): [Customised Data Logger](/exhibition/your-sonic-forest-data-logger-mike-bell-and-catrina-james/).
 
-* Marino, Luigi (2023-2025): [Streamers' hardware](https://github.com/sensingtheforest/audio-streamer).
+* Marino, Luigi (2023-2025): [Streamers' hardware (code)](https://github.com/sensingtheforest/audio-streamer).
   * [Tutorial 1: Phase 1 - Setting up the streamers](/streamers/tutorial-1/).
-  * Tutorial 2: Forthcoming.
-  * [Tutorial 3: A DIY Solar-Powered Audio Streamer that Can Record Samples at Solar Times](/streamers/tutorial-3/).
+  * [Tutorial 2: Phase 2 - A DIY Solar-Powered Home LAN Audio Streamer that Can Record Samples at Solar Times](/streamers/tutorial-2/).
+  * [Tutorial 3: Phase 3 - A DIY Solar-Powered Audio Streamer that Can Record Samples at Solar Times](/streamers/tutorial-3/).
   * [3D models](/streamers/tutorial-3/#3d-printed-parts).
 
 <pre>---</pre>
 
 ## Software
 
-* Web app customised DIY tree talker (2024-). Under development.
+* Web app customised DIY tree talker (2024-). In preparation.
 
-* Xambó, Anna; Roma, Gerard; Bell, Mike; Jones, Catrina; Batchelor, Peter; Marino, Luigi; et al. (2024): Max web client customised data logger. Under development.
+* Xambó, Anna; Roma, Gerard; Bell, Mike; Jones, Catrina; Batchelor, Peter; Marino, Luigi; et al. (2024): Max web client customised data logger. In preparation.
 
-* Xambó, Anna; Roma, Gerard; Batchelor, Peter; Bell, Mike; Marino, Luigi; et al. (2024-): [Pd web client customised data logger](https://github.com/sensingtheforest/web-client-data-logger). Under development.
+* Xambó, Anna; Roma, Gerard; Batchelor, Peter; Bell, Mike; Marino, Luigi; et al. (2024-): [Pd web client customised data logger](https://github.com/sensingtheforest/web-client-data-logger). In preparation.
 
 * Xambó, Anna; Roma, Gerard and Bell, Mike (2024-): Web server (Express.js). Under development.
 
-* Marino, Luigi (2023-): Streamers' software (Raspberry Pi platform).
+* Marino, Luigi (2023-2025): Streamers' software (Raspberry Pi platform).
   * [Tutorial 1: Phase 1 - Setting up the streamers](/streamers/tutorial-1/).
-  * Tutorial 2: Forthcoming.
-  * [Tutorial 3: A DIY Solar-Powered Audio Streamer that Can Record Samples at Solar Times](/streamers/tutorial-3/).
+  * [Tutorial 2: Phase 2 - A DIY Solar-Powered Home LAN Audio Streamer that Can Record Samples at Solar Times](/streamers/tutorial-2/).
+  * [Tutorial 3: Phase 3 - A DIY Solar-Powered Audio Streamer that Can Record Samples at Solar Times](/streamers/tutorial-3/).
 
 * Skutnik, Alexander (2025): [Art Unplugged](https://github.com/askutnik/artunplugged). Python. 
 
