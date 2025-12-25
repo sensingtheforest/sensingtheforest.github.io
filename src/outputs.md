@@ -62,7 +62,9 @@ heroSettings:
 
 ## Podcasts
 
+* Zheng, Shuoyang (2025) [Sensing the Forest - Episode 2](https://soundcloud.com/sensingtheforest/podcast-ep2).
 * Zheng, Shuoyang (2025) [Sensing the Forest - Episode 1](https://soundcloud.com/sensingtheforest/podcast-ep1).
+
 
 <pre>---</pre>
 
@@ -76,12 +78,13 @@ heroSettings:
 
 ## Papers
 
-*	O’Flaherty, T. F., Elmokadem, M. B., Xu, X., Manjunatha, K. N., Roma, G., Xenakis, G., Xambó, A., (accepted) “Sonification Mappings for Sensing Tree Stress: A DIY Approach”. Proceedings of the Web Audio Conference 2025 (WAC 2025). Ircam/Mozilla, Paris, France. [\[Companion webpage\]](/wac2025)
+*	O’Flaherty, T. F., Elmokadem, M. B., Xu, X., Manjunatha, K. N., Roma, G., Xenakis, G., Xambó, A., (2025) [“Sonification Mappings for Sensing Tree Stress: A DIY Approach”](https://zenodo.org/records/17642480). Proceedings of the Web Audio Conference 2025 (WAC 2025). Ircam/Mozilla, Paris, France. [\[Companion webpage\]](/wac2025)
 
 <pre>---</pre>
 
 ## Abstracts
 
+* García-Peguinho, N., Kelly, D., Navaratnarajah, M., Chockler, H., Xambó, A. (2025) ["Validating Few-shot Bird Vocalisation Detection through Causal Explanations"](/assets/pdf/ReX_StF_DMRN_PosterAbstract.pdf), DMRN+20, 2025, King’s College London, London, UK.
 * Xambó, Anna; Batchelor, Peter; Marino, Luigi; Roma, Gerard; Bell, Mike; and Xenakis, George (2025). [Soundscape-based music and creative AI: Insights and promises](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/110219/Xambo%20Soundscape-based%20music%202025%20Accepted.pdf?sequence=2), UK AI Research Symposium (UKAIRS) 2025, Newcastle, UK. 
 * Marino, Luigi and Xambó, Anna (2024). [Developing DIY Solar-Powered, Off-Grid Audio Streamers for Forest Soundscapes: Progress and Challenges](https://www.chime.ac.uk/s/21-Luigi-Marino-and-Anna-Xambo.pdf), Proceedings of the [CHIME Annual One-day Music and HCI Conference 2024](https://www.chime.ac.uk/chime-annual-conference-2024), Milton Keynes, UK.
 
@@ -89,6 +92,8 @@ heroSettings:
 
 ## Posters
 
+* García-Peguinho, N., Kelly, D., Navaratnarajah, M., Chockler, H., Xambó, A. (2025) ["Validating Few-shot Bird Vocalisation Detection through Causal Explanations"](/assets/pdf/ReX_StF_DMRN_Poster.pdf), DMRN+20, 2025, King’s College London, London, UK.
+*	O’Flaherty, T. F., Elmokadem, M. B., Xu, X., Manjunatha, K. N., Roma, G., Xenakis, G., Xambó, A., (2025) [“Sonification Mappings for Sensing Tree Stress: A DIY Approach”](/assets/pdf/WAC-2025.pdf). Proceedings of the Web Audio Conference 2025 (WAC 2025). Ircam/Mozilla, Paris, France.
 * Xambó, Anna; Batchelor, Peter; Marino, Luigi; Roma, Gerard; Bell, Mike; and Xenakis, George (2025). [Soundscape-based music and creative AI: Insights and promises](/assets/pdf/UKAIRS-2025.pdf), UK AI Research Symposium (UKAIRS) 2025, Newcastle, UK. 
 * Bell, Mike; Batchelor, Peter; Marino, Luigi; Xenakis, George; Gravestock, Max; Grimsey, Danielle; Knowles, Johana; Stone, Hazel; Wardlaw, Nick; and Xambó, Anna (2024). [Sensing the Forest: combining artistic and scientific methods](/assets/pdf/ICOS-2024.pdf), [Integrated Carbon Observation System (ICOS) Science Conference 2024](https://www.icos-cp.eu/news-and-events/science-conference/icos2024sc), Versailles, France & Online.
 
@@ -96,7 +101,9 @@ heroSettings:
 
 ## Presentations
 
+* Xambó, Anna (December 10, 2025): [Sensing the Forest: A Multidisciplinary Exploration of Sound Data](/2025/12/10/presentation-at-jean-golding-institute-december-10-2025/), Turing Seminars, Wills Memorial Building, Jean Golding Institute, University of Bristol, Bristol, UK.
 * Xambó, Anna (October 28, 2025): Sensing the Forest: Exploring Climate Change Through Soundscape Datasets from DIY Streamers at Alice Holt Forest, Freesound Day, 28 October 2025, Online/Barcelona.
+* Xambó, Anna (October 15, 2025). Invited Talk: [”Sensing the Forest”](/2025/10/15/presentation-at-aix-marseille-university-october-15-2025/). Aix-Marseille University - Master in Acoustics and Musicology, Marseille, France. Online.
 * Xambó, Anna (May 28, 2025). Keynote: [Liveness as an Open Work: An Ongoing Live-Coding Algorithmic Journey](https://iclc.toplap.org/2025/catalogue/keynote/keynote-anna-xambo.html), 9th International Conference on Live Coding (ICLC2025), 27 May 2025 - 31 May 2025, Barcelona, Spain.
 * Xambó, Anna and Batchelor, Pete (May 14, 2025). Guest Lecture: ["Sensing the Forest - UAL workshop". Computer and Data Science and AI](/2025/05/17/presentation-at-ual-may-14-2025/), UAL Creative Computing Institute, University of the Arts London, London, UK. 
 * Xambó, Anna (February 28, 2025). Invited Talk: "Intersecting Sonic Arts & Computing: A Portfolio Journey". Music Engineering Forum. University of Miami, Miami, FL, USA. Online.
@@ -161,6 +168,10 @@ heroSettings:
 * Skutnik, Alexander (2025): [Art Unplugged](https://github.com/askutnik/artunplugged). Python. 
 
 * Parker, Stanley (2025): [Viridi](https://github.com/S-Parker03/Final-Year-Project---Viridi). C++.
+
+* O'Flaherty, Tug (2025): 
+  * [Dendrostream (frontend)](https://github.com/sensingtheforest/dendrostream). d3.js/p5.js.
+  * [Dendrostream (backend)](https://github.com/sensingtheforest/dendrostream-api). Javascript.
 
 <pre>---</pre>
 
@@ -253,6 +264,13 @@ heroSettings:
 ### Testimonials
 
 * [StF QMUL EECS UG Projects 2024-25](https://youtu.be/YbqCNVtGH7Q) (2:48), The Sensing the Forest YouTube Channel. Published on 2 May 2025.
+
+<br />
+
+### MSc Presentations
+
+* [MSc Final Project Presentation: Dendrostream by Tug F. O'Flaherty](https://youtu.be/PdX0l6dTxfI) (9:44), The Sensing the Forest YouTube Channel. Published on 21 August 2025.
+* [MSc Final Project Presentation: Sonic Forest by Xinyue Xu](https://youtu.be/RUa0tish_Fs) (12:10), The Sensing the Forest YouTube Channel. Published on 21 August 2025.
 
 <br />
 

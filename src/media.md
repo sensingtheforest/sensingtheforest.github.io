@@ -28,6 +28,57 @@ We are committed to continuously improving the future Sensing the Forest events.
   {% columns %}
 
   {% cols "bg-gray-100 rounded-lg" %}
+      {% youtube "PdX0l6dTxfI", "MSc Final Project Presentation: Dendrostream by Tug F. O'Flaherty" %}
+  {% endcols %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
+
+  ## MSc Final Project Presentation: Dendrostream by Tug F. O'Flaherty
+
+  Related content:
+
+  * [MSc theses](/tags/theses/)
+  * [Blog post Sonic Forest - Mapping Environmental Sensor Data to Sound for Climate Engagement](https://sensingtheforest.github.io/2025/12/23/dendrostream/)
+
+  {% endcols %}
+
+  {% endcolumns %}
+
+{% endwrap %}
+
+
+<!-- //-->
+
+{% wrap "px-2 mt-8 rounded-lg pb-2 border border-gray-300 bg-gray-200" %}
+
+  {% columns %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
+      {% youtube "RUa0tish_Fs", "MSc Final Project Presentation: Sonic Forest by Xinyue Xu" %}
+  {% endcols %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
+
+  ## MSc Final Project Presentation: Sonic Forest by Xinyue Xu
+
+  Related content:
+
+  * [MSc theses](/tags/theses/)
+  * [Blog post Sonic Forest - Mapping Environmental Sensor Data to Sound for Climate Engagement](https://sensingtheforest.github.io/2025/09/17/sonic-forest/)
+
+  {% endcols %}
+
+  {% endcolumns %}
+
+{% endwrap %}
+
+<!-- //-->
+
+{% wrap "px-2 mt-8 rounded-lg pb-2 border border-gray-300 bg-gray-200" %}
+
+  {% columns %}
+
+  {% cols "bg-gray-100 rounded-lg" %}
       {% youtube "YbqCNVtGH7Q", "StF QMUL EECS UG Projects 2024-25" %}
   {% endcols %}
 
