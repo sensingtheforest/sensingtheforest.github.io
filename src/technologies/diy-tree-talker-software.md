@@ -72,3 +72,40 @@ Each unit has a `public` end point which allows visualisation and sonification o
 
 
 [1] We will release the code soon. At present it can be tested here, which serves the latest JSON file from one of the units: [http://159.65.116.195:3000/stf/northern_2/](http://159.65.116.195:3000/stf/northern_2/)
+
+## Further Development (updated on 24 Dec 2025)
+
+Following a second, separate participatory design user study, further development was made to the DIY tree talker software, based on the thoughts and ideas provided by these additional participants. Upon development, this software update was subsequently provided to participants of both user studies, to obtain the users’ thoughts and feedback. A summary of the additional features added to Version 2 of the software are listed below.
+
+<br />
+
+### Backend
+
+**Reliability:** Fallback, archived data is returned to requesting client, should the streamer data be unavailable.
+**Web Sockets:** Socket.io support, to provide real-time, live data updates to requesting clients.
+**Email Alerts:** Notifications via email if DIY tree talker device stops streaming data, or displacement value is out of expected range.
+
+This additional backend uses [Express.js](https://expressjs.com/), [Socket.io](https://socket.io) and [Nodemailer](https://nodemailer.com/), utilising and extending the core functionality offered by the originally-developed backend.
+
+<br />
+
+### Frontend
+
+**New UI:** Icon-based, dashboard-style user interface, intended to simplify user interaction.
+**Additional Presentations:** Further visualisations (bar chart, dials, forest animation scene) and sonifications (musical instrument ensemble, music with ambient sounds) to benefit differing learning preferences and data interpretation.
+**Greater Personalisation:** Fully-customisable data presentations to benefit user interaction.
+**Help and Support:** In-built tool and data support information, to aid usage and interpretation.
+
+This new frontend, named *Dendrostream*, uses [React](https://react.dev/) and [Bootstrap](https://getbootstrap.com/), with visualisations using [p5.js](https://p5js.org/) (animations) and [d3.js](https://d3js.org/) (charts), and sonification using the [Web Audio API](https://www.w3.org/TR/webaudio-1.1/). For a complete list of technologies and works used, please visit the [Dendrostream’s Acknowledgements webpage](https://stf-sv-tool.pages.dev/acknowledgements).
+
+For further information regarding the Dendrostream tool, please visit the [Dendrostream Master’s thesis blog post](/2025/12/23/dendrostream/).
+
+🌐 Explore the Dendrostream web-based tool: [https://stf-sv-tool.pages.dev](https://stf-sv-tool.pages.dev)
+💻 View the frontend source code: [https://github.com/sensingtheforest/dendrostream](https://github.com/sensingtheforest/dendrostream)
+⚙️ View the backend source code: [https://github.com/sensingtheforest/dendrostream-api](https://github.com/sensingtheforest/dendrostream-api)
+
+
+## Update Log
+
+- **24 Dec 2025**: Added "Further Development" section with latest backend and frontend implementation details. 
+- **27 Jun 2025**: Original publication. Covered initial backend and frontend implementations.
