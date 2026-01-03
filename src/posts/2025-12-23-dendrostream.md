@@ -103,7 +103,7 @@ On a personal level, this project was thoroughly enjoyable, particularly due to 
 <div class="flex justify-center items-center">
 <figure>
 <img class="mt-4 mb-4" src="/assets/images/2025/12/dendrostream-custom-audio.png" alt="Screenshot of the Dendrostream Custom Audio pitch options selection, displaying key signature options for the piece, and pitch configuration options for each instrument presented within the sonification.">
-<figcaption>Screenshot of a participant’s preferred Dendrostream data presentation: the Personalised Data functionality with tiled line graphs, displaying data from the two available tree-talker devices.</figcaption>
+<figcaption>Screenshot of the Dendrostream Custom Audio pitch options selection, displaying key signature options for the piece, and pitch configuration options for each instrument presented within the sonification.</figcaption>
 </figure>
 </div>
 
