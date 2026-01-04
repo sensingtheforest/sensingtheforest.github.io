@@ -395,6 +395,12 @@ Nico García-Peguinho is an artist and researcher based in the UK. His practice 
 
 {% cols "bg-gray-100 rounded-lg" %}
 
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/lianganzi-wang.jpg" alt="Photo of Lianganzi Wang" >
+
+[Lianganzi Wang (Queen Mary University of London, C4DM)](https://www.linkedin.com/in/nico-g-p/)
+
+Lianganzi Wang is a PhD candidate in the School of Electronic Engineering and Computer Science at Queen Mary University of London, affiliated with the Centre for Digital Music (C4DM). Her current research focuses on machine learning for generative audio, timbre modeling, and multimodal interaction, dedicated to advancing the frontiers of intelligent music generation and interactive audio systems while exploring their innovative applications in creative expression.
+
 
 {% endcols %}
 
