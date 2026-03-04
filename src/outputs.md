@@ -100,6 +100,19 @@ heroSettings:
 
 <pre>---</pre>
 
+## Final projects
+
+* Sánchez Castrillón, Andrés (2025) "Sound Analysis of Soundscapes". Final Year Postgraduate Project 2024/25, Artificial Intelligence MSc, School of Electronic Engineering and Computer Science, Queen Mary University of London.
+* Shortland, James (2025) "A Comparison of Voice Activity Detection Models: A Reflection on How Data Quality Affects Model Success". Final Year Postgraduate Project 2024/25, Data Science and Artificial Intelligence MSc, School of Electronic Engineering and Computer Science, Queen Mary University of London.
+* Xu, Xinyue (2025) "Sonic Forest: Mapping Environmental Sensor Data to Sound for Climate Engagement". Final Year Postgraduate Project 2024/25, Sound and Music Computing MSc, School of Electronic Engineering and Computer Science, Queen Mary University of London.
+* O'Flaherty, Tug (2025) "Dendrostream: Exploring Tree Stress and Climate Change Through Sonification and Visualisation". Final Year Postgraduate Project 2024/25, Sound and Music Computing MSc, School of Electronic Engineering and Computer Science, Queen Mary University of London.
+* Liu, Ning (2025) "MEMS microphones: finding the optimal solutions for recording in silent scenarios". Final Year Undergraduate Project 2024/25, School of Electronic Engineering and Computer Science, Queen Mary University of London.
+* Parker, Stanley (2025) "Creating an affordable environmental monitoring system for residential use". Final Year Undergraduate Project 2024/25, School of Electronic Engineering and Computer Science, Queen Mary University of London.
+* Skutnik, Aleksander (2025) "Art, Unplugged: In the search of a sustainable off-grid power solution for
+immersive art installations". Final Year Undergraduate Project 2024/25, School of Electronic Engineering and Computer Science, Queen Mary University of London. 
+
+<pre>---</pre>
+
 ## Presentations
 
 * Xambó, Anna (December 10, 2025): [Sensing the Forest: A Multidisciplinary Exploration of Sound Data](/2025/12/10/presentation-at-jean-golding-institute-december-10-2025/), Turing Seminars, Wills Memorial Building, Jean Golding Institute, University of Bristol, Bristol, UK.
@@ -117,7 +130,7 @@ heroSettings:
 ## Artistic outputs
 
 * García-Peguinho, Nico (November 22, 2025). Sensing the Alice Holt Forest, live performance. Multispecies concert, Creative Coding Utrecht, Utrecht, The Netherlands.
-* Xambó, Anna (November 19, 2025). Sensing the Alice Holt Forest, live performance. Web Audio Conference 2025, IRCAM/Mozilla, Paris, France.
+* Xambó, Anna (November 19, 2025). *[Sensing the Alice Holt Forest](https://medias.ircam.fr/fr/media/7e0777e073adecc86766)*, live performance. Web Audio Conference 2025, IRCAM/Mozilla, Paris, France.
 * Xambó, Anna (May 29, 2025). *[Sensing the Alice Holt Forest](https://iclc.toplap.org/2025/catalogue/performance/sensing-the-alice-holt-forest.html)*, live performance.  9th International Conference on Live Coding (ICLC2025), 27 May 2025 - 31 May 2025, Barcelona, Spain.
 * Batchelor, Peter: *[Dendrophone](/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)*. Sound installation. August 2024-July 2025, Alice Holt Forest, GU10 4LS, Farnham, UK.
 * *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event - Online](/exhibition/)*. August 2024-July 2025, Online.

@@ -275,7 +275,7 @@ Stanley Parker is a BSc Creative Computing student at Queen Mary University of L
 
 <img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/ning-liu.jpg" alt="Photo of NING LIU" >
 
-Ning Liu (Queen Mary University of London, Electronic Engineering)
+[Ning Liu (Queen Mary University of London, Electronic Engineering)](https://www.linkedin.com/in/ning-liu-2969103b3/)
 
 Ning Liu is the final year student in BSc(Eng)FT Electronic Engineering(with BUPT) at Queen Mary University in London. Under the supervision of Dr. Anna Xambó and Dr. Luigi Marino, she chose to take a study on the evaluation of MEMS microphones in the "Sensing the Forest" project as the last year's research topic. Her fields of interest and academic experience include interactive algorithms and communication analysis, as well as research experience in Arduino installation and cloud connection.
 
@@ -400,7 +400,6 @@ Nico García-Peguinho is an artist and researcher based in the UK. His practice 
 [Lianganzi Wang (Queen Mary University of London, C4DM)](https://www.linkedin.com/in/nico-g-p/)
 
 Lianganzi Wang is a PhD candidate in the School of Electronic Engineering and Computer Science at Queen Mary University of London, affiliated with the Centre for Digital Music (C4DM). Her current research focuses on machine learning for generative audio, timbre modeling, and multimodal interaction, dedicated to advancing the frontiers of intelligent music generation and interactive audio systems while exploring their innovative applications in creative expression.
-
 
 {% endcols %}
 
