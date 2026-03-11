@@ -100,6 +100,14 @@ heroSettings:
 
 <pre>---</pre>
 
+## Technical reports
+
+* Marino, Luigi (2026) [Building DIY Solar-Powered Audio Streamers: A Three-Phase Tutorial Series](
+https://doi.org/10.17636/101124743). Edited by Anna Xambó. Queen Mary University of London. https://doi.org/10.17636/101124743
+* Elmokadem, Mahmoud B., Manjunatha, Krishna N., Xenakis, George, Xambó, Anna (2026) [Environmental Parameters Sensing (EPS) Unit](https://doi.org/10.17636/101124744). Edited by Anna Xambó. Queen Mary University of London. https://doi.org/10.17636/101124744
+
+<pre>---</pre>
+
 ## Final projects
 
 * Sánchez Castrillón, Andrés (2025) "Sound Analysis of Soundscapes". Final Year Postgraduate Project 2024/25, Artificial Intelligence MSc, School of Electronic Engineering and Computer Science, Queen Mary University of London.
@@ -116,7 +124,7 @@ immersive art installations". Final Year Undergraduate Project 2024/25, School o
 ## Presentations
 
 * Xambó, Anna (December 10, 2025): [Sensing the Forest: A Multidisciplinary Exploration of Sound Data](/2025/12/10/presentation-at-jean-golding-institute-december-10-2025/), Turing Seminars, Wills Memorial Building, Jean Golding Institute, University of Bristol, Bristol, UK.
-* Xambó, Anna (October 28, 2025): Sensing the Forest: Exploring Climate Change Through Soundscape Datasets from DIY Streamers at Alice Holt Forest, Freesound Day, 28 October 2025, Online/Barcelona.
+* Xambó, Anna (October 28, 2025): [Sensing the Forest: Exploring Climate Change Through Soundscape Datasets from DIY Streamers at Alice Holt Forest](/2026/03/10/presentation-at-freesound-day-october-28-2025/), Freesound Day, 28 October 2025, Online/Barcelona.
 * Xambó, Anna (October 15, 2025). Invited Talk: [”Sensing the Forest”](/2025/10/15/presentation-at-aix-marseille-university-october-15-2025/). Aix-Marseille University - Master in Acoustics and Musicology, Marseille, France. Online.
 * Xambó, Anna (May 28, 2025). Keynote: [Liveness as an Open Work: An Ongoing Live-Coding Algorithmic Journey](https://iclc.toplap.org/2025/catalogue/keynote/keynote-anna-xambo.html), 9th International Conference on Live Coding (ICLC2025), 27 May 2025 - 31 May 2025, Barcelona, Spain.
 * Xambó, Anna and Batchelor, Pete (May 14, 2025). Guest Lecture: ["Sensing the Forest - UAL workshop". Computer and Data Science and AI](/2025/05/17/presentation-at-ual-may-14-2025/), UAL Creative Computing Institute, University of the Arts London, London, UK. 
@@ -191,8 +199,23 @@ immersive art installations". Final Year Undergraduate Project 2024/25, School o
 
 ## Datasets
 
-* 5-minute audio recordings streamer I (natural soundscape). [Pack: natural-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/42937/) on Freesound.
-* 5-minute audio recordings streamer II (sound installation). [Pack: installation-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/43504/) on Freesound.
+* Marino, L., Batchelor, P., & Xambó Sedó, A. (2025). Sensing the Forest - Natural Soundscape Dataset (5-minute audio recordings streamer I (natural soundscape)).
+  *  On Zenodo:
+      * Marino, L., Batchelor, P., & Xambó Sedó, A. (2025). Sensing the Forest - Natural Soundscape Dataset - Part 1/2 [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.18909809
+      * Marino, L., Batchelor, P., & Xambó Sedó, A. (2025). Sensing the Forest - Natural Soundscape Dataset - Part 2/2 [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.18911328   
+  - On Freesound:
+    * [Pack: natural-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/42937/).
+
+<br />
+
+* Marino, L., Batchelor, P., & Xambó Sedó, A. (2025). Sensing the Forest - Installation Soundscape Dataset (5-minute audio recordings streamer II (sound installation)).
+  - On Zenodo:
+      * Marino, L., Batchelor, P., & Xambó Sedó, A. (2025). Sensing the Forest - Installation Soundscape Dataset - Part 1/2 [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.18911584
+      * Marino, L., Batchelor, P., & Xambó Sedó, A. (2025). Sensing the Forest - Installation Soundscape Dataset - Part 2/2 [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.18911592 
+
+  - On Freesound:
+    * [Pack: installation-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/43504/) on Freesound.
+
 * 1-minute JSON files from customised data logger. Ongoing.
 * 30-minute JSON files from DIY tree talker. Forthcoming.
 
