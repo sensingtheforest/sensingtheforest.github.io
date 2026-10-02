@@ -1037,5 +1037,111 @@
 				"url": ""
 			}
 		]
+	},
+	{
+		"slug": "dharma-rumpal",
+		"name": "Dharma Rumpal",
+		"image": "/assets/images/authors/dharma-rumpal.png",
+		"bio": "I am a graduated student from BSC FT Computer Science (EngC Pathway), Queen Mary University of London. For my final year project, I have decided to undertake a research project based on exploring climate awareness through solar-powered kinetic art under the supervision of Dr Anna Xambó.",
+		"companyWebsites": [
+			{
+				"label": "QMUL webpage",
+				"url": "",
+				"email": ""
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "",
+				"url": ""
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "dribbble",
+				"url": ""
+			},
+			{
+				"label": "github",
+				"url": ""
+			},
+			{
+				"label": "instagram",
+				"url": ""
+			},
+			{
+				"label": "linkedin",
+				"url": ""
+			},
+			{
+				"label": "piedpiper",
+				"url": ""
+			},
+			{
+				"label": "pinterest",
+				"url": ""
+			},
+			{
+				"label": "twitter",
+				"url": ""
+			},
+			{
+				"label": "youtube",
+				"url": ""
+			}
+		]
+	},
+	{
+		"slug": "haidar-chawki-kassem",
+		"name": "Haidar Chawki Kassem",
+		"image": "/assets/images/authors/haidar-chawki-kassem.png",
+		"bio": "I am a graduated student from BSc FT Computer Science and AI, Queen Mary University of London. For my final year project, I have decided to undertake a research project based on developing a Google Earth Engine workflow that combines Sentinel-1 synthetic aperture radar (SAR) imagery with RADD forest disturbance alerts to classify the disturbance state of recently deforested sites in the Peruvian Amazon under the supervision of Dr Anna Xambó (QMUL) and Rory Hodgson (Rainforest Foundation UK).",
+		"companyWebsites": [
+			{
+				"label": "QMUL webpage",
+				"url": "",
+				"email": ""
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "",
+				"url": ""
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "dribbble",
+				"url": ""
+			},
+			{
+				"label": "github",
+				"url": ""
+			},
+			{
+				"label": "instagram",
+				"url": ""
+			},
+			{
+				"label": "linkedin",
+				"url": ""
+			},
+			{
+				"label": "piedpiper",
+				"url": ""
+			},
+			{
+				"label": "pinterest",
+				"url": ""
+			},
+			{
+				"label": "twitter",
+				"url": ""
+			},
+			{
+				"label": "youtube",
+				"url": ""
+			}
+		]
 	}
 ]

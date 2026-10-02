@@ -109,7 +109,7 @@ On a personal level, this project was thoroughly enjoyable, particularly due to 
 
 ## Further Resources
 
-🌐 Explore the Dendrostream web-based tool: [https://stf-sv-tool.pages.dev](https://stf-sv-tool.pages.dev)
+🌐 Explore the Dendrostream web-based tool: [https://dendrostream.com](https://dendrostream.com)
 🎓 Read the accompanying dissertation: [https://doi.org/10.5281/zenodo.17924731](https://doi.org/10.5281/zenodo.17924731)
 📄 Read the 2025 Web Audio Conference initial exploration paper: [https://doi.org/10.5281/zenodo.17642480](https://doi.org/10.5281/zenodo.17642480)
 💻 View the frontend source code: [https://github.com/sensingtheforest/dendrostream](https://github.com/sensingtheforest/dendrostream)

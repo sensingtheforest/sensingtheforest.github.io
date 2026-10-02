@@ -108,16 +108,26 @@ https://doi.org/10.17636/101124743). Edited by Anna Xambó. Queen Mary Universit
 
 <pre>---</pre>
 
-## Final projects
+## Final UG/MSc projects
 
-* Sánchez Castrillón, Andrés (2025) "Sound Analysis of Soundscapes". Final Year Postgraduate Project 2024/25, Artificial Intelligence MSc, School of Electronic Engineering and Computer Science, Queen Mary University of London.
-* Shortland, James (2025) "A Comparison of Voice Activity Detection Models: A Reflection on How Data Quality Affects Model Success". Final Year Postgraduate Project 2024/25, Data Science and Artificial Intelligence MSc, School of Electronic Engineering and Computer Science, Queen Mary University of London.
-* Xu, Xinyue (2025) "Sonic Forest: Mapping Environmental Sensor Data to Sound for Climate Engagement". Final Year Postgraduate Project 2024/25, Sound and Music Computing MSc, School of Electronic Engineering and Computer Science, Queen Mary University of London.
-* O'Flaherty, Tug (2025) "Dendrostream: Exploring Tree Stress and Climate Change Through Sonification and Visualisation". Final Year Postgraduate Project 2024/25, Sound and Music Computing MSc, School of Electronic Engineering and Computer Science, Queen Mary University of London.
-* Liu, Ning (2025) "MEMS microphones: finding the optimal solutions for recording in silent scenarios". Final Year Undergraduate Project 2024/25, School of Electronic Engineering and Computer Science, Queen Mary University of London.
-* Parker, Stanley (2025) "Creating an affordable environmental monitoring system for residential use". Final Year Undergraduate Project 2024/25, School of Electronic Engineering and Computer Science, Queen Mary University of London.
-* Skutnik, Aleksander (2025) "Art, Unplugged: In the search of a sustainable off-grid power solution for
-immersive art installations". Final Year Undergraduate Project 2024/25, School of Electronic Engineering and Computer Science, Queen Mary University of London. 
+<br />
+
+### Final MSc projects
+
+* Sánchez Castrillón, Andrés (2025) "Sound Analysis of Soundscapes" (Supervisor: Anna Xambó). Final Year Postgraduate Project 2024/25, Artificial Intelligence MSc, School of Electronic Engineering and Computer Science, Queen Mary University of London. 
+* Shortland, James (2025) "A Comparison of Voice Activity Detection Models: A Reflection on How Data Quality Affects Model Success" (Supervisor: Anna Xambó). Final Year Postgraduate Project 2024/25, Data Science and Artificial Intelligence MSc, School of Electronic Engineering and Computer Science, Queen Mary University of London.
+* Xu, Xinyue (2025) ["Sonic Forest: Mapping Environmental Sensor Data to Sound for Climate Engagement"](/2025/09/17/sonic-forest/) (Supervisor: Anna Xambó). Final Year Postgraduate Project 2024/25, Sound and Music Computing MSc, School of Electronic Engineering and Computer Science, Queen Mary University of London.
+* O'Flaherty, Tug (2025) ["Dendrostream: Exploring Tree Stress and Climate Change Through Sonification and Visualisation"](/2025/12/23/dendrostream/) (Supervisor: Anna Xambó). Final Year Postgraduate Project 2024/25, Sound and Music Computing MSc, School of Electronic Engineering and Computer Science, Queen Mary University of London.
+
+<br />
+
+### Final UG projects
+
+* Kassem, Haidar Chawki (2026) ["Classification of High-Risk Disturbance in the Peruvian Amazon"](/2026/10/01/classification-of-high-risk-disturbance-in-the-peruvian-amazon/) (Supervisors: Kok Ho Huen and Anna Xambó). Final Year Undergraduate Project 2025/26, BSc FT Computer Science and AI, School of Electronic Engineering and Computer Science, Queen Mary University of London. Programme of Study: Computer Science & Artificial Intelligence.
+* Rumpal, Dharma (2026) ["WILT: exploring climate awareness through solar powered kinetic art"](/2026/10/01/wilt-using-solar-powered-kinetic-art-to-communicate-climate-change/) (Supervisors: Kok Ho Huen and Anna Xambó). Final Year Undergraduate Project 2025/26, BSC FT Computer Science (EngC Pathway), School of Electronic Engineering and Computer Science, Queen Mary University of London. Programme of Study: BSc Computer Science.
+* Liu, Ning (2025) "MEMS microphones: finding the optimal solutions for recording in silent scenarios" (Supervisors: Luigi Marino and Anna Xambó). Final Year Undergraduate Project 2024/25, BSc(Eng)FT Electronic Engineering programme, School of Electronic Engineering and Computer Science, Queen Mary University of London. 
+* Parker, Stanley (2025) ["Creating an affordable environmental monitoring system for residential use"](/2025/08/16/viridi/) (Supervisors: Kok Ho Huen and Anna Xambó). Final Year Undergraduate Project 2024/25, BSc Creative Computing programme, School of Electronic Engineering and Computer Science, Queen Mary University of London. 
+* Skutnik, Aleksander (2025) ["Art, Unplugged: In the search of a sustainable off-grid power solution for immersive art installations"](/2025/08/01/art-unplugged/) (Supervisor: Anna Xambó). Final Year Undergraduate Project 2024/25, BSc Computer Science programme, School of Electronic Engineering and Computer Science, Queen Mary University of London. 
 
 <pre>---</pre>
 
@@ -137,9 +147,10 @@ immersive art installations". Final Year Undergraduate Project 2024/25, School o
 
 ## Artistic outputs
 
-* García-Peguinho, Nico (November 22, 2025). Sensing the Alice Holt Forest, live performance. Multispecies concert, Creative Coding Utrecht, Utrecht, The Netherlands.
+* Xambó, Anna (June 24, 2026). *[Sensing the Alice Holt Forest](https://nime.org/proc_music/nime2026_music_46/index.html)*, live performance. New Interfaces for Musical Expression 2026, 23 June 2026 - 26 June 2026, Rich Mix, London, UK.
+* García-Peguinho, Nico (November 22, 2025). [Sensing the Alice Holt Forest](/2025/12/17/sensing-the-forest-for-ground-creative-coding-utrecht-november-22-2025/), live performance. Multispecies concert, Creative Coding Utrecht, Utrecht, The Netherlands.
 * Xambó, Anna (November 19, 2025). *[Sensing the Alice Holt Forest](https://medias.ircam.fr/fr/media/7e0777e073adecc86766)*, live performance. Web Audio Conference 2025, IRCAM/Mozilla, Paris, France.
-* Xambó, Anna (May 29, 2025). *[Sensing the Alice Holt Forest](https://iclc.toplap.org/2025/catalogue/performance/sensing-the-alice-holt-forest.html)*, live performance.  9th International Conference on Live Coding (ICLC2025), 27 May 2025 - 31 May 2025, Barcelona, Spain.
+* Xambó, Anna (May 29, 2025). *[Sensing the Alice Holt Forest](https://iclc.toplap.org/2025/catalogue/performance/sensing-the-alice-holt-forest.html)*, live performance. 9th International Conference on Live Coding (ICLC2025), 27 May 2025 - 31 May 2025, Barcelona, Spain.
 * Batchelor, Peter: *[Dendrophone](/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)*. Sound installation. August 2024-July 2025, Alice Holt Forest, GU10 4LS, Farnham, UK.
 * *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event - Online](/exhibition/)*. August 2024-July 2025, Online.
 * *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event](/exhibition/your-sonic-forest-foreword/)*. 20 June, 11am-3pm, 2024. Alice Holt Forest, GU10 4LS, Farnham, UK.
@@ -199,14 +210,13 @@ immersive art installations". Final Year Undergraduate Project 2024/25, School o
 
 ## Datasets
 
-* Marino, L., Batchelor, P., & Xambó Sedó, A. (2025). Sensing the Forest - Natural Soundscape Dataset (5-minute audio recordings streamer I (natural soundscape)).
+* Marino, L., Batchelor, P., & Xambó Sedó, A. (2025). Sensing the Forest - Natural Soundscape Dataset (5-minute audio recordings streamer I (natural soundscape)).  
   *  On Zenodo:
       * Marino, L., Batchelor, P., & Xambó Sedó, A. (2025). Sensing the Forest - Natural Soundscape Dataset - Part 1/2 [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.18909809
       * Marino, L., Batchelor, P., & Xambó Sedó, A. (2025). Sensing the Forest - Natural Soundscape Dataset - Part 2/2 [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.18911328   
   - On Freesound:
     * [Pack: natural-soundscape-dataset](https://freesound.org/people/sensingtheforest/packs/42937/).
 
-<br />
 
 * Marino, L., Batchelor, P., & Xambó Sedó, A. (2025). Sensing the Forest - Installation Soundscape Dataset (5-minute audio recordings streamer II (sound installation)).
   - On Zenodo:
@@ -366,6 +376,7 @@ immersive art installations". Final Year Undergraduate Project 2024/25, School o
 
 ## Promotional Leaflets & Posters
 
+* [Dendrophone instructions poster](/assets/pdf/Dendrophone-Peter-Batchelor-instructions.pdf). Designed by Peter Batchelor, Geetha Bommireddy and Anna Xambó.
 * [Your Sonic Forest leaflet](/assets/pdf/Your-sonic-forest-leaflet.pdf). Designed by Johana Knowles.
 * [Your Sonic Forest poster](/assets/pdf/Your-sonic-forest-poster.pdf). Designed by Johana Knowles.
 * [Your Sonic Forest survey poster](/assets/pdf/Your-sonic-forest-survey-poster.pdf). Designed by Johana Knowles.

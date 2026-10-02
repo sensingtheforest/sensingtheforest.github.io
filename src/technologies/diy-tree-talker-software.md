@@ -96,11 +96,11 @@ This additional backend uses [Express.js](https://expressjs.com/), [Socket.io](h
 **Greater Personalisation:** Fully-customisable data presentations to benefit user interaction.
 **Help and Support:** In-built tool and data support information, to aid usage and interpretation.
 
-This new frontend, named *Dendrostream*, uses [React](https://react.dev/) and [Bootstrap](https://getbootstrap.com/), with visualisations using [p5.js](https://p5js.org/) (animations) and [d3.js](https://d3js.org/) (charts), and sonification using the [Web Audio API](https://www.w3.org/TR/webaudio-1.1/). For a complete list of technologies and works used, please visit the [Dendrostream’s Acknowledgements webpage](https://stf-sv-tool.pages.dev/acknowledgements).
+This new frontend, named *Dendrostream*, uses [React](https://react.dev/) and [Bootstrap](https://getbootstrap.com/), with visualisations using [p5.js](https://p5js.org/) (animations) and [d3.js](https://d3js.org/) (charts), and sonification using the [Web Audio API](https://www.w3.org/TR/webaudio-1.1/). For a complete list of technologies and works used, please visit the [Dendrostream’s Acknowledgements webpage](https://dendrostream.com/acknowledgements).
 
 For further information regarding the Dendrostream tool, please visit the [Dendrostream Master’s thesis blog post](/2025/12/23/dendrostream/).
 
-🌐 Explore the Dendrostream web-based tool: [https://stf-sv-tool.pages.dev](https://stf-sv-tool.pages.dev)
+🌐 Explore the Dendrostream web-based tool: [https://dendrostream.com](https://dendrostream.com)
 💻 View the frontend source code: [https://github.com/sensingtheforest/dendrostream](https://github.com/sensingtheforest/dendrostream)
 ⚙️ View the backend source code: [https://github.com/sensingtheforest/dendrostream-api](https://github.com/sensingtheforest/dendrostream-api)
 
