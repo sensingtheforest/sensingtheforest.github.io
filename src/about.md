@@ -191,20 +191,6 @@ Matt Wilkinson is a Programme Manager of the Natural Capital Ecosystem Assessmen
 
 Kok Ho Huen is Electronics Teaching Lab Manager at QMUL and is a Technical Advisor of the project.
 
-<!--img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/zainab-tarki.jpg" alt="Photo of Zainab Tarki" -->
-
-[Mazharia Rahman (Advisor, Queen Mary University of London, EECS Finance)](https://www.qmul.ac.uk/eecs/people/profiles/rahmanmazharia.html)
-
-Mazharia Rahman is an EECS Finance Assistant.
-
-
-<!--img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/zainab-tarki.jpg" alt="Photo of Zainab Tarki" -->
-
-[Zainab Tarki (Advisor, De Montfort University, DMU Finance)](#)
-
-Zainab Tarki was the Finance Officer of the project from September 2023 until December 2024.
-
-
 
 {% endcols %}
 
@@ -404,6 +390,35 @@ Lianganzi Wang is a PhD candidate in the School of Electronic Engineering and Co
 {% endcols %}
 
 {% endcolumns %}
+
+{% columns %}
+
+{% cols "bg-gray-100 rounded-lg" %}
+
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/mazharia-rahman.jpg" alt="Photo of Mazharia Rahman">
+
+[Mazharia Rahman (Advisor, Queen Mary University of London, EECS Finance)](https://www.qmul.ac.uk/eecs/people/profiles/rahmanmazharia.html)
+
+Mazharia Rahman is an EECS Finance Assistant.
+
+
+{% endcols %}
+
+{% cols "bg-gray-100 rounded-lg" %}
+
+
+<img class="h-64 rounded-lg mt-0 mr-2" src="/assets/images/authors/zainab-tarki.png" alt="Photo of Zainab Tarki" >
+
+[Zainab Tarki (Advisor, De Montfort University, DMU Finance)](#)
+
+Zainab Tarki was the Finance Officer of the project from September 2023 until December 2024.
+
+
+{% endcols %}
+
+{% endcolumns %}
+
+
 
 <!-- {% columns %}
 
