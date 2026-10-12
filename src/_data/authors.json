@@ -1041,12 +1041,12 @@
 	{
 		"slug": "dharma-rumpal",
 		"name": "Dharma Rumpal",
-		"image": "/assets/images/authors/dharma-rumpal.png",
+		"image": "/assets/images/authors/dharma-rumpal.jpg",
 		"bio": "I am a graduated student from BSC FT Computer Science (EngC Pathway), Queen Mary University of London. For my final year project, I have decided to undertake a research project based on exploring climate awareness through solar-powered kinetic art under the supervision of Dr Anna Xambó.",
 		"companyWebsites": [
 			{
-				"label": "QMUL webpage",
-				"url": "",
+				"label": "LinkedIn webpage",
+				"url": "https://www.linkedin.com/in/dharma-rumpal-66a76638a/",
 				"email": ""
 			}
 		],
@@ -1071,7 +1071,7 @@
 			},
 			{
 				"label": "linkedin",
-				"url": ""
+				"url": "https://www.linkedin.com/in/dharma-rumpal-66a76638a/"
 			},
 			{
 				"label": "piedpiper",
