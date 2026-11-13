@@ -39,11 +39,11 @@ Here you can watch the video:
 
 <br />
 
-<iframe width="960" height="480" src="https://www.youtube.com/embed/_O3YG1enEig?si=E1AGCU5O-O3wFS2X&start=3006" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% youtube "_O3YG1enEig?si=E1AGCU5O-O3wFS2X&start=3006", "Sensing the Forest performance by Anna Xambó Sedó at NIME 2026" %}
 
 You can find further info in the links below:
 
-* Sensing the Alice Holt Forest, by Anna Xambó Sedó [\[Conference Website\]](https://nime2026.org/proceedings/528.html) | [\[NIME Proceedings\]](https://nime.org/proc_music/nime2026_music_46/index.html) | [\[Performance\]](https://youtu.be/_O3YG1enEig?t=3006)
+* Sensing the Alice Holt Forest, by Anna Xambó Sedó: [\[Conference Website\]](https://nime2026.org/proceedings/528.html) | [\[NIME Proceedings\]](https://nime.org/proc_music/nime2026_music_46/index.html) | [\[Performance\]](https://youtu.be/_O3YG1enEig?t=3006)
 
 
 ## Acknowledgements

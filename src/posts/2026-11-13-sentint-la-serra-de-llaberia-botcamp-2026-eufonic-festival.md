@@ -73,11 +73,33 @@ The performance [“Sentint la Serra de la Llaberia”](https://eufonic.net/en/a
 ## Abstract
 
 > *What does a forest say when we truly listen to it? And what happens when what we hear starts to change? In Sentint la Serra de la Llaberia, Anna Xambó draws from the natural soundscapes of this area near Tivissa to activate a live coding performance that brings together acoustic ecology, technology and the climate crisis.*
-
+>
 > *At Tivissa, Anna Xambó works with field recordings from the forest to detect patterns, absences and shifts: whether the sounds of certain species are diminishing, whether environmental noise is gaining ground, or whether there are other sonic signs of an ecosystem in transformation. Through her own SuperCollider extension, which combines artificial intelligence and music information retrieval techniques, Xambó retrieves and manipulates in real time both her own sounds and shared materials from Freesound, turning listening into a tool for analysis, composition and warning.*
 
 For more info visit Festival Eufonic website: [https://eufonic.net/en/activitat/anna-xambo/](https://eufonic.net/en/activitat/anna-xambo/)
 
+## Recordings (a sample)
+
+The washing facilities of the Séquia del Camí de Tivissa are public washhouses built between 1890 and 1900, which are located outside the old town of Tivissa (Ribera d'Ebre). They are a good example of popular architecture. They are filled using water from the fountain on the irrigation ditch "Séquia del Camí", and the excess water is used for watering crops. For the recording, a BeepBoop hydropone extra long 5 meters is used.
+
+<center>
+
+<br />
+
+<iframe frameborder="0" scrolling="no" src="https://freesound.org/embed/sound/iframe/860971/simple/medium/" width="481" height="86"></iframe>
+
+<br />
+
+<iframe frameborder="0" scrolling="no" src="https://freesound.org/embed/sound/iframe/860970/simple/medium/" width="481" height="86"></iframe>
+
+<br />
+
+<iframe frameborder="0" scrolling="no" src="https://freesound.org/embed/sound/iframe/860969/simple/medium/" width="481" height="86"></iframe>
+
+<br />
+
+</center>
+
 ## Acknowledgements
 
-Thank you Irma Vilà for the curation of the performance. Also thanks to the organisers of Botcamp and the Festival Eufònic for making this possible: Vicent Fibla, Marc Solé, Olga Fibla, Antònia Folguera, Cristina Sabaté as well as the Botcamp leading mentors Alba G. Corral, Antònia Folguera, Lina Bautista and Marta Verde. Last but not least, thanks to Jack Edwards from Monojack for providing the hydrophone used in the performance and Gerard Roma for hiking together in one of the field trips.
+Thank you Irma Vilà for the curation of the performance. Also thanks to the organisers of Botcamp and the Festival Eufònic for making this possible: Vicent Fibla, Marc Solé, Olga Fibla, Antònia Folguera, Cristina Sabaté as well as the Botcamp leading mentors Alba G. Corral, Antònia Folguera, Lina Bautista and Marta Verde. Last but not least, thanks to Monojack from Beepboop Electronics for providing the hydrophone used in the performance and Gerard Roma for hiking together in one of the field trips.
