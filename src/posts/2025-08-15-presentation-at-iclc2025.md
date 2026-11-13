@@ -15,9 +15,11 @@ images: # relative to /src/assets/images/
   height: h-auto # optional. Default = h-48 md:h-1/3
 tags:
   - artistic-interventions
+  - concerts
   - events
   - keynote
   - livecoding
+  - performances
   - presentations
   - videos
 ---
@@ -45,6 +47,11 @@ Abstract: This talk will present a personal journey reflecting on liveness that 
 
 {% endbq %}
 
+
+The video of the keynote can be watched here.
+
+<center><video width='720' height='480' controls><source src='https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/290525-BECKETT/Anna%20Xambo%CC%81-002.mp4'>your browser doesn't support video</video></center><br/>
+
 {% bq "mt-8 p-4 border-blue-500 italic text-black-500 border-t-4 border-b-4 border-r-4 bg-gray-200" %}
 
 Xambó, Anna (May 29, 2025): [Sensing the Alice Holt Forest](https://iclc.toplap.org/2025/catalogue/performance/sensing-the-alice-holt-forest.html), live performance. 9th International Conference on Live Coding (ICLC2025), Barcelona, 27 May 2025 - 31 May 2025, Spain.
@@ -60,11 +67,16 @@ Program notes: This data-driven live coding performance explores natural soundsc
 </figure>
 </div>
 
+
 <div class="flex justify-center items-center">
 <figure>
 <img class="mt-4 mb-4" src="/assets/images/2025/08/2025-05-29-ICLC2025-audience-at-sala_beckett-photo-by-Miquel-Martinez.jpg" alt="Audience at the Sala Beckett, ICLC 2025. Photo by Miquel Martinez.">
 <figcaption>Audience at the Sala Beckett, ICLC 2025. Photo by Miquel Martinez.</figcaption>
 </figure>
 </div>
+
+The video of the performance can be watched here.
+
+<center><video width='720' height='480' controls><source src='https://filedn.eu/la5JQdSakJYycjvW3Urg2a5/25-ICLCPublicFolder/VIDEOS-Low/280525-UOC/Keynote%20-%20Liveness%20as%20an%20open%20work.mp4'>your browser doesn't support video</video></center><br/>
 
 **Acknowledgements**: Thank you to the ICLC 2025 Committee for organising such an incredible conference.

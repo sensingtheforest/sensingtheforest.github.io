@@ -2,7 +2,7 @@
 title: Sensing the Forest for Ground @ Creative Coding Utrecht - November 22, 2025
 date: 2025-12-17T00:00:00.000Z
 excerpt: In November, Creative Coding Utrecht dedicated a month to engaging with a central question - how might technology and the living world coexist?
-author: nico-garcía
+author: nico-garcía-peguinho
 draft:
 seo:
   title:
@@ -48,10 +48,12 @@ heroSettings:
       - 2025/12/CCU.jpg
 tags:
   - attunement
+  - concerts
   - creative-coding
   - creative-coding-utrecht
   - multispecies  
   - multispecies-concert
+  - performances
   - sound-ecologies
 
 ---

@@ -26,7 +26,7 @@ tags:
 
 The Freesound Day brought together members of the Freesound community for a full day of talks, listening, and exchange around sound practices connected to Freesound. The event was hybrid: hosted at the Campus Poblenou of Universitat Pompeu Fabra in Barcelona and online.
 
-It was great to see all the different projects around Freeound, which is outlined in the links below (programme and video recordings of the presentations):
+It was great to see all the different projects around Freesound, which is outlined in the links below (programme and video recordings of the presentations):
 
 * [Freesound Day programme](https://blog.freesound.org/?p=2290)
 * [Freesound Day video recordings available online](https://blog.freesound.org/?p=2352)

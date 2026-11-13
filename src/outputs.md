@@ -147,10 +147,10 @@ https://doi.org/10.17636/101124743). Edited by Anna Xambó. Queen Mary Universit
 
 ## Artistic outputs
 
-* Xambó, Anna (June 24, 2026). *[Sensing the Alice Holt Forest](https://nime.org/proc_music/nime2026_music_46/index.html)*, live performance. New Interfaces for Musical Expression 2026, 23 June 2026 - 26 June 2026, Rich Mix, London, UK.
+* Xambó, Anna (June 24, 2026). *[Sensing the Alice Holt Forest](https://nime.org/proc_music/nime2026_music_46/index.html)*, live performance. New Interfaces for Musical Expression 2026, 23 June 2026 - 26 June 2026, Rich Mix, London, UK. [\[Paper\]](https://nime.org/proc_music/nime2026_music_46/index.html) | [\[Performance\]](https://youtu.be/_O3YG1enEig?t=3006). 
 * García-Peguinho, Nico (November 22, 2025). [Sensing the Alice Holt Forest](/2025/12/17/sensing-the-forest-for-ground-creative-coding-utrecht-november-22-2025/), live performance. Multispecies concert, Creative Coding Utrecht, Utrecht, The Netherlands.
-* Xambó, Anna (November 19, 2025). *[Sensing the Alice Holt Forest](https://medias.ircam.fr/fr/media/7e0777e073adecc86766)*, live performance. Web Audio Conference 2025, IRCAM/Mozilla, Paris, France.
-* Xambó, Anna (May 29, 2025). *[Sensing the Alice Holt Forest](https://iclc.toplap.org/2025/catalogue/performance/sensing-the-alice-holt-forest.html)*, live performance. 9th International Conference on Live Coding (ICLC2025), 27 May 2025 - 31 May 2025, Barcelona, Spain.
+* Xambó, Anna (November 19, 2025). *[Sensing the Alice Holt Forest](/2025/12/24/wac2025/)*, live performance. Web Audio Conference 2025, IRCAM/Mozilla, Paris, France. [\[Paper\]](https://zenodo.org/records/18020020) | [\[Performance\]](https://medias.ircam.fr/fr/media/7e0777e073adecc86766). 
+* Xambó, Anna (May 29, 2025). *[Sensing the Alice Holt Forest](/2025/08/15/presentation-at-iclc2025-may-28-2025/)*, live performance. 9th International Conference on Live Coding (ICLC2025), 27 May 2025 - 31 May 2025, Barcelona, Spain. [\[Programme notes\]](https://iclc.toplap.org/2025/catalogue/performance/sensing-the-alice-holt-forest.html) | [\[Performance\]](https://iclc.toplap.org/2025/catalogue/performance/sensing-the-alice-holt-forest.html).
 * Batchelor, Peter: *[Dendrophone](/exhibition/your-sonic-forest-dendrophone-peter-batchelor/)*. Sound installation. August 2024-July 2025, Alice Holt Forest, GU10 4LS, Farnham, UK.
 * *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event - Online](/exhibition/)*. August 2024-July 2025, Online.
 * *[Your Sonic Forest: Hear Nature Speak through Sound Installations in Alice Holt Forest - Art Event](/exhibition/your-sonic-forest-foreword/)*. 20 June, 11am-3pm, 2024. Alice Holt Forest, GU10 4LS, Farnham, UK.

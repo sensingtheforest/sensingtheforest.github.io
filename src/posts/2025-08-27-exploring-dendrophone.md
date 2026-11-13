@@ -3,7 +3,7 @@ title: Exploring Dendrophone - A day at Alice Holt Forest
 date: 2025-08-27T08:00:00.000Z
 excerpt: A group of incoming Queen Mary University PhD students, led by Dr Anna Xambó Sedó, visited Alice Holt Forest on Monday August 18th, in the heart of the summer holidays.
 permalink: /2025/08/27/exploring-dendrophone/
-author: nico-garcía
+author: nico-garcía-peguinho
 draft:
 seo:
   title:
